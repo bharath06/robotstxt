@@ -1,0 +1,32 @@
+#
+# robots.txt for PHPÖÐÎÄÍø
+#
+
+User-agent: *
+Disallow: /static/*.php
+Disallow: /xiazai/getloginUser
+Disallow: /bsearch/
+Disallow: /search?
+Disallow: /search/
+allow: /*?p=*
+Disallow: /*?*
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: ThinkBot
+Disallow: /
+
+Sitemap: https://www.php.cn/sitemap-article.txt
+Sitemap: https://www.php.cn/sitemap-courselist-pages.txt
+Sitemap: https://www.php.cn/sitemap-course.txt
+Sitemap: https://www.php.cn/sitemap-wenda.txt
+Sitemap: https://www.php.cn/sitemap-write.txt
+Sitemap: https://www.php.cn/sitemap-wiki.txt
+Sitemap: https://www.php.cn/sitemap.txt
+Sitemap: https://www.php.cn/sitemap-article.xml
+Sitemap: https://www.php.cn/sitemap-wenda.xml
+Sitemap: https://www.php.cn/sitemap-course.xml

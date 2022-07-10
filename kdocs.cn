@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /p/
+Disallow: /l/
+Disallow: /kd/
+Disallow: /view/
+Disallow: /join/
+Disallow: /el/
+Disallow: /office/
+Disallow: /open/
+Disallow: /landing.html
+Disallow: /singleSign4CST/
+Disallow: /team/
+Disallow: /wps/
+Disallow: /ent/
+Disallow: /space/
+Disallow: /kdg/
+Disallow: /kdocs/api/
+Disallow: /kd/api/
+Disallow: /class/
+Disallow: /history/
+Disallow: /kc/
+Disallow: /desktop/
+

@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /intuit/promo/
+Disallow: /network18/index.html
+Disallow: /budget2013/live-union-budget.html
+Disallow: /1039154/
+Disallow: /tech_charts/
+Disallow: /livefeed_pdf/
+Disallow: /profile/
+Disallow: /pdffiles/
+Disallow: /news_html_files/
+Disallow: /markets/market-stats/the-great-sensex-challenge/
+Disallow: /markets/market-stats/the-great-sensex-challenge/winners/
+Disallow: /printpage/
+Disallow: /news/printpage/
+Disallow: /news/business/economy/exclusive-india-exported-nearly-9300-metric-tonnes-of-oxygen-in-fy21-as-pandemic-rolled-on-6792711.html
+Disallow: /open_in_app.php
+
+Sitemap: https://mmb.moneycontrol.com/sitemap/stock_topic_sitemap.xml
+Sitemap: https://mmb.moneycontrol.com/sitemap/market_view_topic_sitemap.xml
+Sitemap: https://mmb.moneycontrol.com/sitemap/personal_finance_topic_sitemap.xml
+Sitemap: https://mmb.moneycontrol.com/sitemap/latest_thread_sitemap.xml
+Sitemap: https://www.moneycontrol.com/mccode/sitemap/stocks_technical_analysis.xml
+Sitemap: https://www.moneycontrol.com/news/news-sitemap.xml
+Sitemap: https://www.moneycontrol.com/sitemap/category-sitemap.xml

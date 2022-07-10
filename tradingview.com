@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /chat/m/
+Disallow: /search/
+Disallow: /idea-popup/
+Disallow: /*mobileapp=true
+Disallow: /*popup=true
+Disallow: /*dark=false&popup=true
+Disallow: /widgetembed/
+Disallow: /embed-widget/
+Disallow: /*?support
+Disallow: /badbrowser/
+Disallow: /jobs/
+Sitemap: https://www.tradingview.com/sitemap.xml

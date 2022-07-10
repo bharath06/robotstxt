@@ -1,0 +1,59 @@
+Sitemap: https://www.dlsite.com/maniax/sitemap/index/xml
+Sitemap: https://www.dlsite.com/home/sitemap/index/xml
+Sitemap: https://www.dlsite.com/books/sitemap/index/xml
+Sitemap: https://www.dlsite.com/comic/sitemap/index/xml
+Sitemap: https://www.dlsite.com/pro/sitemap/index/xml
+Sitemap: https://www.dlsite.com/soft/sitemap/index/xml
+Sitemap: https://www.dlsite.com/girls/sitemap/index/xml
+Sitemap: https://www.dlsite.com/girls-pro/sitemap/index/xml
+Sitemap: https://www.dlsite.com/girls-drama/sitemap/index/xml
+Sitemap: https://www.dlsite.com/bl/sitemap/index/xml
+Sitemap: https://www.dlsite.com/bl-pro/sitemap/index/xml
+Sitemap: https://www.dlsite.com/bl-drama/sitemap/index/xml
+
+User-agent: bingbot
+Crawl-delay: 5
+Disallow: */fsr/=/*/per_page/*/page/*
+Allow: /
+
+User-Agent: dotbot
+Disallow: /
+
+User-Agent: Eyeotabot
+Disallow: /
+
+User-agent: *
+Disallow: /*module
+Disallow: /*action
+Disallow: /*adultcheck
+Disallow: /error2.html
+Disallow: /*mypage
+Disallow: /*simura
+Disallow: /*search/result
+Disallow: /*maker/profile/dlblog/content
+Disallow: /hana/*
+Disallow: /booksl/*
+Disallow: /pro2/*
+Disallow: */dealer/*
+Disallow: */load/recommend/*
+Disallow: */load/review/*
+Disallow: */article/list/*
+Disallow: */work/image/sample/*
+Disallow: /js/adultcheck.js
+Disallow: */load/favorite/product
+Disallow: */load/not/interest
+Disallow: */load/bought/product
+Disallow: */user/product/smmary/=/products/
+Disallow: */announce/summary
+Disallow: /circle/profile/
+Disallow: */author/list/
+Disallow: /eisys/blog/auth.php
+Disallow: /work/=/product_id/
+Disallow: /work/reviewlist/
+Disallow: /popup/
+Allow: /
+
+# noindexãéç¥ããããã«ã¯ã­ã¼ã«ãè¨±å¯ãã
+Allow: */mypage/wishlist
+Allow: */mypage/followlist
+Allow: */load/recommend/=/*

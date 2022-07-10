@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /user/sign-up/
+Allow: /user/sign-in/
+Disallow: /billing/confirmed
+Disallow: /billing/invoice*
+Disallow: /cc/*
+Disallow: /create/survey/preview*
+Disallow: /mp/lp/
+Disallow: /panelweb*
+Disallow: /r/instant/response*
+Disallow: /r/Preview/*
+Disallow: /results/*
+Disallow: /tr/v1/*
+Disallow: /user/
+Disallow: /user/sign-up/sso-redirect
+Host: www.surveymonkey.com
+Sitemap: https://www.surveymonkey.com/sitemap.xml

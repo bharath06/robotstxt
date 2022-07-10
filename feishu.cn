@@ -1,0 +1,18 @@
+User-agent: *
+Allow:/
+Disallow:/*ggamj3vbcr.feishu.cn/
+Disallow:/*gupjsw41o4.feishu.cn/
+Disallow:/*ggq1ltumus.feishu.cn/
+Disallow:/*kaizen.feishu.cn/
+Disallow:/*pc26k79sx5.feishu.cn/
+Disallow:/*sixeco.feishu.cn/
+Disallow:/*gc5whanyf5.feishu.cn/
+Disallow:/*wenjuan.feishu.cn/
+Disallow:/*bluecity.feishu.cn/
+Disallow:/*2fwww.feishu.cn/
+Disallow:/*ccbft.feishu.cn/
+
+Sitemap: https://www.feishu.cn/sitemap/sitemap.xml
+
+# robots.txt file from https://www.feishu.cn/
+# All robots will spider the domain

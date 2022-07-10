@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /because-you-watched*/
+Disallow: /continue-watching/*
+Disallow: /list/you-may-also-like/*
+Disallow: /search*
+Sitemap: https://www.hotstar.com/in/new-sitemap.xml
+Sitemap: https://www.hotstar.com/us/new-sitemap.xml
+Sitemap: https://www.hotstar.com/ca/new-sitemap.xml
+Sitemap: https://www.hotstar.com/gb/new-sitemap.xml
+Sitemap: https://www.hotstar.com/id/new-sitemap.xml
+Sitemap: https://www.hotstar.com/sg/new-sitemap.xml

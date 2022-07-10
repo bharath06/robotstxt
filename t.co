@@ -1,0 +1,9 @@
+User-agent: twitterbot
+Disallow:
+
+#Google Search Engine Robot
+User-agent: Googlebot
+Disallow:
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,20 @@
+User-agent: Mediapartners-Google
+Disallow: 
+User-agent: *
+Disallow: */start$
+Disallow: */start/$
+Disallow: */start_new/*
+Disallow: */edit$
+Disallow: */join?gc=*
+Disallow: */join/?gc=*
+Disallow: */settings
+Disallow: */flashcards/*
+Noindex: */start$
+Noindex: */start/$
+Noindex: */start_new/*
+Noindex: */edit$
+Noindex: */admin/quiz/homework/*
+Noindex: */quiz/*/edit$
+Noindex: */settings
+Noindex: */print/quiz/*
+Noindex: */organization/*

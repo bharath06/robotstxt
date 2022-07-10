@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+
+Sitemap: https://mangaraw.co/sitemap.xml

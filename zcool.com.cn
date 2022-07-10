@@ -1,0 +1,203 @@
+User-agent: Googlebot
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Googlebot-Image
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Mediapartners-Google
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Baiduspider
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Baiduspider-news
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Baiduspider-render
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Baiduspider-image
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Sogou
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Yahoo! Slurp
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: bingbot
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: 360Spider
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: HaosouSpider
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: yisouspider
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: YoudaoBot
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Sogou Orion spider
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Sogou News Spider
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Sogou blog
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Sogou spider2
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Sogou web spider
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: EasouSpider
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: MSNBot
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: Yandex
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: ia_archiver
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: IPS-Agent
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: BLEXBot
+Disallow:  /search/
+Disallow: /u/*/profile
+Disallow: /login
+Disallow: /logout
+Disallow: /messages/
+Disallow: /setting
+
+User-agent: *
+Disallow: /
+

@@ -1,0 +1,24 @@
+User-agent: Mediapartners-Google
+Disallow: /random
+Disallow: /random/
+Disallow: /captcha
+Disallow: /captcha/
+Disallow: /list=*
+Disallow: /list/
+
+User-Agent: *
+Disallow: /search
+Disallow: /search/
+Disallow: /random
+Disallow: /random/
+Disallow: /captcha
+Disallow: /captcha/
+Disallow: /list
+Disallow: /list/
+Disallow: /list=*
+Disallow: /account
+Disallow: /account/
+Disallow: /account=*
+Disallow: /error-static-cdn
+Disallow: /error-static-cdn/
+Sitemap: https://www.wowhead.com/sitemap

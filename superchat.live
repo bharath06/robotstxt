@@ -1,0 +1,8 @@
+# generated automatically
+              
+User-agent: *
+Disallow: /user/
+Disallow: /confirm-email/
+Disallow: /messages/
+Disallow: /model-agreement/
+Disallow: /studio-agreement/

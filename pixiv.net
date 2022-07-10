@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /rpc/index.php?mode=profile_module_illusts&user_id=*&illust_id=*
+Disallow: /ajax/illust/*/recommend/init
+Disallow: *return_to*
+Disallow: /?return_to=
+Disallow: /login.php?return_to=
+Disallow: /index.php?return_to=
+
+Disallow: /artworks/unlisted/*
+
+Disallow: /tags/* * *
+Disallow: /tags/*%20*%20*
+
+Disallow: /users/*/followers
+Disallow: /users/*/mypixiv
+Disallow: /users/*/bookmarks
+Disallow: /novel/comments.php?id=
+Disallow: /novels/unlisted/*
+
+Disallow: /en/group
+
+Disallow: /en/tags/* * *
+Disallow: /en/tags/*%20*%20*
+
+Disallow: /en/search/
+
+Disallow: /en/users/*/followers
+Disallow: /en/users/*/mypixiv
+Disallow: /en/users/*/bookmarks
+Disallow: /en/novel/comments.php?id=
+
+Disallow: /fanbox/search
+Disallow: /fanbox/tag

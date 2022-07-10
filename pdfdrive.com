@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /ebook/broken*
+Disallow: /ebook/preview*
+Disallow: /ebook/counter*
+Disallow: /ebook/c*
+Disallow: /Search/amazon*
+Disallow: /search/complete*
+Disallow: /home/c?
+Disallow: /search?
+Disallow: /book/search?
+Disallow: /home/setLocal?
+Disallow: /download?
+Disallow: /download.pdf?
+User-agent: HypeStat
+Disallow: /

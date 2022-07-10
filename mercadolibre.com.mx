@@ -1,0 +1,58 @@
+#siteId: MLM
+#country: mexico
+User-agent: *
+Disallow: /HOME/
+Disallow: /gz/merch/
+Disallow: /gz/menu
+Disallow: /gz/webdevice/config
+
+##Block - Referidos
+Disallow: /gz/referidos
+
+##Block - siteinfo urls
+Disallow: /*www.siteinfo.cf
+
+##Block - Cart
+Disallow: /gz/cart/
+
+##Block Checkout
+Disallow: /gz/checkout/
+
+##Block - User Logged
+Disallow: /gz/user-logged
+
+#Shipping selector
+Disallow: /gz/shipping-selector
+
+##Block - last search
+Disallow: /gz/navigation/searches/last
+
+## Block - Profile - By Id
+Disallow: /perfil/vendedor/
+Disallow: /perfil/comprador/
+
+## Block - Profile - By Id and role (old version)
+Disallow: /perfil/profile/
+Disallow: /perfil/jm/profile
+
+## Block - Profile - Leg. Req.
+Disallow: /perfil/ALEXSETHMS
+
+##Block - noindex
+Disallow: /noindex/
+
+Disallow: /navigation/
+
+# Mercado-Puntos
+Disallow: /*itemid
+# Viejo mundo
+Disallow: /*/jm/item
+
+
+
+
+##Block recommendations listing
+Disallow: /recommendations-view
+
+Disallow: /org-img/html/
+Disallow: /registration?confirmation_url*

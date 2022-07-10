@@ -1,0 +1,13 @@
+# robots.txt for http://www.acs.org/
+
+User-agent: *
+Disallow: /bin/*
+Disallow: /content/dam/BEA/*
+Disallow: /content/fixtures/*
+Disallow: /content/archive/*
+Disallow: /content/user-sandbox/*
+Disallow: /content/dam/acsorg/qa/*
+Disallow: /content/acs/en/qa/*
+Disallow: /content/acs/en/campaigns/*
+
+Sitemap: https://www.acs.org/sitemap.xml

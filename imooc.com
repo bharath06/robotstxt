@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /search/
+Disallow: /course/list*type
+Disallow: /course/list*sort
+Disallow: /course/list*is_easy
+Disallow: /course/list*unlearn
+Disallow: /u/*
+Disallow: /notepad/*
+Disallow: /visitlog/

@@ -1,0 +1,22 @@
+user-agent: *
+
+disallow: *.ashx
+disallow: /abusereport/
+disallow: /admi/
+disallow: /ads/
+disallow: /catalog/contents
+disallow: /catalog/html
+disallow: /client-status
+disallow: /data/
+disallow: /error/
+disallow: /forum/
+disallow: /Forum/
+disallow: /game/report-event
+disallow: /game/report-stats
+disallow: /ide/clienttoolbox
+disallow: /javascript/
+disallow: /reports/
+disallow: /thumbnail/remove-asset-media
+disallow: /thumbnail/resolve-hash
+disallow: /thumbnail_holder/g
+disallow: /viewapp/

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /clearcache
+Disallow: /ad/
+Disallow: /printing/
+Disallow: /comments/
+Disallow: /tmp/
+Disallow: /junk/
+Disallow: /css/
+Sitemap: https://alwafd.news/sitemaps/index.xml

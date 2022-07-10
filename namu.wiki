@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /
+Allow: /$
+Allow: /ads.txt
+Allow: /w/
+Allow: /history/
+Allow: /backlink/
+Allow: /OrphanedPages
+Allow: /UncategorizedPages
+Allow: /ShortestPages
+Allow: /LongestPages
+Allow: /RecentChanges
+Allow: /RecentDiscuss
+Allow: /Search
+Allow: /discuss/
+Allow: /js/
+Allow: /img/
+Allow: /css/
+Allow: /skins/
+Allow: /favicon.ico
+Allow: /_nuxt/
+Allow: /sidebar.json
+Allow: /cdn-cgi/
+

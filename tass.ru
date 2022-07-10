@@ -1,0 +1,51 @@
+User-agent: YandexNews
+Allow: /rss/yandex.xml
+
+User-agent: *
+Disallow: /search
+Disallow: /pmef-2016/search
+Disallow: /poleznye-ssylki
+Disallow: /en/
+Disallow: *level2.html
+Disallow: /articles/
+Disallow: /preview/
+Disallow: /n/
+Disallow: /api
+Disallow: /c1
+Disallow: /c9
+Disallow: /c11
+Disallow: /c20
+
+User-agent: YandexBot
+Disallow: /search
+Disallow: /pmef-2016/search
+Disallow: /poleznye-ssylki
+Disallow: /en/
+Disallow: */amp
+Disallow: *level2.html
+Disallow: /articles/
+Disallow: /preview/
+Disallow: /n/
+Disallow: /api
+Disallow: /c1
+Disallow: /c9
+Disallow: /c11
+Disallow: /c20
+
+User-agent: Googlebot
+Disallow: /novosti-partnerov
+Disallow: /search
+Disallow: /pmef-2016/search
+Disallow: /poleznye-ssylki
+Disallow: /en/
+Disallow: *level2.html
+Disallow: /articles/
+Disallow: /preview/
+Disallow: /n/
+Disallow: /api
+Disallow: /c1
+Disallow: /c9
+Disallow: /c11
+Disallow: /c20
+
+Sitemap: https://tass.ru/sitemap.xml

@@ -1,0 +1,15 @@
+User-agent: Googlebot
+Disallow: /download
+Crawl-delay: 2
+
+User-agent: Baiduspider
+Disallow: /download
+Crawl-delay: 30
+
+User-agent: Yandex
+Disallow: /download
+Crawl-delay: 300
+
+User-agent: *
+Disallow: /download
+Crawl-delay: 5

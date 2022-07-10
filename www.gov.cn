@@ -1,0 +1,23 @@
+ï»¿User-agent: * 
+Allow: /1
+Sitemap:http://www.gov.cn/baidu.xml 
+Sitemap:http://www.gov.cn/google.xml
+Sitemap:http://www.gov.cn/bing.xml
+Sitemap:http://www.gov.cn/sogou.xml
+Disallow:/2016gov/
+Disallow:/2016shuju/
+Disallow:/2016guoqing/
+Disallow:/2016zhengce/
+Disallow:/2016hudong/
+Disallow:/2016fuwu/
+Disallow:/2016xinwen/
+Disallow:/premier/
+Disallow:/2016guowuyuan/
+Disallow:/2016public/
+Disallow:/2016ducha/
+Disallow:/guowuyuan/yangjing/
+Disallow:/guowuyuan/yj.htm
+Disallow:/c16629/gwyld_yj.htm
+Disallow:/guowuyuan/yj_hy.htm
+Disallow:/guoqing/2013-03/16/content_2583121.htm
+Disallow:/guowuyuan/2015-12/24/content_5027563.htm

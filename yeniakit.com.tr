@@ -1,0 +1,17 @@
+User-agent: *
+Sitemap: https://www.yeniakit.com.tr/sitemap_google_news.php
+Sitemap: https://www.yeniakit.com.tr/sitemap.xml
+Allow: /
+Disallow: /banner
+Disallow: /anlasma/click/*
+Disallow: /arama
+Disallow: /process/*
+Disallow: /advertorial/*
+Disallow: /reklam/*
+Disallow: /etiket/*
+Disallow: /cdn-cgi/
+Disallow: /cdn-cgi*
+
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: Googlebot-Image

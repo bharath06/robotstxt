@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /reply
+Disallow: /fb/
+Disallow: /suggest
+Disallow: /flag
+Disallow: /mf
+Disallow: /mailflag
+Disallow: /eaf
+Disallow: /*.html?lang=
+

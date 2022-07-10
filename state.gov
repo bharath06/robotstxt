@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+crawl-delay: 5
+
+Sitemap: https://www.state.gov/sitemap_index.xml

@@ -1,0 +1,4 @@
+user-agent: *
+disallow: /my-divar/recent-seen
+disallow: /manage/*
+sitemap: https://divar.ir/sitemaps-divar.xml

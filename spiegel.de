@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /*CR-Dokumentation.pdf$
+Disallow: /gutscheine/suche?
+Disallow: /gutscheine/*?code=*
+Disallow: /gutscheine/*&code=*
+
+Sitemap: https://www.spiegel.de/sitemaps/news-de.xml
+Sitemap: https://www.spiegel.de/sitemaps/videos/sitemap.xml
+Sitemap: https://www.spiegel.de/plus/sitemap.xml
+Sitemap: https://www.spiegel.de/sitemap.xml
+Sitemap: https://www.spiegel.de/gutscheine/sitemap.xml

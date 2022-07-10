@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /search/?q=*
+
+Sitemap: https://www.grid.id/sitemap.xml

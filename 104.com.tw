@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /it/
+Disallow: /education/
+Disallow: /hi/
+Disallow: /area/insurance/
+Disallow: /i/
+Disallow: /jb/104i/
+Disallow: /upload1/interview/
+User-agent: trovitBot
+Disallow: /

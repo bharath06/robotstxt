@@ -1,0 +1,57 @@
+User-agent: *
+Disallow: /~/
+Disallow: /slideshow/*/lead-form
+Disallow: /*/leads/*/show_form.html
+Disallow: /*/leads/*/jsplayer_show_lead_form.html
+Disallow: /business/leads/show_form.html
+Disallow: /business/leads/jsplayer_show_lead_form.html
+Disallow: /account/
+Disallow: /api/
+Disallow: /business/premium/is_payment_pending
+Disallow: /business/adshare
+Disallow: /business/feedback
+Disallow: /business/promotion
+Disallow: /business/adshare/faqs
+Disallow: /comment/
+Disallow: /community/
+Disallow: /event/
+Disallow: /favorite/
+Disallow: /group/
+Disallow: /ia/
+Disallow: /main/
+Disallow: /pingback/
+Disallow: /rss/tag/
+Disallow: /search/
+Disallow: /share/
+Disallow: /slideshow/embed_code/
+Disallow: /uploads/
+
+User-agent: bingbot
+Disallow: /*/followers/
+Disallow: /*/following/
+Disallow: /latest/*
+
+User-agent: archive.org_bot
+Disallow: /w/*
+
+User-agent: Archive-It
+Disallow: /w/*
+
+Sitemap: https://sitemaps.slideshare.net/presentations_de_index.xml
+Sitemap: https://sitemaps.slideshare.net/presentations_fr_index.xml
+Sitemap: https://sitemaps.slideshare.net/presentations_en_index.xml
+Sitemap: https://sitemaps.slideshare.net/presentations_es_index.xml
+Sitemap: https://sitemaps.slideshare.net/presentations_pt_index.xml
+Sitemap: https://sitemaps.slideshare.net/presentations_other_index.xml
+Sitemap: https://sitemaps.slideshare.net/infographics_de_index.xml
+Sitemap: https://sitemaps.slideshare.net/infographics_fr_index.xml
+Sitemap: https://sitemaps.slideshare.net/infographics_en_index.xml
+Sitemap: https://sitemaps.slideshare.net/infographics_es_index.xml
+Sitemap: https://sitemaps.slideshare.net/infographics_pt_index.xml
+Sitemap: https://sitemaps.slideshare.net/infographics_other_index.xml
+Sitemap: https://sitemaps.slideshare.net/documents_de_index.xml
+Sitemap: https://sitemaps.slideshare.net/documents_fr_index.xml
+Sitemap: https://sitemaps.slideshare.net/documents_en_index.xml
+Sitemap: https://sitemaps.slideshare.net/documents_es_index.xml
+Sitemap: https://sitemaps.slideshare.net/documents_pt_index.xml
+Sitemap: https://sitemaps.slideshare.net/documents_other_index.xml

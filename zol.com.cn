@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:/?*
+Disallow:/index.html
+Disallow:/index.shtml
+Disallow:/shequjingxuan
+Disallow:/marketing/case/q=*

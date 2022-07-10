@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /video/
+Disallow: /abap/
+Disallow: /tmp/
+Disallow: /logs/
+Disallow: /rate/
+Disallow: /store/
+Disallow: /cgi-bin/
+Disallow: /programming_example/
+Disallow: /videotutorials/video_course_view.php?*
+Disallow: /videotutorials/course_view.php?*
+Disallow: /*/*_question_bank/
+Disallow: //*/*/*/*/src/

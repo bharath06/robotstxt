@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://convertio.co/sitemap.xml
+Disallow: /tmp/
+Disallow: /*/tmp/
+Disallow: /download/

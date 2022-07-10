@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /web/
+Disallow: /app/
+Disallow: /api/
+Disallow: /en/
+Disallow: /tv/
+Disallow: /mlb/
+Disallow: /share/ 
+Disallow: /embed/
+Disallow: /tokens/
+Disallow: /legacy
+Disallow: /beta
+Disallow: /es/legacy
+Disallow: /es/beta
+Sitemap: https://www.mlb.com/sitemaps/48-hr-news.xml.gz
+Sitemap: https://www.mlb.com/sitemaps/weekly-news/index.xml.gz
+Sitemap: https://www.mlb.com/sitemaps/weekly-video/index.xml.gz

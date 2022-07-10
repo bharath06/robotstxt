@@ -1,0 +1,51 @@
+# Robots.txt for https://www.dailymail.co.uk/ updated 04/01/2022
+# 
+#
+# All Robots
+User-agent: *
+#
+# Begin Standard Rules
+Disallow: /*readcommentshtml*
+Disallow: /*login?redirectPath=
+Disallow: /*logout?redirectPath=
+Disallow: /*nextThread.html
+Disallow: /*previousThread.html
+Disallow: /*questionId*
+Disallow: /*selectedImage*
+Disallow: /*threadIndex=*
+Disallow: /*topGallery*
+Disallow: /ce/item.cms*
+Disallow: /guide/*
+Disallow: /home/search.html*
+Disallow: /registration/*
+Disallow: /best-buys/clickout/*
+Disallow: /weather.html?latitude=*
+Disallow: /weather.html?old=*
+#
+# Disallow Money for Google News
+User-agent: Googlebot-News
+Disallow: /tmoney/*
+#
+# Allow Adsense
+User-agent: Mediapartners-Google 
+Disallow:
+#
+#
+User-agent: CrystalSemanticsBot
+Disallow: /
+#
+# Sitemap Files
+Sitemap: https://www.dailymail.co.uk/google-news-sitemap.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-channels.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-columnist.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-topics.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2020.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-facts-year~2020.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2020.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2021.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-facts-year~2021.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2021.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2022.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2022.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-facts-year~2022.xml
+Sitemap: https://www.dailymail.co.uk/best-buys/sitemap.xml 

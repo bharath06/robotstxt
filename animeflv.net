@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /browse
+Disallow: /*?
+Disallow: /auth/
+Disallow: /perfil/
+Disallow: /sobre-animeflv.html
+Disallow: /politica-de-privacidad.html
+Disallow: /condiciones-de-uso.html
+
+
+
+ 

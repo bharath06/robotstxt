@@ -1,0 +1,21 @@
+User-Agent: YisouSpider
+Disallow: /
+
+User-Agent: MegaIndex
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /plugins/feedback.php
+Disallow: /epaper.do
+Disallow: /iframearticle.do
+Disallow: /m/ads/
+Disallow: /resources/ad/
+Disallow: /previews/
+
+Sitemap: https://www.edh.tw/upload/all_rss.xml
+Sitemap: https://www.edh.tw/upload/tag_sitemap.xml
+Sitemap: https://www.edh.tw/upload/rss.xml
+Sitemap: https://www.edh.tw/upload/sitemap.xml
+Sitemap: https://www.edh.tw/upload/googlenews.xml.gz

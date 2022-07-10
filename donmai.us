@@ -1,0 +1,79 @@
+User-agent: *
+Disallow: /
+Allow: /$
+
+Disallow: /*.atom
+Disallow: /*.json
+Disallow: /posts?tags=source:*
+Disallow: /posts?tags=ordfav:*
+Disallow: /posts?tags=approver:*
+Disallow: /posts/*/favorites
+Disallow: /posts/*/show_seq*
+
+Disallow: /artist_urls
+Disallow: /artist_versions
+Disallow: /artist_commentary_versions
+Disallow: /note_versions
+Disallow: /post_versions
+Disallow: /pool_versions
+Disallow: /wiki_page_versions
+
+Allow: /artists
+Allow: /artist_commentaries
+Allow: /comments
+Allow: /explore/posts/popular
+Allow: /explore/posts/curated
+Allow: /explore/posts/viewed
+Allow: /explore/posts/searches
+Allow: /explore/posts/missed_searches
+Allow: /favorite_groups
+Allow: /forum_posts
+Allow: /forum_topics
+Allow: /login
+Allow: /notes
+Allow: /pools
+Allow: /posts
+Allow: /session/new
+Allow: /session/sign_out
+Allow: /tags
+Allow: /uploads
+Allow: /user_upgrades
+Allow: /users
+Allow: /wiki_pages
+
+Allow: /artist
+Allow: /comment
+Allow: /forum
+Allow: /note
+Allow: /pool
+Allow: /post
+Allow: /tag
+Allow: /user
+Allow: /wiki
+
+Allow: /crop
+Allow: /preview
+Allow: /original
+Allow: /sample
+Allow: /data
+Allow: /images
+Allow: /packs
+
+Allow: /static/site_map
+Allow: /contact
+Allow: /static/keyboard_shortcuts
+Allow: /static/bookmarklet
+Allow: /terms_of_service
+Allow: /privacy
+Allow: /404
+Allow: /sitemap.xml
+Allow: /favicon.ico
+Allow: /favicon.svg
+
+Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=artists
+Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=forum_topics
+Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=pools
+Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=posts
+Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=tags
+Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=users
+Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=wiki_pages

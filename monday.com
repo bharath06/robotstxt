@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /mb/
+Disallow: /h/
+Disallow: /fb/
+Disallow: /lp/
+Disallow: /test/
+Disallow: /google*
+Disallow: /partials/
+Disallow: /blog/cards/
+Disallow: /blog/decks/
+Disallow: /blog/members/
+Disallow: /blog/forums/
+Disallow: /blog/blue-tracker/
+Disallow: /blog/packs/
+Allow: .js
+Allow: .css
+
+User-agent: Skynet
+Disallow: /

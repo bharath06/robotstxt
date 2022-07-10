@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Allow: /builder/v2/assets/js/
+Allow: /favicon.ico
+Allow: /$
+Disallow: /
+
+User-agent: *
+Allow: /$
+Disallow: /

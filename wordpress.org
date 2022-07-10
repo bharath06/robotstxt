@@ -1,0 +1,18 @@
+Sitemap: https://wordpress.org/sitemap.xml
+Sitemap: https://wordpress.org/news-sitemap.xml
+Sitemap: https://wordpress.org/themes/sitemap.xml
+Sitemap: https://wordpress.org/plugins/sitemap.xml
+Sitemap: https://wordpress.org/news/sitemap.xml
+Sitemap: https://wordpress.org/showcase/sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-admin/load-scripts.php
+Allow: /wp-admin/load-styles.php
+
+User-agent: *
+Disallow: /search
+Disallow: /?s=
+
+User-agent: *
+Disallow: /plugins/search

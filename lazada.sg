@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /checkout/
+Disallow: /customer/
+Disallow: /cart/
+Disallow: /*index.scss
+Disallow: /*reqwest/index
+Disallow: /*/*--*
+Disallow: /searchbox/
+Disallow: /all-products/
+Disallow: /catalog/
+Disallow: /theme/
+User-agent: Googlebot-Image
+Disallow:

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /*/diskuse*reakce=
+Disallow: /*/diskuse*vlakno=
+Disallow: /*/diskuse*strana=
+Disallow: /*/diskuse/
+Allow:    /*/diskuse$
+Disallow: /*/diskuse*razeni=
+Disallow: /*/tisk$
+Disallow: /*/ankety/
+Disallow: /ankety.aspx*hlasuj
+Disallow: /export/
+Disallow: /data.aspx
+Disallow: /*/undefined
+
+Sitemap: https://www.idnes.cz/sitemap.xml

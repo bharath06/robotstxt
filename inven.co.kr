@@ -1,0 +1,27 @@
+User-agent: Mediapartners-Google
+Disallow: 
+User-agent : Wget
+Disallow: /
+User-agent: *
+Disallow: /board/prevnext.php
+Disallow: /board/lineagem/5059/
+Disallow: /board/lineagem/5076/
+disallow: /board/blackm/5176/
+disallow: /board/blackm/5167/
+disallow: /board/lineagem/5030/
+disallow: /board/teram/5184/
+disallow: /board/tera/4271/
+disallow: /board/archeage/2648/
+disallow: /board/archeage/2837/
+disallow: /board/hs/3655/
+disallow: /board/ff14/4446/
+disallow: /board/dchild/4945/
+Disallow: /bts/
+Disallow: /common/admin/
+Disallow: /env/
+Disallow: /mobile/board/prevnext.php
+Disallow: /mobile/powerbbs/prevnext.php
+Disallow: /staff/
+Disallow: /test/
+Disallow: /webzine/prevnext.php
+Sitemap:https://www.inven.co.kr/sitemap.xml

@@ -1,0 +1,26 @@
+User-agent: *
+
+Disallow: /stats?maps*
+Disallow: /results?startDate*
+Disallow: /results?content*
+Disallow: /results?gameType*
+Disallow: /results?requireAllPlayers*
+Disallow: /results?requireAllTeams*
+Disallow: /results?stars*
+Disallow: /results?map*
+Disallow: /results?matchType*
+Disallow: /stats?matchType*
+Disallow: /stats?startDate*
+Disallow: /stats?rankingFilter*
+Disallow: /stats?bestOf*
+Disallow: /stats*?*matchType*
+Disallow: /stats*?*startDate*
+Disallow: /stats*?*rankingFilter*
+Disallow: /stats*?*bestOf*
+Disallow: /stats*?*maps*
+Disallow: /stats*?*lineup*
+Disallow: /blog/*
+Disallow: /download/demo*
+Disallow: /legacystats/*
+Disallow: /fantasy/*/league/*?*
+Disallow: /fantasy/*/league/*/join

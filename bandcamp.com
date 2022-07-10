@@ -1,0 +1,38 @@
+User-agent: *
+Disallow: /tools
+Disallow: /checkout
+Disallow: /download_check
+Disallow: /cart/
+Disallow: /corpbanner/
+Disallow: /stream
+Disallow: /api/
+# the currency data endpoint is required to render pages
+Allow: /api/currency_data/
+# pattern matching known to work only with Google and Yahoo
+Disallow: /*_cb$
+
+# badly-behaving bots
+User-agent: NextGenSearchBot
+Disallow: /
+
+# unwanted bots
+User-agent: EdisterBot
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: SWEBot
+Disallow: /
+
+User-agent: discobot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: grapeshot
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /

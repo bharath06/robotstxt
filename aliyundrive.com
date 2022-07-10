@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /s/
+Disallow: /u/
+Disallow: /o/
+Disallow: /drive
+Disallow: /adrive
+Disallow: /applink
+Disallow: /sign
+Disallow: /embed
+Disallow: /web-data
+Disallow: /preview

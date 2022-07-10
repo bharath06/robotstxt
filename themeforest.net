@@ -1,0 +1,36 @@
+User-agent: *
+
+Disallow: *?platform*
+Disallow: */full_screen_preview/
+Disallow: *?sales*
+Disallow: */cart/*
+Disallow: */sign_in?*
+Disallow: */item_support/
+Disallow: /affiliate/
+Disallow: /referral/
+Disallow: /shopfront-api/
+Disallow: /shopfront_api/
+Disallow: /cart/
+Disallow: *?sort=*
+Disallow: *,*,*
+Disallow: *?attribute_key
+Disallow: *\+*\+*
+Disallow: /cart$
+Disallow: /sign_in
+Disallow: /consociate/
+Disallow: *price_min=*
+Disallow: *price_max=*
+Disallow: */screenshots/
+Disallow: /bookmarks/widget
+Disallow: /favorites?
+Disallow: *item_id
+Disallow: /my/*
+Disallow: *discount_type=*
+Disallow: /storefront/
+
+User-agent: Pinterest
+Crawl-delay: 1
+
+Sitemap: https://themeforest.net/sitemap.xml.gz
+Sitemap: https://themeforest.net/lp/sitemap.xml
+Sitemap: https://themeforest.net/useful-sitemap.xml.gz

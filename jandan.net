@@ -1,0 +1,153 @@
+User-agent: Baiduspider
+
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+
+User-agent: Bytespider
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: Sosospider
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: Sogou
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: YodaoBot
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: Googlebot
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: Bingbot
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: Slurp
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: MSNBot
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: 360Spider
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: YisouSpider
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: Chinasospider
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /category/
+Disallow: /author/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /*?*
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+Sitemap: https://jandan.net/sitemap-index.xml

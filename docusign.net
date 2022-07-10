@@ -1,0 +1,25 @@
+# go away
+User-agent: *
+Disallow: /Member/Administration.aspx
+Disallow: /Admin/
+Disallow: /API/
+Disallow: /restapi/
+Disallow: /RestAPI/
+Disallow: /RESTAPI/
+Disallow: /Brand/
+Disallow: /Download/
+Disallow: /Member/
+Disallow: /MEMBER/
+Disallow: /member/
+Disallow: /PDFRasterizer/
+Disallow: /plugins/
+Disallow: /Plugins/
+Disallow: /PlugIns/
+Disallow: /Signing/
+Disallow: /SIGNING/
+Disallow: /signing/
+Disallow: /SSO/
+Disallow: /SSO_STS/
+
+Allow: /member/MemberLogin.aspx
+Allow: /Member/MemberLogin.aspx

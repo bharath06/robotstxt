@@ -8,15 +8,21 @@ import _thread
 
 
 def is_html(r):
+	#Alibaba does not return content-type in its headers
+	if 'content-type' not in map(str.lower, r.headers.keys()):
+		return True
+
 	content_type = r.headers['content-type']
-	if  "html" in r.headers["content-type"].lower():
+	if "html" in r.headers["content-type"].lower():
 		return True
 	return False
 
 def fetch_robot(site):
 	try:
 		url = "https://" + site + "/robots.txt"
-		r = requests.get(url, timeout=10)
+		# Trying with user agent set in the header has facebook return error message?
+		# adding verify parameter as some urls fail SSL validation 
+		r = requests.get(url, timeout=10, verify=False)
 		
 		#Ignore if url returned error code
 		if r.status_code != 200:

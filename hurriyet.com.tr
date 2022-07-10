@@ -1,0 +1,23 @@
+User-agent:*
+Disallow: /ad/
+Disallow: /api/
+Disallow: /arkadasimamektup/
+Disallow: /haberler/ozet/
+Disallow: /okurtemsilcisi/
+Disallow: /yerelsecim2009/
+Disallow: /widgets/
+Disallow: /_includes/
+Disallow: /_othernews/
+Disallow: /_test/
+Disallow: /_includescms/
+Disallow: /arama/
+
+User-agent: Flipboard
+User-agent: FlipboardProxy
+Allow: /api/
+
+User-agent: YandexNews
+Allow://winapp.hurriyet.com.tr/yandexnews.aspx
+
+User-agent: proximic
+Disallow:

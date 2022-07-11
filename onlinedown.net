@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow:/news.php*
+Disallow:/a-z/index.php*
+Disallow:/a-z/list.php*
+Disallow:/new.php*
+Disallow:/show.php*
+Disallow:/soft_saf.php*
+Disallow:/blacklist.php*
+Disallow:/show.php*
+Disallow:/soft_saf.php*
+Disallow:/android/css/stle.php*
+Disallow:/bf/css/*.txt$
+Disallow:/list.php*
+Disallow:/aspnet_client*
+Disallow:/bigsoftimg/*
+Disallow:/sort/list.php*
+Disallow:/search*
+Disallow:/download/*
+Disallow:/iopdfbhjl/*

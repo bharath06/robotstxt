@@ -19,8 +19,7 @@ Disallow: /w/*?*
 User-agent: Googlebot
 Allow: /article/*
 Allow: /w/*
-Disallow: /article/*?*
-Disallow: /w/*?*
+
 
 User-agent: Bingbot
 Allow: /article/*

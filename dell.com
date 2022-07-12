@@ -872,6 +872,7 @@ Disallow: /en-us/dt/what-we-do/index-server.htm
 Disallow: /en-us/dt/what-we-do/index-storage.htm
 Disallow: /en-us/dt/what-we-do/index-apex.htm
 Disallow: /support/order-status/*/order-collection
+Disallow: /uk-ua
 
 User-agent: Baiduspider
 Disallow: /
@@ -1166,4 +1167,4 @@ Sitemap: https://www.dell.com/index-video-xml-sitemap.xml.gz
 Sitemap: https://www.dell.com/index-downloads-dell-pdfs-sitemap.xml.gz
 Sitemap: https://www.dell.com/index-images-sitemap.xml.gz
 
-# Last modified 7 July 2022
+# Last modified 11 July 2022

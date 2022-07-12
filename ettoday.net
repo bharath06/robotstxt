@@ -33,6 +33,7 @@ Disallow:/news_search/
 Disallow:/showcase_offline/
 Disallow:/news/20111005/123.htm
 Disallow:/news/20111003/1.htm
+Disallow:/et_comments.php7
 
 # Crawl-delay: 5
 

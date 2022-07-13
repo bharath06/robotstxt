@@ -1,5 +1,16 @@
 User-agent: *
 
+Disallow: /ja-jp/*/spd/
+Disallow: /ja-jp/*/povw/
+Disallow: /ja-jp/*/productdetailstxn/
+Disallow: /learn/jp/
+Disallow: /ja-jp/shop/*/ar/8228
+Disallow: /ja-jp/shop/*/ar/8225
+Disallow: /ja-jp/shop/*/ar/8343
+Disallow: /ja-jp/shop/*/ar/8231
+Disallow: /ja-jp/shop/*/ar/8225
+Disallow: /ja-jp/shop/*/sf/xps-2-in-1
+
 Disallow: /en-ca/*/povw/
 Disallow: /learn/ca/
 Disallow: /en-ca/shop/*/sf/xps-2-in-1
@@ -1167,4 +1178,4 @@ Sitemap: https://www.dell.com/index-video-xml-sitemap.xml.gz
 Sitemap: https://www.dell.com/index-downloads-dell-pdfs-sitemap.xml.gz
 Sitemap: https://www.dell.com/index-images-sitemap.xml.gz
 
-# Last modified 11 July 2022
+# Last modified 12 July 2022

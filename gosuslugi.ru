@@ -216,6 +216,7 @@ Disallow: /59453/1
 Allow: /life*
 Allow: /tls
 
-Clean-param: utm_campaign&utm_medium&utm_source&utm_term&utm_content
+Clean-param: utm_campaign&utm_source&utm_term&utm_medium&utm_startpage&utm_orderpage&utm_referer&utm_content
+Clean-param: q&special&from&serviceTargetExtId&p
 
 Sitemap: https://www.gosuslugi.ru/sitemap/all-sitemap.xml

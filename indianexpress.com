@@ -65,11 +65,13 @@ Disallow: /openinappbtn/*
 
 Disallow: /apple-app-site-association
 
+Disallow: /ie_byline_authors
+
+Disallow: /ie_byline_authors/*
+
 Disallow: /login/*
 
 Disallow: /registration/*
-
-Disallow: /subscribe/
 
 Disallow: /my-account/
 
@@ -89,6 +91,12 @@ Disallow: /thank-you/
 
 Disallow: /my-premium/
 
+Disallow: /campaign/
+
+Disallow: /campaign-premium/
+
+Disallow: /campaign-test/
+
 Sitemap: https://indianexpress.com/news-sitemap.xml
 
 Sitemap: https://indianexpress.com/image-sitemap.xml
@@ -100,6 +108,8 @@ Sitemap: https://indianexpress.com/category-sitemap.xml
 Sitemap: https://indianexpress.com/allsitemap.xml
 
 Sitemap: https://indianexpress.com/aboutsitemapindex.xml
+
+Sitemap: https://indianexpress.com/webstories-sitemap.xml
 
 # Sitemap archive
 Sitemap: https://indianexpress.com/sitemap.xml

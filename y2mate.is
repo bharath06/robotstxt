@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /analyze
+
+Sitemap: https://y2mate.is/sitemap.xml

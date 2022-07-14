@@ -10,6 +10,7 @@ Allow: /ws/1/live/*
 Allow: /ws/1/related_content/*
 
 #
+Disallow: /ajax/
 Disallow: /ajah/
 Disallow: /api/
 Disallow: /beta

@@ -22,7 +22,7 @@ def fetch_robot(site):
 		url = "https://" + site + "/robots.txt"
 		# Trying with user agent set in the header has facebook return error message?
 		# adding verify parameter as some urls fail SSL validation 
-		r = requests.get(url, timeout=10, verify=False)
+		r = requests.get(url, timeout=10)
 		
 		#Ignore if url returned error code
 		if r.status_code != 200:
@@ -44,7 +44,6 @@ def run_main():
 	fu = open(urls_file)
 	lines = fu.readlines()
 	sites = [line.rstrip() for line in lines]
-	#sites = ["google.com", "yahoo.com", "apple.com"]
 	print(len(sites))
 
 	os.system(cmds[0])

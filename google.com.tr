@@ -275,6 +275,7 @@ Allow: /finance
 Allow: /js/
 Disallow: /nonprofits/account/
 Disallow: /fbx
+Disallow: /uviewer
 
 # AdsBot
 User-agent: AdsBot-Google

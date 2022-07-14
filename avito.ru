@@ -188,4 +188,5 @@ Disallow: /unsubscribe/
 Disallow: /*regnumber=
 Disallow: /*avito_campaign_id=
 Disallow: /*reviewsPage=
+Disallow: /q/*
 Sitemap: https://www.avito.ru/sitemap/index.xml

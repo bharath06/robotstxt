@@ -23,7 +23,6 @@ Disallow: /*?filter_by
 Disallow: /*?filterTags
 Disallow: /*?formid
 Disallow: /*?from
-Disallow: /*?gspk
 Disallow: /*?hl
 Disallow: /*?hootPostID
 Disallow: /*?hs
@@ -68,7 +67,6 @@ Disallow: /*?typef
 Disallow: /*?url
 Disallow: /*?utm_forwarded
 Disallow: /*?utm_gp=
-Disallow: /*?utm_medium
 Disallow: /*?webview=
 Disallow: /*?wtime
 Disallow: /*?wvideo

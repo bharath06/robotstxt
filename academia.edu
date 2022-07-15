@@ -8,7 +8,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: Mediapartners-Google
@@ -19,7 +18,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: msnbot
@@ -30,7 +28,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: bingbot
@@ -41,7 +38,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: Slurp
@@ -52,7 +48,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: DuckDuckbot
@@ -63,7 +58,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: baiduspider
@@ -74,7 +68,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: seznambot
@@ -85,7 +78,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: naverbot
@@ -96,7 +88,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: teoma
@@ -107,7 +98,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: Yandex
@@ -118,7 +108,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: ScoutJet
@@ -129,7 +118,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: GurujiBot
@@ -140,7 +128,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: Exabot
@@ -151,7 +138,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: Solbot
@@ -162,7 +148,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: FAST
@@ -173,7 +158,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: VoilaBot
@@ -184,7 +168,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: daumoa
@@ -195,7 +178,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: ArchitextSpider
@@ -206,7 +188,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: Twitterbot
@@ -217,7 +198,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: SocSciBot
@@ -228,7 +208,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: ia_archiver
@@ -239,7 +218,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: coccoc
@@ -250,7 +228,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: Browsershots
@@ -261,7 +238,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: SiteArc
@@ -272,7 +248,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: Cliqzbot
@@ -283,7 +258,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: proximic
@@ -294,7 +268,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: OnCrawlBot
@@ -305,7 +278,6 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
-Disallow: /keypass/
 Allow: /
 
 User-agent: *

@@ -52,7 +52,8 @@ Disallow: /*/jm/item
 
 
 ##Block recommendations listing
-Disallow: /recommendations-view
+Disallow: /recommendations/*
+Disallow: /recommendations-view/*
 
 Disallow: /org-img/html/
 Disallow: /registration?confirmation_url*

@@ -4,7 +4,9 @@ Disallow: /search?
 Disallow: /reset?
 Disallow: /confirm?
 Disallow: /confirmDelete?
-Disallow: /add-card?
+Disallow: */add-card?
+Disallow: */login?
+Disallow: */signup?
 Disallow: /forgot$
 Disallow: /statement/
 Disallow: /boardinvited/

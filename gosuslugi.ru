@@ -30,7 +30,6 @@ Allow: /6
 Allow: /7
 Allow: /8
 Allow: /9
-Allow: /census
 Allow: /structure
 Allow: /help
 Allow: /sitemap
@@ -43,7 +42,6 @@ Allow: /situation
 Allow: /promo
 Allow: /entrepreneur
 Allow: /information
-Allow: /migrant
 Allow: /*/sputnik
 Allow: /new
 Allow: /r
@@ -53,6 +51,22 @@ Allow: /group/
 Disallow: /59453/1
 Allow: /life*
 Allow: /tls
+Allow: /dom
+Allow: /proactive_payments
+Allow: /vuzonline
+Allow: /exposure_notification
+Allow: /goskey
+Allow: /account_recovery
+Allow: /browser
+Allow: /subsidies
+Allow: /pep
+Allow: /baby
+Allow: /fsspservices
+Allow: /armydelay
+Allow: /ipoteka
+Allow: /fancard
+Allow: /find_service
+Allow: /molodym
 
 User-agent: GoogleBot
 Disallow: *2019_08_09_super_services
@@ -91,7 +105,6 @@ Allow: /6
 Allow: /7
 Allow: /8
 Allow: /9
-Allow: /census
 Allow: /structure
 Allow: /help
 Allow: /sitemap
@@ -104,7 +117,6 @@ Allow: /situation
 Allow: /promo
 Allow: /entrepreneur
 Allow: /information
-Allow: /migrant
 Allow: /*/sputnik
 Allow: /htdocs
 Allow: /api/catalog/v3/passports/
@@ -134,6 +146,22 @@ Allow: /group/
 Disallow: /59453/1
 Allow: /life*
 Allow: /tls
+Allow: /dom
+Allow: /proactive_payments
+Allow: /vuzonline
+Allow: /exposure_notification
+Allow: /goskey
+Allow: /account_recovery
+Allow: /browser
+Allow: /subsidies
+Allow: /pep
+Allow: /baby
+Allow: /fsspservices
+Allow: /armydelay
+Allow: /ipoteka
+Allow: /fancard
+Allow: /find_service
+Allow: /molodym
 
 User-agent: *
 Disallow: *2019_08_09_super_services
@@ -172,7 +200,6 @@ Allow: /6
 Allow: /7
 Allow: /8
 Allow: /9
-Allow: /census
 Allow: /structure
 Allow: /help
 Allow: /sitemap
@@ -185,7 +212,6 @@ Allow: /situation
 Allow: /promo
 Allow: /entrepreneur
 Allow: /information
-Allow: /migrant
 Allow: /*/sputnik
 Allow: /htdocs
 Allow: /api/catalog/v3/passports/
@@ -215,8 +241,24 @@ Allow: /group/
 Disallow: /59453/1
 Allow: /life*
 Allow: /tls
+Allow: /dom
+Allow: /proactive_payments
+Allow: /vuzonline
+Allow: /exposure_notification
+Allow: /goskey
+Allow: /account_recovery
+Allow: /browser
+Allow: /subsidies
+Allow: /pep
+Allow: /baby
+Allow: /fsspservices
+Allow: /armydelay
+Allow: /ipoteka
+Allow: /fancard
+Allow: /find_service
+Allow: /molodym
 
 Clean-param: utm_campaign&utm_source&utm_term&utm_medium&utm_startpage&utm_orderpage&utm_referer&utm_content
-Clean-param: q&special&from&serviceTargetExtId&p
+Clean-param: q&special&from&serviceTargetExtId&p&id&contacts&layer&filters
 
 Sitemap: https://www.gosuslugi.ru/sitemap/all-sitemap.xml

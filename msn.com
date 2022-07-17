@@ -5,6 +5,8 @@ Disallow: /pt-ao
 Disallow: /*preview=*
 Disallow: /*/autos/marketplace/product/*
 Disallow: /*/cars/marketplace/product/*
+Disallow: /*?item=*:
+Disallow: /*&item=*:
 
 User-agent: AdsBot-Google
 Allow: /

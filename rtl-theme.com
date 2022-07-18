@@ -16,13 +16,12 @@ Allow: /wp-admin/admin-ajax.php
 Allow: /wp-content/*
 Allow: /wp-content/uploads/
 Allow: /wp-content/themes/rtl-theme/upload/uploads/image/*
-Allow: /user-profile/*
 Allow: /*?affid=
+
 # Google Image
 User-agent: Googlebot-Image
 Allow: /*
 Allow: /wp-content/uploads/
 Allow: /wp-content/themes/rtl-theme/upload/uploads/image/*
-Allow: /user-profile/*
 
 Sitemap: https://www.rtl-theme.com/sitemap_index.xml

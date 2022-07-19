@@ -17,6 +17,7 @@ Disallow: /typeahead/
 Disallow: /pepe/
 Disallow: /media-manager/
 Disallow: /coupons/visit/*
+Disallow: /test/
 
 User-agent: googlebot-news
 Disallow: /sites/adobe/

@@ -63,12 +63,11 @@ Disallow: /cbse-result/author/
 Disallow: /cbse-study-material/author/
 Disallow: ?s={searchInput}/
 Disallow: /?s={searchInput}/
+Disallow: *?wordfence_lh
 
 #Staging
 Disallow: /staging/
 Disallow: /byjus-clone/
-
-Disallow: */?wordfence_lh
 
 Sitemap: https://byjus.com/sitemap.xml
 Sitemap: https://byjus.com/sitemaps/news-sitemap.xml

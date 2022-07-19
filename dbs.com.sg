@@ -282,6 +282,7 @@ Disallow: /personal/articles/nav/financial-planning/how-to-organize-your-finance
 Disallow: /personal/deposits/bank-earn/multiplier-paylah
 Disallow: /treasures/investments/product-suite/structured-investments/reverse-gold-linked-notes
 Disallow: /personal/investments/fx-and-cash-managements/currency-linked-investments
+Disallow: /personal/deposits/pay-with-ease/games.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

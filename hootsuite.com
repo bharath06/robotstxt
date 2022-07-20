@@ -1,5 +1,4 @@
-# tells all engines not to crawl these URLs
-User-Agent: *
+User-agent: *
 Disallow: *d=pro*
 Disallow: /dashboard*
 Disallow: /signup*
@@ -17,5 +16,5 @@ Disallow: /craft/
 Disallow: /*.pdf$
 Disallow: /billing/
 Disallow: /create-free-account*
-
-Sitemap: https://hootsuite.com/sitemap.xml
+Sitemap: https://www.hootsuite.com/sitemap/sitemap-index.xml
+Host: https://www.hootsuite.com

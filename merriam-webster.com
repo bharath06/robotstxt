@@ -1,5 +1,5 @@
 ##############################################################################
-# This is a production robots.txt! Edit with care.
+# This is a production robots.txt
 ##############################################################################
 
 User-agent: *
@@ -13,5 +13,5 @@ Disallow: /assets/mw/static/old-games/
 Sitemap: https://www.merriam-webster.com/sitemap-ssl/sitemap_index.xml
 
 ##############################################################################
-# This is a production robots.txt! Edit with care.
+# This is a production robots.txt
 ##############################################################################

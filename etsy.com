@@ -1494,32 +1494,32 @@ Sitemap: https://www.etsy.com/pl/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/at/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/be/sitemaps/listing/local.xml
-Sitemap: https://www.etsy.com/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/fi-en/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/au/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/ca/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/ca-fr/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/dk-en/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/hk-en/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/ie/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/il-en/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/in-en/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/nz/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/no-en/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/se-en/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/sg-en/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/uk/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/de/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/fr/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/nl/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/it/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/es/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/mx/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/jp/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/pl/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/at/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/ch/sitemaps/market/top-queries.xml
-Sitemap: https://www.etsy.com/be/sitemaps/market/top-queries.xml
+Sitemap: https://www.etsy.com/sitemaps/market.xml
+Sitemap: https://www.etsy.com/fi-en/sitemaps/market.xml
+Sitemap: https://www.etsy.com/au/sitemaps/market.xml
+Sitemap: https://www.etsy.com/ca/sitemaps/market.xml
+Sitemap: https://www.etsy.com/ca-fr/sitemaps/market.xml
+Sitemap: https://www.etsy.com/dk-en/sitemaps/market.xml
+Sitemap: https://www.etsy.com/hk-en/sitemaps/market.xml
+Sitemap: https://www.etsy.com/ie/sitemaps/market.xml
+Sitemap: https://www.etsy.com/il-en/sitemaps/market.xml
+Sitemap: https://www.etsy.com/in-en/sitemaps/market.xml
+Sitemap: https://www.etsy.com/nz/sitemaps/market.xml
+Sitemap: https://www.etsy.com/no-en/sitemaps/market.xml
+Sitemap: https://www.etsy.com/se-en/sitemaps/market.xml
+Sitemap: https://www.etsy.com/sg-en/sitemaps/market.xml
+Sitemap: https://www.etsy.com/uk/sitemaps/market.xml
+Sitemap: https://www.etsy.com/de/sitemaps/market.xml
+Sitemap: https://www.etsy.com/fr/sitemaps/market.xml
+Sitemap: https://www.etsy.com/nl/sitemaps/market.xml
+Sitemap: https://www.etsy.com/it/sitemaps/market.xml
+Sitemap: https://www.etsy.com/es/sitemaps/market.xml
+Sitemap: https://www.etsy.com/mx/sitemaps/market.xml
+Sitemap: https://www.etsy.com/jp/sitemaps/market.xml
+Sitemap: https://www.etsy.com/pl/sitemaps/market.xml
+Sitemap: https://www.etsy.com/at/sitemaps/market.xml
+Sitemap: https://www.etsy.com/ch/sitemaps/market.xml
+Sitemap: https://www.etsy.com/be/sitemaps/market.xml
 Sitemap: https://www.etsy.com/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/fi-en/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/au/sitemaps/taxonomy.xml
@@ -1573,7 +1573,7 @@ Sitemap: https://www.etsy.com/at/sitemaps/home.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/home.xml
 Sitemap: https://www.etsy.com/be/sitemaps/home.xml
 #
-# Oi, kent!#   \
+# 01001001 01010011 00100000 01000011 01001111 01000100 01000101 00100000 01011001 01001111 01010101 01010010 00100000 01000011 01010010 01000001 01000110 01010100 00111111#   \
 #
 #    -----
 #   | . . |

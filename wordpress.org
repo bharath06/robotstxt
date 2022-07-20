@@ -15,4 +15,4 @@ Disallow: /search
 Disallow: /?s=
 
 User-agent: *
-Disallow: /plugins/search
+Disallow: /plugins/search/

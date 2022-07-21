@@ -5,4 +5,3 @@ Disallow: /Login.aspx
 Disallow: /_panel
 Disallow: /editor
 Disallow: /search*
-Disallow: /search *

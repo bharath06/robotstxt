@@ -29,8 +29,8 @@ Disallow: /search?brands=
 Disallow: /search?originalCategoryId= 
 Disallow: /addon-deal-selection/
 Disallow: /bundle-deal/
-Disallow: ?sp_atk=
-Disallow: __classic__=1
+Disallow: *?sp_atk=
+Disallow: *__classic__=1
 
 User-Agent:*
 Crawl-delay:1

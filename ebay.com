@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v15.2_COM_June_2022
+# v15.3_COM_July_2022
 ### DIRECTIVES ###
 
 User-agent: *
@@ -149,6 +149,7 @@ Allow: /sch/*_ul
 Allow: /sch/*_fosrp
 Allow: /sch/*_trksid
 Allow: /sch/i.html?_nkw=
+Allow: /sch/i.html?*&mkcid=2
 Disallow: /sch/i.html?*_nkw=*&
 Disallow: /sch/
 Disallow: /sch/ebayadvsearch?_

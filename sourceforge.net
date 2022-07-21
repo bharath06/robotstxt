@@ -99,6 +99,7 @@ Disallow: /*_escaped_fragment_
 Disallow: /auth/do_login
 Disallow: /software/visit?
 Disallow: /software/compare/*-vs-*-vs-*-vs-*-vs-
+Disallow: /software/compare/*/add-software
 Disallow: /software/product/*/reviews/new
 Disallow: /software/product/*/claim
 Disallow: /rest/

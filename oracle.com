@@ -9,6 +9,10 @@ Allow: /emea/corporate/press/
 Allow: /emea/corporate/careers/
 Allow: /lad/corporate/careers/
 Allow: /emea/news/
+Allow: /africa/index.html
+Allow: /africa/corporate/press/
+Allow: /africa/corporate/contact/
+Allow: /africa/news/
 Allow: /africa-fr/index.html
 Allow: /africa-fr/corporate/press/
 Allow: /africa-fr/corporate/contact/
@@ -286,6 +290,7 @@ Disallow: /qa/
 Disallow: /qa-ar/
 Disallow: /rs/
 Disallow: /si/
+Disallow: /africa/
 Disallow: /africa-fr/
 Disallow: /ua/
 Disallow: /apac/

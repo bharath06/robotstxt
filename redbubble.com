@@ -15,6 +15,7 @@ Disallow: /groups/*
 Disallow: /shop/*?query=*
 Disallow: /shop/*&query=*
 Disallow: /cart/
+Disallow: /check-out/
 
 User-agent: Pinterestbot
 Crawl-delay: 0.2

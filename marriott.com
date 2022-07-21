@@ -8,7 +8,6 @@ Disallow: /
 #
 User-agent: *
 Disallow: /zh/
-Disallow: /he/
 Disallow: /einterface/
 Disallow: /search/
 Allow: /search/default.mi

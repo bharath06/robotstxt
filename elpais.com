@@ -1,6 +1,5 @@
 User-Agent: *
 Disallow: /buscador/
-Disallow: /m/buscador/
 Disallow: /pruebas/
 Disallow: /.well-known/amphtml/
 Disallow: /t/
@@ -10,6 +9,8 @@ Disallow: /*.swf$
 Disallow: /eskupTSUpdate
 Disallow: /*=/*x*/
 Disallow: /subscriptions/*
+Disallow: /Comentario/
+Disallow: /landing_oferta/
 
 
 # Bots bloqueados

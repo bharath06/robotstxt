@@ -4,6 +4,7 @@ from multiprocessing import Pool, cpu_count
 import concurrent.futures
 import os
 import requests
+import pprint
 import _thread
 
 
@@ -22,7 +23,7 @@ def fetch_robot(site):
 		url = "https://" + site + "/robots.txt"
 		# Trying with user agent set in the header has facebook return error message?
 		# adding verify parameter as some urls fail SSL validation 
-		r = requests.get(url, timeout=10, verify=False)
+		r = requests.get(url, timeout=10)
 		
 		#Ignore if url returned error code
 		if r.status_code != 200:
@@ -44,7 +45,6 @@ def run_main():
 	fu = open(urls_file)
 	lines = fu.readlines()
 	sites = [line.rstrip() for line in lines]
-	#sites = ["google.com", "yahoo.com", "apple.com"]
 	print(len(sites))
 
 	os.system(cmds[0])
@@ -60,13 +60,19 @@ def run_main():
 	        try:
 	            data = future.result()
 	        except Exception as exc:
-	            print('%r generated an exception: %s' % (url, exc))
+	       		errors[url] = data
+	        	print('%r generated an exception: %s' % (url, exc))
 	        else:
-	        	print('%r::%s bytes' % (url, data))
+	        	if (data != 0):
+	        		errors[url] = data
+	        	print('%r::%s' % (url, data))
 
 	os.system(cmds[1])
 	os.system(cmds[2])
-	os.system(cmds[3])
+	#os.system(cmds[3])
+
+	pprint.pprint(errors)
+
 
 
 today = date.today()
@@ -82,13 +88,14 @@ cmds = [
 
 headers = {'User-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36'}
 
+errors = {}
+
 #Make this a command line
 #Optional run with just one site
 #optional print to stdout
 #option write to file
 #optional push to git
 #optional resume
-#multitheaded"
 #error logging
 #log how many files were added / updated etc.
 

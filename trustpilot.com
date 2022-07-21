@@ -382,5 +382,6 @@ User-agent: *
 Disallow: /
 
 Sitemap: https://sitemaps.trustpilot.com/index_en-us.xml
-Sitemap: https://www.trustpilot.com/trust/sitemaps/domain_en-us.xml
-Sitemap: https://www.trustpilot.com/blog/sitemaps/domain_en-us.xml
+Sitemap: https://trustpilot.com/trust/sitemaps/domain_en-us.xml
+Sitemap: https://trustpilot.com/blog/sitemaps/domain_en-us.xml
+

@@ -236,7 +236,7 @@ cricbuzz.com
 y2mate.com
 aliyundrive.com
 foxnews.com
-huawei.com
+www.huawei.com
 homedepot.com
 wix.com
 craigslist.org

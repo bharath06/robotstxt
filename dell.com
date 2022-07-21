@@ -1,17 +1,18 @@
 User-agent: *
 
-Disallow: /ja-jp/*/spd/
-Disallow: /ja-jp/*/povw/
-Disallow: /ja-jp/*/productdetailstxn/
 Disallow: /learn/jp/
-Disallow: /ja-jp/shop/*/ar/8228
-Disallow: /ja-jp/shop/*/ar/8225
-Disallow: /ja-jp/shop/*/ar/8343
-Disallow: /ja-jp/shop/*/ar/8231
-Disallow: /ja-jp/shop/*/ar/8225
 Disallow: /ja-jp/shop/*/sf/xps-2-in-1
 
-Disallow: /en-ca/*/povw/
+Disallow: /en-ca/shop/povw/equallogic-ps6210-series
+Disallow: /en-ca/shop/povw/storage-sc9000
+Disallow: /en-ca/shop/povw/equallogic-ps-m4110
+Disallow: /en-ca/shop/povw/equallogic-ps4210-series
+Disallow: /en-ca/shop/povw/sonicwall-supermassive-series
+Disallow: /en-ca/shop/povw/sonicwall-sra-series
+Disallow: /en-ca/shop/povw/sonicwall-clean-wireless-series
+Disallow: /en-ca/shop/povw/networking-10gb-basic-switch
+Disallow: /en-ca/shop/povw/sonicwall-nsa-series
+Disallow: /en-ca/shop/povw/sonicwall-gms-series
 Disallow: /learn/ca/
 Disallow: /en-ca/shop/*/sf/xps-2-in-1
 Disallow: /fr-ca/shop/2-in-1-pcs/sf/xps-2-in-1
@@ -27,13 +28,9 @@ Disallow: /fr-ca/shop/*/sf/edge-gateway
 Disallow: /fr-ca/shop/*/sf/embedded-box-pcs
 Disallow: /en-ca/shop/productdetailstxn/networking-n2000-series
 Disallow: /en-ca/shop/productdetailstxn/poweredge-r730
-Disallow: /fr-ca/shop/povw/powervault-ml6010
-Disallow: /fr-ca/shop/povw/powervault-tl2000
 Disallow: /fr-ca/shop/povw/sonicwall-nsa-series
 Disallow: /fr-ca/shop/povw/sonicwall-gms-series
-Disallow: /fr-ca/shop/povw/poweredge-r730
 Disallow: /fr-ca/shop/povw/equallogic-ps6210-series
-Disallow: /fr-ca/shop/povw/poweredge-r730xd
 
 Disallow: /zh-tw/shop/cty/pdp/spd/vxrail-g560
 Disallow: /zh-tw/shop/cty/pdp/spd/poweredge-r330
@@ -219,7 +216,6 @@ Disallow: /da-dk/shop/povw/networking-wireless-ruckus-controllers
 Disallow: /da-dk/shop/povw/poweredge-r720
 Disallow: /en-nz/shop/tv-deals/ar/8224
 Disallow: /en-nz/shop/gaming-deals/ar/8244
-Disallow: /en-nz/shop/gateways-embedded-computing/sf/embedded-box-pcs
 Disallow: /en-nz/shop/cty/sf/embedded-box-pcs
 Disallow: /en-nz/shop/2-in-1-pcs/sf/precision-2-in-1
 Disallow: /en-nz/shop/gateways-embedded-computing/sf/edge-gateway
@@ -502,7 +498,6 @@ Disallow: /ro-ro/
 Disallow: /ru-ru/
 Disallow: /fr-sn/
 Disallow: /tr-tr/
-Disallow: /ru-ua/
 Disallow: /ru-rs/
 Disallow: /fr-ed/
 Disallow: /en-ed/
@@ -884,6 +879,11 @@ Disallow: /en-us/dt/what-we-do/index-storage.htm
 Disallow: /en-us/dt/what-we-do/index-apex.htm
 Disallow: /support/order-status/*/order-collection
 Disallow: /uk-ua
+Disallow: /ru-ua
+Disallow: /en-ua
+Allow: /uk-ua/lp$
+Allow: /uk-ua/lp/homepage
+
 
 User-agent: Baiduspider
 Disallow: /
@@ -1178,4 +1178,4 @@ Sitemap: https://www.dell.com/index-video-xml-sitemap.xml.gz
 Sitemap: https://www.dell.com/index-downloads-dell-pdfs-sitemap.xml.gz
 Sitemap: https://www.dell.com/index-images-sitemap.xml.gz
 
-# Last modified 12 July 2022
+# Last modified 14 July 2022

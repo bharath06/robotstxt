@@ -6,8 +6,8 @@ Disallow: /*/*/currency-converter/
 Disallow: /*/swift-bic/
 
 # Stop bots from wasting crawl budget on these parameters
-Disallow: *sourceCurrency=*
 Disallow: *redirectUrl=*
+Disallow: /*?lang=
 
 # Allow bots to access API endpoints
 Allow: *gateway*sourceCurrency=*

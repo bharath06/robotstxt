@@ -8,8 +8,6 @@
 
 User-agent: *
 Allow: /secure/Subscribe/Gift
-Disallow: /academy/admin*
-Disallow: /academy/admin/*
 Disallow: /boards/localities.*/rss.xml
 Disallow: /boards/surnames.*/rss.xml
 Disallow: /boards/topics.*/rss.xml
@@ -87,4 +85,4 @@ Disallow: /savetoancestry*
 User-agent: sogou spider
 Disallow: /secure/
 
-## GB Updated 5 Apr 2022
+## GB Updated 14 Jul 2022

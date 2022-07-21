@@ -14,6 +14,9 @@ Disallow: *?w=note
 Disallow: *?w=away
 Disallow: /call?id=
 Disallow: /feed$
+Disallow: /feed*
+Disallow: /bookmarks*
+Disallow: /friends*
 Disallow: /gifts
 Disallow: /groups?id=
 Disallow: /narrative-
@@ -57,6 +60,7 @@ Disallow: /feed?section=search&q=
 Disallow: /wall*?with=
 Disallow: *?act=
 Disallow: /call/join*
+Disallow: /calls*
 Disallow: /429.html
 Allow: /apps?act=search_page&tags=
 Allow: /games?act=search_page&tags=
@@ -85,6 +89,9 @@ Disallow: *?w=note
 Disallow: *?w=away
 Disallow: /call?id=
 Disallow: /feed$
+Disallow: /feed*
+Disallow: /bookmarks*
+Disallow: /friends*
 Disallow: /gifts
 Disallow: /groups?id=
 Disallow: /narrative-
@@ -153,6 +160,9 @@ Disallow: *?w=note
 Disallow: *?w=away
 Disallow: /call?id=
 Disallow: /feed$
+Disallow: /feed*
+Disallow: /bookmarks*
+Disallow: /friends*
 Disallow: /gifts
 Disallow: /groups?id=
 Disallow: /narrative-

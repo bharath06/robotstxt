@@ -8,7 +8,7 @@ Disallow: /*?page=*
 Disallow: */search*
 Disallow: /*queryString=*
 Disallow: /*orientation=*
-Disallow: /*?filter=*
+Disallow: /*?filter*
 Disallow: /*?pricing=*
 Disallow: /thumb/
 Disallow: /3thumbs/

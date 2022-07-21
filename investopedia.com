@@ -1,33 +1,34 @@
 User-agent: *
-Disallow: *=
-
+Disallow: *=*
 Allow: /thmb/*
-Allow: *utm_medium=social
-Allow: *url=
-Allow: *externalComponentService=
-Disallow: /search?q=*
-Allow: *utm_medium=pinterest
+Allow: *utm_medium=social*
+Allow: *url=*
+Allow: *externalComponentService=*
+Allow: *utm_medium=pinterest*
 Allow: *_ga=*
-Allow: *?amp
+Allow: *?amp=*
 Disallow: *.pdf
-Disallow: *globeTest_
-Disallow: *quizResult=
-Noindex: *globeNoTest
+Disallow: *globeTest_*
+Disallow: *quizResult=*
 Disallow: *globeNoTest
-Noindex: *globeResourceConcat
 Disallow: *globeResourceConcat
-Noindex: *globeTest_optimizelyInclusion
 Disallow: *globeTest_optimizelyInclusion
-Noindex: *?kw
-Disallow: *?kw
-Disallow: *hid=
-
+Disallow: *?kw*
+Disallow: *hid=*
+Allow:*/search*
+Allow:*?partner*
+Allow:*?tvwidgetsymbol*
+Allow:*?lgl*
+Allow:*?utm_term*
+Allow:?utm_content*
+Allow:*?utm_campaign*
+Allow:*?utm_medium*
+Allow:*?utm_source*
+Allow:*?d_pv*
+Allow:*?yptr*
 User-agent: Pinterest
 Disallow:
-
 User-agent: Pinterestbot
 Disallow:
-
 Sitemap: https://www.investopedia.com/sitemap.xml
-
 Sitemap: https://www.investopedia.com/google-news-sitemap.xml

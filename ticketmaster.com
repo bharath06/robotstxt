@@ -91,3 +91,6 @@ Disallow: /resale/checkout
 Disallow: /resale/checkout/order
 Disallow: /json/isc
 Disallow: /exchange/checkout
+
+User-agent: bingbot
+Disallow: *_escaped_fragment_

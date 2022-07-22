@@ -1,15 +1,6 @@
 # robots.txt
 # Handbook of Robotics, 56th Edition, 2058 A.D.
 
-User-Agent: *
-Disallow: /logout*
-Disallow: /api/
-Disallow: /500*
-Disallow: /503*
-Disallow: /blocked*
-Disallow: /slack/*
-Disallow: /integrations/*
-Disallow: /invites/*
 
 User-agent: Fasterfox
 Disallow: /

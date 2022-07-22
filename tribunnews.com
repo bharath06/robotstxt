@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /api/
+Disallow: /setting/
+Disallow: /ajax/
+Disallow: /json/
+Disallow: /auth/
+Disallow: /member/
+Disallow: /socmed.php
+Sitemap: https://www.tribunnews.com/sitemap.xml

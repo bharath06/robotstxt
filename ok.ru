@@ -15,7 +15,7 @@ Disallow: /messages/join/*
 Disallow: /joincall/*
 Disallow: /gifts/link/*
 Disallow: /qrCode/*
-Clean-param: st%2Ecmd&st%2Elayer%2Ecmd&st%2E_forceSetHistory&st%2E_aid&__ref&cmn&autoplay&bonus&_cp_&promo&ad_id&group_bonus&imageId&nochat&promokey&adv_id&ref&gid&h_a&gift&1&silent&shareBonusFromPlayerGuid
+Clean-param: st%2Ecmd&st%2Elayer%2Ecmd&st%2E_forceSetHistory&st%2E_aid&__ref&cmn&autoplay&bonus&_cp_&promo&ad_id&group_bonus&imageId&nochat&promokey&adv_id&ref&gid&h_a&gift&1&silent&shareBonusFromPlayerGuid&st%2Eerror&st%2Eemail
 Sitemap: https://ok.ru/sitemap-index-misc.xml.gz
 Sitemap: https://ok.ru/sitemap-index-game.xml.gz
 Sitemap: https://ok.ru/sitemap-index-gift.xml.gz

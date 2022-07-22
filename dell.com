@@ -883,6 +883,12 @@ Disallow: /ru-ua
 Disallow: /en-ua
 Allow: /uk-ua/lp$
 Allow: /uk-ua/lp/homepage
+Disallow: */support/*/ru-ua
+Disallow: */support/*/uk-ua
+Disallow: */support/*/en-ua
+Disallow: */support/*/ua/ru/
+Disallow: */support/*/ua/uk/
+Disallow: */support/*/ua/en/
 
 
 User-agent: Baiduspider
@@ -1178,4 +1184,4 @@ Sitemap: https://www.dell.com/index-video-xml-sitemap.xml.gz
 Sitemap: https://www.dell.com/index-downloads-dell-pdfs-sitemap.xml.gz
 Sitemap: https://www.dell.com/index-images-sitemap.xml.gz
 
-# Last modified 14 July 2022
+# Last modified 21 July 2022

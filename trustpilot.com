@@ -10,6 +10,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -33,6 +34,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -56,6 +58,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -79,6 +82,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -102,6 +106,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -125,6 +130,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -148,6 +154,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -171,6 +178,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -194,6 +202,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -217,6 +226,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -240,6 +250,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -263,6 +274,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -286,6 +298,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -309,6 +322,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -332,6 +346,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -355,6 +370,7 @@ Disallow: /*?*editmode=
 Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
+Disallow: /*?*verified=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/

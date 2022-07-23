@@ -111,6 +111,7 @@ Disallow: /cevir-kazan
 Disallow: /configr
 Disallow: /diger-saticilar
 Disallow: /emlak
+Disallow: /form/
 Disallow: /flas-indirimler
 Disallow: /giris
 Disallow: /gw/

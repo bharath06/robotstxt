@@ -49,7 +49,6 @@ Disallow: /
 
 Sitemap: https://www.nytimes.com/sitemaps/new/news.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/sitemap.xml.gz
-Sitemap: https://www.nytimes.com/sitemaps/new/wire.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/collections.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/video.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/cooking.xml.gz

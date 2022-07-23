@@ -5,9 +5,10 @@ Allow: /blog/review
 Allow: /find/note
 Allow: /find/review
 Allow: /tokopoints/intro/
+Allow: /*/*/review
 Disallow: */tokopedia-lite-production/
 Disallow: /*.pl
-Disallow: /*/*/review
+Disallow: /now/*/review
 Disallow: /*/*/talk
 Disallow: /*/note
 Disallow: /*/review

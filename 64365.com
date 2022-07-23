@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /ajax/
+Disallow: /script/
+Disallow: /Admin/
+Disallow: /najax/
+Disallow: /seoPush/
+Disallow: /api/
+Disallow: /mvc/
+Disallow: /rpc/
+Disallow: /asksubmit/

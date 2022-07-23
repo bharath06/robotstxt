@@ -1,0 +1,19 @@
+User-agent: Bingbot
+Crawl-delay: 10
+Disallow: /respondendo/
+Disallow: /busca/
+Disallow: /reclamar/
+Disallow: /confieaqui/
+Disallow: /esqueci-minha-senha/*
+Disallow: /area-da-empresa/*
+Allow: /
+User-agent: Mediapartners-Google
+Disallow:
+User-agent: *
+Disallow: /respondendo/
+Disallow: /busca/
+Disallow: /reclamar/
+Disallow: /confieaqui/
+Disallow: /esqueci-minha-senha/*
+Disallow: /area-da-empresa/*
+Allow: /

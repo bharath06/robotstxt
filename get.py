@@ -28,7 +28,9 @@ def fetch_robot(site):
 		#Ignore if url returned error code
 		# 304 is return code for when the resource has not changed
 		if r.status_code not in [200, 304]:
-			return 1
+			r = requests.get(url, timeout=10, headers=headers)
+			if (r.status_code not in [200, 304]):
+				return 1
 
 		#Ignore if url returned html
 		if is_html(r):

@@ -291,6 +291,7 @@ Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
 
 Disallow: /addappterless
+Disallow: /archive
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_nooverride&utm_expid&gclid&_openstat&yclid&gsaid&_gs_rmark&_gs_ref&_gs_cttl&iframe /health/
@@ -332,6 +333,7 @@ Allow: /ugcpub/
 Disallow: /ugcpub/cabinet
 
 Disallow: /addappterless
+Disallow: /archive
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
@@ -614,6 +616,7 @@ Disallow: /soft/*goodbye*
 Disallow: /adult
 
 Disallow: /addappterless
+Disallow: /archive
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_nooverride&utm_expid&gclid&_openstat&yclid&gsaid&_gs_rmark&_gs_ref&_gs_cttl&iframe /health/
@@ -920,6 +923,7 @@ Disallow: /soft/*goodbye*
 Disallow: /adult
 
 Disallow: /addappterless
+Disallow: /archive
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_nooverride&utm_expid&gclid&_openstat&yclid&gsaid&_gs_rmark&_gs_ref&_gs_cttl&iframe /health/

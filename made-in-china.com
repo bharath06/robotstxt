@@ -1,0 +1,31 @@
+User-agent: *
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+Disallow: /*.do$
+Disallow: /*.do?
+Disallow: /*.action$
+Disallow: /*.action?
+Disallow: /sendInquiry/
+Disallow: /browsing-history/
+Disallow: /advanced-search/
+Disallow: /member/
+Disallow: /rss/
+Disallow: /ad?url=
+Disallow: /products-search/find-china-products/*-1.html
+Disallow: /errorDocs/
+Disallow: /multi-search/
+Disallow: */recommend/alsoLiked/*
+Disallow: /showroom/*/prod-question-count
+Disallow: /join/?sourceType
+Disallow: /start-order.html?from=
+Disallow: /go/
+Disallow: /company-search/
+Disallow: /deals/listProdDealsCoupon$
+Disallow: /deals/listProdDealsCoupon?
+
+User-agent: *
+Disallow: /cs/
+Disallow: /dt/
+
+User-agent: SemrushBot
+Disallow: /

@@ -1,0 +1,22 @@
+Sitemap: https://www.mercari.com/us-sitemap-index.xml
+User-agent: AdsBot-Google-Mobile
+User-agent: Googlebot-Image
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Googlebot
+User-agent: *
+Disallow: /tos/
+Disallow: /privacy/
+Disallow: /masters/
+Disallow: /jp/tos/
+Disallow: /jp/privacy/
+Disallow: /jp/tokutei/
+Disallow: /jp/masters/
+Disallow: /w9/
+Disallow: /jp/report/
+Disallow: /report/
+Disallow: /jp/comment/report/
+Disallow: /comment/report/
+Disallow: /transaction/*
+Disallow: /u/*/reviews/*

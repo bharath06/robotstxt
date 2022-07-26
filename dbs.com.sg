@@ -283,6 +283,7 @@ Disallow: /personal/deposits/bank-earn/multiplier-paylah
 Disallow: /treasures/investments/product-suite/structured-investments/reverse-gold-linked-notes
 Disallow: /personal/investments/fx-and-cash-managements/currency-linked-investments
 Disallow: /personal/deposits/pay-with-ease/games.page
+Disallow: /personal/promotion/bank-paynow-unlock
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

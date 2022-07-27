@@ -59,6 +59,11 @@ Disallow: /query%
 Disallow: /query?
 Disallow: /query/
 
+Disallow: /go/realty$
+Disallow: /go/realty%
+Disallow: /go/realty?
+Disallow: /go/realty/
+
 Disallow: /affiliate/info$
 Disallow: /affiliate/info%
 Disallow: /affiliate/info?

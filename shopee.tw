@@ -29,6 +29,7 @@ Disallow: /search?originalCategoryId=
 Disallow: /addon-deal-selection/
 Disallow: /bundle-deal/
 Disallow: ?sp_atk=
+Disallow: /search_user
 
 User-Agent:*
 Crawl-delay:1

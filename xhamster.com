@@ -72,7 +72,12 @@ disallow: */categories/*/best*&min-duration=
 disallow: /exit.php
 disallow: */*/*/vr?*dimension=
 disallow: */*/*/vr?*angle=
-disallow: */*/*/vr?*fps=
+disallow: */categories/*fps=
+disallow: */tags/*fps=
+disallow: */channels/*fps=
+disallow: */pornstars/*fps=
+disallow: */creators/*fps=
+disallow: */celebrities/*fps=
 disallow: /signup?
 disallow: /api/
 disallow: */search/*cats=

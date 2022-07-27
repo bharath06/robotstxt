@@ -49,7 +49,7 @@ Disallow: /blog/*/search-results?q
 Disallow: /blog/search-results?q
 Disallow: /experts-arena/
 Disallow: /createawebsite/
-Disallow: /website/templates/*?screen=
+Disallow: /website/templates*?screen=
 Disallow: /*?sort=
 
 Sitemap: https://www.wix.com/sitemap.xml

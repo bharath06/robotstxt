@@ -297,9 +297,14 @@ Disallow: /
 User-agent: archive.org_bot
 Disallow: /
 
-User-agent:  AdsBot-Google
-allow: /insure/web/protectfirst/
+User-agent: Googlebot
+Disallow:
 
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
 
 Sitemap: https://www.dbs.com.sg/sitemap-personal-2022.xml
 Sitemap: https://www.dbs.com.sg/sme/sitemap.xml

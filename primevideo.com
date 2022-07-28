@@ -23,6 +23,8 @@ Disallow: /hp/video/optout
 Disallow: /region/*/gp/video/optout
 Disallow: /region/*/hp/video/optout
 Disallow: /region/*/optout
+Disallow: /detail/Ashish-Chanchlani/
+Disallow: /detail/Farzi-Mushaira/
 Disallow: /dp/B094H6XS9L
 Disallow: /dp/B08NXLW1HX
 Disallow: /dp/B08XBJ43BG
@@ -20587,6 +20589,25 @@ Disallow: /dp/B0B5ZYN9NT
 Disallow: /dp/B0B5XG63FR
 Disallow: /dp/B0B62NS1X8
 Disallow: /dp/B0B5PS6VJD
+Disallow: /dp/B09WL2T59R
+Disallow: /dp/B09WKZH8T7
+Disallow: /dp/B09WL3NQ1H
+Disallow: /dp/B09WL1RRBK
+Disallow: /dp/B09WL2KQ78
+Disallow: /dp/B0B5M5FC36
+Disallow: /dp/B0B5K1FRY8
+Disallow: /dp/B0B5KTFHDK
+Disallow: /dp/B0B5M2SRG6
+Disallow: /dp/B0B5KZ4ZML
+Disallow: /dp/B0B5NHLJRH
+Disallow: /dp/B0B5NBD57J
+Disallow: /dp/B0B5NKBJVM
+Disallow: /dp/B0B5NB877R
+Disallow: /dp/B0989SM9B3
+Disallow: /dp/B0989MZ64F
+Disallow: /dp/B0989RGCCF
+Disallow: /dp/B0989QNS5S
+Disallow: /dp/B098BDRNFF
 
 
 User-agent: EtaoSpider

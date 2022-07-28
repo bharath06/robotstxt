@@ -30,6 +30,8 @@ Disallow: /addon-deal-selection/
 Disallow: /bundle-deal/
 Disallow: *?sp_atk=
 Disallow: /search_user
+Disallow: /search?keyword=*å¾®ä¿¡
+Disallow: /search?keyword=*.com
 
 User-Agent:*
 Disallow: /cart/

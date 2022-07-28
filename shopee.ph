@@ -31,6 +31,7 @@ Disallow: /addon-deal-selection/
 Disallow: /bundle-deal/
 Disallow: *?sp_atk=
 Disallow: /search_user
+Disallow: /search?keyword=*.com
 
 User-Agent:*
 Crawl-delay:1

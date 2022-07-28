@@ -125,6 +125,9 @@ Disallow: /Login
 Disallow: /magaza/profil
 Disallow: /onceden-gezdiklerim
 Disallow: /onceden-gezdiklerim
+Disallow: /pd?
+Disallow: /pd/
+Disallow: /pd$
 Disallow: /sanaozel
 Disallow: /sepet$
 Disallow: /Sepet$

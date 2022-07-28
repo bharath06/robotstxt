@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Allow: /hire/*?*isid=
 Disallow: /*rt=nc
 Disallow: /*&alid=
 Disallow: /*&calert=
@@ -160,6 +161,7 @@ Disallow: /Zeige-Job?
 
 User-agent: Googlebot
 Allow: /
+Allow: /hire/*?*isid=
 Disallow: /*rt=nc
 Disallow: /*&alid=
 Disallow: /*&calert=
@@ -320,6 +322,7 @@ Disallow: /Zeige-Job?
 
 User-agent: Bingbot
 Allow: /
+Allow: /hire/*?*isid=
 Disallow: /*rt=nc
 Disallow: /*&alid=
 Disallow: /*&calert=

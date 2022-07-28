@@ -35,6 +35,10 @@ Allow: /commerce$
 Allow: /commerce/
 Allow: /api/taxonomy$
 Allow: /api/taxonomy/
+Allow: /api/template-taxonomy-service$
+Allow: /api/template-taxonomy-service/
+Allow: /api/billing$
+Allow: /api/billing/
 Allow: /templates$
 Allow: /templates/
 Allow: /tour$
@@ -92,6 +96,10 @@ Allow: /commerce$
 Allow: /commerce/
 Allow: /api/taxonomy$
 Allow: /api/taxonomy/
+Allow: /api/template-taxonomy-service$
+Allow: /api/template-taxonomy-service/
+Allow: /api/billing$
+Allow: /api/billing/
 Allow: /templates$
 Allow: /templates/
 Allow: /tour$
@@ -149,6 +157,10 @@ Allow: /commerce$
 Allow: /commerce/
 Allow: /api/taxonomy$
 Allow: /api/taxonomy/
+Allow: /api/template-taxonomy-service$
+Allow: /api/template-taxonomy-service/
+Allow: /api/billing$
+Allow: /api/billing/
 Allow: /templates$
 Allow: /templates/
 Allow: /tour$
@@ -206,6 +218,10 @@ Allow: /commerce$
 Allow: /commerce/
 Allow: /api/taxonomy$
 Allow: /api/taxonomy/
+Allow: /api/template-taxonomy-service$
+Allow: /api/template-taxonomy-service/
+Allow: /api/billing$
+Allow: /api/billing/
 Allow: /templates$
 Allow: /templates/
 Allow: /tour$

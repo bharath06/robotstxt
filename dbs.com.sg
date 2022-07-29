@@ -284,6 +284,8 @@ Disallow: /treasures/investments/product-suite/structured-investments/reverse-go
 Disallow: /personal/investments/fx-and-cash-managements/currency-linked-investments
 Disallow: /personal/deposits/pay-with-ease/games.page
 Disallow: /personal/promotion/bank-paynow-unlock
+Disallow: /iwov-resources/pdf/cards/cards_faqs_individuals_update.pdf
+Disallow: /personal/dms-terms.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

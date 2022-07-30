@@ -286,6 +286,14 @@ Disallow: /personal/deposits/pay-with-ease/games.page
 Disallow: /personal/promotion/bank-paynow-unlock
 Disallow: /iwov-resources/pdf/cards/cards_faqs_individuals_update.pdf
 Disallow: /personal/dms-terms.page
+Disallow: /personal/cards/promotions/sg-WPVD-Convenience.page
+Disallow: /personal/cards/promotions/sg-WPVD-SafeContactless.page
+Disallow: /personal/cards/promotions/sg-WPVD-TrackFinances.page
+Disallow: /personal/cards/promotions/sg-WPVD-Cashback.page
+Disallow: /personal/cards/promotions/sg-WPVD.page
+Disallow: /personal/cards/promotions/sg-WPVD-Translations.page
+
+
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

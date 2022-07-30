@@ -779,3 +779,11 @@ Sitemap: https://www.icicibank.com/sitemap.xml
 Sitemap: https://www.icicibank.com/blogs-sitemap.xml
 Sitemap: https://www.icicibank.com/branch-sitemap.xml
 Sitemap: https://www.icicibank.com/nri-banking/sitemap.xml
+Sitemap: https://www.icicibank.com/offers-sitemap.xml
+Sitemap: https://www.icicibank.com/atm-sitemap.xml
+Sitemap: https://www.icicibank.com/find-atm-branch-sitemap.xml
+Sitemap: https://www.icicibank.com/videos-sitemap.xml
+Sitemap: https://www.icicibank.com/terms-condition-sitemap.xml
+Sitemap: https://www.icicibank.com/service-charges-sitemap.xml
+Sitemap: https://www.icicibank.com/disclaimer-sitemap.xml
+

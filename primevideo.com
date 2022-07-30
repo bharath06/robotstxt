@@ -26,6 +26,8 @@ Disallow: /region/*/optout
 Disallow: /detail/Ashish-Chanchlani/
 Disallow: /detail/Farzi-Mushaira/
 Disallow: /detail/Case-Toh-Banta-Hai
+Disallow: /detail/0U66E49JBHPKV0MPS0XXVW3XRX
+Disallow: /detail/Case-Toh-Banta-Hai/0FTI4RC3HWOSIMNGKJUHU727EN
 Disallow: /dp/B094H6XS9L
 Disallow: /dp/B08NXLW1HX
 Disallow: /dp/B08XBJ43BG

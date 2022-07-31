@@ -6,6 +6,7 @@ Disallow: /edu/
 sitemap: https://www.mayoclinic.org/arabic_condition_consolidated_concepts.xml
 sitemap: https://www.mayoclinic.org/arabic_organization_concepts.xml
 sitemap: https://www.mayoclinic.org/arabic_patient_consumer_faq.xml
+sitemap: https://www.mayoclinic.org/arabic_patient_consumer_recipe.xml
 sitemap: https://www.mayoclinic.org/arabic_patient_consumer_video.xml
 sitemap: https://www.mayoclinic.org/arabic_patient_consumer_web.xml
 sitemap: https://www.mayoclinic.org/arabic_procedure_concepts.xml

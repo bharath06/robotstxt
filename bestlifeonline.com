@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
 Sitemap: https://bestlifeonline.com/sitemapindex.xml
 Sitemap: https://bestlifeonline.com/post_google_news.xml
@@ -14,3 +13,6 @@ Sitemap: https://bestlifeonline.com/post_google_news.xml
     # Shop Allow AdsBot-Google to crawl
     User-agent: AdsBot-Google
     Allow: /shop/*?s=
+
+Sitemap: https://galvanized.com/sitemap_index.xml
+Sitemap: https://www.galvanizedbooks.com/sitemap_index.xml

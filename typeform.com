@@ -1,6 +1,5 @@
 User-agent: *
 # Paths
-Disallow: /*?_
 Disallow: /*?tic
 Disallow: /*?/ref
 Disallow: /*?%2526tf_campaign%253D

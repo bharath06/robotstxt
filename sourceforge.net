@@ -31,7 +31,6 @@ Disallow: /projects/*/files/*/stats/json
 Disallow: /projects/*/latest.json
 # Disallow: /projects/*/report_inappropriate
 Disallow: /projects/*/rss
-Disallow: /projects/*/postdownload*
 Disallow: /projects/*/lists/*/unsubscribe
 Disallow: /*_escaped_fragment_
 Disallow: /auth/do_login

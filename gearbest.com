@@ -86,4 +86,5 @@ Sitemap: https://www.gearbest.com/sitemap/rss-index.xml
 Sitemap: https://www.gearbest.com/sitemap/sitemap-index.xml
 Sitemap: https://www.gearbest.com/sitemap/image-index.xml
 Sitemap: https://www.gearbest.com/sitemap/alternate-index.xml
+Sitemap: https://www.gearbest.com/sitemap/video-index.xml
 Sitemap: https://www.gearbest.com/sitemap/rss-index.xml

@@ -330,6 +330,8 @@ Disallow: */learn/footer-menu/
 Disallow: */voice/product-menu/
 Disallow: */voice/footer-menu/
 Disallow: /sites/default/files/commandcenter/commandcenter-as-a-service-helpdoc.pdf
+Disallow: /sites/default/files/crm/signup_onboarding_loader.mp4
+Disallow: /thrive/
 
 User-agent: Googlebot-Image
 Disallow: /branding/images/dont-04.png

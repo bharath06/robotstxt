@@ -105,3 +105,6 @@ Disallow: *.emailjson
 Disallow: *.emailtxt
 Disallow: /headline.txt
 
+User-agent: NewsNow
+Disallow: /
+

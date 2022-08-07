@@ -15,8 +15,6 @@ Disallow: /contact
 Disallow: /privacy_policy
 Disallow: /dmca_notification
 Disallow: /search
-Disallow: /sponsor/shutterstock
-Disallow: /edge/shutterstock
 Disallow: /profile/payment/getstarted/*
 Disallow: /profile/license
 Disallow: /profile/downloads_limit

@@ -237,7 +237,6 @@ Disallow: /video/*/preview
 Allow: /video/$
 Allow: /video/?
 Allow: /video/sitemap
-Allow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/
 Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*text=
 Allow: /video/dizi-izle/
 Allow: /video/dizi-izle/?
@@ -245,10 +244,6 @@ Allow: /video/yerli-dizi-izle/
 Allow: /video/yabanci-dizi-izle/
 Allow: /video/touch/
 Allow: /video/pad/
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%B2%D0%BD%D0%B5-%D0%B8%D0%B3%D1%80%D1%8B*
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9-%D0%B0%D1%80%D0%B5%D1%81%D1%82*
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8*
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE-%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D0%B5*
 Disallow: /xmlsearch
 
 Disallow: /yaca
@@ -292,6 +287,8 @@ Disallow: /mirror*?*ajax=1*
 
 Disallow: /addappterless
 Disallow: /archive
+
+Allow: /video/search?text=video$
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_nooverride&utm_expid&gclid&_openstat&yclid&gsaid&_gs_rmark&_gs_ref&_gs_cttl&iframe /health/
@@ -571,7 +568,6 @@ Disallow: /video/*filmId=*
 Allow: /video/$
 Allow: /video/?
 Allow: /video/sitemap
-Allow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/
 Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*text=
 Allow: /video/dizi-izle/
 Allow: /video/dizi-izle/?
@@ -579,10 +575,6 @@ Allow: /video/yerli-dizi-izle/
 Allow: /video/yabanci-dizi-izle/
 Allow: /video/touch/
 Allow: /video/pad/
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%B2%D0%BD%D0%B5-%D0%B8%D0%B3%D1%80%D1%8B*
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9-%D0%B0%D1%80%D0%B5%D1%81%D1%82*
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8*
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE-%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D0%B5*
 Disallow: /xmlsearch
 
 Disallow: /yaca
@@ -880,16 +872,11 @@ Disallow: /video/touch
 Allow: /video/$
 Allow: /video/?
 Allow: /video/sitemap
-Allow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/
 Allow: /video/dizi-izle/
 Allow: /video/dizi-izle/?
 Allow: /video/yerli-dizi-izle/
 Allow: /video/yabanci-dizi-izle/
 Allow: /video/pad/
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%B2%D0%BD%D0%B5-%D0%B8%D0%B3%D1%80%D1%8B*
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9-%D0%B0%D1%80%D0%B5%D1%81%D1%82*
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8*
-Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB/%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE-%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D0%B5*
 Disallow: /xmlsearch
 
 Disallow: /yaca
@@ -924,6 +911,8 @@ Disallow: /adult
 
 Disallow: /addappterless
 Disallow: /archive
+
+Allow: /video/search?text=video$
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_nooverride&utm_expid&gclid&_openstat&yclid&gsaid&_gs_rmark&_gs_ref&_gs_cttl&iframe /health/

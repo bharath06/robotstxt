@@ -1303,9 +1303,6 @@ Allow: /it/mailinglist/email/
 Allow: /jp/mailinglist/email/
 Allow: /pl/mailinglist/email/
 Sitemap: https://www.etsy.com/sitemaps.xml
-Sitemap: https://www.etsy.com/dynamic-sitemaps.xml?sitemap=promossitemap
-Sitemap: https://www.etsy.com/dynamic-sitemaps.xml?sitemap=localsitemap
-Sitemap: https://www.etsy.com/dynamic-sitemaps.xml?sitemap=findssitemap
 Sitemap: https://www.etsy.com/listing_sitemaps/en/index.xml.gz
 Sitemap: https://www.etsy.com/de/listing_sitemaps/de_shops/listing_index_de_shops.xml.gz
 Sitemap: https://www.etsy.com/de/listing_sitemaps/non_de_shops/listing_index_non_de_shops.xml.gz
@@ -1573,7 +1570,7 @@ Sitemap: https://www.etsy.com/at/sitemaps/home.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/home.xml
 Sitemap: https://www.etsy.com/be/sitemaps/home.xml
 #
-# What's all this then?#   \
+# Hoi!#   \
 #
 #    -----
 #   | . . |

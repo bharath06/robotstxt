@@ -28,7 +28,6 @@ sina.com.cn
 xvideos.com
 vk.com
 pornhub.com
-office.com
 tiktok.com
 canva.com
 stackoverflow.com
@@ -45,7 +44,6 @@ myshopify.com
 t.co
 tmall.com
 amazon.in
-microsoftonline.com
 douban.com
 ebay.com
 1688.com
@@ -60,7 +58,6 @@ google.co.in
 spankbang.com
 duckduckgo.com
 pikiran-rakyat.com
-telegram.org
 twitch.tv
 cnblogs.com
 discord.com
@@ -71,7 +68,6 @@ indeed.com
 xnxx.com
 tradingview.com
 merdeka.com
-twimg.com
 wordpress.com
 alipay.com
 flipkart.com
@@ -82,10 +78,8 @@ jianshu.com
 tencent.com
 tribunnews.com
 etsy.com
-amazonaws.com
 w3schools.com
 nytimes.com
-t.me
 pixiv.net
 booking.com
 sogou.com
@@ -106,7 +100,6 @@ imgur.com
 fiverr.com
 youdao.com
 ok.ru
-realsrv.com
 bbc.co.uk
 doubleclick.net
 avito.ru
@@ -137,7 +130,6 @@ udemy.com
 onlyfans.com
 zillow.com
 savefrom.net
-cloudfront.net
 instructure.com
 atlassian.net
 shopify.com
@@ -170,7 +162,6 @@ daum.net
 slack.com
 google.ru
 gamersky.com
-googlevideo.com
 tistory.com
 gosuslugi.ru
 zhibo8.cc

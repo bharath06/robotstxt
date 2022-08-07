@@ -103,6 +103,7 @@ Disallow: /*/*-p-*/saticilar
 Disallow: /*/*-p-*/saticiya-sor
 Disallow: /*/*-p-*/yorum-yap
 Disallow: /*/*-p-*/yorumlar
+Disallow: /*/*-p-*/reviews
 Disallow: /authentication/logout
 Disallow: /basket/getbasketitemcountasync
 Disallow: /Basket/GetBasketItemCountAsync
@@ -125,6 +126,9 @@ Disallow: /Login
 Disallow: /magaza/profil
 Disallow: /onceden-gezdiklerim
 Disallow: /onceden-gezdiklerim
+Disallow: /pd?
+Disallow: /pd/
+Disallow: /pd$
 Disallow: /sanaozel
 Disallow: /sepet$
 Disallow: /Sepet$

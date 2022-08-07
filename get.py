@@ -1,12 +1,22 @@
-from datetime import date
+import argparse
 import codecs
-from multiprocessing import Pool, cpu_count
 import concurrent.futures
+from datetime import date
+from multiprocessing import Pool, cpu_count
 import os
-import requests
 import pprint
+import requests
+
 import _thread
 
+
+
+def parse_args():
+	global urls_file
+	parser = argparse.ArgumentParser()
+	parser.add_argument('--url_file', help='file with list of urls, one per line', default="top1k.txt")
+	args = parser.parse_args()
+	urls_file = args.url_file
 
 def is_html(r):
 	#Alibaba does not return content-type in its headers
@@ -22,7 +32,6 @@ def fetch_robot(site):
 	try:
 		url = "https://" + site + "/robots.txt"
 		# Trying with user agent set in the header has facebook return error message?
-		# adding verify parameter as some urls fail SSL validation 
 		r = requests.get(url, timeout=10)
 		
 		#Ignore if url returned error code
@@ -102,6 +111,9 @@ errors = {}
 #error logging
 #log how many files were added / updated etc.
 
+
+
 if __name__ == "__main__":
+	parse_args();
 	run_main();
 

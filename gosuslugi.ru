@@ -67,6 +67,7 @@ Allow: /ipoteka
 Allow: /fancard
 Allow: /find_service
 Allow: /molodym
+Allow: /vuzks
 
 User-agent: GoogleBot
 Disallow: *2019_08_09_super_services
@@ -162,6 +163,7 @@ Allow: /ipoteka
 Allow: /fancard
 Allow: /find_service
 Allow: /molodym
+Allow: /vuzks
 
 User-agent: *
 Disallow: *2019_08_09_super_services
@@ -257,8 +259,9 @@ Allow: /ipoteka
 Allow: /fancard
 Allow: /find_service
 Allow: /molodym
+Allow: /vuzks
 
 Clean-param: utm_campaign&utm_source&utm_term&utm_medium&utm_startpage&utm_orderpage&utm_referer&utm_content
-Clean-param: q&special&from&serviceTargetExtId&p&id&contacts&layer&filters
+Clean-param: q&special&from&serviceTargetExtId&p&id&contacts&layer&filter
 
 Sitemap: https://www.gosuslugi.ru/sitemap/all-sitemap.xml

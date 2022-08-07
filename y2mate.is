@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 User-agent: *
 Disallow: /analyze
 
 Sitemap: https://y2mate.is/sitemap.xml
+=======
+User-agent: *
+Disallow: /analyze
+
+Sitemap: https://y2mate.is/sitemap.xml
+>>>>>>> c881411106adf687acaf306d655ca150e70ee17f

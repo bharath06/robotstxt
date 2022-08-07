@@ -135,6 +135,12 @@ Allow: /
 
 
 
+<<<<<<< HEAD
 Sitemap: https://sitemap.canva.com/marketplace_templates_search_pages/index.xml
 Sitemap: https://sitemap.canva.com/marketplace_templates/index.xml
 Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
+=======
+Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_templates/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_templates_search_pages/index.xml
+>>>>>>> c881411106adf687acaf306d655ca150e70ee17f

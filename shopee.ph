@@ -30,6 +30,11 @@ Disallow: /search?originalCategoryId=
 Disallow: /addon-deal-selection/
 Disallow: /bundle-deal/
 Disallow: *?sp_atk=
+<<<<<<< HEAD
+=======
+Disallow: /search_user
+Disallow: /search?keyword=*.com
+>>>>>>> c881411106adf687acaf306d655ca150e70ee17f
 
 User-Agent:*
 Crawl-delay:1

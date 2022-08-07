@@ -1,19 +1,21 @@
 User-agent: *
 Disallow: /videoLikes?id=
 Disallow: /videoComments?id=
-Disallow: /comments
+Disallow: /videoShare?id=
 Disallow: /login
 Disallow: /signup
 Disallow: /register
-Disallow: /lostaccount
-Disallow: /resetpass
+Disallow: /lostAccount
+Disallow: /resetPass
 Disallow: /upload
-Disallow: /vastad?name=
+Disallow: /vastAd?name=
 Disallow: /videobox
 Disallow: /abuse?video=
 Disallow: /*/likes
 Disallow: /*/followers
 Disallow: /image/chaptcha?k=
+Disallow: /playlistVideos?id=
+Disallow: /playlistShare?id=
 
 User-agent: Slurp
 Crawl-delay: 1

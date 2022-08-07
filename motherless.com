@@ -16,3 +16,8 @@ Disallow: /subscribers
 Disallow: /subscribe
 Disallow: /view
 Disallow: /u/anonymous
+Disallow: /search*page=*
+Disallow: /term*page=*
+
+User-agent: bingbot
+Crawl-delay: 1

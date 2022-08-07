@@ -8,7 +8,14 @@ Disallow: 		/topics/*?p=
 Disallow: 		/swf 
 Disallow: 		/static/__sdemo__/ 
 Disallow: 		/quotidiano 
+<<<<<<< HEAD
 Disallow: 		/politica/2021/01/22/news/blitz_contro_la_ndrangheta_nella_rubrica_di_gallo_la_rete_dei_rapporti_fra_cosche_e_politica-283822542/ 
+=======
+Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il_posto_e_costera_all_erario_mezzo_milione_di_euro[1]156371739/ 
+Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il_posto_e_costera_all_erario_mezzo_milione_di_euro-156371739/ 
+Disallow: 		/politica/2016/07/06/news/pressioni_per_assunzioni_in_poste_la_difesa_di_sarmi_sono_solo_millanterie_-143523109/ 
+Disallow: 		/politica/2016/07/06/news/alfano_jr_dai_sospetti_sulla_laurea_alle_poste-143529430/ 
+>>>>>>> c881411106adf687acaf306d655ca150e70ee17f
 Disallow: 		/online3 
 Disallow: 		/online/cronaca/veronaecstasy/bologna/bologna.html 
 Disallow: 		/news/ired/ultimora/cronaca/rep_cronaca_n_3487677.html 
@@ -25,11 +32,17 @@ Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
 Disallow: 		/economia/finanza/2012/01/28/news/micalizzi_condannato_a_sei_anni_il_madoff_della_bocconi-217673643/ 
 Disallow: 		/dal-quotidiano/ 
+<<<<<<< HEAD
 Disallow: 		/cronaca/2014/06/25/news/i_casalesi_chiedevano_il_pizzo_agli_operai_della_ricostruzione_dellaquila-89965796/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 
 Disallow: 		/2009/10/sezioni/cronaca/tangenti-bari/tangenti-bari/tangenti-bari.html 
+=======
+Disallow: 		/corporate/privacy/index_static.html? 
+Disallow: 		/cgi-bin/back.cgi 
+Disallow: 		/blaize/datalayer 
+>>>>>>> c881411106adf687acaf306d655ca150e70ee17f
 Disallow: 		/2006/05/gallerie/politica/farabutti-foto-lettori-95/esterne191030071909103240_big.jpg 
 Disallow: 		/2006/05/gallerie/politica/farabutti-foto-lettori-95/esterne191030071909103240.jpg 
 Disallow: 		/serietv/schede/cerca/?query= 

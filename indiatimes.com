@@ -11,7 +11,7 @@ Disallow: /search/*
 Disallow: /user/*
 
 #Sitemaps
-Sitemap: https://www.indiatimes.com/central-service/hindi/webstories/sitemap-index.xml
+Sitemap:https://www.indiatimes.com/central-service/hindi/webstories/sitemap-index.xml
 Sitemap:https://www.indiatimes.com/central-service/sitemap/section.xml 
 Sitemap:https://www.indiatimes.com/central-service/sitemap/section-stories/sitemap-index.xml 
 Sitemap:https://www.indiatimes.com/central-service/sitemap/content/latest-index.xml 

@@ -31,6 +31,10 @@ Disallow: /addon-deal-selection/
 Disallow: /bundle-deal/
 Disallow: *?sp_atk=
 Disallow: *__classic__=1
+<<<<<<< HEAD
+=======
+Disallow: /search_user
+>>>>>>> c881411106adf687acaf306d655ca150e70ee17f
 
 User-Agent:*
 Crawl-delay:1

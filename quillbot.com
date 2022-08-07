@@ -6,3 +6,5 @@ Disallow: /extension
 Disallow: /native
 Disallow: /app
 Disallow: /api-access
+Disallow: /cdn-cgi/
+Disallow: /abtest

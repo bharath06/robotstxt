@@ -48,6 +48,9 @@ Disallow: */blog/page/
 Disallow: */Infogramuploader/
 Disallow: /wp-content/uploads/
 Disallow: /blog/topic/*/feed/
+Disallow: /*?s=*
+Disallow: /page/
+
 
 
 # Disallow existing pages based on localized websites

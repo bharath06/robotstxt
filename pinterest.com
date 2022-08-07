@@ -199,6 +199,7 @@ Disallow: /welcome/
 Disallow: /your-shop/
 Disallow: /your-shop/*
 
+<<<<<<< HEAD
 Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_today_article_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/readable_pin_url_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/active_pin_readable_url_sitemap_www.pinterest.com.xml
@@ -206,6 +207,15 @@ Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_www.pin
 Sitemap: https://www.pinterest.com/v3_sitemaps/tier_1_candidates_sitemap_13_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/random_scoore_pin_image_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/high_scoore_pin_image_sitemap_www.pinterest.com.xml
+=======
+Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/tier_1_candidates_sitemap_13_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_today_article_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/readable_pin_url_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_scoore_pin_image_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/active_pin_readable_url_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/random_scoore_pin_image_sitemap_www.pinterest.com.xml
+>>>>>>> c881411106adf687acaf306d655ca150e70ee17f
 Sitemap: https://www.pinterest.com/v3_sitemaps/readable_single_image_pin_url_www.pinterest.com.xml
 
 User-agent: Googlebot

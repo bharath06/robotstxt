@@ -41,6 +41,9 @@ Disallow: /blog/*/author/admin/
 # Sitemaps
 Sitemap: https://www.lemonde.fr/sitemap_news.xml
 Sitemap: https://www.lemonde.fr/sitemap_index.xml
+# Sitemaps EN
+Sitemap: https://www.lemonde.fr/en/sitemap_news.xml
+Sitemap: https://www.lemonde.fr/en/sitemap_index.xml
 #
 User-agent: Googlebot-Image
 Allow: /image/

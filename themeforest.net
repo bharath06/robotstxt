@@ -27,6 +27,7 @@ Disallow: *item_id
 Disallow: /my/*
 Disallow: *discount_type=*
 Disallow: /storefront/
+Disallow: /cdn-cgi/
 
 User-agent: Pinterest
 Crawl-delay: 1

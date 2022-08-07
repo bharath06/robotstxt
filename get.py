@@ -14,10 +14,12 @@ import _thread
 def parse_args():
 	global urls_file
 	global url
+	global args
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--url_file', help='file with list of urls, one per line', default="top1k.txt")
 	parser.add_argument('--site', help='site to fetch robots.txt from', default=None)
-	
+	parser.add_argument('--skip_push', help='Skips pushing to git', default=False)
+
 	args = parser.parse_args()
 	urls_file = args.url_file
 	url = args.site
@@ -97,7 +99,9 @@ def run_main():
 
 	os.system(cmds[1])
 	os.system(cmds[2])
-	#os.system(cmds[3])
+
+	if (not args.skip_push):
+		os.system(cmds[3])
 
 	pprint.pprint(errors)
 
@@ -120,7 +124,6 @@ headers = {'User-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 errors = {}
 
 #Make this a command line
-#Optional run with just one site
 #optional print to stdout
 #option write to file
 #optional push to git

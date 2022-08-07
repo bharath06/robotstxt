@@ -53,6 +53,15 @@ def fetch_robot(site):
 		return 3
 	return 0
 
+def get_list_of_sites():
+	if (url == None):
+		fu = open(urls_file)
+		lines = fu.readlines()
+		sites = [line.rstrip() for line in lines]
+	else:
+		sites = [url]
+
+
 def run_main():
 	fu = open(urls_file)
 	lines = fu.readlines()
@@ -91,6 +100,7 @@ today = date.today()
 todayString = today.strftime("%d/%m/%Y")
 
 urls_file = "top1k.txt"
+url = None
 cmds = [
 "git pull",
 "git add .",

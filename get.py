@@ -18,7 +18,7 @@ def parse_args():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--url_file', help='file with list of urls, one per line', default="top1k.txt")
 	parser.add_argument('--site', help='site to fetch robots.txt from', default=None)
-	parser.add_argument('--skip_push', help='Skips pushing to git', default=False)
+	parser.add_argument('--skip_push', help='Skips pushing to git', action=argparse.BooleanOptionalAction, default=False)
 
 	args = parser.parse_args()
 	urls_file = args.url_file

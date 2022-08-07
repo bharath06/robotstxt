@@ -13,10 +13,15 @@ import _thread
 
 def parse_args():
 	global urls_file
+	global url
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--url_file', help='file with list of urls, one per line', default="top1k.txt")
+	parser.add_argument('--site', help='site to fetch robots.txt from', default=None)
+	
 	args = parser.parse_args()
 	urls_file = args.url_file
+	url = args.site
+
 
 def is_html(r):
 	#Alibaba does not return content-type in its headers
@@ -60,12 +65,14 @@ def get_list_of_sites():
 		sites = [line.rstrip() for line in lines]
 	else:
 		sites = [url]
+	return sites
 
 
 def run_main():
-	fu = open(urls_file)
-	lines = fu.readlines()
-	sites = [line.rstrip() for line in lines]
+	#fu = open(urls_file)
+	#lines = fu.readlines()
+	#sites = [line.rstrip() for line in lines]
+	sites = get_list_of_sites()
 	print(len(sites))
 
 	os.system(cmds[0])

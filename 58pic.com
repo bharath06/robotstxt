@@ -66,4 +66,3 @@ Disallow: /d-most.html
 Disallow: /d-like.html
 Disallow: /assess.html
 Disallow: /tj/
-Disallow: /c/

@@ -283,8 +283,6 @@ Disallow: /personal/deposits/bank-earn/multiplier-paylah
 Disallow: /treasures/investments/product-suite/structured-investments/reverse-gold-linked-notes
 Disallow: /personal/investments/fx-and-cash-managements/currency-linked-investments
 Disallow: /personal/deposits/pay-with-ease/games.page
-<<<<<<< HEAD
-=======
 Disallow: /personal/promotion/bank-paynow-unlock
 Disallow: /iwov-resources/pdf/cards/cards_faqs_individuals_update.pdf
 Disallow: /personal/dms-terms.page
@@ -300,7 +298,6 @@ Disallow: /Contact/Contact/posb/deposits/sb-casa-personal/default.page
 Disallow: /Contact/Contact/posb/deposits/sb-casa-personal/complete.page
 Disallow: /personal/landing/dbs-multiplier/index.html
 
->>>>>>> c881411106adf687acaf306d655ca150e70ee17f
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

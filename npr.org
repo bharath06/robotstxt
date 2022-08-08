@@ -18,10 +18,6 @@ Disallow: /*.au
 Disallow: /stations/force/force_localization.php?
 Disallow: /rundowns/segment.php?
 Disallow: /templates/search/*
-<<<<<<< HEAD
-Disallow: /search*
-=======
->>>>>>> c881411106adf687acaf306d655ca150e70ee17f
 Disallow: /2013/03/21/174840895/
 Disallow: /sections/ombudsman/2008/01/frequently_asked_questions_1.html
 Disallow: /sections/health-shots/2013/03/11/173816690/new-voices-for-the-voiceless-synthetic-speech-gets-an-upgrade

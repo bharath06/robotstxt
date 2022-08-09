@@ -51,8 +51,7 @@ def fetch_robot(site):
 		#Ignore if url returned html
 		if is_html(r):
 			return 2
-		op_file_name = "output/".site
-		f = codecs.open(op_file_name, "w", "utf-8")
+		f = codecs.open(site, "w", "utf-8")
 		f.write(r.text)
 		f.close()
 	except Exception as e:

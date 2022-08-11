@@ -28,3 +28,38 @@ One of the smallest droplet at digital ocean @ $4 per month and a crontab entry 
 - Twimg.com
 - Amazonaws.com
 - T.me
+
+## Easter Eggs
+
+- chess.com : Has ascii art of a chess piece. 
+- tripadvisor.com : Links to jobs
+- screamingfrog.co.uk : Has Ascii art , links to jobs
+- pinimg.com : Links to engineering blog / jobs
+- pinterest.com : Links to engineering blog / jobs
+- glassdoor.com : Links to jobs
+- canva.com : Ascii art / Links to jobs
+- agoda.com :Ascii art /  Links to jobs
+- nvidia.com : Links to jobs
+- airbnb.com : Ascii art / Links to jobs
+- bloomberg.com : Laws of robotics / Ascii art / Links to jobs
+- cloudflare.com : Ascii art
+- coinbase.com : Ascii art
+- cricbuzz.com : quotes
+- envato.com : Ascii art
+- etsy.com : Ascii art
+- github.com : Detailed instructions on how to scrape github
+- gitlab.com : Detailed instructions on how to scrape
+- hp.com : Ascii art
+- ikea.com : Ascii art
+- nike.com : Ascii art
+- npmjs.com : Ascii art
+- salesforce.com : Multiple dev comments
+- spankbank.com : quotes
+- wayfair.com : Ascii art / Links to jobs
+- wikihow.com : Instructions on how to scrape
+- wikipedia.org : Instructions on how to scrape
+- wordpress.com : Link to firehose
+- yelp.com : Laws of robotics
+- youtube.com : quotes
+- yuque.com : Link to API
+- 

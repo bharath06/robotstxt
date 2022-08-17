@@ -51,3 +51,4 @@
   - wikipedia.org
   - wordpress.com (Link to firehose)
   - yuque.com (Link to API)
+  - etsy.com (Random greeting - which also makes the history useless for this site.)

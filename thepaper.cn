@@ -1,4 +1,6 @@
 User-agent: *
+Disallow: /userservice*
+Disallow: /comment*
 Disallow: /ask_user_home.jsp*
 Disallow: /searchResult.jsp*
 Disallow: /*sort=1
@@ -6,6 +8,15 @@ Disallow: /topicList.jsp?*
 Disallow: /point_question.jsp?*
 Disallow: /load_ask_userHome.jsp*
 Disallow: /mx2019.jsp*
+
+Disallow: /load_search.jsp
+Disallow: /load_pph_conts
+Disallow: /load_index
+Disallow: /newDetail_commt
+Disallow: /async_recommend
+Disallow: /newDetail_floorComment
+Disallow: /cont_vote_json
+Disallow: /video_list_masonry
 
 Disallow: /newsDetail_forward_1247810
 Disallow: /newsDetail_forward_1260314

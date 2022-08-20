@@ -23,6 +23,7 @@ Disallow: /health-news/wp-*
 Disallow: /health/*/wp-*
 Disallow: /nutrition/*/wp-*
 Disallow: /health-news/*/wp-*
+Disallow: /cdn.jwplayer.com/previews/*
 
 Disallow: /hlcmsresource/*.txt$
 Disallow: /hlcmsresource/*.xml$

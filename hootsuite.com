@@ -16,5 +16,5 @@ Disallow: /craft/
 Disallow: /*.pdf$
 Disallow: /billing/
 Disallow: /create-free-account*
-Sitemap: https://www.hootsuite.com/sitemap/sitemap-index.xml
+Sitemap: https://www.hootsuite.com/sitemap-index.xml
 Host: https://www.hootsuite.com

@@ -19,4 +19,4 @@ Disallow: /report/
 Disallow: /jp/comment/report/
 Disallow: /comment/report/
 Disallow: /transaction/*
-Disallow: /u/*/reviews/*
+Disallow: /u/

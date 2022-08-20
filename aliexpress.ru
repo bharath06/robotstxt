@@ -120,6 +120,14 @@ Disallow: /store/feedback-score/
 Disallow: /popular/rank_
 Disallow: /aer-webapi/v1/recommend
 Disallow: /aer-api/v1/bx/countryRegions/2
+Disallow: /aer-api/v1/wishlist/add
+Disallow: /aer-api/v1/qa/pagination
+Disallow: /aer-api/v1/product/detail/freight
+Disallow: /aer-api/v1/product/detail/special_for_you
+Disallow: /aer-api/v1/seller/recommendation
+Disallow: /aer-api/v1/product/detail/not_found_recommend
+Disallow: /aer-api/v1/recommends/relative
+Disallow: /aer-api/v1/qa/more
 Clean-param: spm&aff_platform&aff_trace_key&acnt&slnk&device&mtctp&msclkid&cn&cv&edm_click_module&tracelog&rowan_id1&rowan_msg_id&ck /
 Clean-param: path&tp1&_escaped_fragment_&route&spm&_escaped_fragment_&origin&SortType&categoryId&isFreeShip&tagResultChecked&g /store/*
 Clean-param: s&ws_ab_test&spm&aff_platform&algo_pvid&algo_expid /i/*

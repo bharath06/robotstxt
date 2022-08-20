@@ -28,6 +28,7 @@ Disallow: /news/sponsors/*
 Disallow: /news/terminal/*
 
 Sitemap: https://www.bloomberg.com/sitemap.xml
+Sitemap: https://www.bloomberg.com/feeds/sitemap_news.xml
 Sitemap: https://www.bloomberg.com/feeds/bbiz/sitemap_index.xml
 Sitemap: https://www.bloomberg.com/feeds/bpol/sitemap_index.xml
 Sitemap: https://www.bloomberg.com/feeds/businessweek/sitemap_index.xml

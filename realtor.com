@@ -95,6 +95,7 @@ Disallow: /public/
 Disallow: /Public/
 Disallow: /rdc_user_check.js
 Disallow: /realestateagents/*agentname-
+Disallow: /realestateagents/58386a0cf70a250001177f2d
 Disallow: /realestateandhomes-detail/187-Harness-Downs-Rd_Port-Matilda_PA_16870_M47586-18534
 Disallow: /realestateandhomes-detail/4581-S-Valdai-Way_Aurora_CO_80015_M21324-97292
 Disallow: /realestateandhomes-detail/5845-Meadowlane-St_New-Port-Richey_FL_34652_M68583-60477

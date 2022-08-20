@@ -870,7 +870,6 @@ Disallow: /video/*filmId=*
 Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*text=
 Disallow: /video/touch
 Allow: /video/$
-Allow: /video/?
 Allow: /video/sitemap
 Allow: /video/dizi-izle/
 Allow: /video/dizi-izle/?
@@ -913,6 +912,7 @@ Disallow: /addappterless
 Disallow: /archive
 
 Allow: /video/search?text=video$
+
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_nooverride&utm_expid&gclid&_openstat&yclid&gsaid&_gs_rmark&_gs_ref&_gs_cttl&iframe /health/

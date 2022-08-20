@@ -51,7 +51,7 @@ Disallow: /experts-arena/
 Disallow: /createawebsite/
 Disallow: /website/templates*?screen=
 Disallow: /*?sort=
-Disallow: /marketplace/hire/?
+Disallow: /marketplace/hire/*?
 Disallow: /marketplace/hire/*/?
 Disallow: /marketplace/hire/*/*?
 

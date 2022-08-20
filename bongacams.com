@@ -15,7 +15,6 @@ Disallow: /graph-api/*
 Disallow: /ajax*
 Disallow: /tools/*
 Disallow: /chat-popup/*
-Disallow: /contact-us
 Disallow: /tags/*/ajax-pager
 Disallow: /check-auth
 Disallow: /get-authorization-token

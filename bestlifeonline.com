@@ -3,6 +3,8 @@ Disallow:
 
 Sitemap: https://bestlifeonline.com/sitemapindex.xml
 Sitemap: https://bestlifeonline.com/post_google_news.xml
+
+Disallow: *?s= 
     # Shop
     Disallow: /shop/go.html*
     Disallow: /shop/*?s=

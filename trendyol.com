@@ -118,6 +118,7 @@ Disallow: /giris
 Disallow: /gw/
 Disallow: /hesabim
 Disallow: /Hesabim
+Disallow: /kredi
 Disallow: /koleksiyonlar/*-k-*
 Disallow: /koleksiyonlar/koleksiyonlarim
 Disallow: /koleksiyonlar/takip-ettiklerim
@@ -144,9 +145,6 @@ Disallow: /topla-kazan
 Disallow: /topla-kazan-kuponlari
 Disallow: /tum--urunler
 Allow: /*gads=true
-Allow: /sr/*-x-*b872-*
-Allow: /sr/*-x-*b872$
-Allow: /pd/intimissimi/*-p-*
 # DE rules
 Disallow: /de/account
 Disallow: /de/campaign/list

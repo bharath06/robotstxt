@@ -1,7 +1,7 @@
 Sitemap: https://www.tmz.com/sitemaps/article/index.xml
 Sitemap: https://www.tmz.com/sitemaps/gallery/index.xml
 Sitemap: https://www.tmz.com/sitemaps/page/index.xml
-Sitemap: https://www.tmz.com/sitemaps/video/index.xml
+Sitemap: https://www.tmz.com/sitemaps/watch/index.xml
 Sitemap: https://www.tmz.com/sitemaps/news.xml
 
 User-agent: Googlebot-News

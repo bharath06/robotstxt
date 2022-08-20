@@ -3,11 +3,13 @@
 
 User-agent: *
 
+Allow: *arch/a/*
 Disallow: /out/
-Disallow: /*?page=*
+Disallow: /*?page=**
 Disallow: */search*
 Disallow: /*queryString=*
 Disallow: /*orientation=*
+Disallow: */set-locale*
 Disallow: /*?filter*
 Disallow: /*?pricing=*
 Disallow: /thumb/

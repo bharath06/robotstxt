@@ -297,6 +297,7 @@ Disallow: /Contact/posb/deposits/existing-sb-casa-personal/complete.page
 Disallow: /Contact/Contact/posb/deposits/sb-casa-personal/default.page
 Disallow: /Contact/Contact/posb/deposits/sb-casa-personal/complete.page
 Disallow: /personal/landing/dbs-multiplier/index.html
+Disallow: /personal/forms/paymentstransfers/d2payindividual/Pages/confirm.page
 
 
 # URL Masking Details

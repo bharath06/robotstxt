@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /uploads/
-Disallow: /processed/
+
+Sitemap: https://smallpdf.com/sitemap.xml

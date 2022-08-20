@@ -52,7 +52,7 @@ def fetch_robot(site):
 		if is_html(r):
 			return 2
 		#Make this OS agnostic
-		file_name = '..\/'+site
+		file_name = "../"+site
 		f = codecs.open(file_name, "w", "utf-8")
 		f.write(r.text)
 		f.close()

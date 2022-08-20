@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /cdn-cgi/
 Disallow: /connector/
 Disallow: /plugins.
 Disallow: /firststeps.

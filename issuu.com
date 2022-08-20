@@ -59,6 +59,11 @@ Disallow: /query%
 Disallow: /query?
 Disallow: /query/
 
+Disallow: /go/travel$
+Disallow: /go/travel%
+Disallow: /go/travel?
+Disallow: /go/travel/
+
 Disallow: /go/realty$
 Disallow: /go/realty%
 Disallow: /go/realty?

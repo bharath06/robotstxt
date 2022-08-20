@@ -282,6 +282,22 @@ Disallow: /inbox
 Disallow: /admin_inbox
 Disallow: /*?guide*
 
+User-agent: PetalBot
+Request-rate: 1/2 # load 1 page per 2 seconds
+Crawl-delay: 10
+Disallow: /appview/
+Disallow: /login
+Disallow: /logout
+Disallow: /resetpassword
+Disallow: /terms
+Disallow: /search
+Disallow: /notifications
+Disallow: /settings
+Disallow: /inbox
+Disallow: /admin_inbox
+Disallow: /*?guide*
+Allow: /tardis/huawei
+
 User-agent: Bytespider
 Disallow: /
 

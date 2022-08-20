@@ -6,6 +6,7 @@ Disallow: /jpnn_count/
 Disallow: /foto_count/
 Disallow: /video_count/
 Disallow: /adtest/
+Disallow: /partner/uc_browser/
 
 Allow: *
 Allow: /

@@ -172,6 +172,9 @@ Allow: /
 User-agent: SearchmetricsBot
 Disallow: /
 
+User-agent: *
+Disallow: /*express/*.mp4$
+
 # XML sitemaps updates per SH05172022
 Sitemap: https://www.adobe.com/cc-creativecloud.index.xml
 Sitemap: https://www.adobe.com/cc-product.index.xml

@@ -55,6 +55,12 @@ Disallow: /form/conf/
 Disallow: /content/dam/web/en_us/www/documents/
 Disallow: /content/dam/web/en_us/www/assets/pdf/
 Disallow: /login-messages/
+Disallow: /au/login-messages/
+Disallow: /ap/login-messages/
+Disallow: /in/login-messages/
+Disallow: /cn/login-messages/
+Disallow: /tw/login-messages/
+Disallow: /th/login-messages/
 
 # Disallow: /ie/
 # Disallow: /marketplace/

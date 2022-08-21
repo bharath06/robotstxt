@@ -61,6 +61,7 @@ Disallow: /*?r=
 Disallow: /*?ref
 Disallow: /*?refsite
 Disallow: /*?rnd=*$
+Disallow: /*?s=
 Disallow: /*?sa=
 Disallow: /*?safesearch=*$
 Disallow: /*?tcc=*$

@@ -1,6 +1,7 @@
+User-Agent: *
+Disallow: /search/
+Disallow: /search/?q=*
+
 User-agent: *
 Allow: /
 Sitemap: https://wartaekonomi.co.id/sitemap
-Sitemap: https://wartaekonomi.co.id/news/news-sitemap.xml
-Sitemap: https://wartaekonomi.co.id/web/news-sitemap.xml
-Sitemap: https://wartaekonomi.co.id/images/news-sitemap.xml

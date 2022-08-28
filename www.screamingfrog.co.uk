@@ -3,6 +3,8 @@ Disallow: /products/
 Disallow: /?s=*
 Disallow: /*?post_type*
 Disallow: /search/
+Disallow: /wp-content/themes/screamingfrog/inc/download-modal.php
+Disallow: /wp-content/themes/screamingfrog/inc/download-modal-lfa.php
 
 # Protection of frog team
 

@@ -11,11 +11,16 @@ Disallow: /*/*/*/*/otmi/
 Disallow: /*/*/*/*/fp/
 Disallow: /protocolexchange/labgroups/
 Disallow: /naturecareers/jobs/search
+Disallow: /webcasts/*
 Disallow: /*draft=*
+Disallow: /*foxtrotcallback=*
+Disallow: /*utm_source=*
+Disallow: /*origin=*
 Disallow: /my-account
-Disallow: /*proof=true*
+Disallow: /*proof=*
 Disallow: /*/figures
 Disallow: /*/tables
 Disallow: /*/schemes
 Disallow: /*/structures
 Disallow: /*/metrics
+Disallow: /platform/contextual

@@ -298,7 +298,10 @@ Disallow: /Contact/Contact/posb/deposits/sb-casa-personal/default.page
 Disallow: /Contact/Contact/posb/deposits/sb-casa-personal/complete.page
 Disallow: /personal/landing/dbs-multiplier/index.html
 Disallow: /personal/forms/paymentstransfers/d2payindividual/Pages/confirm.page
-
+Disallow: /personal/travellershield-plus-teens.page 
+Disallow: /personal/travellershield-plus-youngkids.page
+Disallow: /personal/travellershield-plus-couples.page
+Disallow: /personal/landing/insurance/driveshield/index.html
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

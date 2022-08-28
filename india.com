@@ -13,6 +13,7 @@ Disallow: /topics/bgr_api/
 Disallow: /hindi-news/brand-solution-hindi/
 Disallow: /digital-newsletter/
 Disallow: /?page=*
+Disallow: /?
 Disallow: */teamstats_partnership.php?matchid=*
 Disallow: /icomtopnew/*
 Disallow: /*/wp-ajax-live-score.php?matchId=*

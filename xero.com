@@ -8,19 +8,6 @@ Disallow: /content/dam/*.docx$
 Disallow: /downloads/*
 
 Sitemap: https://www.xero.com/sitemapindex.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-int.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-au.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-ca.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-hk.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-id.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-ie.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-my.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-nz.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-ph.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-sg.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-za.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-uk.xml
-Sitemap: https://www.xero.com/content/dam/sitemaps/sitemap-us.xml
 Sitemap: https://www.xero.com/au/sitemap.xml
 Sitemap: https://www.xero.com/hk/sitemap.xml
 Sitemap: https://www.xero.com/id/sitemap.xml

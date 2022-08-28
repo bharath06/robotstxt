@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /questions/qadmin
 Disallow: /assets/
 Disallow: /video/
 Disallow: /abap/

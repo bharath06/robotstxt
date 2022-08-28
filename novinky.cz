@@ -1,5 +1,4 @@
 User-Agent: *
-Disallow: /diskuze
 Disallow: /hledej
 Disallow: /emailem
 Disallow: /dynamicke-bannery
@@ -8,7 +7,6 @@ Disallow: /sessionCheck
 Disallow: /clanek/*timeline--pageItem==
 
 User-agent: SeznamBot
-Disallow: /diskuze
 Disallow: /hledej
 Disallow: /emailem
 Disallow: /dynamicke-bannery
@@ -24,3 +22,4 @@ Disallow: /*mol-gallery--expanded=
 Sitemap: https://www.novinky.cz/sitemaps/sitemap_articles.xml
 Sitemap: https://www.novinky.cz/sitemaps/sitemap_news.xml
 Sitemap: https://www.novinky.cz/sitemaps/sitemap_sections.xml
+Sitemap: https://www.novinky.cz/sitemaps/sitemap_tags.xml

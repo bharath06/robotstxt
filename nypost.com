@@ -119,4 +119,5 @@ Sitemap: https://nypost.com/sitemap-nypost-section.xml
 Sitemap: https://nypost.com/sitemap-nypost-post_tag.xml
 Sitemap: https://nypost.com/sitemap-nypost-authors.xml
 Sitemap: https://nypost.com/sitemap-nypost-pages.xml
+Sitemap: https://nypost.com/sitemap-nypost-sportstat.xml
 

@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://parsfootball.com/sitemap_index.xml
+Sitemap: https://parsfootball.com/na/sitemap_index.xml

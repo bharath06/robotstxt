@@ -95,6 +95,7 @@ Disallow: /cn_abc*
 Disallow: /cn_ccb*
 Disallow: /cn_icbc*
 Disallow: /alipay/*
+Disallow: /alipay_edu/*
 Disallow: /*_kiosk*/shop/
 Disallow: /go/awards/*
 Disallow: /retail/availability*
@@ -148,6 +149,7 @@ Disallow: /cn_abc*
 Disallow: /cn_icbc*
 Disallow: /cn_ccb*
 Disallow: /alipay/*
+Disallow: /alipay_edu/*
 Disallow: /*_kiosk*/shop/
 Disallow: /go/awards/*
 Disallow: /retail/availability*
@@ -201,6 +203,7 @@ Disallow: /cn_abc*
 Disallow: /cn_icbc*
 Disallow: /cn_ccb*
 Disallow: /alipay/*
+Disallow: /alipay_edu/*
 Disallow: /*_kiosk*/shop/
 Disallow: /go/awards/*
 Disallow: /retail/availability*
@@ -254,6 +257,7 @@ Disallow: /cn_abc*
 Disallow: /cn_icbc*
 Disallow: /cn_ccb*
 Disallow: /alipay/*
+Disallow: /alipay_edu/*
 Disallow: /*_kiosk*/shop/
 Disallow: /go/awards/*
 Disallow: /retail/availability*

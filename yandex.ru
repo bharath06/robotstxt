@@ -290,6 +290,8 @@ Disallow: /archive
 
 Allow: /video/search?text=video$
 
+Disallow: /all?
+
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_nooverride&utm_expid&gclid&_openstat&yclid&gsaid&_gs_rmark&_gs_ref&_gs_cttl&iframe /health/
 Clean-Param: p&msp&occupationId&specId&serviceId&rubric&afterWorkerPage&clarifier&create_order&workerId&categoryId&specializationId&title&onlyForInvited&price&priceMeasure&isPromotion&from&source&region&max_reactions_count&adbody&adurl&backpath&query&saas_webreqid&action&displayid&promoAction&ref&orderId&utm&ig_source&creative&campaignid&adgroupid&worker_id&order_access_key&push_id&intent&family&status&t&tss&utm_campa&utm_left&utm_sup_project&utm_sup_source&utm_sup_type&yhid /uslugi/*
@@ -913,6 +915,7 @@ Disallow: /archive
 
 Allow: /video/search?text=video$
 
+Disallow: /all?
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_nooverride&utm_expid&gclid&_openstat&yclid&gsaid&_gs_rmark&_gs_ref&_gs_cttl&iframe /health/

@@ -27,6 +27,7 @@ Disallow: /_rprt/*
 Disallow: /layout/*
 Disallow: /cgi-bin/*
 Disallow: /envoyer-par-email/*
+Disallow: /lmdgft/*
 
 # WordPress
 Disallow: /blog/*/wp-admin/

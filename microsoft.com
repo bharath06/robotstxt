@@ -1,6 +1,7 @@
 # Robots.txt file for www.microsoft.com
 
 User-agent: *
+Disallow: /*/store/locations/store-locations-sitemap.xml
 Disallow: /en-us/windows/si/matrix.html
 Disallow: /en-us/windows/si/matrix.html
 Disallow: /*/security/search-results.aspx?

@@ -5,6 +5,7 @@ Disallow: /api/ui/
 Disallow: /api/
 Disallow: /ter-optout
 Disallow: /pm-optout
+Disallow: /wallpaper/
 Disallow: /wallpapers/
 Disallow: /unlisted/
 Sitemap: https://wetransfer.com/sitemap.xml

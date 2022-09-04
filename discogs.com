@@ -52,3 +52,4 @@ Sitemap: https://www.discogs.com/company/sitemap_index.xml
 Sitemap: https://www.discogs.com/digs/sitemap_index.xml
 Sitemap: https://www.discogs.com/selling/sitemap_index.xml
 Sitemap: https://www.discogs.com/record-stores/sitemap_index.xml
+Sitemap: https://www.discogs.com/media-kit/sitemap_index.xml

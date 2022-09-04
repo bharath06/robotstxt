@@ -52,6 +52,7 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2015/11/sitem
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2015/12/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2015/2/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2015/3/sitemap.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2015/3/sitemap2.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2015/4/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2015/5/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2015/5/sitemap2.xml.gz
@@ -156,6 +157,7 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2021/12/sitem
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2021/12/sitemap_products.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2021/2/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2021/3/sitemap.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2021/3/sitemap1.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2021/3/sitemap2.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2021/3/sitemap3.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2021/3/sitemap4.xml.gz
@@ -198,3 +200,8 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/5/sitema
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/6/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/7/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitemap.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitemap1.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitemap2.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitemap3.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitemap4.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/9/sitemap.xml.gz

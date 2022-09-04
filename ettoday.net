@@ -22,10 +22,12 @@ Disallow:/events/ad-test/
 Disallow:/events/amp/
 Disallow:/events/bigdata2014/
 Disallow:/events/campaign/
+Disallow:/events/goddess2011/
 Disallow:/events/earthday/
 Disallow:/events/election2012/
 Disallow:/events/election2014/
 Disallow:/events/election2016/
+Disallow:/events/election2019/
 Disallow:/events/fake-player/
 Disallow:/events/fbia/
 Disallow:/events/fifa2014/
@@ -39,8 +41,9 @@ Disallow:/events/news-express/
 Disallow:/events/pinxi/
 Disallow:/events/sendwarmth2011/
 Disallow:/events/sendwarmth2012/
+Disallow:/events/valentine2012/
 Disallow:/events/xmas2013/
-Disallow:/fbapp/vote2/
+Disallow:/fbapp/
 Disallow:/game/
 Disallow:/inner-beauty/
 Disallow:/link/

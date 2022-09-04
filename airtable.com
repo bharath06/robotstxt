@@ -1,3 +1,8 @@
+User-agent: Twitterbot
+Disallow: /
+Allow: /$
+Allow: /shr*
+Allow: /images/*
 User-agent: *
 Allow: /
 Disallow: /404

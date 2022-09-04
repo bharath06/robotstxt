@@ -50,6 +50,8 @@ Disallow: /wp-content/uploads/
 Disallow: /blog/topic/*/feed/
 Disallow: /*?s=*
 Disallow: /page/
+Disallow: */?=glossary*
+Disallow: */?ref=*
 
 
 

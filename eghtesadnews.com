@@ -9,4 +9,4 @@ Disallow: /WebServices/AjaxHelper/*
 Disallow: /mailer/letter*
 
 
-Sitemap: http://www.eghtesadnews.com/sitemap.xml
+Sitemap: https://www.eghtesadnews.com/sitemap.xml

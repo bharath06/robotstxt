@@ -16,9 +16,6 @@ Disallow: /es/s/perfecta/*
 Disallow: /es/prensa
 Disallow: /es/comunidad
 
-# TEMP
-Disallow: /ja/*
-
 # Japanese versions
 Disallow: /ja/account/*
 Disallow: /ja/s/ã³ã¬ã¯ã·ã§ã³/*

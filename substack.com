@@ -11,6 +11,7 @@ User-agent: *
 Disallow: /action/
 Disallow: /publish
 Disallow: /sign-in
+Disallow: /channel-frame
 Disallow: /feed/private
 Disallow: /feed/podcast/*/private/*.rss
 Disallow: /subscribe

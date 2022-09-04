@@ -32,13 +32,17 @@ Disallow: /statistics/report-content/
 Disallow: /statistiques/report-content/
 Disallow: /estadisticas/report-content/
 
-# Products (04/22 Update)
-Disallow: /company/
-Disallow: /unternehmen/
+# Products (08/22 Update)
+Disallow: /companies/c/
+Allow: 	  /companies/o/
+Disallow: /unternehmen/c/
+Allow:    /unternehmen/o/
 Disallow: /compagnie/
 Disallow: /empresa/
 Disallow: /companydb/suche
 Disallow: /companydb/search
+Disallow: /unternehmen/suche
+Disallow: /companies/search
 Disallow: /companydb/buscar
 Disallow: /companydb/recherche
 Disallow: /perspectiva/

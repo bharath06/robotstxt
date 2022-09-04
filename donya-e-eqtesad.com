@@ -10,4 +10,4 @@ Disallow: *.asp
 Disallow: *.asp*
 
 
-Sitemap: http://www.donya-e-eqtesad.com/sitemap.xml
+Sitemap: https://www.donya-e-eqtesad.com/sitemap.xml

@@ -72,4 +72,5 @@ Sitemap: https://www.coinbase.com/sitemap-currency-converter-ru.xml
 Sitemap: https://www.coinbase.com/sitemap-currency-converter-th.xml
 Sitemap: https://www.coinbase.com/sitemap-currency-converter-tr.xml
 Sitemap: https://www.coinbase.com/sitemap-institutional.xml
+Sitemap: https://www.coinbase.com/sitemap-ethereum-merge.xml
 

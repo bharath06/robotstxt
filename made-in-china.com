@@ -26,6 +26,16 @@ Disallow: /deals/listProdDealsCoupon?
 User-agent: *
 Disallow: /cs/
 Disallow: /dt/
+Disallow: /price-search/
 
 User-agent: SemrushBot
 Disallow: /
+
+User-agent: Baiduspider
+Disallow: /Health-Medicine-Catalog/Sex-Product.html
+Disallow: /Toys-Catalog/Adult-Toys.html
+Disallow: /Apparel-Accessories-Catalog/*
+Disallow: /products-search/hot-china-products/*
+Disallow: /manufacturers/*
+Disallow: /factory/*
+Disallow: /price/*

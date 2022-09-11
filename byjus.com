@@ -61,7 +61,6 @@ Disallow: /?q=user/logout/
 Disallow: /author/
 Disallow: /cbse-result/author/
 Disallow: /cbse-study-material/author/
-Disallow: ?s={searchInput}/
 Disallow: /?s={searchInput}/
 Disallow: *?wordfence_lh
 

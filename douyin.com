@@ -17,7 +17,6 @@ User-agent: Sosospider
 User-agent: Sogou spider2
 User-agent: HaosouSpider
 User-agent: HaosoSpider
-Disallow: /search
 Disallow: /follow
 
 User-agent: *

@@ -1,5 +1,32 @@
+User-agent: SeznamBot
+Disallow: /*.xml$
+
+User-agent: bingbot
+Disallow: /*.xml$
+
 User-agent: coccocbot-web
 Disallow: /*.xml$
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: YaK
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
 
 User-agent: *
 Disallow: /wp-admin/

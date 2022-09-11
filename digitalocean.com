@@ -29,3 +29,4 @@ Sitemap: https://www.digitalocean.com/sitemaps/www-blog-authors-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/www-blog-tags-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/www-indexes-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/www-diversity-0.xml.gz
+Sitemap: https://www.digitalocean.com/sitemaps/www-open-source-0.xml.gz

@@ -89,6 +89,7 @@ Disallow: /wmflows/
 Disallow: */undefined/*
 Disallow: /store/*/search
 Disallow: /c/kp/*/page/*
+Disallow: /orchestra/*
 
 #Crawler specific settings
 User-agent: Adsbot-Google

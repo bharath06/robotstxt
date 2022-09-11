@@ -23,3 +23,4 @@ Disallow: /*/schemes
 Disallow: /*/structures
 Disallow: /*/metrics
 Disallow: /platform/contextual
+Disallow: /articles/*.ris

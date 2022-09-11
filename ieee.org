@@ -1,4 +1,4 @@
-#IEEE.org Robots Exclusion Rules - Updated October 29, 2018 
+#IEEE.org Robots Exclusion Rules - Updated October 29, 2018
 
 User-agent: *
 
@@ -10,7 +10,7 @@ Disallow: /publications/services/services-resources.html
 Disallow: /about/awards/award-recipient-form.html
 Disallow: /membership/join/mga-2016-mda.html
 Disallow: /membership/renew/reinstateCS16.html
-Disallow: /membership/renew/renewBO16.html
+Disallow:  /membership/renew/renewBO16.html
 Disallow: /membership/join/hkt-join.html
 Disallow: /membership/join/mga-2016-md2.html
 Disallow: /membership/join-renew.html

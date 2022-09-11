@@ -14,6 +14,5 @@ disallow: /mediation/
 disallow: *snapshot=*
 disallow: /language-dispatcher
 disallow: *&source=allegro.com&welcome=1&shippingCountry=US*
-user-agent: Yandex
-disallow: /login/*
+disallow: /login/auth
 disallow: /auth/oauth/authorize

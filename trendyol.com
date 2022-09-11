@@ -144,6 +144,7 @@ Disallow: /tekrar-al
 Disallow: /topla-kazan
 Disallow: /topla-kazan-kuponlari
 Disallow: /tum--urunler
+Disallow: /dispatch
 Allow: /*gads=true
 # DE rules
 Disallow: /de/account

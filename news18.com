@@ -52,12 +52,11 @@ Disallow: /microsite/itsnotokay/ajax/video-consumption.php
 Disallow: /cricketnext/photogallery/*
 Disallow: /cricketnext/photogallery/series*
 Disallow: /cricketnext/profile/*
-Disallow: /amp/cricketnext/news/series/*
-Disallow: /cricketnext/series/*
+Disallow: /amp/cricketnext/*
 Disallow: /cricketnext/newstopics/*
 Disallow: /cricketnext/amp/cricket-live-scorecard/*  
 Disallow: /cricketnext/cricket-live-scorecard/*
-Disallow: /cricketnext/news/series/*
+
 
 Sitemap: https://www.news18.com/news-googlesitemap.xml
 Sitemap: https://www.news18.com/text-sitemap-2022-index.xml

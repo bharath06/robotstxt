@@ -18,4 +18,4 @@ Disallow: *?s=
 
 Sitemap: https://galvanized.com/sitemap_index.xml
 Sitemap: https://www.galvanizedbooks.com/sitemap_index.xml
-Sitemap: https://hellogiggles.galvanized.com/sitemap_index.xml
+Sitemap: https://hellogiggles.com/sitemap_index.xml

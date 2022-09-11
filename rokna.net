@@ -8,4 +8,4 @@ Disallow: /admin*
 Disallow: *:id*
 
 
-Sitemap: http://www.rokna.net/sitemap.xml
+Sitemap: https://www.rokna.net/sitemap.xml

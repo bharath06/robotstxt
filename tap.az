@@ -4,3 +4,5 @@ Disallow: /auth/
 Disallow: /pages/rules
 Disallow: /bookmarks
 
+Sitemap: https://tap.azstatic.com/uploads/attachment/sitemap_az.xml User-agent: dotbot
+Crawl-delay: 10 

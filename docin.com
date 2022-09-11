@@ -5,5 +5,4 @@ Disallow: /players/
 Disallow: /help
 Disallow: /touch/
 Disallow: /docsearch
-Sitemap: http://www.docin.com/sitemap_v2/simple_new/index/index_1.xml
-Sitemap: http://www.docin.com/sitemap_v2/simple_new/index/index_2.xml
+Sitemap: https://www.docin.com/sitemap/

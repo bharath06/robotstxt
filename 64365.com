@@ -9,3 +9,5 @@ Disallow: /api/
 Disallow: /mvc/
 Disallow: /rpc/
 Disallow: /asksubmit/
+
+Sitemap: https://www.64365.com/baidu_sitemap/www/zs/sitmapindex.xml

@@ -4,4 +4,4 @@ Disallow: /search/?q=*
 
 User-agent: *
 Allow: /
-Sitemap: https://wartaekonomi.co.id/sitemap
+Sitemap: https://wartaekonomi.co.id/sitemap.xml

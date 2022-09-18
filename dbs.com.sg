@@ -302,6 +302,7 @@ Disallow: /personal/travellershield-plus-teens.page
 Disallow: /personal/travellershield-plus-youngkids.page
 Disallow: /personal/travellershield-plus-couples.page
 Disallow: /personal/landing/insurance/driveshield/index.html
+Disallow: /iwov-resources/pdf/investments/idea-fund-private-placement-memorandum.pdf
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

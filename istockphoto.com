@@ -51,6 +51,7 @@ Disallow: /*/*portfolio/
 Disallow: /nl/asset-detail/
 Disallow: /detail/
 Disallow: /editor/
+Disallow: /visual-gps/insights/results*
 Disallow: /*/editor/
 Disallow: /*/*-anal-
 Disallow: /*/*-anal$

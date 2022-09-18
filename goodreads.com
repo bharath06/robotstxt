@@ -34,7 +34,6 @@ Sitemap: https://www.goodreads.com/siteindex.group.xml
 Sitemap: https://www.goodreads.com/siteindex.index.xml
 Sitemap: https://www.goodreads.com/siteindex.interview.xml
 Sitemap: https://www.goodreads.com/siteindex.list.xml
-Sitemap: https://www.goodreads.com/siteindex.quiz.xml
 Sitemap: https://www.goodreads.com/siteindex.quote.xml
 Sitemap: https://www.goodreads.com/siteindex.quote_tag.xml
 Sitemap: https://www.goodreads.com/siteindex.related_work.xml

@@ -11,6 +11,10 @@ Sitemap: https://www.cnbc.com/sitemap_news.xml
 Sitemap: https://www.cnbc.com/sitemapvideoAll.xml
 Sitemap: https://www.cnbc.com/SitemapQuotes.xml
 Sitemap: https://www.cnbc.com/sitemapSelectAll.xml
+Sitemap: https://www.cnbc.com/sitemapproAll.xml
+Sitemap: https://www.cnbc.com/sitemapprovideoAll.xml
+Sitemap: https://www.cnbc.com/sitemapinvestingclubAll.xml
+Sitemap: https://www.cnbc.com/sitemapicvideoprodAll.xml
 
 User-agent: googlebot
 Disallow: /*native-android-mobile

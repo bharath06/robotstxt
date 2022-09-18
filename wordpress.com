@@ -14,6 +14,10 @@ Sitemap: https://wordpress.com/forums/sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+Disallow: /typo/
+Disallow: /read/
+Allow: /log-in$
+Disallow: /log-in?
 Disallow: /wp-signup.php
 Disallow: /press-this.php
 Disallow: /remote-login.php
@@ -23,4 +27,4 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-# This file was generated on Sun, 11 Sep 2022 05:13:14 +0000
+# This file was generated on Sat, 17 Sep 2022 23:26:10 +0000

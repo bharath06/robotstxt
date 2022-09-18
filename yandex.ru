@@ -882,6 +882,7 @@ Allow: /video/search?text=video$
 Disallow: /all?
 
 User-agent: Googlebot
+Disallow: /$
 Disallow: /?
 Disallow: /403.html
 Disallow: /404.html

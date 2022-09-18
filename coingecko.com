@@ -25,6 +25,13 @@ Disallow: /*/overall_stats$
 Disallow: /*/currency_selector$
 Disallow: /*/sparkline$
 Disallow: /*/max.json$
+Disallow: /*/render_hashing_algorithm_selector$
+Disallow: /*/widget_component/ticker$
+Disallow: /*/show_more_tickers
+Disallow: /*/analysis_tab
+Disallow: /*/render_platform_selector$
+Disallow: /*/external_news
+Disallow: /zh/工具组件/收报机$
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/nft/sitemap.xml

@@ -1,3 +1,8 @@
+User-agent: Googlebot
+Disallow: */search/ris/*
+Disallow: */search/models/*
+Disallow: */search/similar/*
+
 User-agent: *
 Disallow: /login
 Disallow: /base/logout
@@ -24,6 +29,8 @@ Disallow: /studioapi/*
 Disallow: /feed.mhtml
 Disallow: /nuance-chat.html
 Disallow: /sw/*
+Disallow: /base/login
+Disallow: login.mhtml
 
 # Editor Images
 Allow: */editor/image

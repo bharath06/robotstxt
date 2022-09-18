@@ -13,6 +13,7 @@ Sitemap: https://www.walmart.com/sitemap_tp_100K.xml
 Sitemap: https://www.walmart.com/sitemap_tp_1M.xml
 Sitemap: https://www.walmart.com/sitemap_tp_at.xml
 Sitemap: https://www.walmart.com/sitemap_tp_at_2nd_set.xml
+Sitemap: https://www.walmart.com/sitemap_tp_at_3rd_set.xml
 Sitemap: https://www.walmart.com/sitemap_tp_br.xml
 Sitemap: https://www.walmart.com/sitemap_tp_autofwk.xml
 
@@ -90,6 +91,7 @@ Disallow: */undefined/*
 Disallow: /store/*/search
 Disallow: /c/kp/*/page/*
 Disallow: /orchestra/*
+Disallow: /feeds/*
 
 #Crawler specific settings
 User-agent: Adsbot-Google

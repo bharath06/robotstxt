@@ -6,7 +6,6 @@ User-agent: Mediapartners-Google*
 Disallow:
 
 User-agent: *
-Disallow: /channel/*/community
 Disallow: /comment
 Disallow: /get_video
 Disallow: /get_video_info
@@ -17,7 +16,6 @@ Disallow: /results
 Disallow: /signup
 Disallow: /t/terms
 Disallow: /timedtext_video
-Disallow: /user/*/community
 Disallow: /verify_age
 Disallow: /watch_ajax
 Disallow: /watch_fragments_ajax

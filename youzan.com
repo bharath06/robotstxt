@@ -19,11 +19,9 @@ Disallow: /apply/*
 Disallow: /*json*
 Disallow: /h5/retrieve-pass?*
 Disallow: /search.php?*
-Disallow: /cms/searchword*
 Allow: /cms?*
 
 User-agent: Googlebot
-Disallow: /cms/searchword*
 Disallow: /*from_source*
 Disallow: /*?*
 Disallow: /wa/
@@ -47,7 +45,6 @@ Allow: /v*
 Allow: /cms?*
 
 User-agent:  Bingbot
-Disallow: /cms/searchword*
 Disallow: /*from_source*
 Disallow: /*?*
 Disallow: /wa/

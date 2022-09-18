@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v15.2_UK_DE_June_2022
+# v16_UK_DE_September_2022
 ### DIRECTIVES ###
 
 User-agent: *
@@ -84,6 +84,7 @@ Disallow: /fol/
 Disallow: /gh/useracquisition
 Disallow: /gsr/
 Disallow: /gwc/
+Disallow: /handy/
 Disallow: /hcp/
 Disallow: /heute/
 Disallow: /ico/
@@ -130,9 +131,10 @@ Disallow: /p/*surveyopen
 Disallow: /p/*thm=
 Disallow: /p/moduleprovider/
 Disallow: /p/surveyopen
-Disallow: /prp/
 Disallow: /personalization/
 Disallow: /pgfeapp
+Disallow: /price-guide/
+Disallow: /prp/
 Disallow: /rcm/
 Disallow: /recfb?
 Disallow: /res/
@@ -258,6 +260,7 @@ Disallow: /gh/useracquisition
 Disallow: /gsr/
 Disallow: /gwc/
 Disallow: /hcp/
+Disallow: /handy/
 Disallow: /heute/
 Disallow: /ico/
 Disallow: /ifh
@@ -303,9 +306,10 @@ Disallow: /p/*surveyopen
 Disallow: /p/*thm=
 Disallow: /p/moduleprovider/
 Disallow: /p/surveyopen
-Disallow: /prp/
 Disallow: /personalization/
 Disallow: /pgfeapp
+Disallow: /price-guide/
+Disallow: /prp/
 Disallow: /rcm/
 Disallow: /recfb?
 Disallow: /res/

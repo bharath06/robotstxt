@@ -1,1 +1,9 @@
+User-Agent: *
+Disallow: /search/
+Disallow: /search/?q=*
+Disallow: /cdn-cgi/
+Disallow: /dateline/
+
+User-agent: *
+Allow: /
 Sitemap: https://herstory.co.id/sitemap.xml

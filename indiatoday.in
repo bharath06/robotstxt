@@ -7,6 +7,7 @@ Sitemap: https://www.indiatoday.in/news-it-sitemap.xml
 User-agent: *
 # Directories
 Disallow: /includes/
+Disallow: /topic/*
 Disallow: /misc/
 Disallow: /modules/
 Disallow: /profiles/
@@ -64,4 +65,4 @@ Disallow: /fact-check-share/*
 Disallow: /visualstories/preview.php?*
 Disallow: /ajax/scroll/*
 Disallow: /live-score/get_graph_json.php?*
-Disallow: /interactive/quiz/preview/*
+Disallow: /interactive/quiz/preview/* 

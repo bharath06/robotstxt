@@ -1,3 +1,9 @@
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: / # prohibits crawling for the entire site
+
 User-agent: *
 Disallow: *?RedirectUrl
 
@@ -54,14 +60,6 @@ Allow:    /radio/index.shtml
 Allow:    /servizi/$
 Allow:    /ultima_ora/agrnews.jsp
 Allow:    /showcase/*.xml
-
-
-User-agent: PetalBot
-Disallow: /
-
-User-agent: Yandex
-Disallow: / # prohibits crawling for the entire site
-
 
 # item
 Disallow: /politica/10_febbraio_05/sabrina_ferilli_non_sono_la_sora_palin_5d9b4bb8-1224-11df-b50d-00144f02aabe.shtml

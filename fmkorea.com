@@ -40,3 +40,4 @@ Disallow: /*search_keyword=
 Disallow: /*act=dispMemberBookmark
 Disallow: /*_filter=
 Disallow: /*m=
+Disallow: /_loader

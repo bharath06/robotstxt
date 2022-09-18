@@ -9,6 +9,7 @@ Disallow: /uc_feed/*
 Disallow: /brief/*
 Disallow: /search/*
 Disallow: /user/*
+Disallow: /idtoin/*
 
 #Sitemaps
 Sitemap:https://www.indiatimes.com/central-service/hindi/webstories/sitemap-index.xml

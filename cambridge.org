@@ -48,6 +48,11 @@ Disallow: /resources
 Disallow: /core/dashboard
 Disallow: /core/my-core
 Disallow: /core/services/aop-*
+Disallow: /core/blog/wp-admin
+Disallow: /core/blog/wp-includes
+Disallow: /core/blog/wp-content
+Disallow: /core/blog/trackback
+Disallow: /core/blog/*/trackback
 Allow: /core/services/aop-cambridge-core/content/view/
 Allow: /core/services/aop-cambridge-core/altmetric
 Allow: /core/services/aop-file-manager/file
@@ -83,6 +88,10 @@ Disallow: *
 Disallow: /download_file/
 Disallow: /manifests
 Disallow: /infographic
+Disallow: /core/blog/
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /core/blog/
 
 Sitemap: https://www.cambridge.org/ad/education/sitemap_index.xml
 Sitemap: https://www.cambridge.org/ae/education/sitemap_index.xml

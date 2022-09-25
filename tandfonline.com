@@ -19,6 +19,7 @@ Disallow: /doi/metrics/
 Disallow: /keyword/
 Disallow: /action/showPublications*ConceptID=*
 Disallow: /action/showPublications*alphabetRange=*
+Disallow: /doi/epdf/*
 Disallow: /history/
 Allow: /action/showPublications
 Allow: /action/showXml

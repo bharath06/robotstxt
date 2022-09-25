@@ -32,7 +32,10 @@ Disallow: /*/analysis_tab
 Disallow: /*/render_platform_selector$
 Disallow: /*/external_news
 Disallow: /zh/工具组件/收报机$
+Disallow: /omniauth
 
 Sitemap: https://www.coingecko.com/sitemap.xml
+Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml
+Sitemap: https://www.coingecko.com/sitemaps/categories/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/nft/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/posts/sitemap.xml

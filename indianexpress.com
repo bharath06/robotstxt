@@ -97,6 +97,46 @@ Disallow: /campaign-premium/
 
 Disallow: /campaign-test/
 
+Disallow: /international-offer/
+
+Disallow: /epaper-upsc/
+
+Disallow: /special-offer/
+
+Disallow: /brandlover/
+
+Disallow: /limited-offer/
+
+Disallow: /all-access-offer/
+
+Disallow: /campaign-2/
+
+Disallow: /campaign-3/
+
+Disallow: /campaign-4/
+
+Disallow: /campaign-premium-2/
+
+Disallow: /campaign-premium-3/
+
+Disallow: /campaign-premium-4/
+
+Disallow: /campaign-epaper/
+
+Disallow: /campaign-epaper-2/
+
+Disallow: /campaign-epaper-3/
+
+Disallow: /campaign-epaper-4/
+
+Disallow: /campaign-all-access/
+
+Disallow: /campaign-all-access-2/
+
+Disallow: /campaign-all-access-3/
+
+Disallow: /campaign-all-access-4/
+
 Sitemap: https://indianexpress.com/news-sitemap.xml
 
 Sitemap: https://indianexpress.com/image-sitemap.xml

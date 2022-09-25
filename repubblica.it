@@ -9,7 +9,6 @@ Disallow: 		/swf
 Disallow: 		/static/__sdemo__/ 
 Disallow: 		/quotidiano 
 Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il_posto_e_costera_all_erario_mezzo_milione_di_euro[1]156371739/ 
-Disallow: 		/politica/2010/08/23/news/fli-pdl_polemica_al_femminile-6457188/ 
 Disallow: 		/persone/2012/06/10/foto/elio_di_rupo_un_bacio_da_ricordare-36910176 
 Disallow: 		/online3 
 Disallow: 		/online/cronaca/veronaecstasy/bologna/bologna.html 
@@ -27,11 +26,13 @@ Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
 Disallow: 		/economia/finanza/2012/01/28/news/micalizzi_condannato_a_sei_anni_il_madoff_della_bocconi-217673643/ 
 Disallow: 		/dal-quotidiano/ 
-Disallow: 		/cronaca/2018/11/13/news/polemiche_al_concorso_del_conservatorio_di_padova_vince_la_figlia_del_direttore-211540366/ 
-Disallow: 		/cronaca/2013/09/17/news/macerata_sessantenne_uccisa_dall_ex-marito_omicido_annunciato_dopo_anni_di_contrasti-66713121/ 
+Disallow: 		/cronaca/2016/11/18/news/omicidio_yara_il_finto_ingegnere_consulente_di_bossetti_la_procura_lo_indaga_per_la_laurea_fantasma-152242199/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 
+Disallow: 		/2008/02/sezioni/cronaca/corruzione-wind/tangente-americani/tangente-americani.html 
+Disallow: 		/2008/02/sezioni/cronaca/corruzione-wind/corruzione-wind/corruzione-wind.html 
+Disallow: 		/2007/06/sezioni/cronaca/finmek/finmek/finmek.html 
 Disallow: 		/2006/05/gallerie/politica/farabutti-foto-lettori-95/esterne191030071909103240_big.jpg 
 Disallow: 		/2006/05/gallerie/politica/farabutti-foto-lettori-95/esterne191030071909103240.jpg 
 Disallow: 		/serietv/schede/cerca/?query= 

@@ -111,6 +111,7 @@ Disallow: /c/sepetim
 Disallow: /cevir-kazan
 Disallow: /configr
 Disallow: /diger-saticilar
+Disallow: /dispatch
 Disallow: /emlak
 Disallow: /form/
 Disallow: /flas-indirimler
@@ -126,13 +127,13 @@ Disallow: /login
 Disallow: /Login
 Disallow: /magaza/profil
 Disallow: /onceden-gezdiklerim
-Disallow: /onceden-gezdiklerim
 Disallow: /pd?
 Disallow: /pd/
 Disallow: /pd$
 Disallow: /sanaozel
 Disallow: /sepet$
 Disallow: /Sepet$
+Disallow: /sepet-oneri
 Disallow: /sepetim
 Disallow: /Sepetim
 Disallow: /siparislerim
@@ -144,7 +145,6 @@ Disallow: /tekrar-al
 Disallow: /topla-kazan
 Disallow: /topla-kazan-kuponlari
 Disallow: /tum--urunler
-Disallow: /dispatch
 Allow: /*gads=true
 # DE rules
 Disallow: /de/account

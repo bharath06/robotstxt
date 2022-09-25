@@ -26,6 +26,7 @@ Disallow: /detail/*Ajax.do$
 Disallow: /ajax*.do$
 Disallow: /seo/*
 Disallow: /cross-domain/*
+Disallow: /categories/*
 
 User-agent: AdsBot-Google
 Disallow: /bin/*
@@ -44,6 +45,7 @@ Disallow: /item-img/*
 Disallow: /product/*
 Disallow: /p4p*list.html
 Disallow: /orderList.html
+Disallow: /categories/*
 Allow: /*aff_fcid*
 
 
@@ -82,6 +84,7 @@ Disallow: /catalog/*&*
 Disallow: /*aff_fcid*
 Disallow: /store/feedback-score/
 Disallow: /popular/rank_
+Disallow: /categories/*
 
 User-agent: Yandex
 Allow: /
@@ -128,6 +131,7 @@ Disallow: /aer-api/v1/seller/recommendation
 Disallow: /aer-api/v1/product/detail/not_found_recommend
 Disallow: /aer-api/v1/recommends/relative
 Disallow: /aer-api/v1/qa/more
+Disallow: /categories/*
 Clean-param: spm&aff_platform&aff_trace_key&acnt&slnk&device&mtctp&msclkid&cn&cv&edm_click_module&tracelog&rowan_id1&rowan_msg_id&ck /
 Clean-param: path&tp1&_escaped_fragment_&route&spm&_escaped_fragment_&origin&SortType&categoryId&isFreeShip&tagResultChecked&g /store/*
 Clean-param: s&ws_ab_test&spm&aff_platform&algo_pvid&algo_expid /i/*

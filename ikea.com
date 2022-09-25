@@ -17,7 +17,7 @@
 # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 #
-#  Our vision is to create a better everyday life for the many people. Fancy joining our mission at IKEA? 
+#  Our vision is to create a better everyday life for the many people. Fancy joining our mission at IKEA?
 #
 #  Check out our jobs at the link below:
 #
@@ -25,7 +25,7 @@
 
 
 
-User-Agent: AdsBot-Google 
+User-Agent: AdsBot-Google
 Allow: /*-fragment.html
 Allow: /ext/
 
@@ -49,7 +49,7 @@ Disallow: *StockAvailSearchForm*
 Disallow: *preferedui=desktop*
 Disallow:  /catalog/productAlternative/
 Disallow:  *bvroute=Review*
-Disallow:  *bvtab* 
+Disallow:  *bvtab*
 Disallow:  *bvrrp*
 Disallow: /retail/
 Disallow: *?krypto=*
@@ -83,8 +83,14 @@ Disallow: */browse-history/
 Disallow: */shoppingcart/
 Disallow: */order/
 Disallow: */energy-services/web/modules/*
+Disallow: */3daas-rotera/*
+Disallow: */assets/global/rotera/*
+Disallow: */watch/*
+Disallow: */cart/*
+Disallow: */favourites/*
+Disallow: */profile/*
+Disallow: */checkout/*
 
 Clean-param: tag_id&token&storeID&state&locale&id&return_url&lang&uiPlatform&range&itm_campaign
 Clean-param: tduid&ikeacookiekokpopup&type&orderId&sub1&etext
 Sitemap: https://www.ikea.com/sitemaps/sitemap.xml
-

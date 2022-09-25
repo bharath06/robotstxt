@@ -104,7 +104,7 @@ Disallow: /projects/*/files/stats/os
 Disallow: /projects/*/files/stats/json
 Disallow: /projects/*/files/*/stats/json
 Disallow: /projects/*/latest.json
-# Disallow: /projects/*/report_inappropriate
+Disallow: /projects/*/report_inappropriate
 Disallow: /projects/*/rss
 Disallow: /projects/*/lists/*/unsubscribe
 Disallow: /*_escaped_fragment_
@@ -114,6 +114,8 @@ Disallow: /software/compare/*-vs-*-vs-*-vs-*-vs-
 Disallow: /software/compare/*/add-software
 Disallow: /software/product/*/reviews/new
 Disallow: /software/product/*/claim
+Disallow: /software/vendors/new
+Disallow: /software/vendors/inquire
 Disallow: /rest/
 Disallow: */bin_counts
 Disallow: */milestone_counts
@@ -132,6 +134,8 @@ Disallow: /directory/release_feed
 Disallow: *?css-reload=
 Disallow: *&css-reload=
 Disallow: /settings/mirror_choices
+Disallow: /directory/tp
+Disallow: /software/tp
 Disallow: /directory/tp3
 Disallow: /software/tp3
 

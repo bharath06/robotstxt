@@ -4,7 +4,7 @@ Disallow: /sys/ban_test/
 Disallow: /js/
 Disallow: /css/
 Disallow: /images/
-Disallow: /search/
+Disallow: /*search/
 Disallow: /obj/
 Disallow: /files/
 Disallow: /php/
@@ -23,7 +23,7 @@ Disallow: /regbase/rtfcache/
 Disallow: /regbase/static
 Disallow: /fss/
 Disallow: /kniga/
-Clean-param: utm_campaign&utm_source&utm_medium&utm_term&utm_content&yclid&gclid&ts&frame&SEARCHPLUS&_ga&back&bx_sender_conversion_id
+Clean-param: utm_campaign&utm_source&utm_medium&utm_term&utm_content&yclid&gclid&ts&frame&SEARCHPLUS&_ga&back&bx_sender_conversion_id&div&disableGlobalInfoCollect
 Disallow: /cons/cgi/online.cgi?req=doc;base=EXP;n=630136
 
 Host: www.consultant.ru

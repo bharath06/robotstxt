@@ -7,4 +7,4 @@ Disallow: /wires/
 
 Sitemap: https://www.foxnews.com/sitemap.xml
 Sitemap: https://www.foxnews.com/sitemap.xml?type=news
-Sitemap: https://video.foxnews.com/videositemap.xml
+Sitemap: https://video.foxnews.com/videositemap.xml 

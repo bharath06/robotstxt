@@ -51,10 +51,8 @@ Disallow: /experts-arena/
 Disallow: /createawebsite/
 Disallow: /website/templates*?screen=
 Disallow: /*?sort=
-Allow: /marketplace/hire/*?page=
-Disallow: /marketplace/hire/*?
-Disallow: /marketplace/hire/*/?
-Disallow: /marketplace/hire/*/*?
+Disallow: /marketplace/hire/*?serviceIds=
+Disallow: /marketplace/hire/*&serviceIds=
 
 Sitemap: https://www.wix.com/sitemap.xml
 

@@ -1,5 +1,6 @@
 Sitemap: https://www.cnn.com/sitemaps/cnn/index.xml
 Sitemap: https://www.cnn.com/sitemaps/cnn/news.xml
+Sitemap: https://www.cnn.com/sitemap/news.xml
 Sitemap: https://www.cnn.com/sitemaps/sitemap-section.xml
 Sitemap: https://www.cnn.com/sitemaps/sitemap-interactive.xml
 Sitemap: https://www.cnn.com/ampstories/sitemap.xml

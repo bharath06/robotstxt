@@ -203,25 +203,20 @@ Disallow: /welcome/
 Disallow: /your-shop/
 Disallow: /your-shop/*
 
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_image_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/readable_single_image_pin_url_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/video_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/tier_1_candidates_sitemap_13_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_today_article_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/random_scoore_pin_image_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/video_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/user_link_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_expansion_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/image_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/readable_pin_url_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/board_link_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_scoore_pin_image_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/user_link_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/video_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/active_pin_readable_url_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/image_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/video_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_image_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_expansion_www.pinterest.com.xml
 
 User-agent: Googlebot
 Allow: /_ngjs/resource/*/get/

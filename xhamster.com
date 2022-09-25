@@ -63,8 +63,6 @@ allow: */categories/*/best
 allow: */pornstars/all/*/best
 allow: */creators/all/*/best
 allow: */celebrities/all/*/best
-allow: */channels/all/*/best
-allow: */channels/all/best
 disallow: */categories/*/best*?max-duration=
 disallow: */categories/*/best*?min-duration=
 disallow: */categories/*/best*&max-duration=

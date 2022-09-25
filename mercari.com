@@ -13,10 +13,12 @@ Disallow: /jp/tos/
 Disallow: /jp/privacy/
 Disallow: /jp/tokutei/
 Disallow: /jp/masters/
-Disallow: /w9/
+Disallow: /jp/items/
+Disallow: /jp/box/
 Disallow: /jp/report/
-Disallow: /report/
 Disallow: /jp/comment/report/
+Disallow: /w9/
+Disallow: /report/
 Disallow: /comment/report/
 Disallow: /transaction/*
 Disallow: /u/

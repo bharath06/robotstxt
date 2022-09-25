@@ -346,5 +346,6 @@ Disallow: *?tc_deviceCategory=
 Disallow: *?isPreview=
 Disallow: *?preview_theme=
 Disallow: *?cos=
+Disallow: /this-is-a-test
 Disallow: /_hcms/preview/
 Disallow: /hs/manage-preferences/

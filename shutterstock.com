@@ -1,8 +1,3 @@
-User-agent: Googlebot
-Disallow: */search/ris/*
-Disallow: */search/models/*
-Disallow: */search/similar/*
-
 User-agent: *
 Disallow: /login
 Disallow: /base/logout
@@ -45,6 +40,10 @@ Disallow: */editor/image/*6
 Disallow: */editor/image/*7
 Disallow: */editor/image/*8
 Disallow: */editor/image/*9
+
+Disallow: */search/ris/*
+Disallow: */search/models/*
+Disallow: */search/similar/*
 
 # Sitemaps
 Sitemap: https://www.shutterstock.com/sitemapz/20211116/image-index.xml

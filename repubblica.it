@@ -26,13 +26,9 @@ Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
 Disallow: 		/economia/finanza/2012/01/28/news/micalizzi_condannato_a_sei_anni_il_madoff_della_bocconi-217673643/ 
 Disallow: 		/dal-quotidiano/ 
-Disallow: 		/cronaca/2016/11/18/news/omicidio_yara_il_finto_ingegnere_consulente_di_bossetti_la_procura_lo_indaga_per_la_laurea_fantasma-152242199/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 
-Disallow: 		/2008/02/sezioni/cronaca/corruzione-wind/tangente-americani/tangente-americani.html 
-Disallow: 		/2008/02/sezioni/cronaca/corruzione-wind/corruzione-wind/corruzione-wind.html 
-Disallow: 		/2007/06/sezioni/cronaca/finmek/finmek/finmek.html 
 Disallow: 		/2006/05/gallerie/politica/farabutti-foto-lettori-95/esterne191030071909103240_big.jpg 
 Disallow: 		/2006/05/gallerie/politica/farabutti-foto-lettori-95/esterne191030071909103240.jpg 
 Disallow: 		/serietv/schede/cerca/?query= 

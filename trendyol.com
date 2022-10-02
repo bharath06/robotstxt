@@ -76,6 +76,7 @@ Disallow: /*&wb=
 Disallow: /*&wc=
 Disallow: /*&wcl=
 Disallow: /*&wg=
+Disallow: /*advertItems=
 Disallow: /*attr=
 Disallow: /*beden=
 Disallow: /*butik=
@@ -156,6 +157,13 @@ Disallow: /de/cart
 Disallow: /de/sr?
 Disallow: /de/sr/
 Disallow: /de/sr$
+Disallow: /de/xhan
+Disallow: /de/tonny-black
+Disallow: /de/letoon
+Disallow: /de/superlife
+Disallow: /de/hotic
+Disallow: /de/slazenger
+Disallow: /de/yaya-by-hotic
 Allow: /de/*gads=true
 # EN rules
 Disallow: /en/account
@@ -167,6 +175,13 @@ Disallow: /en/cart
 Disallow: /en/sr?
 Disallow: /en/sr/
 Disallow: /en/sr$
+Disallow: /en/xhan
+Disallow: /en/tonny-black
+Disallow: /en/letoon
+Disallow: /en/superlife
+Disallow: /en/hotic
+Disallow: /en/slazenger
+Disallow: /en/yaya-by-hotic
 Allow: /en/*gads=true
 # UA rules
 User-agent: Googlebot-Image

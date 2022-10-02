@@ -32,6 +32,8 @@ Disallow: /projects/*/latest.json
 Disallow: /projects/*/report_inappropriate
 Disallow: /projects/*/rss
 Disallow: /projects/*/lists/*/unsubscribe
+Disallow: /projects/*/moderate_review
+Disallow: /projects/*/rate_review
 Disallow: /*_escaped_fragment_
 Disallow: /auth/do_login
 Disallow: /software/visit?
@@ -107,6 +109,8 @@ Disallow: /projects/*/latest.json
 Disallow: /projects/*/report_inappropriate
 Disallow: /projects/*/rss
 Disallow: /projects/*/lists/*/unsubscribe
+Disallow: /projects/*/moderate_review
+Disallow: /projects/*/rate_review
 Disallow: /*_escaped_fragment_
 Disallow: /auth/do_login
 Disallow: /software/visit?

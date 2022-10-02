@@ -14,4 +14,5 @@ Disallow: /api/
 Disallow: /rss/
 Disallow: /_private/admin-tools/
 Disallow: /corgi$
+Disallow: /checkout/
 Sitemap: http://www.patreon.com/sitemap.xml

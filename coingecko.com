@@ -25,14 +25,18 @@ Disallow: /*/overall_stats$
 Disallow: /*/currency_selector$
 Disallow: /*/sparkline$
 Disallow: /*/max.json$
-Disallow: /*/render_hashing_algorithm_selector$
+Disallow: /*/render_hashing_algorithm_selector
 Disallow: /*/widget_component/ticker$
 Disallow: /*/show_more_tickers
 Disallow: /*/analysis_tab
-Disallow: /*/render_platform_selector$
+Disallow: /*/render_platform_selector
 Disallow: /*/external_news
-Disallow: /zh/工具组件/收报机$
+Disallow: /zh/工具组件/收报机
 Disallow: /omniauth
+Disallow: /ahoy/visits
+Disallow: /geckoterminal/token_is_valid
+Disallow: /*/historical_data*?*end_date
+Disallow: /*/historical_data*?*start_date
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml

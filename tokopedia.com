@@ -4,6 +4,7 @@ Allow: /blog/note
 Allow: /blog/review
 Allow: /find/note
 Allow: /find/review
+Allow: /sitemap/review
 Allow: /tokopoints/intro/
 Allow: /*/*/review
 Disallow: */tokopedia-lite-production/

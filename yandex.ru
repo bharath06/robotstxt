@@ -94,6 +94,7 @@ Disallow: /iznanka/
 Disallow: /jobs/skill-diagnostic/private/*
 Disallow: /keyboard_qwerty.html
 Disallow: /logotypes
+Disallow: /business/widget
 
 Disallow: /local/
 
@@ -663,6 +664,8 @@ Disallow: /collections/picture/
 Disallow: /company/*.rss
 Disallow: /company/search
 
+Disallow: /business/widget
+
 Disallow: /comments/*
 
 Disallow: /courier
@@ -908,6 +911,8 @@ Allow: /blogs/pad$
 
 Disallow: /bus/orders*
 Disallow: /bus/api/*
+
+Disallow: /business/widget
 
 Disallow: /MAPS/
 Disallow: /MaPS/

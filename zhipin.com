@@ -25,3 +25,4 @@ Disallow: /wapi/zpchat/wechat/hasBadge*
 Disallow: /wapi/zpitem/web/geekVip/getSubscribeYellow*
 Disallow: /wapi/zpuser/countryCode*
 Disallow: *?from=*
+Disallow: /web/geek/job*

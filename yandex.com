@@ -17,6 +17,8 @@ Disallow: /blog/*?tag=
 Disallow: /blog/*/*/*
 Disallow: /blog/punto
 
+Disallow: /business/widget
+
 Disallow: /MAPS/
 Disallow: /MaPS/
 Disallow: /MapS/
@@ -256,6 +258,8 @@ Disallow: /blog/*?text=
 Disallow: /blog/*?tag=
 Disallow: /blog/*/*/*
 Disallow: /blog/punto
+
+Disallow: /business/widget
 
 Disallow: /MAPS/
 Disallow: /MaPS/

@@ -104,14 +104,6 @@ Disallow: /acq/parks-and-recreation%
 Disallow: /acq/parks-and-recreation?
 Disallow: /acq/parks-and-recreation/
 
-Disallow: /lp/experimental$
-Disallow: /lp/experimental%
-Disallow: /lp/experimental?
-Disallow: /lp/experimental/
-
-
-User-agent: Twitterbot
-Disallow:
 
 Sitemap: https://issuu.com/sitemap.xml
 Sitemap: https://issuu.com/sitemap-incremental.xml

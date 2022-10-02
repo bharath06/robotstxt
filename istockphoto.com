@@ -790,6 +790,7 @@ Disallow: /*/*tribadism
 Disallow: /*/*triple-x-
 Disallow: /*/*tube-top
 Disallow: /*/*tubgirl
+Disallow: /*/*tub-girl
 Disallow: /*/*tutkuyla-öpüşme
 Disallow: /*/*-twerk
 Disallow: /*/twerk
@@ -961,8 +962,14 @@ Disallow: /*/*private-parts
 Disallow: /*/*masterbat*
 
 Allow: /*/*bikini-atoll
+Allow: /*/*essex
 Allow: /*/*horny-toad
+Allow: /*/*scunthorpe
+Allow: /*/*sussex
+Allow: /*/*xxxi
 Allow: /*/*xxxl
+Allow: /*/*xxxv
+
 
 User-agent: AdsBot-Google
 Allow: /*/en/

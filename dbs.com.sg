@@ -320,6 +320,8 @@ Disallow: /
 
 User-agent: Googlebot
 Disallow:
+Disallow: /personal/*common-disclaimer.page?url=
+Disallow: /personal/community/*user
 
 User-agent: AdsBot-Google
 Disallow:

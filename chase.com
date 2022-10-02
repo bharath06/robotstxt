@@ -94,6 +94,8 @@ Disallow: /content/dam/chaseonline/en/legacy/content/secure/chf/document/mortgag
 Disallow: /content/dam/mobile/en/legacy/documents/legal-docs/
 Disallow: /content/dam/chaseonline/en/legalagreements/
 Allow: /online/Credit-Cards/disney.htm
+Allow: /online/Home-Lending/mortgages.htm
+Allow: /online/Home-Lending/home-value-estimator.htm
 Allow: /video/sitemap.xml
 Allow: /sitemap.xml
 Sitemap: https://www.chase.com/video/sitemap.xml

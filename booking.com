@@ -407,8 +407,11 @@ Disallow: /region_attractions
 Disallow: /*city_bookings
 Disallow: /*nofollow=1
 Disallow: /flexiproduct
+Disallow: /js_errors
 Disallow: /js_tracking
 Disallow: /join_js_tracking
+Disallow: /sendlayoutevents
+Disallow: /squeak
 Disallow: /track
 Disallow: /episode_times
 Disallow: /event
@@ -431,6 +434,7 @@ Disallow: /pxbook?*
 Disallow: /product_header.html
 Disallow: /bas/*
 Disallow: /c360_v1_track
+Disallow: /c360/v1/track
 Disallow: /log_rt_blocks_order
 Disallow: /hotel_rt_onview
 

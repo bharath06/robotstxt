@@ -18,6 +18,7 @@ User-agent: Sogou spider2
 User-agent: HaosouSpider
 User-agent: HaosoSpider
 Disallow: /follow
+Disallow: /user/?enter_from=video_detail&from_gid=*
 
 User-agent: *
 Disallow: /

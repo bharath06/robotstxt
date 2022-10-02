@@ -1,21 +1,22 @@
 User-agent: *
-Disallow: /login
-Disallow: /base/logout
-Disallow: /account
+Disallow: */login
+Disallow: */base/logout
+Disallow: */account
 Disallow: /subscribe_success
 Disallow: /download
 Disallow: /checkout
 Disallow: /account_purchase_history.mhtml
 Disallow: /contests
-Disallow: /portfolio
-Disallow: /editor/template
-Disallow: /editor/design
-Disallow: /editor/search
-Disallow: /video/cart
-Disallow: /video/checkout
-Disallow: /music/cart
-Disallow: /music/user
-Disallow: /music/orders
+Disallow: */portfolio
+Allow: */search/portfolio
+Disallow: */editor/template
+Disallow: */editor/design
+Disallow: */editor/search
+Disallow: */video/cart
+Disallow: */video/checkout
+Disallow: */music/cart
+Disallow: */music/user
+Disallow: */music/orders
 Disallow: /web/checkout
 Disallow: /sstk/api/footage/wasabi/*
 Disallow: /studioapi/wasabi/*
@@ -25,25 +26,44 @@ Disallow: /feed.mhtml
 Disallow: /nuance-chat.html
 Disallow: /sw/*
 Disallow: /base/login
-Disallow: login.mhtml
-
-# Editor Images
-Allow: */editor/image
-Allow: */editor/image/
-Disallow: */editor/image/*0
-Disallow: */editor/image/*1
-Disallow: */editor/image/*2
-Disallow: */editor/image/*3
-Disallow: */editor/image/*4
-Disallow: */editor/image/*5
-Disallow: */editor/image/*6
-Disallow: */editor/image/*7
-Disallow: */editor/image/*8
-Disallow: */editor/image/*9
 
 Disallow: */search/ris/*
 Disallow: */search/models/*
 Disallow: */search/similar/*
+
+# Editor Images
+Disallow: */editor/image/*
+Allow: */editor/image/$
+
+# Filters & Query Params
+Disallow: *?a=*
+Disallow: *?action=*
+Disallow: *?age=*
+Disallow: *?apidt=*
+Disallow: *?artist=*
+Disallow: *?artistsExclude=*
+Disallow: *?artistsInclude=*
+Disallow: *?aspect_ratio=*
+Disallow: *?authentic=*
+Disallow: *?bpm=*
+Disallow: *?c=*
+Disallow: *?category=*
+Disallow: *?clear_recent_searches=*
+Disallow: *?color=*
+Disallow: *?cr=*
+Disallow: *?date=*
+Disallow: *?dateShot=*
+Disallow: *?duration=*
+Disallow: *?environment=*
+Disallow: *?ethnicity=*
+Disallow: *?exclude=*
+Disallow: *?fps=*
+Disallow: *?gender=*
+Disallow: *?glid=*
+Disallow: *?height=*
+Disallow: *?id=*
+Disallow: *?include=*
+Disallow: *?inline=*
 
 # Sitemaps
 Sitemap: https://www.shutterstock.com/sitemapz/20211116/image-index.xml

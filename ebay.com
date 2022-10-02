@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v16_COM_September_2022
+# v16.1_COM_September_2022
 ### DIRECTIVES ###
 
 User-agent: *
@@ -28,6 +28,11 @@ Allow: /ads.txt
 Disallow: /ads
 Disallow: /afs/
 Disallow: /atc/
+Allow: /b/adidas-Yeezy-Sneakers-for-Men/15709/bn_86578781?*_trkparms=*pageci:*|parentrq:*iid:0
+Allow: /b/Collectible-Sneakers/bn_7000259435?*_trkparms=*pageci:*|parentrq:*iid:0
+Allow: /b/Jordan-Sneakers-for-Men/15709/bn_96541848?*_trkparms=*pageci:*|parentrq:*iid:0
+Allow: /b/New-Balance-Sneakers-for-Men/15709/bn_58747?*_trkparms=*pageci:*|parentrq:*iid:0
+Allow: /b/Sneakers-for-Men/15709/bn_57918?*_trkparms=*pageci:*|parentrq:*iid:0
 Allow: /b/*?*_mwBanner
 Allow: /b/*?iid=*&var=
 Allow: /b/*?iid=*&chn=ps
@@ -210,6 +215,11 @@ Allow: /ads.txt
 Disallow: /ads
 Disallow: /afs/
 Disallow: /atc/
+Allow: /b/adidas-Yeezy-Sneakers-for-Men/15709/bn_86578781?*_trkparms=*pageci:*|parentrq:*iid:0
+Allow: /b/Collectible-Sneakers/bn_7000259435?*_trkparms=*pageci:*|parentrq:*iid:0
+Allow: /b/Jordan-Sneakers-for-Men/15709/bn_96541848?*_trkparms=*pageci:*|parentrq:*iid:0
+Allow: /b/New-Balance-Sneakers-for-Men/15709/bn_58747?*_trkparms=*pageci:*|parentrq:*iid:0
+Allow: /b/Sneakers-for-Men/15709/bn_57918?*_trkparms=*pageci:*|parentrq:*iid:0
 Allow: /b/*?*_mwBanner
 Allow: /b/*?iid=*&var=
 Allow: /b/*?iid=*&chn=ps

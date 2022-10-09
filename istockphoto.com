@@ -1004,3 +1004,5 @@ Sitemap: https://sitemaps.istockphoto.com/tr-tr/sitemap_index.xml.gz
 Sitemap: https://sitemaps.istockphoto.com/us-en/sitemap_index.xml.gz
 Sitemap: https://sitemaps.gettyimages.com/public/istock/xml/index.xml.gz
 Sitemap: https://sitemaps.istockphoto.com/inspire-pages-sitemap.xml.gz
+Sitemap: https://sitemaps.istockphoto.com/wb-pages-sitemap-index.xml.gz
+

@@ -56,6 +56,11 @@ Disallow: /amp/cricketnext/*
 Disallow: /cricketnext/newstopics/*
 Disallow: /cricketnext/amp/cricket-live-scorecard/*  
 Disallow: /cricketnext/cricket-live-scorecard/*
+Disallow: /blogs/*
+Disallow: /cricketnext/amp/profile/*
+Disallow: /cricketnext/news/series/*
+Disallow: /cricketnext/series/*
+Disallow: /cricketnext/amp/series/*
 
 
 Sitemap: https://www.news18.com/news-googlesitemap.xml

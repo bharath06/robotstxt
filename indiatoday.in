@@ -6,13 +6,16 @@ Sitemap: https://www.indiatoday.in/news-it-sitemap.xml
 # Disallow directive
 User-agent: *
 # Directories
+Disallow: /https://newprocessfromhome.com
+Disallow: /https://newprocessfromhome.com/*
 Disallow: /includes/
-Disallow: /topic/*
 Disallow: /misc/
 Disallow: /modules/
 Disallow: /profiles/
 Disallow: /scripts/
 Disallow: /themes/
+Disallow: /search/*
+Disallow: /preview/*
 # Files
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php

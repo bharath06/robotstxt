@@ -12,6 +12,16 @@ Disallow: *redirectUrl=*
 Allow: *gateway*sourceCurrency=*
 Allow: *comparisons*sourceCurrency=*
 
+# Block Googlebot and other bots besides Bingbot from crawling experiment pages
+User-agent: Googlebot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: YandexBot
+User-agent: Baiduspider
+Disallow: /ca/finance/send-money-abroad
+Disallow: /ca/finance/send-money-overseas
+Disallow: /ca/finance/international-money-transfer
+
 User-agent: Rogerbot
 User-agent: Exabot
 User-agent: MJ12bot

@@ -16,6 +16,7 @@ Disallow: /*draft=*
 Disallow: /*foxtrotcallback=*
 Disallow: /*origin=*
 Disallow: /my-account
+Disallow: /*proof=t%2Btarget%3D\*
 Disallow: /*proof=*
 Disallow: /*/figures
 Disallow: /*/tables

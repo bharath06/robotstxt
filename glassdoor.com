@@ -88,6 +88,7 @@ Disallow: /knowyourworth/
 Disallow: /Scoop/*
 Allow: /Scoop
 Allow: /Scoop/index.htm
+Disallow: /Reviews/index.htm?
 
 #logging related
 Disallow: */lib$

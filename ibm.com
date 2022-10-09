@@ -1,4 +1,4 @@
-# $Id: robots.txt,v 1.94 2022/04/08 15:23:32 jliao Exp jliao $
+# $Id: robots.txt,v 1.95 2022/10/06 19:16:35 jliao Exp $
 #
 # This is a file retrieved by webwalkers a.k.a. spiders that 
 # conform to a defacto standard.
@@ -85,6 +85,7 @@ sitemap: https://www.ibm.com/marketplace/storefront-sitemap-index.xml
 sitemap: https://www.ibm.com/downloads/cas/sitemap/sitemap.xml
 sitemap: https://www.ibm.com/common/ssi/start/sitemap.xml
 sitemap: https://www.ibm.com/content/dam/adobe-cms/IBM_Adobe_Sitemap.xml
+sitemap: https://www.ibm.com/mysupport/s/sitemap.xml
 
 User-agent: Fast corporate crawler
 Disallow: //

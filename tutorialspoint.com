@@ -8,7 +8,10 @@ Disallow: /logs/
 Disallow: /rate/
 Disallow: /store/
 Disallow: /cgi-bin/
-Disallow: /programming_example/
+Disallow: /programming_example
+Disallow: /programming_examples
+Disallow: /programming_example/*
+Disallow: /programming_examples/*
 Disallow: /videotutorials/video_course_view.php?*
 Disallow: /videotutorials/course_view.php?*
 Disallow: /*/*_question_bank/

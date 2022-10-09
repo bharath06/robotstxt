@@ -6,6 +6,8 @@ Allow: /api/v*/discovery
 Allow: /api/discovery
 Allow: /invite
 Allow: /invite/
+Allow: /terms
+Allow: /privacy
 Disallow: /channels
 Disallow: /channels/
 Disallow: /verify
@@ -40,6 +42,8 @@ Disallow: /widget/
 Disallow: /profile/
 Allow: /invite
 Allow: /invite/
+Allow: /terms
+Allow: /privacy
 
 User-agent: nsa
 Disallow: /

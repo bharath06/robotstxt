@@ -37,6 +37,10 @@ Disallow: /ahoy/visits
 Disallow: /geckoterminal/token_is_valid
 Disallow: /*/historical_data*?*end_date
 Disallow: /*/historical_data*?*start_date
+Disallow: /*/portfolios/
+Disallow: /*/alerts
+Disallow: *.xls$
+Disallow: *.csv$
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml

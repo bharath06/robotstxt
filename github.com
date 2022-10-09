@@ -38,7 +38,7 @@ Disallow: /search/advanced
 Disallow: /search
 Disallow: */search
 Disallow: /*q=
-Disallow: /*.atom
+Disallow: /*.atom$
 
 Disallow: /ekansa/Open-Context-Data
 Disallow: /ekansa/opencontext-*

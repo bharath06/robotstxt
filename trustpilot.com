@@ -11,6 +11,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -35,6 +38,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -59,6 +65,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -83,6 +92,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -107,6 +119,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -131,6 +146,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -155,6 +173,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -179,6 +200,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -203,6 +227,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -227,6 +254,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -251,6 +281,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -275,6 +308,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -299,6 +335,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -323,6 +362,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -347,6 +389,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/
@@ -371,6 +416,9 @@ Disallow: /*?*languages=
 Disallow: /*?*stars=
 Disallow: /*?*sort=
 Disallow: /*?*verified=
+Disallow: /*?*aspects=
+Disallow: /*?*replies=
+Disallow: /*?*date=
 Disallow: /sessions
 Disallow: /submitted/review
 Disallow: /users/

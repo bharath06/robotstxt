@@ -109,6 +109,6 @@ Sitemap: https://www.appsflyer.com/sitemap-es.xml
 Sitemap: https://www.appsflyer.com/sitemap-pt.xml
 Sitemap: https://www.appsflyer.com/sitemap-ja.xml
 Sitemap: https://www.appsflyer.com/sitemap-ko.xml
+Sitemap: https://www.appsflyer.com/sitemap-fr.xml
 Sitemap: https://www.appsflyer.com/image-sitemap.xml
-Sitemap: https://www.appsflyer.com/fr/sitemap_index.xml
 Sitemap: https://www.appsflyer.com/cn/sitemap_index.xml

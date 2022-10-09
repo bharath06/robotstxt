@@ -22,3 +22,5 @@ Sitemap: https://mmb.moneycontrol.com/sitemap/latest_thread_sitemap.xml
 Sitemap: https://www.moneycontrol.com/mccode/sitemap/stocks_technical_analysis.xml
 Sitemap: https://www.moneycontrol.com/news/news-sitemap.xml
 Sitemap: https://www.moneycontrol.com/sitemap/category-sitemap.xml
+Sitemap: https://www.moneycontrol.com/storyboard18/sitemap/category-sitemap.xml
+Sitemap: https://www.moneycontrol.com/storyboard18/sitemap/news-sitemap.xml

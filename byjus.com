@@ -58,7 +58,6 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
-Disallow: /author/
 Disallow: /cbse-result/author/
 Disallow: /cbse-study-material/author/
 Disallow: /?s={searchInput}/

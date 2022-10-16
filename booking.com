@@ -50,7 +50,6 @@ Sitemap: https://www.booking.com/sitembk-landmark-index.xml
 Sitemap: https://www.booking.com/sitembk-newly-opened-index.xml
 Sitemap: https://www.booking.com/sitembk-region-index.xml
 Sitemap: https://www.booking.com/sitembk-region-review-index.xml
-Sitemap: https://www.booking.com/sitembk-single-review-index.xml
 Sitemap: https://www.booking.com/sitembk-tourism-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-city-7days_inn-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-city-accessible_traveling-index.xml
@@ -123,7 +122,6 @@ Sitemap: https://www.booking.com/sitembk-themed-city-swimming_pool-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-city-tented_camp-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-city-threestars-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-city-tiny_house-index.xml
-Sitemap: https://www.booking.com/sitembk-themed-city-ubernachtung-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-city-villas-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-country-7days_inn-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-country-accessible_traveling-index.xml
@@ -198,7 +196,6 @@ Sitemap: https://www.booking.com/sitembk-themed-country-tented_camp-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-country-threestars-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-country-tiny_house-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-country-toyoko_inn-index.xml
-Sitemap: https://www.booking.com/sitembk-themed-country-ubernachtung-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-country-villas-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-glp-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-region-7days_inn-index.xml
@@ -272,7 +269,6 @@ Sitemap: https://www.booking.com/sitembk-themed-region-swimming_pool-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-region-tented_camp-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-region-threestars-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-region-tiny_house-index.xml
-Sitemap: https://www.booking.com/sitembk-themed-region-ubernachtung-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-region-villas-index.xml
 
 User-agent: psbot

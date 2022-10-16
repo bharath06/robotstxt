@@ -24,7 +24,6 @@ Disallow: /*/news_guides$
 Disallow: /*/overall_stats$
 Disallow: /*/currency_selector$
 Disallow: /*/sparkline$
-Disallow: /*/max.json$
 Disallow: /*/render_hashing_algorithm_selector
 Disallow: /*/widget_component/ticker$
 Disallow: /*/show_more_tickers

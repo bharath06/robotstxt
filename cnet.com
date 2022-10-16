@@ -31,7 +31,6 @@ Disallow: */ad/ad-cookie/*
 Disallow: /html/story/*
 Disallow: *hub-preview-version=*
 Disallow: */feature/*
-Disallow: */paid-content/*
 
 Disallow: */xhr*
 Disallow: */Xhr*

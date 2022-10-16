@@ -27,3 +27,6 @@ Disallow: /wapi/zpuser/countryCode*
 Disallow: *?from=*
 Disallow: /web/geek/job*
 Disallow: /?ivk_sa=*
+Disallow: /?key=*
+Disallow: /?scity=*
+Disallow: /?page=*

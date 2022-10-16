@@ -16,3 +16,5 @@ Disallow: /videotutorials/video_course_view.php?*
 Disallow: /videotutorials/course_view.php?*
 Disallow: /*/*_question_bank/
 Disallow: //*/*/*/*/src/
+Sitemap: https://www.tutorialspoint.com/tp.xml
+Sitemap: https://www.tutorialspoint.com/tp1.xml

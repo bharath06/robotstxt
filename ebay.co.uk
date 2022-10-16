@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v16_UK_DE_September_2022
+# v16.2_UK_DE_October_2022
 ### DIRECTIVES ###
 
 User-agent: *
@@ -182,6 +182,7 @@ Allow: /urw/*/product-reviews/
 Disallow: /urw/
 Disallow: /usr/*/all-follows
 Disallow: /usr/*/followers
+Disallow: /vas
 Disallow: /viitem
 Disallow: /vlabl
 Disallow: /vlt
@@ -356,6 +357,7 @@ Disallow: /ulk/usr/
 Allow: /urw/*/product-reviews/
 Disallow: /urw/
 Disallow: /usr/
+Disallow: /vas
 Disallow: /viitem
 Disallow: /vlabl
 Disallow: /vlt

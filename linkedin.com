@@ -10,7 +10,6 @@
 User-agent: Googlebot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -26,7 +25,6 @@ Disallow: /embed/feed/update/
 Disallow: /endorsements
 Disallow: /feed/update/
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -34,16 +32,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -67,7 +62,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -91,7 +85,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -107,7 +100,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -130,7 +122,6 @@ Allow: /help/
 User-agent: Applebot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -144,7 +135,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -152,15 +142,12 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -184,7 +171,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -207,7 +193,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -223,7 +208,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -246,7 +230,6 @@ Allow: /settings/loid-email-unsubscribe*
 User-agent: Bingbot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -262,7 +245,6 @@ Disallow: /embed/feed/update/
 Disallow: /endorsements
 Disallow: /feed/update/
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -270,16 +252,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -303,7 +282,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -327,7 +305,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -343,7 +320,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -366,7 +342,6 @@ Allow: /settings/loid-email-unsubscribe*
 User-agent: msnbot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -380,7 +355,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -388,16 +362,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -421,7 +392,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -444,7 +414,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -460,7 +429,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -481,7 +449,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Slurp
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -495,7 +462,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -503,16 +469,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -536,7 +499,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -559,7 +521,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -575,7 +536,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -596,7 +556,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Googlebot-Image
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -610,7 +569,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -618,16 +576,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -651,7 +606,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -675,7 +629,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -691,7 +644,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -712,7 +664,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: baiduspider
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -726,7 +677,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -734,16 +684,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -767,7 +714,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -791,7 +737,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -807,7 +752,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -828,7 +772,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Baiduspider
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -842,7 +785,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -850,16 +792,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -883,7 +822,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -907,7 +845,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -923,7 +860,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -944,7 +880,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: seznambot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -958,7 +893,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -966,16 +900,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -999,7 +930,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -1022,7 +952,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -1038,7 +967,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -1059,7 +987,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Teoma
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -1073,7 +1000,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -1081,16 +1007,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -1114,7 +1037,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -1137,7 +1059,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -1153,7 +1074,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -1174,7 +1094,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Yandex
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -1188,7 +1107,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -1196,16 +1114,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -1229,7 +1144,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -1252,7 +1166,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -1268,7 +1181,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -1289,7 +1201,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Yeti
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -1303,7 +1214,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -1311,16 +1221,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -1344,7 +1251,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -1367,7 +1273,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -1383,7 +1288,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -1404,7 +1308,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: msnbot-media
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -1418,7 +1321,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -1426,16 +1328,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -1459,7 +1358,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -1482,7 +1380,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -1498,7 +1395,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -1519,7 +1415,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Googlebot-News
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -1533,7 +1428,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -1541,16 +1435,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -1574,7 +1465,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -1598,7 +1488,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -1614,7 +1503,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -1635,7 +1523,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Googlebot-Video
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -1649,7 +1536,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -1657,16 +1543,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -1690,7 +1573,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -1714,7 +1596,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -1730,7 +1611,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -1751,7 +1631,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Googlebot-Mobile
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -1765,7 +1644,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -1773,16 +1651,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -1806,7 +1681,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -1830,7 +1704,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -1846,7 +1719,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -1867,7 +1739,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Mediapartners-Google
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -1881,7 +1752,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /fetch/
 Disallow: /groups/
 Disallow: /groupAnswers*
@@ -1891,15 +1761,12 @@ Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /api/jobPostings/jobs*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -1923,7 +1790,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -1947,7 +1813,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -1963,7 +1828,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -1984,7 +1848,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: AdsBot-Google
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -1998,7 +1861,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -2006,16 +1868,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -2039,7 +1898,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -2063,7 +1921,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -2079,7 +1936,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -2100,7 +1956,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: DuckDuckBot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -2114,7 +1969,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -2122,16 +1976,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -2155,7 +2006,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -2178,7 +2028,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -2194,7 +2043,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -2215,7 +2063,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: daumoa
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -2229,7 +2076,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -2237,16 +2083,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -2270,7 +2113,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -2293,7 +2135,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -2309,7 +2150,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -2330,7 +2170,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: OrangeBot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -2344,7 +2183,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -2352,16 +2190,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -2385,7 +2220,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -2408,7 +2242,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -2424,7 +2257,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -2445,7 +2277,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: OrangeBot-Collector
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -2459,7 +2290,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -2467,16 +2297,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -2500,7 +2327,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -2523,7 +2349,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -2539,7 +2364,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -2560,7 +2384,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: StackRambler
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -2574,7 +2397,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -2582,16 +2404,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -2615,7 +2434,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -2638,7 +2456,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -2654,7 +2471,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -2675,7 +2491,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Twitterbot/1.0
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -2689,7 +2504,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -2697,15 +2511,12 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -2729,7 +2540,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -2752,7 +2562,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -2767,7 +2576,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -2788,7 +2596,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Mail.RU_Bot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -2802,7 +2609,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -2810,16 +2616,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -2843,7 +2646,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -2866,7 +2668,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -2882,7 +2683,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -2903,7 +2703,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: naverbot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -2917,7 +2716,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -2925,16 +2723,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -2958,7 +2753,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -2981,7 +2775,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -2997,7 +2790,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -3018,7 +2810,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: vebidoobot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -3032,7 +2823,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -3040,16 +2830,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -3073,7 +2860,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -3096,7 +2882,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -3112,7 +2897,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /xdoor*
 Disallow: /comm/
 Disallow: /enterprise-jobs/
@@ -3126,7 +2910,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: MJ12bot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -3140,7 +2923,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -3148,16 +2930,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -3181,7 +2960,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -3204,7 +2982,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -3220,7 +2997,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /xdoor*
 Disallow: /comm/
 Disallow: /enterprise-jobs/
@@ -3234,7 +3010,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: 360Spider
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -3248,7 +3023,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -3256,16 +3030,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -3289,7 +3060,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -3312,7 +3082,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -3328,7 +3097,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -3349,7 +3117,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: Sogou
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -3363,7 +3130,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -3371,16 +3137,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -3404,7 +3167,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -3427,7 +3189,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -3443,7 +3204,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -3464,7 +3224,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: rogerbot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -3478,7 +3237,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -3486,16 +3244,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -3519,7 +3274,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -3542,7 +3296,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -3558,7 +3311,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -3581,7 +3333,6 @@ Allow: /profinder/*
 User-agent: deepcrawl
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -3595,7 +3346,6 @@ Disallow: /csp/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -3603,16 +3353,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -3636,7 +3383,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -3659,7 +3405,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -3675,7 +3420,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -3699,7 +3443,6 @@ Allow: /psettings/guest-controls/retargeting-opt-out*
 User-agent: ByteSpider
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -3715,7 +3458,6 @@ Disallow: /embed/feed/update/
 Disallow: /endorsements
 Disallow: /feed/update/
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -3723,7 +3465,6 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
@@ -3731,10 +3472,8 @@ Disallow: /lite/
 Disallow: /li/track
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -3756,7 +3495,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -3780,7 +3518,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -3796,7 +3533,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -3819,7 +3555,6 @@ Allow: /settings/loid-email-unsubscribe*
 User-agent: Neevabot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -3835,7 +3570,6 @@ Disallow: /embed/feed/update/
 Disallow: /endorsements
 Disallow: /feed/update/
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -3843,16 +3577,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -3876,7 +3607,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -3900,7 +3630,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -3916,7 +3645,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers
@@ -3939,7 +3667,6 @@ Allow: /help/
 User-agent: Zoombot
 Disallow: /addContacts*
 Disallow: /addressBookExport*
-Disallow: /ambry
 Disallow: /analytics/
 Disallow: /answers*
 Disallow: /authwall
@@ -3955,7 +3682,6 @@ Disallow: /embed/feed/update/
 Disallow: /endorsements
 Disallow: /feed/update/
 Disallow: /find/
-Disallow: /fizzy/admin
 Disallow: /groups/
 Disallow: /groupAnswers*
 Disallow: /groupSharingMsg*
@@ -3963,16 +3689,13 @@ Disallow: /inviteFromProfile*
 Disallow: /inviteMany*
 Disallow: /jobs?runSearch*
 Disallow: /jobs/view/externalApply/
-Disallow: /jobs-guest/
 Disallow: /api/jobPostings/jobs*
 Disallow: /jsearch*
 Disallow: /job-apply/
 Disallow: /learning*?auth=true
 Disallow: /learning*&auth=true
-Disallow: /learning/articles/
 Disallow: /learning/certificates/
 Disallow: /learning/embed/
-Disallow: /learning/events/
 Disallow: /learning/instructors?
 Disallow: /learning/instructors$
 Disallow: /learning/instructors/
@@ -3996,7 +3719,6 @@ Disallow: /mbox*
 Disallow: /me/
 Disallow: /memberInvite*
 Disallow: /messaging/
-Disallow: /mob/tracking
 Disallow: /mwlite/
 Disallow: /msgToConns*
 Disallow: /myprofile*
@@ -4020,7 +3742,6 @@ Disallow: /reconnect*
 Disallow: /redirect*
 Disallow: /redir*
 Disallow: /requestList*
-Disallow: /salary-explorer/api
 Disallow: /search*
 Disallow: /secure/
 Disallow: /settings/
@@ -4036,7 +3757,6 @@ Disallow: /uas/login
 Disallow: /uas/oauth/*
 Disallow: /uas/oauth2/*
 Disallow: /using*
-Disallow: /voyager/api
 Disallow: /help/*/ask
 Disallow: /help/*/ask/*
 Disallow: /help/*/answers

@@ -14,6 +14,7 @@ Disallow: /printpage/
 Disallow: /news/printpage/
 Disallow: /news/business/economy/exclusive-india-exported-nearly-9300-metric-tonnes-of-oxygen-in-fy21-as-pandemic-rolled-on-6792711.html
 Disallow: /open_in_app.php
+Disallow: /*/page-*/
 
 Sitemap: https://mmb.moneycontrol.com/sitemap/stock_topic_sitemap.xml
 Sitemap: https://mmb.moneycontrol.com/sitemap/market_view_topic_sitemap.xml

@@ -19,7 +19,9 @@ Allow: /share
 Allow: /music
 Disallow: /inapp
 Disallow: /auth
-Disallow: /embed/
+Disallow: /embed/@
+Disallow: /embed/v2
+Disallow: /embed/curated
 Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap.xml
 Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_tag_jpagency_index_20200509_-1553821641.xml
 Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_tag_jpagency_index_20200525_-1553821583.xml

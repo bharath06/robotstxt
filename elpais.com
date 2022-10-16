@@ -9,7 +9,6 @@ Disallow: /*.swf$
 Disallow: /eskupTSUpdate
 Disallow: /*=/*x*/
 Disallow: /subscriptions/*
-Disallow: /Comentario/
 Disallow: /landing_oferta/
 
 

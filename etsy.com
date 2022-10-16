@@ -1303,11 +1303,6 @@ Allow: /it/mailinglist/email/
 Allow: /jp/mailinglist/email/
 Allow: /pl/mailinglist/email/
 Sitemap: https://www.etsy.com/sitemaps.xml
-Sitemap: https://www.etsy.com/listing_sitemaps/en/index.xml.gz
-Sitemap: https://www.etsy.com/de/listing_sitemaps/de_shops/listing_index_de_shops.xml.gz
-Sitemap: https://www.etsy.com/de/listing_sitemaps/non_de_shops/listing_index_non_de_shops.xml.gz
-Sitemap: https://www.etsy.com/uk/listing_sitemaps/uk_shops/listing_index_uk_shops.xml.gz
-Sitemap: https://www.etsy.com/uk/listing_sitemaps/non_uk_shops/listing_index_non_uk_shops.xml.gz
 Sitemap: https://www.etsy.com/blog/sitemap.xml.gz
 Sitemap: https://www.etsy.com/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/fi-en/sitemaps/shops/all.xml

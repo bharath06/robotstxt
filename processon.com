@@ -1,8 +1,3 @@
-Sitemap: http://www.processon.com/sitemap.xml
-Sitemap: http://www.processon.com/sitemap_diagrams.txt
-Sitemap: http://www.processon.com/sitemap_tags.txt
-Sitemap: http://www.processon.com/sitemap_users.txt
-
 User-agent: *
 Allow: /
 Disallow: /tag/4f3ccc060cf21f1f4cb577c8_4f3ccc060cf21f1f4cb577c7_4f3ccc060cf21f1f4cb577c9_4f3ccc060cf21f1f4cb577cb
@@ -17,6 +12,9 @@ Disallow: /tag/4f3ccc060cf21f1f4cb577cc_4f3ccc060cf21f1f4cb577c8_4f3ccc060cf21f1
 Disallow: /tag/4e9656040cf21bd1741bee02_4e9542b30cf21bd1741becdc_4e9656040cf21bd1741bee06_4e9656170cf21bd1741bee15_4e965ccd0cf21bd1741bee9a_4e9eb2230cf21bd1741bfe38_4f3dcc7b0cf21f1f4cb578b8_4f4312830cf271c4f43f9090
 Disallow: /tag/4e9656040cf21bd1741bee02_4e9542b30cf21bd1741becdc_4e9656040cf21bd1741bee06_4e9656170cf21bd1741bee15_4e9659e30cf21bd1741bee6d_4e965ccd0cf21bd1741bee9a_4e965f1a0cf21bd1741beeb8_4e9eb2230cf21bd1741bfe38_4f3c76fb0cf21f1f4cb57652
 Disallow: /tag/4f3ccc060cf21f1f4cb577c9_4f3ccc060cf21f1f4cb577c7
-Disallow: /view/link/
 Disallow: /view/link/*
-Disallow: /view/link/*?*
+Disallow: /view/*
+Sitemap: http://www.processon.com/sitemap.xml
+Sitemap: http://www.processon.com/sitemap_diagrams.txt
+Sitemap: http://www.processon.com/sitemap_tags.txt
+Sitemap: http://www.processon.com/sitemap_users.txt

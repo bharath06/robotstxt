@@ -114,6 +114,7 @@ Disallow: /configr
 Disallow: /diger-saticilar
 Disallow: /dispatch
 Disallow: /emlak
+Disallow: /exposed-fragment-info
 Disallow: /form/
 Disallow: /flas-indirimler
 Disallow: /giris

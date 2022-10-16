@@ -57,6 +57,9 @@ Disallow: /photos/*/lightbox/
 Disallow: /groups/*/lightbox/
 Disallow: /explore/*/lightbox/
 
+User-agent: magpie-crawler
+Disallow: /
+
 User-agent: *
 Disallow: /
 

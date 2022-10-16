@@ -71,9 +71,16 @@ Allow: /favicon.ico
 Allow: /favicon.svg
 
 Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=artists
+
 Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=forum_topics
+
 Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=pools
+
 Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=posts
+
 Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=tags
+
 Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=users
+
 Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=wiki_pages
+

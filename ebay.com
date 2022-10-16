@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v16.1_COM_September_2022
+# v16.2_COM_October_2022
 ### DIRECTIVES ###
 
 User-agent: *
@@ -72,6 +72,7 @@ Disallow: /blueberry/
 Disallow: /bo/
 Disallow: /brw/
 Disallow: /cancel/
+Disallow: /chocolatechip/experience/v1/module_provider
 Disallow: /clp/
 Disallow: /clt/store/
 Disallow: /contact/
@@ -89,6 +90,7 @@ Disallow: /feed/
 Disallow: /fdbk/
 Disallow: /ficapp/
 Disallow: /fol/
+Disallow: /g/api/
 Disallow: /gh/useracquisition
 Disallow: /gsr/
 Disallow: /gss/v2
@@ -194,6 +196,7 @@ Allow: /urw/*/product-reviews/
 Disallow: /urw/
 Disallow: /usr/*/all-follows
 Disallow: /usr/*/followers
+Disallow: /vas
 Disallow: /viitem
 Disallow: /vlabl
 Disallow: /vlt
@@ -259,6 +262,7 @@ Disallow: /blueberry/
 Disallow: /bo/
 Disallow: /brw/
 Disallow: /cancel/
+Disallow: /chocolatechip/experience/v1/module_provider
 Disallow: /clp/
 Disallow: /clt/store/
 Disallow: /contact/
@@ -276,6 +280,7 @@ Disallow: /feed/
 Disallow: /fdbk/
 Disallow: /ficapp/
 Disallow: /fol/
+Disallow: /g/api/
 Disallow: /gh/useracquisition
 Disallow: /gsr/
 Disallow: /gss/v2
@@ -377,6 +382,7 @@ Disallow: /ulk/usr/
 Allow: /urw/*/product-reviews/
 Disallow: /urw/
 Disallow: /usr/
+Disallow: /vas
 Disallow: /viitem
 Disallow: /vlabl
 Disallow: /vlt

@@ -1,5 +1,3 @@
-
-            
 User-agent: *
 Disallow: /*?*
 Disallow: /common/*
@@ -12,8 +10,3 @@ Disallow: /intl/id-id/*
 Sitemap: https://www.huaweicloud.com/sitemap-product.xml
 Sitemap: https://www.huaweicloud.com/sitemap-news.xml
 Sitemap: https://www.huaweicloud.com/sitemap-cases.xml
-
-
-            
-            
-        

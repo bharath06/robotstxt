@@ -30,7 +30,7 @@ Sitemap: https://www.walmart.com/sitemap_itp_01.xml
 Sitemap: https://www.walmart.com/sitemap_itp_02.xml
 Sitemap: https://www.walmart.com/sitemap_itp_03.xml
 
-
+Sitemap: https://www.walmart.com/sitemap_auto_dir.xml
 
 #Disallow select URLs
 User-agent: *

@@ -305,6 +305,9 @@ Disallow: /personal/landing/insurance/driveshield/index.html
 Disallow: /iwov-resources/pdf/investments/idea-fund-private-placement-memorandum.pdf
 Disallow: /personal/cards/credit-cards/dbs-vantage-visa-infinite-card-rebates
 Disallow: /personal/cards/credit-cards/dbs-vantage-visa-infinite-card-miles
+Disallow: /personal/deposits/bank-with-ease/sms-banking
+Disallow: /personal/insurance/accident-health/personal-accident-plans/complimentary-pa-protect
+
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

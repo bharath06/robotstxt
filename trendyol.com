@@ -99,6 +99,7 @@ Disallow: /*satici=
 Disallow: /*siralama=
 Disallow: /*source=
 Disallow: /*yasgrubu=
+Disallow: /*/butikdetay/
 Disallow: /*/*-p-*/satici-sorulari
 Disallow: /*/*-p-*/saticilar
 Disallow: /*/*-p-*/saticiya-sor
@@ -115,6 +116,7 @@ Disallow: /diger-saticilar
 Disallow: /dispatch
 Disallow: /emlak
 Disallow: /exposed-fragment-info
+Disallow: /fiyat-gecmisi
 Disallow: /form/
 Disallow: /flas-indirimler
 Disallow: /giris

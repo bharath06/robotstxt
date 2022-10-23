@@ -1,3 +1,4 @@
+sitemap: https://www.crunchyroll.com/sitemap.xml
 sitemap: https://www.crunchyroll.com/sitemap
 User-agent: *
 Disallow: /showtag
@@ -21,3 +22,4 @@ Disallow: /user
 Disallow: /vilos/
 Disallow: /store/
 Disallow: /email/
+Disallow: /search-classic

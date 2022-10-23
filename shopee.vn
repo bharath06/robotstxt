@@ -30,6 +30,8 @@ Disallow: /addon-deal-selection/
 Disallow: /bundle-deal/
 Disallow: /search_user
 Disallow: /search?keyword=*.com
+Disallow: /blog/?s=
+
 
 User-Agent:*
 Disallow: /cart/

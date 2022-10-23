@@ -68,6 +68,12 @@ Allow: /fancard
 Allow: /find_service
 Allow: /molodym
 Allow: /vuzks
+Allow: /futurecode
+Allow: /crt
+Allow: /stroika
+Allow: /telecomorgs
+Allow: /itorgs
+Allow: /donation
 
 User-agent: GoogleBot
 Disallow: *2019_08_09_super_services
@@ -164,6 +170,12 @@ Allow: /fancard
 Allow: /find_service
 Allow: /molodym
 Allow: /vuzks
+Allow: /futurecode
+Allow: /crt
+Allow: /stroika
+Allow: /telecomorgs
+Allow: /itorgs
+Allow: /donation
 
 User-agent: *
 Disallow: *2019_08_09_super_services
@@ -260,8 +272,14 @@ Allow: /fancard
 Allow: /find_service
 Allow: /molodym
 Allow: /vuzks
+Allow: /futurecode
+Allow: /crt
+Allow: /stroika
+Allow: /telecomorgs
+Allow: /itorgs
+Allow: /donation
 
 Clean-param: utm_campaign&utm_source&utm_term&utm_medium&utm_startpage&utm_orderpage&utm_referer&utm_content
-Clean-param: q&special&from&serviceTargetExtId&p&id&contacts&layer&filter
+Clean-param: q&special&from&serviceTargetExtId&p&id&contacts&layer&filter&services&_&amp&scroll
 
 Sitemap: https://www.gosuslugi.ru/sitemap/all-sitemap.xml

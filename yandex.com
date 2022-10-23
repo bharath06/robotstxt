@@ -230,6 +230,9 @@ Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
 
+Disallow: /games/*?*reqId*
+Disallow: /games/*?*pageId*
+
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*
 Clean-Param: app-id&game-id&div-rtx-reqid&lang&platform&header&from /games/
@@ -482,6 +485,9 @@ Disallow: /adult
 Disallow: /news
 Disallow: /news/
 
+Disallow: /games/*?*reqId*
+Disallow: /games/*?*pageId*
+
 Sitemap: https://yandex.com/support/sitemap.xml
 Sitemap: https://yandex.com/blog/sitemap.xml
 Sitemap: https://yandex.com/turbo/public/sitemap.xml
@@ -699,6 +705,9 @@ Disallow: /element/?*
 Disallow: /element/*goodbye*
 Disallow: /soft/*goodbye*
 Disallow: /adult
+
+Disallow: /games/*?*reqId*
+Disallow: /games/*?*pageId*
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*

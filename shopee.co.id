@@ -32,6 +32,7 @@ Disallow: /bundle-deal/
 Disallow: *?sp_atk=
 Disallow: *__classic__=1
 Disallow: /search_user
+Disallow: /inspirasi-shopee/?s=
 
 User-Agent:*
 Crawl-delay:1

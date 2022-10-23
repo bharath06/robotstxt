@@ -15,6 +15,8 @@ Disallow: /p/*/tree/
 Disallow: /p/*/search_feed/
 Disallow: /p/*/search_help/
 Disallow: /p/*/wiki/*/edit
+Disallow: /p/*/discussion/create_topic/
+Disallow: /p/*/mailman/search/
 Disallow: /*/ci/
 Disallow: /*/commit_browser
 Disallow: /*/commit_browser_data
@@ -34,7 +36,9 @@ Disallow: /projects/*/rss
 Disallow: /projects/*/lists/*/unsubscribe
 Disallow: /projects/*/moderate_review
 Disallow: /projects/*/rate_review
+Disallow: /projects/*/best_release.html
 Disallow: /*_escaped_fragment_
+Disallow: /auth/
 Disallow: /auth/do_login
 Disallow: /software/visit?
 Disallow: /software/compare/*-vs-*-vs-*-vs-*-vs-
@@ -43,7 +47,10 @@ Disallow: /software/product/*/reviews/new
 Disallow: /software/product/*/claim
 Disallow: /software/vendors/new
 Disallow: /software/vendors/inquire
+Disallow: /software/*?q=
+Disallow: /software/*&q=
 Disallow: /rest/
+Disallow: /user/registration
 Disallow: */bin_counts
 Disallow: */milestone_counts
 Disallow: */stats_data
@@ -92,6 +99,8 @@ Disallow: /p/*/tree/
 Disallow: /p/*/search_feed/
 Disallow: /p/*/search_help/
 Disallow: /p/*/wiki/*/edit
+Disallow: /p/*/discussion/create_topic/
+Disallow: /p/*/mailman/search/
 Disallow: /*/ci/
 Disallow: /*/commit_browser
 Disallow: /*/commit_browser_data
@@ -111,7 +120,9 @@ Disallow: /projects/*/rss
 Disallow: /projects/*/lists/*/unsubscribe
 Disallow: /projects/*/moderate_review
 Disallow: /projects/*/rate_review
+Disallow: /projects/*/best_release.html
 Disallow: /*_escaped_fragment_
+Disallow: /auth/
 Disallow: /auth/do_login
 Disallow: /software/visit?
 Disallow: /software/compare/*-vs-*-vs-*-vs-*-vs-
@@ -120,7 +131,10 @@ Disallow: /software/product/*/reviews/new
 Disallow: /software/product/*/claim
 Disallow: /software/vendors/new
 Disallow: /software/vendors/inquire
+Disallow: /software/*?q=
+Disallow: /software/*&q=
 Disallow: /rest/
+Disallow: /user/registration
 Disallow: */bin_counts
 Disallow: */milestone_counts
 Disallow: */stats_data
@@ -176,8 +190,6 @@ Disallow: /software/*?training=
 Disallow: /software/*&training=
 Disallow: /software/*?feature_
 Disallow: /software/*&feature_
-Disallow: /software/*?q=
-Disallow: /software/*&q=
 
 Sitemap: https://sourceforge.net/sitemap.xml
 Sitemap: https://sourceforge.net/allura_sitemap/sitemap.xml

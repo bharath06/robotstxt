@@ -87,6 +87,7 @@ Disallow: /comments
 Disallow: /search
 Disallow: /s/*
 Disallow: /embed/
+Disallow: /native/
 
 User-agent: Twitterbot
 Allow: /posttv-beta/

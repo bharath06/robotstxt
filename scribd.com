@@ -124,6 +124,15 @@ Sitemap: https://sitemaps.scribd.com/docs_other_index.xml
 Sitemap: https://sitemaps.scribd.com/docs_pt_index.xml
 Sitemap: https://sitemaps.scribd.com/docs_ro_index.xml
 Sitemap: https://sitemaps.scribd.com/docs_ru_index.xml
+Sitemap: https://sitemaps.scribd.com/series_de_index.xml
+Sitemap: https://sitemaps.scribd.com/series_en_index.xml
+Sitemap: https://sitemaps.scribd.com/series_es_index.xml
+Sitemap: https://sitemaps.scribd.com/series_fr_index.xml
+Sitemap: https://sitemaps.scribd.com/series_id_index.xml
+Sitemap: https://sitemaps.scribd.com/series_other_index.xml
+Sitemap: https://sitemaps.scribd.com/series_pt_index.xml
+Sitemap: https://sitemaps.scribd.com/series_ro_index.xml
+Sitemap: https://sitemaps.scribd.com/series_ru_index.xml
 Sitemap: https://sitemaps.scribd.com/sheet_music_index.xml
 Sitemap: https://sitemaps.scribd.com/sheet_music_chapters_index.xml
 

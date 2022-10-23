@@ -1,4 +1,4 @@
-# $Id: robots.txt,v 1.95 2022/10/06 19:16:35 jliao Exp $
+# $Id: robots.txt,v 1.96 2022/10/20 17:17:10 jliao Exp $
 #
 # This is a file retrieved by webwalkers a.k.a. spiders that 
 # conform to a defacto standard.
@@ -19,7 +19,7 @@ Disallow: /account/myint
 Disallow: /Admin
 Disallow: /cgi-
 Disallow: /contact/employees/servlets
-Disallow: /data
+Disallow: /data/
 Disallow: /db2s
 Disallow: /developerworks/*-pdf.pdf$
 Disallow: /developerworks/forums/servlet
@@ -96,7 +96,7 @@ Disallow: /Admin
 Disallow: /cgi-
 Disallow: /common
 Disallow: /contact/employees/servlets
-Disallow: /data
+Disallow: /data/
 Disallow: /db2s
 Disallow: /developerworks
 Disallow: /fcgi-

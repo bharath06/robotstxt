@@ -53,6 +53,7 @@ Disallow: /website/templates*?screen=
 Disallow: /*?sort=
 Disallow: /marketplace/hire/*?serviceIds=
 Disallow: /marketplace/hire/*&serviceIds=
+Disallow: /wix-platform
 
 Sitemap: https://www.wix.com/sitemap.xml
 

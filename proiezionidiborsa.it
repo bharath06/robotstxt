@@ -1,6 +1,12 @@
 User-agent: *
 Disallow: /wp-admin/
 Disallow: /?*
+Disallow: /search/*
+Disallow:*?fbclid*
+Disallow: ?orderby
+Disallow: ?m
+Disallow: ?_gl
+
 Allow: /wp-admin/admin-ajax.php
 
 User-agent: Mediapartners-Google
@@ -14,6 +20,7 @@ Allow: /
 
 User-agent: Googlebot-Mobile
 Allow: /
+
 
 Sitemap: https://www.proiezionidiborsa.it/sitemap_index.xml
 Sitemap: https://www.proiezionidiborsa.it/sitemap-news.xml

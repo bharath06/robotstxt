@@ -15,4 +15,6 @@ Disallow: /rss/
 Disallow: /_private/admin-tools/
 Disallow: /corgi$
 Disallow: /checkout/
+User-agent: PetalBot
+Disallow: /
 Sitemap: http://www.patreon.com/sitemap.xml

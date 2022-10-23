@@ -290,6 +290,9 @@ Allow: /video/search?text=video$
 
 Disallow: /all?
 
+Disallow: /games/*?*reqId*
+Disallow: /games/*?*pageId*
+
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
 Sitemap: https://yandex.ru/blog/sitemap.xml
@@ -317,6 +320,9 @@ Disallow: /ugcpub/cabinet
 
 Disallow: /addappterless
 Disallow: /archive
+
+Disallow: /games/*?*reqId*
+Disallow: /games/*?*pageId*
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
@@ -592,6 +598,9 @@ Disallow: /adult
 
 Disallow: /addappterless
 Disallow: /archive
+
+Disallow: /games/*?*reqId*
+Disallow: /games/*?*pageId*
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
@@ -1176,6 +1185,9 @@ Disallow: /archive
 Allow: /video/search?text=video$
 
 Disallow: /all?
+
+Disallow: /games/*?*reqId*
+Disallow: /games/*?*pageId*
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml

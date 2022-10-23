@@ -32,6 +32,7 @@ Disallow: /bundle-deal/
 Disallow: *?sp_atk=
 Disallow: /search_user
 Disallow: /search?keyword=*.com
+Disallow: /blog/?s=
 
 User-Agent:*
 Crawl-delay:1

@@ -7,6 +7,7 @@ Disallow: / # prohibits crawling for the entire site
 User-agent: *
 Disallow: *?RedirectUrl
 
+Disallow: /privacy.shtml 
 Disallow: /abbonati.Suspended/
 Disallow: /corcommunitynew/accesso/LogOut.do
 Disallow: /indexMethodeProve.shtml

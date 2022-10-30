@@ -1,8 +1,4 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://bestlifeonline.com/sitemapindex.xml
-Sitemap: https://bestlifeonline.com/post_google_news.xml
+Sitemap: https://bestlifeonline.com/news-sitemap.xml
 
 Disallow: *?s= 
     # Shop
@@ -16,6 +12,10 @@ Disallow: *?s=
     User-agent: AdsBot-Google
     Allow: /shop/*?s=
 
-Sitemap: https://galvanized.com/sitemap_index.xml
-Sitemap: https://www.galvanizedbooks.com/sitemap_index.xml
-Sitemap: https://hellogiggles.com/sitemap_index.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

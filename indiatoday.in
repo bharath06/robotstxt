@@ -1,6 +1,5 @@
 Sitemap: https://www.indiatoday.in/sitemapindex.xml
 Sitemap: https://www.indiatoday.in/sitemap.xml
-Sitemap: https://www.indiatoday.in/india-sitemap.xml
 Sitemap: https://www.indiatoday.in/news-it-sitemap.xml
  
 # Disallow directive
@@ -16,6 +15,9 @@ Disallow: /scripts/
 Disallow: /themes/
 Disallow: /search/*
 Disallow: /preview/*
+Disallow: /live-score/v2/*
+Disallow: /sex-survey-2012/*
+Disallow: /sex-survey-2013/*
 # Files
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php
@@ -69,3 +71,8 @@ Disallow: /visualstories/preview.php?*
 Disallow: /ajax/scroll/*
 Disallow: /live-score/get_graph_json.php?*
 Disallow: /interactive/quiz/preview/* 
+Disallow: /ajax/*
+Disallow: /live-score/get_graph_json.php?*
+
+User-agent: PetalBot
+Disallow: /topic/

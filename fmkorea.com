@@ -34,6 +34,12 @@ Disallow: /
 User-Agent: The Knowledge AI
 Disallow: /
 
+User-agent: TurnitinBot
+Disallow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
 User-agent: *
 Disallow: /*act=IS&
 Disallow: /*search_keyword=

@@ -1,11 +1,10 @@
 User-agent: *
 Disallow: /wp-admin/
-Disallow: /?*
 Disallow: /search/*
-Disallow:*?fbclid*
-Disallow: ?orderby
-Disallow: ?m
-Disallow: ?_gl
+Disallow: *?fbclid*
+Disallow: *?orderby*
+Disallow: *?m*
+Disallow: *?_gl*
 
 Allow: /wp-admin/admin-ajax.php
 

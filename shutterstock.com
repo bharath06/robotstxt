@@ -1,14 +1,17 @@
 User-agent: *
+Allow: */search/login
+Allow: */login$
 Disallow: */login
 Disallow: */base/logout
+Allow: */search/account
 Disallow: */account
 Disallow: /subscribe_success
 Disallow: /download
 Disallow: /checkout
 Disallow: /account_purchase_history.mhtml
 Disallow: /contests
-Disallow: */portfolio
 Allow: */search/portfolio
+Disallow: */portfolio
 Disallow: */editor/template
 Disallow: */editor/design
 Disallow: */editor/search
@@ -26,6 +29,9 @@ Disallow: /feed.mhtml
 Disallow: /nuance-chat.html
 Disallow: /sw/*
 Disallow: /base/login
+Allow: */search/collections
+Allow: */editorial/collections
+Disallow: */collections
 
 Disallow: */search/ris/*
 Disallow: */search/models/*

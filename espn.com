@@ -41,8 +41,6 @@ Disallow: */fighter/history
 Disallow: */fighter/stats
 Disallow: */print?id
 Disallow: */printschedule/
-Disallow: */search?
-Disallow: */search/
 Disallow: */season/200
 Disallow: */seasontype/
 Disallow: */sort/*

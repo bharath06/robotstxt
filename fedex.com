@@ -63,3 +63,4 @@ Allow: /global/choose-location.html?location=home
 Disallow: /content/dam/fedex-com/legal/ccpa-metrics.pdf
 Disallow: /content/dam/fedex/us-united-states/About/images/ConsolidatedEEO-1Reports2020.pdf
 Disallow: /content/dam/fedex/us-united-states/shipping/images/printer_maintenance_guidelines.pdf
+Disallow: /content/dam/fedex-com/hdn/

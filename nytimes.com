@@ -3,6 +3,12 @@ Disallow: /ads/
 Disallow: /adx/bin/
 Disallow: /puzzles/leaderboards/invite/*
 Disallow: /svc
+Allow: /svc/crosswords
+Allow: /svc/games
+Allow: /svc/letter-boxed
+Allow: /svc/spelling-bee
+Allow: /svc/vertex
+Allow: /svc/wordle
 Disallow: /video/embedded/*
 Disallow: /search
 Disallow: /multiproduct/

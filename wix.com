@@ -54,6 +54,7 @@ Disallow: /*?sort=
 Disallow: /marketplace/hire/*?serviceIds=
 Disallow: /marketplace/hire/*&serviceIds=
 Disallow: /wix-platform
+Disallow: /blog-temp-ru
 
 Sitemap: https://www.wix.com/sitemap.xml
 

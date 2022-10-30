@@ -12,11 +12,9 @@ Disallow: /appaux/*
 Disallow: /test/*
 Disallow: /ramadan2015/*
 Disallow: /ramadan2016/*
-Disallow: /prancis2016/*
 Disallow: /bola/team/*
 Disallow: /bola/news/read/*
 Disallow: /bola/player/*
-Disallow: /index.php/*
 Disallow: /amp/index.php/*
 Disallow: /amp/antv/program
 Disallow: /amp/antv/program/*

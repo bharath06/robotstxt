@@ -23,7 +23,7 @@ Disallow: /*/markets_tab$
 Disallow: /*/news_guides$
 Disallow: /*/overall_stats$
 Disallow: /*/currency_selector$
-Disallow: /*/sparkline$
+Disallow: /*/sparkline
 Disallow: /*/render_hashing_algorithm_selector
 Disallow: /*/widget_component/ticker$
 Disallow: /*/show_more_tickers
@@ -40,6 +40,7 @@ Disallow: /*/portfolios/
 Disallow: /*/alerts
 Disallow: *.xls$
 Disallow: *.csv$
+Disallow: /*/news/load_more
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml

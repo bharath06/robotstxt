@@ -1,13 +1,12 @@
+Sitemap: https://www.eatthis.com/news-sitemap.xml
+
+Disallow: *?s= 
+
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
 Disallow:
 
-Sitemap: https://www.eatthis.com/sitemapindex.xml
-Sitemap: https://www.eatthis.com/post_google_news.xml
-
-Disallow: *?s=
-
 Sitemap: https://www.eatthis.com/sitemap_index.xml
-
-Sitemap: https://galvanized.com/sitemap_index.xml
-Sitemap: https://www.galvanizedbooks.com/sitemap_index.xml
-Sitemap: https://hellogiggles.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

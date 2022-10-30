@@ -1,3 +1,6 @@
+User-agent: coccocbot-web
+Disallow: /*.xml$
+
 User-agent: SeznamBot
 Disallow: /
 

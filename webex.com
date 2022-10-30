@@ -50,5 +50,5 @@ Disallow: /content/dam/wbx/ja/gated/
 Disallow: /content/dam/wbx/ko/gated/
 Disallow: /content/dam/wbx/pt/gated/
 Disallow: /content/dam/wbx/zh-tw/gated/
-
+Disallow: /devices/cisco-room-kit-eq.html
 sitemap:https://www.webex.com/sitemap.xml

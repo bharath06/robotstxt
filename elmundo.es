@@ -6,8 +6,6 @@ Disallow: /perl/
 Disallow: /foros/
 Disallow: /yodona/hemeroteca/
 Disallow: /metropoli/hemeroteca/
-Disallow: /elmundodeporte/envivos_geca/
-Disallow: /elmundodeporte/envivos/futbol/*/jugador_fase.html?*
 Disallow: /elecciones/*.xml
 Disallow: /eventos/en-directo/*.json
 Disallow: /eventos/en-directo/resources.html*

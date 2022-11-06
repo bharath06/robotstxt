@@ -308,6 +308,8 @@ Disallow: /personal/cards/credit-cards/dbs-vantage-visa-infinite-card-miles
 Disallow: /personal/deposits/bank-with-ease/sms-banking
 Disallow: /personal/insurance/accident-health/personal-accident-plans/complimentary-pa-protect
 Disallow: /personal/beat-inflation
+Disallow: /personal/deposits/bank-earn/bunny-buddy
+Disallow: /personal/insurance/protection/protection-plans/criticalselectcare
 
 
 # URL Masking Details

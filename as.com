@@ -20,3 +20,4 @@ Disallow: *environment=int*
 Disallow: *environment=prod*
 Disallow: /encuestas/resultados/
 Disallow: /*.js2$
+Allow: /Comentarios/comentarios_js_v3.html

@@ -31,6 +31,7 @@ Disallow: /bundle-deal/
 Disallow: /search_user
 Disallow: /search?keyword=*.com
 Disallow: /blog/?s=
+Disallow: *?sp_atk
 
 
 User-Agent:*

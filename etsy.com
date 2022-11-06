@@ -444,32 +444,6 @@ Disallow: /mx/listing/*/stubs/*
 Disallow: /it/listing/*/stubs/*
 Disallow: /jp/listing/*/stubs/*
 Disallow: /pl/listing/*/stubs/*
-Disallow: /listing/*/similar?*
-Disallow: /uk/listing/*/similar?*
-Disallow: /au/listing/*/similar?*
-Disallow: /ca/listing/*/similar?*
-Disallow: /dk-en/listing/*/similar?*
-Disallow: /hk-en/listing/*/similar?*
-Disallow: /ie/listing/*/similar?*
-Disallow: /il-en/listing/*/similar?*
-Disallow: /in-en/listing/*/similar?*
-Disallow: /no-en/listing/*/similar?*
-Disallow: /nz/listing/*/similar?*
-Disallow: /se-en/listing/*/similar?*
-Disallow: /sg-en/listing/*/similar?*
-Disallow: /fi-en/listing/*/similar?*
-Disallow: /fr/listing/*/similar?*
-Disallow: /ca-fr/listing/*/similar?*
-Disallow: /de/listing/*/similar?*
-Disallow: /at/listing/*/similar?*
-Disallow: /ch/listing/*/similar?*
-Disallow: /nl/listing/*/similar?*
-Disallow: /be/listing/*/similar?*
-Disallow: /es/listing/*/similar?*
-Disallow: /mx/listing/*/similar?*
-Disallow: /it/listing/*/similar?*
-Disallow: /jp/listing/*/similar?*
-Disallow: /pl/listing/*/similar?*
 Disallow: /market/confederate_flag
 Disallow: /uk/market/confederate_flag
 Disallow: /au/market/confederate_flag
@@ -1565,7 +1539,7 @@ Sitemap: https://www.etsy.com/at/sitemaps/home.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/home.xml
 Sitemap: https://www.etsy.com/be/sitemaps/home.xml
 #
-# Bienvenue! Welcome!#   \
+# Motus et bouche cousue...#   \
 #
 #    -----
 #   | . . |

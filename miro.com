@@ -37,7 +37,6 @@ Disallow: /contact/education/
 Disallow: /contact/support/
 Disallow: /contact/consulting/
 Disallow: /contact/api/
-Disallow: /whiteboard/
 Disallow: /producthunt/
 Disallow: /hello/
 Disallow: /oauth/authorize/

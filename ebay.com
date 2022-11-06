@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v16.2_COM_October_2022
+# v16.3_COM_November_2022
 ### DIRECTIVES ###
 
 User-agent: *
@@ -24,10 +24,18 @@ Disallow: /*rt%3Dnc
 Disallow: /*rt=nc
 Disallow: /*src=urllib
 Disallow: /act/
-Allow: /ads.txt
 Disallow: /ads
 Disallow: /afs/
 Disallow: /atc/
+Disallow: /antika-sanat/
+Disallow: /bebek-anne/
+Disallow: /bilgisayar-tablet/
+Disallow: /cep-telefonu-ve-aksesuar/
+Disallow: /ev-bahce/
+Disallow: /giyim-aksesuar/
+Disallow: /muzik-plak-enstruman/
+Disallow: /otomobil-motor-aksesuar/
+Allow: /ads.txt
 Allow: /b/adidas-Yeezy-Sneakers-for-Men/15709/bn_86578781?*_trkparms=*pageci:*|parentrq:*iid:0
 Allow: /b/Collectible-Sneakers/bn_7000259435?*_trkparms=*pageci:*|parentrq:*iid:0
 Allow: /b/Jordan-Sneakers-for-Men/15709/bn_96541848?*_trkparms=*pageci:*|parentrq:*iid:0
@@ -393,6 +401,14 @@ Disallow: /ws/
 
 User-agent: AdsBot-Google
 Disallow: /*src=urllib
+Disallow: /antika-sanat/
+Disallow: /bebek-anne/
+Disallow: /bilgisayar-tablet/
+Disallow: /cep-telefonu-ve-aksesuar/
+Disallow: /ev-bahce/
+Disallow: /giyim-aksesuar/
+Disallow: /muzik-plak-enstruman/
+Disallow: /otomobil-motor-aksesuar/
 
 User-agent: AdsBot-AdIdxBot
 Disallow: /*src=urllib

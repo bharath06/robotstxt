@@ -10,13 +10,14 @@ Disallow: /p/*/code/
 Disallow: /p/*/git/
 Disallow: /p/*/svn/
 Disallow: /p/*/hg/
+Disallow: /p/*/search
 Disallow: /p/*/code-0/
 Disallow: /p/*/tree/
 Disallow: /p/*/search_feed/
 Disallow: /p/*/search_help/
 Disallow: /p/*/wiki/*/edit
 Disallow: /p/*/discussion/create_topic/
-Disallow: /p/*/mailman/search/
+Disallow: /p/*/discussion/stats
 Disallow: /*/ci/
 Disallow: /*/commit_browser
 Disallow: /*/commit_browser_data
@@ -32,6 +33,7 @@ Disallow: /projects/*/files/stats/json
 Disallow: /projects/*/files/*/stats/json
 Disallow: /projects/*/latest.json
 Disallow: /projects/*/report_inappropriate
+Disallow: /projects/*/reviews/new
 Disallow: /projects/*/rss
 Disallow: /projects/*/lists/*/unsubscribe
 Disallow: /projects/*/moderate_review

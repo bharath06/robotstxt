@@ -15,3 +15,4 @@ Disallow: */data/
 Disallow: */i18n/
 Disallow: */selection/
 Disallow: */jelajah/
+Disallow: */ucnews/

@@ -9,5 +9,8 @@ Disallow: /global/
 Disallow: /api/
 Disallow: /critiques/
 Disallow: /prints/*by:*
+
+User-agent: Pinterestbot
+Disallow: /
  
 Sitemap: https://www.deviantart.com/sitemap-index.xml.gz

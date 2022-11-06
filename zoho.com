@@ -333,6 +333,9 @@ Disallow: /sites/default/files/commandcenter/commandcenter-as-a-service-helpdoc.
 Disallow: /sites/default/files/crm/signup_onboarding_loader.mp4
 Disallow: /thrive/
 Disallow: /services/
+Disallow: /hi-in/workplace/
+Disallow: /hi-in/mail/
+Disallow: /cliq/cliqtrix/
 
 User-agent: Googlebot-Image
 Disallow: /branding/images/dont-04.png
@@ -345,4 +348,3 @@ User-agent: zs-crawler
 Allow: /
 
 Sitemap: http://www.zoho.com/sitemap-index.xml
-

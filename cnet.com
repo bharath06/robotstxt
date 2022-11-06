@@ -50,7 +50,6 @@ Disallow: */email/newsletter/*
 
 Sitemap: https://www.cnet.com/sitemaps/news.xml
 Sitemap: https://www.cnet.com/sitemaps/web-stories.xml
-Sitemap: https://www.cnet.com/sitemaps/dfll.xml
 Sitemap: https://www.cnet.com/sitemaps/tags.xml
 Sitemap: https://www.cnet.com/sitemaps/topics.xml
 Sitemap: https://www.cnet.com/sitemaps/article/index.xml
@@ -62,7 +61,6 @@ Sitemap: https://www.cnet.com/sitemaps/updating_story/index.xml
 Sitemap: https://www.cnet.com/sitemaps/video/index.xml
 
 Sitemap: https://www.cnet.com/roadshow/sitemaps/news.xml
-Sitemap: https://www.cnet.com/roadshow/sitemaps/best.xml
 Sitemap: https://www.cnet.com/roadshow/sitemaps/makes.xml
 Sitemap: https://www.cnet.com/roadshow/sitemaps/topics.xml
 Sitemap: https://www.cnet.com/roadshow/sitemaps/gallery/index.xml

@@ -49,7 +49,6 @@ Disallow: /load_homepage_podcast_ajax.html
 Disallow: /photogallery_widget_ajax.html
 Disallow: /microsite/itsnotokay/ajax/video-consumption.php
 
-Disallow: /cricketnext/photogallery/*
 Disallow: /cricketnext/photogallery/series*
 Disallow: /cricketnext/profile/*
 Disallow: /amp/cricketnext/*

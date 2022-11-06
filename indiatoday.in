@@ -76,3 +76,6 @@ Disallow: /live-score/get_graph_json.php?*
 
 User-agent: PetalBot
 Disallow: /topic/
+
+User-agent: Applebot
+Disallow: /topic/

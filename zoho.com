@@ -336,6 +336,7 @@ Disallow: /services/
 Disallow: /hi-in/workplace/
 Disallow: /hi-in/mail/
 Disallow: /cliq/cliqtrix/
+Disallow: /zh-hant/workplace/
 
 User-agent: Googlebot-Image
 Disallow: /branding/images/dont-04.png

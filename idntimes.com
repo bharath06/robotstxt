@@ -1,3 +1,10 @@
+User-agent: Twitterbot
+Allow: *?utm_source=
+
+User-agent: Googlebot-Image
+Allow:*
+Allow: /
+
 User-agent: *
 Disallow: /ajax/
 Disallow: ?utm_source=
@@ -9,12 +16,5 @@ Disallow: /author/
 
 User-agent: Alexabot
 Disallow: /*/amp/
-
-User-agent: Googlebot-Image
-Allow:*
-Allow: /
-
-User-agent: Twitterbot
-Allow: *?utm_source=
 
 Sitemap: https://www.idntimes.com/sitemap.xml

@@ -7,6 +7,5 @@ Disallow: /admin/*
 Disallow: /admin*
 Disallow: *:id*
 Disallow: /advertisements/*
-Disallow: /newsstudios/*
 
 Sitemap: https://www.eghtesadonline.com/sitemap.xml

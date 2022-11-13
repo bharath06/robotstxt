@@ -111,6 +111,7 @@ Disallow: /Basket/GetBasketItemCountAsync
 Disallow: /c/sepetim
 Disallow: /cevir-kazan
 Disallow: /configr
+Disallow: /cardfinans-trendyol-kredi-karti
 Disallow: /diger-saticilar
 Disallow: /dispatch
 Disallow: /emlak

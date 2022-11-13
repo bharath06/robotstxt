@@ -19,6 +19,7 @@ Disallow: /news/archive/commentary
 Disallow: /brandfeatures/venture-capital*
 Disallow: /journalists/
 Disallow: /assets/siteindex
+Disallow: /article/api/
 
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml 
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml

@@ -15,6 +15,8 @@ Disallow: /associate/
 Disallow: /not-supported.html
 Disallow: /static/
 Disallow: /1/
+Disallow: /c/
+Disallow: /b/
 Allow: /
 
 Sitemap: https://trello.com/sitemap-index.xml.gz

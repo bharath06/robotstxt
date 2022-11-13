@@ -75,3 +75,4 @@ Sitemap: https://www.coinbase.com/sitemap-institutional.xml
 Sitemap: https://www.coinbase.com/sitemap-ethereum-merge.xml
 Sitemap: https://www.coinbase.com/blog/sitemap.xml
 Sitemap: https://www.coinbase.com/cloud/sitemap.xml
+Sitemap: https://www.coinbase.com/sitemap-legislative-portal.xml

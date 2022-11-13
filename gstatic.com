@@ -107,6 +107,7 @@ Allow: /sitemaps/
 Allow: /social/photosui/images/
 Allow: /social/photosui/sitemap/
 Allow: /stadia/gamers/
+Allow: /store/images/favicons/
 Allow: /subscriptions/
 Allow: /support/content/
 Allow: /system1/images/

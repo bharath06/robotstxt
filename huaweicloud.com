@@ -3,6 +3,7 @@ Disallow: /*?*
 Disallow: /common/*
 Allow: /intl/en-us/
 Disallow: /en-us/
+Disallow: /tips/
 
 # Sitemap files
 

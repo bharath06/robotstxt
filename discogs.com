@@ -18,7 +18,7 @@ Disallow: /release/add
 Disallow: /release/edit
 Disallow: /release/copy
 Disallow: /update
-Disallow: /*/update
+Disallow: /*/update$
 Disallow: /login
 Disallow: /users/create
 Disallow: /logout

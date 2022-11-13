@@ -11,5 +11,6 @@ Disallow: /pages/fr$
 Disallow: /pages/home/
 Disallow: /pages/thank-you
 Disallow: /pages/landing/bitly-cares-aw-new-york-2022
+Disallow: /pages/free-plan-refresh-faqs
 Sitemap: https://bitly.com/pages/sitemap_index.xml
 Sitemap: https://bitly.com/blog/sitemap_index.xml

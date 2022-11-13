@@ -1,9 +1,6 @@
 User-agent: BLEXBot
 Disallow: /
 
-User-agent: SEMrushBot
-Disallow: /
-
 User-agent: Twitterbot
 Disallow:
 

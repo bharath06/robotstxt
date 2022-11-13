@@ -1,4 +1,4 @@
-# $Id: robots.txt,v 1.96 2022/10/20 17:17:10 jliao Exp $
+# $Id: robots.txt,v 1.97 2022/11/07 19:56:32 jliao Exp $
 #
 # This is a file retrieved by webwalkers a.k.a. spiders that 
 # conform to a defacto standard.
@@ -31,6 +31,9 @@ Disallow: /fscripts
 # Disallow: /homepage
 Disallow: /image
 Disallow: /mashupmaker
+Disallow: /mysupport/s/forumshome
+Disallow: /mysupport/s/forumsproduct
+Disallow: /mysupport/s/forumsquestion
 Disallow: /partnerworld/portal
 Disallow: /portal/home
 Disallow: /products/finder

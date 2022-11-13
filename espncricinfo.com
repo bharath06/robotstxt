@@ -1,4 +1,9 @@
 User-agent: *
+Allow: /*
+
+Sitemap: https://www.espncricinfo.com/sitemap_index.xml
+
+
 Disallow: /*wrappertype=print
 Disallow: /*/content/url/
 Disallow: /*/content/current/url/

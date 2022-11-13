@@ -36,4 +36,4 @@ Disallow: /ja/æ¡ä»¶ä¾é ¼ä¸­*
 Disallow: /ja/å±¥æ­´
 Disallow: /ja/åºå
 
-Sitemap: https://s3-us-west-2.amazonaws.com/images.unsplash.com/sitemaps/sitemap.xml
+Sitemap: https://unsplash.com/sitemaps/sitemap.xml

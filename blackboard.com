@@ -92,3 +92,22 @@ Sitemap: https://www.blackboard.com/pt-br/sitemap.xml
 Sitemap: https://www.blackboard.com/tr-tr/sitemap.xml
 
 # This file is moved after Github workflow build step "Composer install"
+# Sitemaps
+Sitemap: https://www.blackboard.com/sitemap.xml
+Sitemap: https://www.blackboard.com/ar-sa/sitemap.xml
+Sitemap: https://www.blackboard.com/de-de/sitemap.xml
+Sitemap: https://www.blackboard.com/en-afr/sitemap.xml
+Sitemap: https://www.blackboard.com/en-apac/sitemap.xml
+Sitemap: https://www.blackboard.com/en-eu/sitemap.xml
+Sitemap: https://www.blackboard.com/en-me/sitemap.xml
+Sitemap: https://www.blackboard.com/en-mea/sitemap.xml
+Sitemap: https://www.blackboard.com/en-uk/sitemap.xml
+Sitemap: https://www.blackboard.com/es-es/sitemap.xml
+Sitemap: https://www.blackboard.com/es-lac/sitemap.xml
+Sitemap: https://www.blackboard.com/fr-fr/sitemap.xml
+Sitemap: https://www.blackboard.com/it-it/sitemap.xml
+Sitemap: https://www.blackboard.com/ja-jp/sitemap.xml
+Sitemap: https://www.blackboard.com/ko-kr/sitemap.xml
+Sitemap: https://www.blackboard.com/pl-pl/sitemap.xml
+Sitemap: https://www.blackboard.com/pt-br/sitemap.xml
+Sitemap: https://www.blackboard.com/tr-tr/sitemap.xml

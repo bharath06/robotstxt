@@ -50,7 +50,6 @@ Disallow: */email/newsletter/*
 
 Sitemap: https://www.cnet.com/sitemaps/news.xml
 Sitemap: https://www.cnet.com/sitemaps/web-stories.xml
-Sitemap: https://www.cnet.com/sitemaps/tags.xml
 Sitemap: https://www.cnet.com/sitemaps/topics.xml
 Sitemap: https://www.cnet.com/sitemaps/article/index.xml
 Sitemap: https://www.cnet.com/sitemaps/best/index.xml

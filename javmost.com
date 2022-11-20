@@ -1,6 +1,6 @@
 User-Agent: *
-Crawl-delay: 0.5
-Sitemap: https://www.javmost.cx/sitemap_index.xml
+Crawl-delay: 1
+Sitemap: https://www5.javmost.com/sitemapindex.xml
 
 #Googlebot
 User-agent: Googlebot

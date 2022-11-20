@@ -25,12 +25,10 @@ Disallow: /*/overall_stats$
 Disallow: /*/currency_selector$
 Disallow: /*/sparkline
 Disallow: /*/render_hashing_algorithm_selector
-Disallow: /*/widget_component/ticker$
 Disallow: /*/show_more_tickers
 Disallow: /*/analysis_tab
 Disallow: /*/render_platform_selector
 Disallow: /*/external_news
-Disallow: /zh/工具组件/收报机
 Disallow: /omniauth
 Disallow: /ahoy/visits
 Disallow: /geckoterminal/token_is_valid
@@ -41,6 +39,24 @@ Disallow: /*/alerts
 Disallow: *.xls$
 Disallow: *.csv$
 Disallow: /*/news/load_more
+Disallow: /*/compare-cryptocurrencies?coins
+Disallow: /*/widget_component
+Disallow: /ar/مكونات_
+Disallow: /de/widgetkomponente
+Disallow: /es/componente_del_widget
+Disallow: /fr/composant_widget
+Disallow: /id/komponen_widget
+Disallow: /it/componente_widget
+Disallow: /ja/ウィジェットコンポーネント
+Disallow: /ko/위젯컴포넌트
+Disallow: /pl/element_widżetu
+Disallow: /pt/componente_do_dispositivo
+Disallow: /ru/Виджет_компонент
+Disallow: /th/ส่วนประกอบ_widget
+Disallow: /tr/widget_bileşeni
+Disallow: /vi/tiện_ích_widget
+Disallow: /zh-tw/工具組件
+Disallow: /zh/工具组件
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml

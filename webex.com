@@ -50,5 +50,8 @@ Disallow: /content/dam/wbx/ja/gated/
 Disallow: /content/dam/wbx/ko/gated/
 Disallow: /content/dam/wbx/pt/gated/
 Disallow: /content/dam/wbx/zh-tw/gated/
-Disallow: /devices/cisco-room-kit-eq.html
+Disallow: /library/gated_form/gated_thankyou.html 
+Disallow: /downloads/downloads-thank-you.html 
+Disallow: /downloads/downloads-thank-you-jabber.html 
+Disallow: /downloads/client.html
 sitemap:https://www.webex.com/sitemap.xml

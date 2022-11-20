@@ -310,6 +310,8 @@ Disallow: /personal/insurance/accident-health/personal-accident-plans/compliment
 Disallow: /personal/beat-inflation
 Disallow: /personal/deposits/bank-earn/bunny-buddy
 Disallow: /personal/insurance/protection/protection-plans/criticalselectcare
+Disallow: /Contact/posb/deposits/sb-casa-personal-activation/default.page
+Disallow: /Contact/posb/deposits/sb-casa-personal-activation/complete.page
 
 
 # URL Masking Details

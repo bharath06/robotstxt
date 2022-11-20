@@ -7,6 +7,7 @@ User-agent: *
 Disallow: /polska
 Allow: /account/newsletters
 Disallow: /account/*
+Disallow: /tosv*.html
 
 User-agent: Mediapartners-Google
 Disallow: /about/careers

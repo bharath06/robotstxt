@@ -1356,6 +1356,32 @@ Sitemap: https://www.etsy.com/pl/sitemaps/shops/top-seller.xml
 Sitemap: https://www.etsy.com/at/sitemaps/shops/top-seller.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/shops/top-seller.xml
 Sitemap: https://www.etsy.com/be/sitemaps/shops/top-seller.xml
+Sitemap: https://www.etsy.com/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/fi-en/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/au/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/ca/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/ca-fr/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/dk-en/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/hk-en/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/ie/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/il-en/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/in-en/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/nz/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/no-en/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/se-en/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/sg-en/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/uk/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/de/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/fr/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/nl/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/it/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/es/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/mx/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/jp/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/pl/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/at/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/ch/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/be/sitemaps/shops/star-seller.xml
 Sitemap: https://www.etsy.com/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/fi-en/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/au/sitemaps/shops/local.xml
@@ -1538,8 +1564,34 @@ Sitemap: https://www.etsy.com/pl/sitemaps/home.xml
 Sitemap: https://www.etsy.com/at/sitemaps/home.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/home.xml
 Sitemap: https://www.etsy.com/be/sitemaps/home.xml
+Sitemap: https://www.etsy.com/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/fi-en/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/au/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/ca/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/ca-fr/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/dk-en/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/hk-en/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/ie/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/il-en/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/in-en/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/nz/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/no-en/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/se-en/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/sg-en/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/uk/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/de/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/fr/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/nl/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/it/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/es/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/mx/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/jp/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/pl/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/at/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/ch/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/be/sitemaps/blocklist.xml
 #
-# Motus et bouche cousue...#   \
+# 01001001 01010011 00100000 01000011 01001111 01000100 01000101 00100000 01011001 01001111 01010101 01010010 00100000 01000011 01010010 01000001 01000110 01010100 00111111#   \
 #
 #    -----
 #   | . . |

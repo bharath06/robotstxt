@@ -11,6 +11,7 @@ Disallow: /article_preview.html*
 Disallow: /tag/
 Disallow: /*?*
 Disallow: /link/
+Disallow: /tags/
 
 Sitemap: https://www.csdn.net/sitemap-aggpage-index.xml
 Sitemap: https://www.csdn.net/article/sitemap.txt 

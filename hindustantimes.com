@@ -17,8 +17,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: /ht-insight/governance
-Disallow: /ht-insight/education-in-india
 Disallow: *-quickread.html
 Disallow: /homenew
 Disallow: /search?q=*
@@ -46,8 +44,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: /ht-insight/governance
-Disallow: /ht-insight/education-in-india
 Disallow: *-quickread.html
 Disallow: /homenew
 Disallow: /search?q=*
@@ -75,8 +71,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: /ht-insight/governance
-Disallow: /ht-insight/education-in-india
 Disallow: *-quickread.html
 Disallow: /homenew
 Disallow: /search?q=*
@@ -104,8 +98,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: /ht-insight/governance
-Disallow: /ht-insight/education-in-india
 Disallow: *-quickread.html
 Disallow: /homenew
 Disallow: /search?q=*
@@ -133,8 +125,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: /ht-insight/governance
-Disallow: /ht-insight/education-in-india
 Disallow: *-quickread.html
 Disallow: /homenew
 Disallow: /search?q=*

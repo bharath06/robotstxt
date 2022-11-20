@@ -3,8 +3,6 @@ Sitemap: https://www.nature.com/sitemap.xml
 Sitemap: https://www.nature.com/subjects/sitemap.xml
 Sitemap: https://www.nature.com/naturecareers/sitemap.xml
 Disallow: /search
-Disallow: /*.pdf$
-Disallow: /*.PDF$
 Disallow: /*/*/*/pf/
 Disallow: /*.otmi$
 Disallow: /*/*/*/*/otmi/

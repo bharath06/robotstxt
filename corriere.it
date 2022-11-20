@@ -54,7 +54,7 @@ Disallow: /cronache/speciali/2010/maturita/test-universita.shtml
 Disallow: /smallApp/tellafriend/
 Disallow: /*_print.html$
 Disallow: /*.xml
-Allow:    /dynamic-sitemap/sitemap-last-100/Tecnologia.xml
+Allow:    /dynamic-sitemap/sitemap-last-100/*.xml
 Allow: 	  /cook*sitemap*.xml
 Allow:    /radio/$
 Allow:    /radio/index.shtml

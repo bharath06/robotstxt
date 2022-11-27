@@ -145,6 +145,7 @@ Disallow: /sirali-urunler
 Disallow: /sr?
 Disallow: /sr/
 Disallow: /sr$
+Disallow: /s/form/
 Disallow: /tekrar-al
 Disallow: /topla-kazan
 Disallow: /topla-kazan-kuponlari

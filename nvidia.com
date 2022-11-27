@@ -88,4 +88,15 @@ Disallow: /utm*
 Disallow: /content/nvidiaGDC/
 
 User-agent: NvidiaCrawler
+
 Disallow: /on-demand/session/*
+
+Disallow: /geforce/release-notes/GFE/Rich/*
+
+Disallow: /geforce/release-notes/GFN/Rich/*
+
+Disallow: /geforce/release-notes/GFNB/Rich/*
+
+Disallow: /geforce/billboards/*
+
+Disallow: /geforce/news/gfecnt/*

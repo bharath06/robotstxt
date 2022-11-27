@@ -7,6 +7,10 @@ Disallow: /wp-content/plugins/*
 Disallow: /assets/plugins/*
 Disallow: /search/*
 Disallow: /feedback/*
+Disallow: /*?*
+
+User-agent: Twitterbot
+Allow: /*?*utm_
 
 User-Agent: omgilibot
 Disallow: /

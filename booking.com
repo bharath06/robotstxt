@@ -270,6 +270,7 @@ Sitemap: https://www.booking.com/sitembk-themed-region-tented_camp-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-region-threestars-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-region-tiny_house-index.xml
 Sitemap: https://www.booking.com/sitembk-themed-region-villas-index.xml
+Sitemap: https://www.booking.com/sitembk-extended-stays-index-index.xml
 
 User-agent: psbot
 Disallow: /

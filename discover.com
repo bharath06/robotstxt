@@ -7,6 +7,7 @@ disallow: /cln*
 disallow: /content/dam/dfs/credit-cards/applications/nic/assets/pki/fileauth.txt
 disallow: /credit-cards/exclusives/5percent-current-offer.html
 disallow: /credit-cards/exclusives/applepay-support/index.html
+disallow: /credit-cards/digital-wallets/applepayredeem/
 disallow: /credit-cards/member-benefits/my-offers.html
 disallow: /maintenance.html
 disallow: /membership-registration

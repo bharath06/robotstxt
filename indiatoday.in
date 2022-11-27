@@ -18,6 +18,7 @@ Disallow: /preview/*
 Disallow: /live-score/v2/*
 Disallow: /sex-survey-2012/*
 Disallow: /sex-survey-2013/*
+Disallow: /story/?sId*
 # Files
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php
@@ -75,4 +76,7 @@ Disallow: /ajax/*
 Disallow: /live-score/get_graph_json.php?*
 
 User-agent: PetalBot
+Disallow: /topic/
+
+User-agent: Applebot
 Disallow: /topic/

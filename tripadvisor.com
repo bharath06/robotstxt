@@ -50,6 +50,7 @@ Disallow: /AddForumUser
 Disallow: /AddListing
 Disallow: /AdRequestEventLogApi
 Disallow: /AdsManager
+Disallow: /adsoverview
 Disallow: /AdsTest
 Disallow: /AeroflotCampaignRegistration
 Disallow: /AffiliateWidgets
@@ -92,6 +93,7 @@ Disallow: /AttractionCommerce
 Disallow: /AttractionLander
 Disallow: /AttractionOperatorReview
 Disallow: /AttractionProductDetail
+Disallow: /AttractionProductHighlight
 Disallow: /AttractionProductsAjax
 Disallow: /AttractionsAjax
 Disallow: /AuthCheck
@@ -123,7 +125,6 @@ Disallow: /CampaignConfigAjax
 Disallow: /CampaignConfiguration
 Disallow: /CampaignManagement
 Disallow: /CampaignOptions
-Disallow: /campaigns
 Disallow: /CancelBooking
 Disallow: /CarsComparePartners
 Disallow: /CauseTeaserPopup
@@ -150,13 +151,11 @@ Disallow: /CommPT
 Disallow: /connectivity
 Disallow: /ConnectivityPartnerFAQ
 Disallow: /ConnectivityPartnerInfo
-Disallow: /ConnectivityPartnerSignup
 Disallow: /Contributions
 Disallow: /CookiePingback
 Disallow: /CoralEditor
 Disallow: /CostPerClick
 Disallow: /CountryAjax
-Disallow: /Covid19Response
 Disallow: /CreateListing
 Disallow: /CruisesCommerce
 Disallow: /CruisesPartnerHandoff
@@ -195,7 +194,6 @@ Disallow: /EtihadGuestRegistration
 Disallow: /EventDates
 Disallow: /ExitWindow
 Disallow: /ExpandedUserReviews
-Disallow: /ExperiencesAffiliateRedirect
 Disallow: /ExperiencesInsights/?s
 Disallow: /ExternalExitWindow
 Disallow: /ExternalIdMap
@@ -411,6 +409,7 @@ Disallow: /MetricsAjax
 Disallow: /mgo
 Disallow: /MicroMetaAjax
 Disallow: /MiniMetaCRAjax
+Disallow: /missingpage
 Disallow: /mobile
 Disallow: /MobileAddPoi
 Disallow: /MobileAddressLookupAjax
@@ -577,6 +576,7 @@ Disallow: /MultiplusRegistration
 Disallow: /MyBookingsDetail
 Disallow: /MyBookingsVoucher
 Disallow: /MyInbox
+Disallow: /NativeAds
 Disallow: /NetPromoterPopup
 Disallow: /NewMessage
 Disallow: /NewOwners
@@ -708,6 +708,7 @@ Disallow: /ReputationManager
 Disallow: /ReservationAjax
 Disallow: /ResponsibleDisclosure
 Disallow: /RestaurantAdsManager
+Disallow: /RestaurantEnterpriseManagement
 Disallow: /RestaurantProductCart
 Disallow: /RestaurantSearch
 Disallow: /RestaurantSolutions
@@ -744,7 +745,6 @@ Disallow: /SelfServeAdvertising
 Disallow: /SendMessage
 Disallow: /SendToFriend
 Disallow: /SentConfirmationEmail
-Disallow: /SentryProxy
 Disallow: /ServiceWorker
 Disallow: /SetCookieOverrides
 Disallow: /SetLangFilter
@@ -758,7 +758,6 @@ Disallow: /ShoppingCart
 Disallow: /ShoppingCoupon
 Disallow: /ShortlinkResolver
 Disallow: /ShortSurvey
-Disallow: /ShowExperimentationUserIds
 Disallow: /ShowSpecialOffer
 Disallow: /ShowTopicWindowShade
 Disallow: /ShowUrl
@@ -823,6 +822,7 @@ Disallow: /TemporarilyClosedNoticeApi
 Disallow: /TestEmptyPage
 Disallow: /TestingTravelMaps
 Disallow: /Text
+Disallow: /ThorHammer
 Disallow: /TLMCountries
 Disallow: /TodaysLowestFaresAjax
 Disallow: /trapdir
@@ -929,6 +929,7 @@ Disallow: /AddForumUser
 Disallow: /AddListing
 Disallow: /AdRequestEventLogApi
 Disallow: /AdsManager
+Disallow: /adsoverview
 Disallow: /AdsTest
 Disallow: /AeroflotCampaignRegistration
 Disallow: /AffiliateWidgets
@@ -971,6 +972,7 @@ Disallow: /AttractionCommerce
 Disallow: /AttractionLander
 Disallow: /AttractionOperatorReview
 Disallow: /AttractionProductDetail
+Disallow: /AttractionProductHighlight
 Disallow: /AttractionProductsAjax
 Disallow: /AttractionsAjax
 Disallow: /AuthCheck
@@ -1002,7 +1004,6 @@ Disallow: /CampaignConfigAjax
 Disallow: /CampaignConfiguration
 Disallow: /CampaignManagement
 Disallow: /CampaignOptions
-Disallow: /campaigns
 Disallow: /CancelBooking
 Disallow: /CarsComparePartners
 Disallow: /CauseTeaserPopup
@@ -1029,13 +1030,11 @@ Disallow: /CommPT
 Disallow: /connectivity
 Disallow: /ConnectivityPartnerFAQ
 Disallow: /ConnectivityPartnerInfo
-Disallow: /ConnectivityPartnerSignup
 Disallow: /Contributions
 Disallow: /CookiePingback
 Disallow: /CoralEditor
 Disallow: /CostPerClick
 Disallow: /CountryAjax
-Disallow: /Covid19Response
 Disallow: /CreateListing
 Disallow: /CruisesCommerce
 Disallow: /CruisesPartnerHandoff
@@ -1074,7 +1073,6 @@ Disallow: /EtihadGuestRegistration
 Disallow: /EventDates
 Disallow: /ExitWindow
 Disallow: /ExpandedUserReviews
-Disallow: /ExperiencesAffiliateRedirect
 Disallow: /ExperiencesInsights/?s
 Disallow: /ExternalExitWindow
 Disallow: /ExternalIdMap
@@ -1291,6 +1289,7 @@ Disallow: /MetricsAjax
 Disallow: /mgo
 Disallow: /MicroMetaAjax
 Disallow: /MiniMetaCRAjax
+Disallow: /missingpage
 Disallow: /mobile
 Disallow: /MobileAddPoi
 Disallow: /MobileAddressLookupAjax
@@ -1457,6 +1456,7 @@ Disallow: /MultiplusRegistration
 Disallow: /MyBookingsDetail
 Disallow: /MyBookingsVoucher
 Disallow: /MyInbox
+Disallow: /NativeAds
 Disallow: /NetPromoterPopup
 Disallow: /NewMessage
 Disallow: /NewOwners
@@ -1588,6 +1588,7 @@ Disallow: /ReputationManager
 Disallow: /ReservationAjax
 Disallow: /ResponsibleDisclosure
 Disallow: /RestaurantAdsManager
+Disallow: /RestaurantEnterpriseManagement
 Disallow: /RestaurantProductCart
 Disallow: /RestaurantSearch
 Disallow: /RestaurantSolutions
@@ -1624,7 +1625,6 @@ Disallow: /SelfServeAdvertising
 Disallow: /SendMessage
 Disallow: /SendToFriend
 Disallow: /SentConfirmationEmail
-Disallow: /SentryProxy
 Disallow: /ServiceWorker
 Disallow: /SetCookieOverrides
 Disallow: /SetLangFilter
@@ -1638,7 +1638,6 @@ Disallow: /ShoppingCart
 Disallow: /ShoppingCoupon
 Disallow: /ShortlinkResolver
 Disallow: /ShortSurvey
-Disallow: /ShowExperimentationUserIds
 Disallow: /ShowSpecialOffer
 Disallow: /ShowTopicWindowShade
 Disallow: /ShowUrl
@@ -1703,6 +1702,7 @@ Disallow: /TemporarilyClosedNoticeApi
 Disallow: /TestEmptyPage
 Disallow: /TestingTravelMaps
 Disallow: /Text
+Disallow: /ThorHammer
 Disallow: /TLMCountries
 Disallow: /TodaysLowestFaresAjax
 Disallow: /trapdir

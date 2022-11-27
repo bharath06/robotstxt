@@ -3,121 +3,6 @@ User-agent: Mediapartners-Google
 Disallow:
 
 
-User-agent: CriteoBot/0.1
-Disallow: /
-
-User-agent: SemrushBot
-Disallow: /
-
-User-agent: SemrushBot-SA
-Disallow: /
-
-User-Agent: AhrefsBot
-Disallow: /
-
-User-Agent: cis455crawler
-Disallow:/ 
-
-User-Agent: netseer
-Disallow:/ 
-
-User-Agent: coccoc
-Disallow:/ 
-
-User-agent: CrazyWebCrawler-Spider
-Disallow: /
-
-User-agent: Mail.Ru
-Disallow: /
-User-agent: Mail.RU_Bot*
-Disallow: /
-
-User-Agent: ParadigmCrawler*
-Disallow:/ 
-
-User-Agent: DotBot*
-Disallow:/ 
-
-User-Agent: Clickagy*
-Disallow:/ 
-
-User-Agent: Pu_iN*
-Disallow:/ 
-
-User-Agent: CRAZYWEBCRAWLER*
-Disallow:/ 
-
-User-Agent: FAST*
-Disallow:/ 
-
-User-Agent: Bender
-Disallow:/ 
-
-User-agent: MJ12bot
-Disallow: /
-
-User-Agent: MSIECrawler
-Disallow:/ 
-
-User-agent: NPBot
-Disallow: /
-
-User-agent: msrbot
-Disallow: /
-
-User-Agent: Open*
-Disallow: /
-
-User-Agent: Twiceler
-Disallow: /
-
-User-Agent: Scooter*
-Disallow: /
-
-User-Agent: WebSearch*
-Disallow: /
-
-User-Agent: ZyBorg*
-Disallow: /
-
-User-Agent: Wget*
-Disallow: /
-
-User-Agent: TurnitinBot*
-Disallow: /
-
-User-Agent: SlySearch*
-Disallow: /
-
-User-Agent: Seekbot*
-Disallow: /
-
-User-Agent: NetResearchServer*
-Disallow: /
-
-User-Agent: Seekbot*
-Disallow: /
-
-User-Agent: mozDex*
-Disallow: /
-
-User-Agent: Link*
-Disallow: /
-
-User-Agent: larbin*
-Disallow: /
-
-User-Agent: ia_archiver
-Disallow: /
-
-User-Agent: Charlotte
-Disallow: / 
-
-User-agent: discobot
-Disallow: /
-
-User-agent: 008
-Disallow: /
 
 User-agent: *
 Disallow: /p/
@@ -128,4 +13,71 @@ Disallow: /_/cite.htm
 Disallow: /_/gr.aspx
 Disallow: /_/hp/Controls/printer-friendly.aspx
 Disallow: /unscramble/
+
+User-agent: aiHitBot
+User-agent: Barkrowler
+User-agent: BDCbot
+User-agent: BLEXBot
+User-agent: BLP_bbot
+User-agent: brokenlinkcheck.com
+User-agent: Buck
+User-agent: CCBot
+User-agent: Cliqzbot
+User-agent: cyencebot
+User-agent: DomainCrawler
+User-agent: Dow Jones Searchbot
+User-agent: Exabot
+User-agent: ExtLinksBot
+User-agent: FemtosearchBot
+User-agent: Fever
+User-agent: GarlikCrawler
+User-agent: Gigabot
+User-agent: gobuster
+User-agent: GrapeshotCrawler
+User-agent: heritrix
+User-agent: istellabot
+User-agent: Jersey
+User-agent: Jobkicks
+User-agent: libwww-perl
+User-agent: linkdexbot
+User-agent: LinkpadBot
+User-agent: ltx71 - (http://ltx71.com/)
+User-agent: lua-resty-http
+User-agent: LumtelBot
+User-agent: magpie-crawler
+User-agent: Magus bot
+User-agent: Megaindex.ru
+User-agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) LinkCheck by Siteimprove.com
+User-agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) SiteCheck-sitecrawl by Siteimprove.com
+User-agent: NL-Crawler
+User-agent: OnPageBot
+User-agent: Riddler
+User-agent: ScoutJet
+User-agent: Scrapy
+User-agent: Seekport
+User-agent: Siteimprove
+User-agent: SMTBot
+User-agent: UptimeRobot
+User-agent: VelenPublicWebCrawler
+User-agent: Wget
+User-agent: yacybot
+User-agent: YunSecurityBot
+User-agent: ZoominfoBot
+User-agent: AhrefsBot
+User-agent: AhrefsSiteAudit
+User-agent: Caliperbot
+User-agent: DotBot
+User-agent: HubSpot
+User-agent: MJ12bot
+User-agent: rogerbot
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: YisouSpider
+User-agent: Yeti
+User-agent: SeznamBot
+User-agent: Mail.RU_Bot
+User-agent: Hatena*
+Crawl-Delay: 3
+
 Sitemap: https://www.thefreedictionary.com/www.thefreedictionary.com.xml.gz

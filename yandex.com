@@ -446,6 +446,7 @@ Allow: /video/dizi-izle/?
 Allow: /video/yerli-dizi-izle/
 Allow: /video/yabanci-dizi-izle/
 Allow: /video/pad/
+Allow: /video/search?text=video$
 
 Disallow: /xmlsearch
 Disallow: /yaca

@@ -312,6 +312,7 @@ Disallow: /personal/deposits/bank-earn/bunny-buddy
 Disallow: /personal/insurance/protection/protection-plans/criticalselectcare
 Disallow: /Contact/posb/deposits/sb-casa-personal-activation/default.page
 Disallow: /Contact/posb/deposits/sb-casa-personal-activation/complete.page
+Disallow: /personal/insurance/accident-health/personal-accident-plans/work-anywhere-protect
 
 
 # URL Masking Details

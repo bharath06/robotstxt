@@ -46,6 +46,9 @@ Disallow: /*/s-anzeige:gesuche
 Disallow: /*/anzeige:gesuche
 Disallow: /*/s-anzeige:angebote
 Disallow: /*/anzeige:angebote
+Disallow: /*/s-direktkaufen:aktiv
+Disallow: /s-direktkaufen:aktiv
+Disallow: /*/direktkaufen:aktiv
 Disallow: /*/k0*r5
 Disallow: /*/k0*r10
 Disallow: /*/k0*r20

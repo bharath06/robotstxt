@@ -19,10 +19,6 @@ Disallow: /images/Popup/
 Disallow: /Images/popup/
 Disallow: *-quickread.html
 Disallow: /homenew
-Disallow: /search?q=*
-Disallow: /search-news?q=*
-Disallow: /search-photos?q=*
-Disallow: /search-videos?q=*
 
 
 User-agent: Mediapartners-Google
@@ -46,10 +42,6 @@ Disallow: /images/Popup/
 Disallow: /Images/popup/
 Disallow: *-quickread.html
 Disallow: /homenew
-Disallow: /search?q=*
-Disallow: /search-news?q=*
-Disallow: /search-photos?q=*
-Disallow: /search-videos?q=*
 
 
 User-agent: Googlebot-News
@@ -73,10 +65,6 @@ Disallow: /images/Popup/
 Disallow: /Images/popup/
 Disallow: *-quickread.html
 Disallow: /homenew
-Disallow: /search?q=*
-Disallow: /search-news?q=*
-Disallow: /search-photos?q=*
-Disallow: /search-videos?q=*
 
 
 User-agent: Googlebot
@@ -100,10 +88,7 @@ Disallow: /images/Popup/
 Disallow: /Images/popup/
 Disallow: *-quickread.html
 Disallow: /homenew
-Disallow: /search?q=*
-Disallow: /search-news?q=*
-Disallow: /search-photos?q=*
-Disallow: /search-videos?q=*
+
 
 User-agent: Bingbot
 Allow: /
@@ -127,10 +112,6 @@ Disallow: /images/Popup/
 Disallow: /Images/popup/
 Disallow: *-quickread.html
 Disallow: /homenew
-Disallow: /search?q=*
-Disallow: /search-news?q=*
-Disallow: /search-photos?q=*
-Disallow: /search-videos?q=*
 
 Sitemap: https://www.hindustantimes.com/sitemap/section.xml
 Sitemap: https://www.hindustantimes.com/sitemap/news.xml

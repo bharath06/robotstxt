@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v16.2_AU_October_2022
+# v16.4_AU_December_2022
 ### DIRECTIVES ###
 
 User-agent: *
@@ -20,6 +20,7 @@ Disallow: /*_kw
 Disallow: /*?maspect
 Disallow: /*modules=SEARCH_REFINEMENTS_MODEL_V2
 Disallow: /*redirect=mobile
+Disallow: /*redirect%3Dmobile
 Disallow: /*rt%3Dnc
 Disallow: /*rt=nc
 Disallow: /*src=urllib
@@ -190,6 +191,7 @@ Disallow: /*_kw
 Disallow: /*?maspect
 Disallow: /*modules=SEARCH_REFINEMENTS_MODEL_V2
 Disallow: /*redirect=mobile
+Disallow: /*redirect%3Dmobile
 Disallow: /*rt%3Dnc
 Disallow: /*rt=nc
 Disallow: /*src=urllib

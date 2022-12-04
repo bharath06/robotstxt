@@ -59,11 +59,4 @@ Sitemap: https://www.cnet.com/sitemaps/review/index.xml
 Sitemap: https://www.cnet.com/sitemaps/updating_story/index.xml
 Sitemap: https://www.cnet.com/sitemaps/video/index.xml
 
-Sitemap: https://www.cnet.com/roadshow/sitemaps/news.xml
 Sitemap: https://www.cnet.com/roadshow/sitemaps/makes.xml
-Sitemap: https://www.cnet.com/roadshow/sitemaps/topics.xml
-Sitemap: https://www.cnet.com/roadshow/sitemaps/gallery/index.xml
-Sitemap: https://www.cnet.com/roadshow/sitemaps/article/index.xml
-Sitemap: https://www.cnet.com/roadshow/sitemaps/product/index.xml
-Sitemap: https://www.cnet.com/roadshow/sitemaps/review/index.xml
-Sitemap: https://www.cnet.com/roadshow/sitemaps/video/index.xml

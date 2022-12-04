@@ -40,6 +40,7 @@ Disallow: /projects/*/moderate_review
 Disallow: /projects/*/rate_review
 Disallow: /projects/*/best_release.html
 Disallow: /projects/*/postdownload
+Disallow: /projects/*/get_updates
 Disallow: /*_escaped_fragment_
 Disallow: /auth/
 Disallow: /auth/do_login

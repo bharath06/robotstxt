@@ -92,6 +92,9 @@ Disallow: */profile/*
 Disallow: */checkout/*
 Disallow: */ikea-family/home-project-planner/*
 Disallow: */ramavtal/*
+Disallow: */buyback/*
+Disallow: */asisonline/*
+Disallow: */nudge/*
 
 Clean-param: tag_id&token&storeID&state&locale&id&return_url&lang&uiPlatform&range&itm_campaign
 Clean-param: tduid&ikeacookiekokpopup&type&orderId&sub1&etext

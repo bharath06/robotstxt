@@ -6,7 +6,6 @@ Disallow: /search
 Disallow: /preview/
 Disallow: /n/
 Disallow: /api
-Clean-param: nw&following_c&keepThis
 
 User-agent: YandexBot
 Disallow: /search
@@ -14,6 +13,7 @@ Disallow: /preview/
 Disallow: /n/
 Disallow: /api
 Disallow: */amp
+Clean-param: nw&following_ch&keepThis
 
 User-agent: Googlebot
 Disallow: /novosti-partnerov

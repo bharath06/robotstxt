@@ -71,6 +71,8 @@ Disallow: /content/dam/www/public/*/forms/
 Disallow: /content/dam/products/
 Disallow: /libs/apps/intel/services/productseedlist
 Disallow: /now/
+Disallow: /*countrylabel=*&countrylabel=*
+Disallow: /*&_escaped_fragment_=*
 Disallow: /*.swf$
 Disallow: /*/swf/
 Disallow: /*/secure/
@@ -166,4 +168,10 @@ Crawl-Delay: 4
 User-agent: MJ12bot
 Crawl-Delay: 4
 
-Sitemap: https://www.intel.com/sitemap-index.xml
+User-agent: BrightEdge
+Crawl-Delay: 4
+
+User-agent: ICC-Crawler
+Disallow: /
+
+Sitemap: https://www.intel.com/sitemap.xml

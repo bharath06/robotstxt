@@ -17,6 +17,9 @@ Disallow: /uy/help/
 Disallow: /xf/help/
 Disallow: /xl/help/
 Disallow: /xm/help/
+Disallow: /fragments/recommendations-carousel
+Disallow: /kr/en$
+Disallow: /kr/en/
 
 User-agent: Baiduspider
 Allow: /cn$

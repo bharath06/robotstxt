@@ -950,7 +950,6 @@ Disallow: /*/nudi$
 Disallow: /*/nus-
 Disallow: /*/nus$
 Disallow: /*/*somente-adult
-Disallow: /*&mediatype=
 Disallow: /*&aspectratio=
 Disallow: /*&phrase=
 Disallow: /*/*fagg

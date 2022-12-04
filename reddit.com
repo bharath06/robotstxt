@@ -54,9 +54,7 @@ Disallow: /buttonlite.js
 Disallow: /timings/perf
 Disallow: /counters/client-screenview
 Disallow: /*?*feed=
-Disallow: /svc/shreddit/experiences
-Disallow: /svc/shreddit/perfMetrics
-Disallow: /svc/shreddit/v2j
+Disallow: /svc/shreddit/*
 Allow: /
 Allow: /sitemaps/*.xml
 Allow: /posts/*

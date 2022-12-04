@@ -1,7 +1,7 @@
 User-agent: *
 Sitemap: https://www.pornhub.com/sitemaps.xml
 Disallow: */iframe-mobile*
-Disallow: */incategories*t=*
+Disallow: */incategories/*
 Disallow: */pornstars/search*
 Disallow: */videos/fanonly*
 Disallow: */videos/private*
@@ -13,6 +13,7 @@ Disallow: *promo=*
 Disallow: *search=*p=*
 Disallow: *search=*p=homemade*o=mr$
 Disallow: *search=*p=professional*o=mr$
+Disallow: *search=*+*+*+*+*page=*
 Disallow: *token=*
 Disallow: *tubes_cms*
 Disallow: /_xa/ads*
@@ -23,7 +24,6 @@ Disallow: /*embed_player*
 Disallow: /*exclude_category=*
 Disallow: /*gifs/search*o=
 Disallow: /*hd=1*
-Disallow: /*incategories*p=*
 Disallow: /*login=*
 Disallow: /*max_duration=*
 Disallow: /*min_duration=*

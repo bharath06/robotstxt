@@ -77,6 +77,18 @@ Disallow: /software/tp
 Disallow: /directory/tp3
 Disallow: /software/tp3
 Disallow: /sd-jobs
+Disallow: /directory/*?language=
+Disallow: /directory/*&language=
+Disallow: /directory/*?natlanguage=
+Disallow: /directory/*&natlanguage=
+Disallow: /directory/*?license=
+Disallow: /directory/*&license=
+Disallow: /directory/*?developmentstatus=
+Disallow: /directory/*&developmentstatus=
+Disallow: /directory/*?topic=
+Disallow: /directory/*&topic=
+Disallow: /directory/*?os=
+Disallow: /directory/*&os=
 
 # mailman flags
 Disallow: *?style=flat
@@ -186,6 +198,18 @@ Disallow: /software/tp
 Disallow: /directory/tp3
 Disallow: /software/tp3
 Disallow: /sd-jobs
+Disallow: /directory/*?language=
+Disallow: /directory/*&language=
+Disallow: /directory/*?natlanguage=
+Disallow: /directory/*&natlanguage=
+Disallow: /directory/*?license=
+Disallow: /directory/*&license=
+Disallow: /directory/*?developmentstatus=
+Disallow: /directory/*&developmentstatus=
+Disallow: /directory/*?topic=
+Disallow: /directory/*&topic=
+Disallow: /directory/*?os=
+Disallow: /directory/*&os=
 
 # mailman flags
 Disallow: *?style=flat

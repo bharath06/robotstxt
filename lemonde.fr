@@ -28,6 +28,7 @@ Disallow: /layout/*
 Disallow: /cgi-bin/*
 Disallow: /envoyer-par-email/*
 Disallow: /lmdgft/*
+Disallow: /*?s=43260*
 
 # WordPress
 Disallow: /blog/*/wp-admin/

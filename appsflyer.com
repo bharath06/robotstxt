@@ -17,14 +17,6 @@ Allow: /wp-content/*.jpeg$
 Allow: /wp-content/*.png$
 Allow: /wp-content/*.svg$
 Allow: /wp-content/*.pdf$
-Allow: /benchmarks/
-Allow: /benchmarks/ru/
-Allow: /benchmarks/es/
-Allow: /benchmarks/pt/
-Allow: /benchmarks/ko/
-Allow: /benchmarks/ja/
-Allow: /benchmarks/cn/
-Allow: /benchmarks/fr/
 
 Disallow: /wp-admin/
 Disallow: /wp-includes/
@@ -48,18 +40,12 @@ Disallow: */blog/page/
 Disallow: */Infogramuploader/
 Disallow: /wp-content/uploads/
 Disallow: /blog/topic/*/feed/
-Disallow: /*?s=*
-Disallow: /page/
-Disallow: */?=glossary*
-Disallow: */?ref=*
-
 
 
 # Disallow existing pages based on localized websites
 Disallow: /sp/
 Disallow: /jp/
 Disallow: /br/
-Disallow: /kr/
 Disallow: /cn/mobile-attribution-glossary/
 Disallow: /cn/mobile-fraud-glossary/
 Disallow: /jp/mobile-attribution-glossary/
@@ -91,14 +77,7 @@ Disallow: /*/blog/author/
 Disallow: /*/blog/press/
 Disallow: /special-tools/
 Disallow: /request-a-demo/thank-you/
-Disallow: /benchmarks/*/
-Disallow: /benchmarks/ru/*/
-Disallow: /benchmarks/es/*/
-Disallow: /benchmarks/pt/*/
-Disallow: /benchmarks/ko/*/
-Disallow: /benchmarks/ja/*/
-Disallow: /benchmarks/cn/*/
-Disallow: /benchmarks/fr/*/
+Disallow: /benchmarks/
 
 
 # Sitemaps: EN + languages + images
@@ -108,7 +87,8 @@ Sitemap: https://www.appsflyer.com/sitemap-de.xml
 Sitemap: https://www.appsflyer.com/sitemap-es.xml
 Sitemap: https://www.appsflyer.com/sitemap-pt.xml
 Sitemap: https://www.appsflyer.com/sitemap-ja.xml
-Sitemap: https://www.appsflyer.com/sitemap-ko.xml
-Sitemap: https://www.appsflyer.com/sitemap-fr.xml
 Sitemap: https://www.appsflyer.com/image-sitemap.xml
+Sitemap: https://www.appsflyer.com/fr/sitemap_index.xml
 Sitemap: https://www.appsflyer.com/cn/sitemap_index.xml
+Sitemap: https://www.appsflyer.com/kr/sitemap_index.xml
+

@@ -968,7 +968,8 @@ Allow: /*/*sussex
 Allow: /*/*xxxi
 Allow: /*/*xxxl
 Allow: /*/*xxxv
-
+Allow: /ro/*-nu$
+Allow: /ro/*-nu-
 
 User-agent: AdsBot-Google
 Allow: /*/en/

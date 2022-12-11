@@ -110,8 +110,6 @@ Disallow: /*/_m2/
 Disallow: /en_oz/
 Disallow: /join/*
 Disallow: /q/*
-Disallow: *?query=
-Disallow: *&query=
 Disallow: *?filters=
 Disallow: *&filters=
 Disallow: /zh_cn/
@@ -134,6 +132,6 @@ Allow: /
 
 
 Sitemap: https://sitemap.canva.com/marketplace_templates_search_pages/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
 Sitemap: https://sitemap.canva.com/marketplace_templates/index.xml
 Sitemap: https://sitemap.canva.com/help_center_pages/index.xml
-Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml

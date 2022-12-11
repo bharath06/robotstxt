@@ -22,5 +22,8 @@ Disallow: /account/*
 Disallow: /vector-art/*/favorite
 Disallow: /api/workers/*
 Disallow: /api/v2/tracking/search/pageviews
+Disallow: /edit/saved/*
+Disallow: /templates
+Disallow: /templates/*
 Allow: /search-sitemap*
 Sitemap: https://www.vecteezy.com/sitemap.xml

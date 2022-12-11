@@ -1,5 +1,6 @@
 User-agent:  *
 Disallow:  /assets/
+Disallow:  /reviews/*
 Disallow:  /recommendation/
 Disallow:  /*viewOrderTracking/
 Disallow:  /*ordertrackinghelplink/

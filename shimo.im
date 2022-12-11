@@ -83,3 +83,4 @@ Disallow: /blog/admin
 
 Sitemap: https://shimo.im/sitemap.xml
 Sitemap: https://shimo.im/sitemap/articles.xml
+Sitemap: https://shimo.im/sitemap/public-templates.xml

@@ -95,3 +95,4 @@ Sitemap: https://www.bing.com/api/maps/mapcontrol/isdk/sitemap.xml
 Sitemap: https://www.bing.com/travelguide/sitemaps/sitemap.xml
 Sitemap: https://www.bing.com/maps/sitemap.xml
 Sitemap: https://www.bing.com/sitemap/shop/sitemap.xml
+Sitemap: https://realestatepublic.blob.core.windows.net/sitemap/sitemap.xml

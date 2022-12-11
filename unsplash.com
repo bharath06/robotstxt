@@ -27,6 +27,15 @@ Disallow: /ja/s/ãã¸ã¥ã¢ã«/*
 Disallow: /ja/ãã¬ã¹
 Disallow: /ja/ã³ãã¥ããã£
 
+# French versions
+Disallow: /fr/account/*
+Disallow: /fr/s/collections/*
+Disallow: /fr/collections*
+Disallow: /fr/s/utilisateurs/*
+Disallow: /fr/s/visuel/*
+Disallow: /fr/newsroom
+Disallow: /fr/communaut%C3%A9
+
 # TEMP
 Disallow: /de/*
 
@@ -50,18 +59,6 @@ Disallow: /it/s/utenti/*
 Disallow: /it/s/immagini/*
 Disallow: /it/stampa
 Disallow: /it/community
-
-# TEMP
-Disallow: /fr/*
-
-# French versions
-Disallow: /fr/account/*
-Disallow: /fr/s/collections/*
-Disallow: /fr/collections*
-Disallow: /fr/s/utilisateurs/*
-Disallow: /fr/s/visuel/*
-Disallow: /fr/newsroom
-Disallow: /fr/communaut%C3%A9
 
 # TEMP
 Disallow: /ko/*

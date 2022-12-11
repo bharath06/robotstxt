@@ -135,6 +135,10 @@ Sitemap: https://sitemaps.scribd.com/series_ro_index.xml
 Sitemap: https://sitemaps.scribd.com/series_ru_index.xml
 Sitemap: https://sitemaps.scribd.com/sheet_music_index.xml
 Sitemap: https://sitemaps.scribd.com/sheet_music_chapters_index.xml
+Sitemap: https://sitemaps.scribd.com/articles_index.xml
+Sitemap: https://sitemaps.scribd.com/podcasts_index.xml
+Sitemap: https://sitemaps.scribd.com/snapshots_index.xml
+Sitemap: https://sitemaps.scribd.com/magazines_index.xml
 
 Sitemap: https://sitemaps.scribd.com/users_index.xml
 Sitemap: https://sitemaps.scribd.com/search_index.xml

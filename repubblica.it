@@ -12,6 +12,7 @@ Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il
 Disallow: 		/persone/2012/06/10/foto/elio_di_rupo_un_bacio_da_ricordare-36910176 
 Disallow: 		/online3 
 Disallow: 		/online/cronaca/veronaecstasy/bologna/bologna.html 
+Disallow: 		/online/ 
 Disallow: 		/news/ired/ultimora/cronaca/rep_cronaca_n_3487677.html 
 Disallow: 		/mobile/ 
 Disallow: 		/mobile-rep/ 
@@ -30,6 +31,14 @@ Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 
+Disallow: 		/2010/ 
+Disallow: 		/2009/ 
+Disallow: 		/2008/ 
+Disallow: 		/2007/ 
 Disallow: 		/2006/05/gallerie/politica/farabutti-foto-lettori-95/esterne191030071909103240_big.jpg 
 Disallow: 		/2006/05/gallerie/politica/farabutti-foto-lettori-95/esterne191030071909103240.jpg 
+Disallow: 		/2006/ 
+Disallow: 		/2005/ 
+Disallow: 		/2004/ 
+Disallow: 		/2003/ 
 Disallow: 		/serietv/schede/cerca/?query= 

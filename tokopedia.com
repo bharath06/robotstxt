@@ -2,6 +2,8 @@ User-agent: *
 Allow: /blog/etalase
 Allow: /blog/note
 Allow: /blog/review
+Allow: /find/*?page
+Allow: /find/*/c/*?page
 Allow: /find/note
 Allow: /find/review
 Allow: /sitemap/review
@@ -24,6 +26,14 @@ Disallow: /content/*
 Disallow: /events/search*
 Disallow: /feed?sc=*
 Disallow: /feedcommunicationdetail/*
+Disallow: /find/*?{*
+Disallow: /find/*?goldmerchant=true
+Disallow: /find/*?official=true
+Disallow: /find/*?shipping=*
+Disallow: /find/*/c/*?{*
+Disallow: /find/*/c/*?goldmerchant=true
+Disallow: /find/*/c/*?official=true
+Disallow: /find/*/c/*?shipping=*
 Disallow: /flight/search/*
 Disallow: /graphql
 Disallow: /image-search/
@@ -54,16 +64,6 @@ Sitemap: https://www.tokopedia.com/sitemap/hotel-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/official-store-brand-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/official-store-category-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/official-store-index.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-0.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-1.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-2.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-3.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-4.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-5.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-6.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-7.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-8.xml
-Sitemap: https://www.tokopedia.com/sitemap/product-find-city-index-9.xml
 Sitemap: https://www.tokopedia.com/sitemap/product-find-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/products-index-0.xml
 Sitemap: https://www.tokopedia.com/sitemap/products-index-1.xml
@@ -76,5 +76,6 @@ Sitemap: https://www.tokopedia.com/sitemap/products-index-7.xml
 Sitemap: https://www.tokopedia.com/sitemap/products-index-8.xml
 Sitemap: https://www.tokopedia.com/sitemap/products-index-9.xml
 Sitemap: https://www.tokopedia.com/sitemap/recharge-index.xml
+Sitemap: https://www.tokopedia.com/sitemap/review-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/salam-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/shop-index.xml

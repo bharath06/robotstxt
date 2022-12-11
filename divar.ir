@@ -1,4 +1,9 @@
-user-agent: *
-disallow: /my-divar/recent-seen
-disallow: /manage/*
-sitemap: https://divar.ir/sitemaps-divar.xml
+User-agent: *
+Disallow: /my-divar/*
+Disallow: /manage/*
+Disallow: /new
+Disallow: *?*
+Allow: *?production-year=*
+Allow: *?page=*
+
+Sitemap: https://divar.ir/sitemaps-divar.xml

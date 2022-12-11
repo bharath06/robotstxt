@@ -12,6 +12,7 @@ Disallow: /tag/
 Disallow: /*?*
 Disallow: /link/
 Disallow: /tags/
+Disallow: /news/
 
 Sitemap: https://www.csdn.net/sitemap-aggpage-index.xml
 Sitemap: https://www.csdn.net/article/sitemap.txt 

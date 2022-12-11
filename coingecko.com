@@ -28,7 +28,6 @@ Disallow: /*/render_hashing_algorithm_selector
 Disallow: /*/show_more_tickers
 Disallow: /*/analysis_tab
 Disallow: /*/render_platform_selector
-Disallow: /*/external_news
 Disallow: /omniauth
 Disallow: /ahoy/visits
 Disallow: /geckoterminal/token_is_valid

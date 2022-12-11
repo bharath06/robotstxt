@@ -38,3 +38,4 @@ Sitemap: https://www.xe.com/zh-CN/sitemap-charts.xml
 Sitemap: https://www.xe.com/zh-HK/sitemap-charts.xml
 
 Sitemap: https://www.xe.com/blog/sitemap.xml
+Sitemap: https://www.xe.com/business/{sitemap_name}.xml

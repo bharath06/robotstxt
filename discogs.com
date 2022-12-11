@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /*/_graphs/history
+Allow: /users/forgot_password
 Disallow: /sell/cart
 Disallow: /sell/post
 Disallow: /submissions
@@ -9,6 +10,7 @@ Disallow: /my$
 Disallow: /sell/mywants$
 Disallow: /browse/my$
 Disallow: /recent/my$
+Disallow: /messages/
 Disallow: /mygroups$
 Disallow: /mywantlist$
 Disallow: /mycontributions$
@@ -20,7 +22,7 @@ Disallow: /release/copy
 Disallow: /update
 Disallow: /*/update$
 Disallow: /login
-Disallow: /users/create
+Disallow: /users/
 Disallow: /logout
 Disallow: /redir
 Disallow: /history

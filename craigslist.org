@@ -7,4 +7,4 @@ Disallow: /mf
 Disallow: /mailflag
 Disallow: /eaf
 Disallow: /*.html?lang=
-
+Sitemap: https://craigslist.org/sitemap_index.xml

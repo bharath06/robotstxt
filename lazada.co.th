@@ -3,6 +3,7 @@ Allow: /catalog/
 Disallow:  /checkout/
 Disallow:  /customer/
 Disallow:  /cart/
+Disallow: /reviews/
 Disallow:  /*index.scss
 Disallow:  /*reqwest/index
 Disallow:  /shop-personal-pleasure/

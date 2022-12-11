@@ -17,7 +17,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: *-quickread.html
 Disallow: /homenew
 
 
@@ -40,7 +39,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: *-quickread.html
 Disallow: /homenew
 
 
@@ -63,7 +61,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: *-quickread.html
 Disallow: /homenew
 
 
@@ -86,7 +83,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: *-quickread.html
 Disallow: /homenew
 
 
@@ -110,7 +106,6 @@ Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
 Disallow: /Images/popup/
-Disallow: *-quickread.html
 Disallow: /homenew
 
 Sitemap: https://www.hindustantimes.com/sitemap/section.xml

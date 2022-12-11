@@ -15,6 +15,10 @@ Disallow: /recommend/
 Disallow: /doubanapp/card
 Disallow: /update/topic/
 Disallow: /share/
+Disallow: /people/*/collect
+Disallow: /people/*/wish
+Disallow: /people/*/all
+Disallow: /people/*/do
 Allow: /ads.txt
 Sitemap: https://www.douban.com/sitemap_index.xml
 Sitemap: https://www.douban.com/sitemap_updated_index.xml

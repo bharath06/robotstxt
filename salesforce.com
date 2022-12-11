@@ -1,56 +1,56 @@
 # Robots.txt file for http://www.salesforce.com
 # All robots will spider the domain
 #
-https://www.salesforce.com/sitemap.xml
-https://www.salesforce.com/ap/sitemap.xml
-https://www.salesforce.com/au/sitemap.xml
-https://www.salesforce.com/br/sitemap.xml
-https://www.salesforce.com/ca/sitemap.xml
-https://www.salesforce.com/cn/sitemap.xml
-https://www.salesforce.com/de/sitemap.xml
-https://www.salesforce.com/dk/sitemap.xml
-https://www.salesforce.com/es/sitemap.xml
-https://www.salesforce.com/fi/sitemap.xml
-https://www.salesforce.com/fr/sitemap.xml
-https://www.salesforce.com/fr-ca/sitemap.xml
-https://www.salesforce.com/in/sitemap.xml
-https://www.salesforce.com/it/sitemap.xml
-https://www.salesforce.com/jp/sitemap.xml
-https://www.salesforce.com/kr/sitemap.xml
-https://www.salesforce.com/mx/sitemap.xml
-https://www.salesforce.com/nl/sitemap.xml
-https://www.salesforce.com/no/sitemap.xml
-https://www.salesforce.com/se/sitemap.xml
-https://www.salesforce.com/th/sitemap.xml
-https://www.salesforce.com/tw/sitemap.xml
-https://www.salesforce.com/uk/sitemap.xml
-https://www.salesforce.com/eu/sitemap.xml
-https://www.salesforce.com/events/webinars/sitemap.xml
-https://www.salesforce.com/au/events/webinars/sitemap.xml
-https://www.salesforce.com/br/events/webinars/sitemap.xml
-https://www.salesforce.com/ca/events/webinars/sitemap.xml
-https://www.salesforce.com/de/events/webinars/sitemap.xml
-https://www.salesforce.com/fr/events/webinars/sitemap.xml
-https://www.salesforce.com/gb/events/webinars/sitemap.xml
-https://www.salesforce.com/jp/events/webinars/sitemap.xml
-https://www.salesforce.com/mx/events/webinars/sitemap.xml
-https://www.salesforce.com/video/sitemap.xml
-https://www.salesforce.com/au/video/sitemap.xml
-https://www.salesforce.com/de/video/sitemap.xml
-https://www.salesforce.com/jp/video/sitemap.xml
-https://www.salesforce.com/blog/sitemap_index.xml
-https://www.salesforce.com/au/blog/sitemap_index.xml
-https://www.salesforce.com/br/blog/sitemap.xml
-https://www.salesforce.com/ca/blog/sitemap.xml
-https://www.salesforce.com/de/blog/sitemap.xml
-https://www.salesforce.com/es/blog/sitemap.xml
-https://www.salesforce.com/fi/blog/sitemap.xml
-https://www.salesforce.com/fr/blog/sitemap.xml
-https://www.salesforce.com/it/blog/sitemap.xml
-https://www.salesforce.com/jp/blog/sitemap.xml
-https://www.salesforce.com/mx/blog/sitemap.xml
-https://www.salesforce.com/nl/blog/sitemap.xml
-https://www.salesforce.com/uk/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/sitemap.xml
+Sitemap: https://www.salesforce.com/ap/sitemap.xml
+Sitemap: https://www.salesforce.com/au/sitemap.xml
+Sitemap: https://www.salesforce.com/br/sitemap.xml
+Sitemap: https://www.salesforce.com/ca/sitemap.xml
+Sitemap: https://www.salesforce.com/cn/sitemap.xml
+Sitemap: https://www.salesforce.com/de/sitemap.xml
+Sitemap: https://www.salesforce.com/dk/sitemap.xml
+Sitemap: https://www.salesforce.com/es/sitemap.xml
+Sitemap: https://www.salesforce.com/fi/sitemap.xml
+Sitemap: https://www.salesforce.com/fr/sitemap.xml
+Sitemap: https://www.salesforce.com/fr-ca/sitemap.xml
+Sitemap: https://www.salesforce.com/in/sitemap.xml
+Sitemap: https://www.salesforce.com/it/sitemap.xml
+Sitemap: https://www.salesforce.com/jp/sitemap.xml
+Sitemap: https://www.salesforce.com/kr/sitemap.xml
+Sitemap: https://www.salesforce.com/mx/sitemap.xml
+Sitemap: https://www.salesforce.com/nl/sitemap.xml
+Sitemap: https://www.salesforce.com/no/sitemap.xml
+Sitemap: https://www.salesforce.com/se/sitemap.xml
+Sitemap: https://www.salesforce.com/th/sitemap.xml
+Sitemap: https://www.salesforce.com/tw/sitemap.xml
+Sitemap: https://www.salesforce.com/uk/sitemap.xml
+Sitemap: https://www.salesforce.com/eu/sitemap.xml
+Sitemap: https://www.salesforce.com/events/webinars/sitemap.xml
+Sitemap: https://www.salesforce.com/au/events/webinars/sitemap.xml
+Sitemap: https://www.salesforce.com/br/events/webinars/sitemap.xml
+Sitemap: https://www.salesforce.com/ca/events/webinars/sitemap.xml
+Sitemap: https://www.salesforce.com/de/events/webinars/sitemap.xml
+Sitemap: https://www.salesforce.com/fr/events/webinars/sitemap.xml
+Sitemap: https://www.salesforce.com/gb/events/webinars/sitemap.xml
+Sitemap: https://www.salesforce.com/jp/events/webinars/sitemap.xml
+Sitemap: https://www.salesforce.com/mx/events/webinars/sitemap.xml
+Sitemap: https://www.salesforce.com/video/sitemap.xml
+Sitemap: https://www.salesforce.com/au/video/sitemap.xml
+Sitemap: https://www.salesforce.com/de/video/sitemap.xml
+Sitemap: https://www.salesforce.com/jp/video/sitemap.xml
+Sitemap: https://www.salesforce.com/blog/sitemap_index.xml
+Sitemap: https://www.salesforce.com/au/blog/sitemap_index.xml
+Sitemap: https://www.salesforce.com/br/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/ca/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/de/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/es/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/fi/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/fr/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/it/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/jp/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/mx/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/nl/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/uk/blog/sitemap.xml
 
 #
 # Keep mis-configured Microsoft SharePoint servers from hammering us

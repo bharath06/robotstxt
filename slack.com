@@ -9,7 +9,9 @@ Disallow: /what-is-slack
 Disallow: /collaborating-with-slack
 Disallow: /lp/three
 Disallow: /documents/slack_pilot_dpa
-Disallow: /*geocode=*
-Disallow: /*locale=*
+Disallow: /openid
+Disallow: /oauth
+Disallow: /careers/
+Disallow: /join/shared_invite
 
 Sitemap: https://slack.com/sitemap.xml

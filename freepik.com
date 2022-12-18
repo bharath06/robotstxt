@@ -28,6 +28,7 @@ Disallow: /bmind
 Disallow: /blog-old
 Disallow: /language-switch/?currentPath
 Disallow: /_ga
+Disallow: /photo-editor/*
 
 # Google AdSense
 User-agent: Mediapartners-Google

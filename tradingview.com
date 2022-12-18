@@ -9,5 +9,5 @@ Disallow: /widgetembed/
 Disallow: /embed-widget/
 Disallow: /*?support
 Disallow: /badbrowser/
-Disallow: /jobs/
+Disallow: /accounts/
 Sitemap: https://www.tradingview.com/sitemap.xml

@@ -250,11 +250,13 @@ Disallow: /einvoice/
 Disallow: /in/einvoice/
 Disallow: /sites/default/files/commandcenter/commandcenter-as-a-service-helpdoc.pdf
 Disallow: /sites/default/files/crm/signup_onboarding_loader.mp4
+Disallow: /sites/zweb/images/crm/signup_onboarding_loader.mp4
 Disallow: /thrive/
 Disallow: /services/
 Disallow: /cliq/cliqtrix/
 Disallow: /zh-hant/workplace/
 Disallow: /hi-in/
+Disallow: /tables
 User-agent: Googlebot-Image
 Disallow: /branding/images/dont-04.png
 Disallow: /branding/images/dont-03.png

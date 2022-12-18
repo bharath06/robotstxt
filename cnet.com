@@ -48,15 +48,13 @@ Disallow: */component/*
 Disallow: */ext/make/ingest/*
 Disallow: */email/newsletter/*
 
-Sitemap: https://www.cnet.com/sitemaps/news.xml
-Sitemap: https://www.cnet.com/sitemaps/web-stories.xml
-Sitemap: https://www.cnet.com/sitemaps/topics.xml
 Sitemap: https://www.cnet.com/sitemaps/article/index.xml
 Sitemap: https://www.cnet.com/sitemaps/best/index.xml
 Sitemap: https://www.cnet.com/sitemaps/gallery/index.xml
 Sitemap: https://www.cnet.com/sitemaps/how-to/index.xml
+Sitemap: https://www.cnet.com/sitemaps/news.xml
 Sitemap: https://www.cnet.com/sitemaps/review/index.xml
+Sitemap: https://www.cnet.com/sitemaps/static.xml
 Sitemap: https://www.cnet.com/sitemaps/updating_story/index.xml
 Sitemap: https://www.cnet.com/sitemaps/video/index.xml
-
-Sitemap: https://www.cnet.com/roadshow/sitemaps/makes.xml
+Sitemap: https://www.cnet.com/sitemaps/web-stories.xml

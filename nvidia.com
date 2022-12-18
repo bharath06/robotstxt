@@ -26,12 +26,11 @@
 # Or check out our YouTube channel for our latest
 # https://www.youtube.com/user/nvidia
 #
-# Last updated 10 Oct 2022 by LC
+# Last updated 15 Dec 2022 by LC
 
 sitemap: https://www.nvidia.com/content/dam/sitemaps/sitemap_index.xml
 
 User-agent: *
-Disallow: /content/license/driver_license.aspx
 
 Disallow: /admin/
 
@@ -39,9 +38,21 @@ Disallow: /attach/
 
 Disallow: /content/experience-fragments/*
 
+Disallow: /content/forms/
+
 Disallow: /content/g/*
 
 Disallow: /content/gated-pdfs/*
+
+Disallow: /content/*/gated-resources/
+
+Disallow: /content/*/gated-pdfs/
+
+Disallow: /content/license/driver_license.aspx
+
+Disallow: /content/nvidiaGDC/
+
+Disallow: /content/temp/*
 
 Disallow: /ddl2*
 
@@ -49,13 +60,17 @@ Disallow: /email-verify/
 
 Disallow: /forms/
 
-Disallow: /content/forms/
-
 Disallow: /gated-resources/*
 
-Disallow: /content/*/gated-resources/
+Disallow: /geforce/release-notes/GFE/Rich/*
 
-Disallow: /content/*/gated-pdfs/
+Disallow: /geforce/release-notes/GFN/Rich/*
+
+Disallow: /geforce/release-notes/GFNB/Rich/*
+
+Disallow: /geforce/billboards/*
+
+Disallow: /geforce/news/gfecnt/*
 
 Disallow: /processFind*
 
@@ -85,18 +100,6 @@ Disallow: /?topicpage*
 
 Disallow: /utm*
 
-Disallow: /content/nvidiaGDC/
-
 User-agent: NvidiaCrawler
 
 Disallow: /on-demand/session/*
-
-Disallow: /geforce/release-notes/GFE/Rich/*
-
-Disallow: /geforce/release-notes/GFN/Rich/*
-
-Disallow: /geforce/release-notes/GFNB/Rich/*
-
-Disallow: /geforce/billboards/*
-
-Disallow: /geforce/news/gfecnt/*

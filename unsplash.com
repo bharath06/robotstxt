@@ -48,9 +48,6 @@ Disallow: /de/s/visuell/*
 Disallow: /de/presse
 Disallow: /de/community
 
-# TEMP
-Disallow: /it/*
-
 # Italian versions
 Disallow: /it/account/*
 Disallow: /it/s/collezioni/*

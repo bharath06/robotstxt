@@ -5,7 +5,6 @@ Disallow: *?fbclid*
 Disallow: *?m*
 Disallow: *?_gl*
 Disallow: *?p*
-Disallow: *?amp*
 Disallow: *?s*
 Disallow: *?orderby*
 Allow: /wp-admin/admin-ajax.php

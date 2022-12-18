@@ -17,6 +17,7 @@ Sitemap: https://www.digitalocean.com/sitemaps/www-solutions-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/www-resources-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/www-reports-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/www-products-0.xml.gz
+Sitemap: https://www.digitalocean.com/sitemaps/www-product-tours-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/www-pricing-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/www-landing-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/www-legal-0.xml.gz

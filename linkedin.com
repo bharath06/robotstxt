@@ -21,6 +21,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /embed/feed/update/
 Disallow: /endorsements
@@ -141,6 +142,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -257,6 +259,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /embed/feed/update/
 Disallow: /endorsements
@@ -377,6 +380,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -492,6 +496,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -607,6 +612,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -723,6 +729,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -839,6 +846,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -955,6 +963,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -1070,6 +1079,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -1185,6 +1195,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -1300,6 +1311,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -1415,6 +1427,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -1530,6 +1543,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -1646,6 +1660,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -1762,6 +1777,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -1878,6 +1894,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -1995,6 +2012,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -2111,6 +2129,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -2226,6 +2245,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -2341,6 +2361,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -2456,6 +2477,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -2571,6 +2593,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -2686,6 +2709,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -2799,6 +2823,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -2914,6 +2939,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -3029,6 +3055,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -3137,6 +3164,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -3245,6 +3273,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -3360,6 +3389,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -3475,6 +3505,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -3592,6 +3623,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /endorsements
 Disallow: /find/
@@ -3710,6 +3742,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /embed/feed/update/
 Disallow: /endorsements
@@ -3830,6 +3863,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /embed/feed/update/
 Disallow: /endorsements
@@ -3950,6 +3984,7 @@ Disallow: /checkpoint/
 Disallow: /companyDir*
 Disallow: /connections*
 Disallow: /csp/
+Disallow: /e/
 Disallow: /edurec*
 Disallow: /embed/feed/update/
 Disallow: /endorsements

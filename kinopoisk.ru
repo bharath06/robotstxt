@@ -38,6 +38,15 @@ Clean-param: vk
 Clean-param: year
 Clean-param: month
 Clean-param: newfilm
+Clean-param: quick
+Clean-param: type
+Clean-param: force
+Clean-param: utm
+Clean-param: afisha
+Clean-param: only
+Clean-param: sso
+Clean-param: link
+Clean-param: is
 Disallow: /tmp/
 Disallow: /s/
 Disallow: /query/

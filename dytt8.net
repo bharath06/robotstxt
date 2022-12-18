@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 User-agent: * 
 Disallow: /member
 Disallow: /plus/feedback_js.php
@@ -9,22 +8,7 @@ Disallow: /dede/
 Disallow: /plus/recommend.php
 Disallow: /plus/stow.php
 Disallow: /plus/count.php
-Disallow: /dededy/
+Disallow: /js3/
 Disallow: /js2/
 Disallow: /gg/
-=======
-User-agent: * 
-Disallow: /member
-Disallow: /plus/feedback_js.php
-Disallow: /plus/mytag_js.php
-Disallow: /plus/rss.php
-Disallow: /plus/search.php
-Disallow: /dede/
-Disallow: /plus/recommend.php
-Disallow: /plus/stow.php
-Disallow: /plus/count.php
-Disallow: /dededy/
-Disallow: /js2/
-Disallow: /gg/
->>>>>>> c881411106adf687acaf306d655ca150e70ee17f
 Disallow: /g/

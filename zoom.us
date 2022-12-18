@@ -5,5 +5,6 @@ Disallow: /docs/image/new/brand/outdated/
 Disallow: /docs/doc/2-Page-All-Products.pdf
 Disallow: /docs/doc/zoom-apps-security-privacy-faq.pdf
 Disallow: /docs/doc/zoom-apps-data-management.pdf
+Disallow: /j/*
 
 Sitemap: http://zoom.us/sitemap.xml

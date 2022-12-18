@@ -30,6 +30,7 @@ Disallow: /sports/services/photos/
 Disallow: /optimus
 Disallow: /ux-train
 Disallow: /story/advisory/
+Disallow: /.cam-tangent/
 Disallow: /exp-cruise
 Disallow: /exp-las-vegas2
 Disallow: /exp-faw

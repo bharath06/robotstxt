@@ -50,8 +50,8 @@ Disallow: /ko/contributions?user=
 Sitemap: https://www.discogs.com/sitemap_artist.xml
 Sitemap: https://www.discogs.com/sitemap_release.xml
 Sitemap: https://www.discogs.com/sitemap_footer.xml
-Sitemap: https://www.discogs.com/company/sitemap_index.xml
-Sitemap: https://www.discogs.com/digs/sitemap_index.xml
-Sitemap: https://www.discogs.com/selling/sitemap_index.xml
-Sitemap: https://www.discogs.com/record-stores/sitemap_index.xml
-Sitemap: https://www.discogs.com/media-kit/sitemap_index.xml
+Sitemap: https://www.discogs.com/company/sitemap.xml
+Sitemap: https://www.discogs.com/digs/sitemap.xml
+Sitemap: https://www.discogs.com/selling/sitemap.xml
+Sitemap: https://www.discogs.com/record-stores/sitemap.xml
+Sitemap: https://www.discogs.com/media-kit/sitemap.xml

@@ -1,5 +1,5 @@
 #Sitemaps-https
-Sitemap: https://www.walmart.com/sitemap_browse.xml
+
 Sitemap: https://www.walmart.com/sitemap_category.xml
 Sitemap: https://www.walmart.com/sitemap_store_main.xml
 
@@ -7,7 +7,6 @@ Sitemap: https://www.walmart.com/help/sitemap_gm.xml
 Sitemap: https://www.walmart.com/sitemap_browse_fst.xml
 Sitemap: https://www.walmart.com/sitemap_store_dept.xml
 
-Sitemap: https://www.walmart.com/sitemap_bf_2020.xml
 Sitemap: https://www.walmart.com/sitemap_tp_legacy.xml
 Sitemap: https://www.walmart.com/sitemap_tp_100K.xml
 Sitemap: https://www.walmart.com/sitemap_tp_1M.xml

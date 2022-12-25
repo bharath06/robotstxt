@@ -151,6 +151,7 @@ Disallow: /CommPT
 Disallow: /connectivity
 Disallow: /ConnectivityPartnerFAQ
 Disallow: /ConnectivityPartnerInfo
+Disallow: /Consent
 Disallow: /Contributions
 Disallow: /CookiePingback
 Disallow: /CoralEditor
@@ -1030,6 +1031,7 @@ Disallow: /CommPT
 Disallow: /connectivity
 Disallow: /ConnectivityPartnerFAQ
 Disallow: /ConnectivityPartnerInfo
+Disallow: /Consent
 Disallow: /Contributions
 Disallow: /CookiePingback
 Disallow: /CoralEditor

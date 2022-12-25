@@ -1460,6 +1460,32 @@ Sitemap: https://www.etsy.com/pl/sitemaps/listing/top-seller.xml
 Sitemap: https://www.etsy.com/at/sitemaps/listing/top-seller.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/listing/top-seller.xml
 Sitemap: https://www.etsy.com/be/sitemaps/listing/top-seller.xml
+Sitemap: https://www.etsy.com/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/fi-en/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/au/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/ca/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/ca-fr/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/dk-en/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/hk-en/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/ie/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/il-en/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/in-en/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/nz/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/no-en/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/se-en/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/sg-en/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/uk/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/de/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/fr/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/nl/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/it/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/es/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/mx/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/jp/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/pl/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/at/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/ch/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/be/sitemaps/listing/star-seller.xml
 Sitemap: https://www.etsy.com/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/fi-en/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/au/sitemaps/listing/local.xml
@@ -1591,7 +1617,7 @@ Sitemap: https://www.etsy.com/at/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/be/sitemaps/blocklist.xml
 #
-# What's up?#   \
+# 01001001 01010011 00100000 01000011 01001111 01000100 01000101 00100000 01011001 01001111 01010101 01010010 00100000 01000011 01010010 01000001 01000110 01010100 00111111#   \
 #
 #    -----
 #   | . . |

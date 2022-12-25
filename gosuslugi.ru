@@ -76,7 +76,11 @@ Allow: /itorgs
 Allow: /donation
 Allow: /info_molodym
 Allow: /exam_places
-Allow: /research
+Allow: /socialfund
+Allow: /600244/1/form$
+Allow: /600361/1/form$
+Allow: /600142/1/form$
+Disallow: *?coid
 
 User-agent: GoogleBot
 Disallow: *2019_08_09_super_services
@@ -182,6 +186,11 @@ Allow: /donation
 Allow: /info_molodym
 Allow: /exam_places
 Allow: /research
+Allow: /socialfund
+Allow: /600244/1/form$
+Allow: /600361/1/form$
+Allow: /600142/1/form$
+Disallow: *?coid
 
 User-agent: *
 Disallow: *2019_08_09_super_services
@@ -287,6 +296,11 @@ Allow: /donation
 Allow: /info_molodym
 Allow: /exam_places
 Allow: /research
+Allow: /socialfund
+Allow: /600244/1/form$
+Allow: /600361/1/form$
+Allow: /600142/1/form$
+Disallow: *?coid
 
 Clean-param: utm_campaign&utm_source&utm_term&utm_medium&utm_startpage&utm_orderpage&utm_referer&utm_content
 Clean-param: q&special&from&serviceTargetExtId&p&id&contacts&layer&filter&services&_&amp&scroll&uin&referrer&view&organization&region&tab&control&link&pl

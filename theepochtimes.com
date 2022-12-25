@@ -27,7 +27,6 @@ Disallow: /
 User-Agent:DotBot
 Disallow: /
 
-Sitemap: https://www.theepochtimes.com/assets/uploads/sitemap/sitemap.xml.gz
-Sitemap: https://www.theepochtimes.com/assets/uploads/sitemap/sitemap_news.xml.gz
-Sitemap: https://www.theepochtimes.com/assets/uploads/sitemap/sitemap_pages.xml.gz
-Sitemap: https://www.theepochtimes.com/assets/uploads/sitemap/sitemap_category.xml.gz
+Sitemap: https://www.theepochtimes.com/sitemap/sitemap.xml.gz
+Sitemap: https://www.theepochtimes.com/sitemap/sitemap-news.xml.gz
+Sitemap: https://www.theepochtimes.com/sitemap/sitemap-allvideos.xml.gz

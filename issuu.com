@@ -106,4 +106,20 @@ Disallow: /acq/parks-and-recreation/
 
 
 Sitemap: https://issuu.com/sitemap.xml
-Sitemap: https://issuu.com/sitemap-incremental.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-document-deu.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-document-por.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-document-fra.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-document-spa.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-document-eng.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-document-other.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-document-ind.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-document-ita.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-article_story-ind.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-article_story-spa.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-article_story-por.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-article_story-deu.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-article_story-ita.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-article_story-eng.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-article_story-fra.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-article_story-other.xml
+Sitemap: https://issuu.com/sitemap/segmented/index-user.xml

@@ -18,6 +18,7 @@ Disallow: /player
 Disallow: /xpromo_static
 Disallow: /rubicon_rambler_main
 Disallow: /rnet/
+Disallow: /?query=*
 Clean-param: from&rcmrclid&utm_campaign&utm_source&utm_medium&utm_content&utm_term&block_click
 Host: https://www.rambler.ru
  
@@ -41,6 +42,7 @@ Disallow: /player
 Disallow: /xpromo_static
 Disallow: /rubicon_rambler_main
 Disallow: /rnet/
+Disallow: /?query=*
 
 User-agent: *
 Allow: /doc/addr.shtml
@@ -62,3 +64,4 @@ Disallow: /player
 Disallow: /xpromo_static
 Disallow: /rubicon_rambler_main
 Disallow: /rnet/
+Disallow: /?query=*

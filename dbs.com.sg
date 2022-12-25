@@ -313,7 +313,9 @@ Disallow: /personal/insurance/protection/protection-plans/criticalselectcare
 Disallow: /Contact/posb/deposits/sb-casa-personal-activation/default.page
 Disallow: /Contact/posb/deposits/sb-casa-personal-activation/complete.page
 Disallow: /personal/insurance/accident-health/personal-accident-plans/work-anywhere-protect
-
+Disallow: /Contact/posb/deposits/posbkids/default.page
+Disallow: /personal/*common-disclaimer.page?url=
+Disallow: /personal/community/*user
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/
@@ -327,10 +329,7 @@ Disallow: /
 User-agent: archive.org_bot
 Disallow: /
 
-User-agent: Googlebot
-Disallow:
-Disallow: /personal/*common-disclaimer.page?url=
-Disallow: /personal/community/*user
+
 
 User-agent: AdsBot-Google
 Disallow:

@@ -29,6 +29,11 @@ Disallow: /transcripts/480128005*
 Disallow: /tags*
 Disallow: /sureroute
 Disallow: /*/partials*
+Disallow: /*?live=*
+Disallow: /*?cacheKill=*
+Disallow: /*?skipCache=*
+Disallow: /*?forceCds=*
+Disallow: /*?forceXml=*
 
 # Ensures that we're using the correct sitemap. The fact that this is legacy*.npr.org is OK because the crawler will only accept
 # URLs in this sitemap to match www*.npr.org

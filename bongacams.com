@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /profile/*/album/*/photo/*
-Disallow: /profile/*/photos/*/photo/*
 Disallow: /graph-api/*
 Disallow: /tools/*
 Disallow: /tags/*/ajax-pager

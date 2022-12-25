@@ -86,3 +86,6 @@ disallow: */search/*prod=
 disallow: */search/*correction=
 disallow: *?skip=
 disallow: *&skip=
+
+User-agent: ia_archiver
+Disallow: /

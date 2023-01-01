@@ -113,6 +113,7 @@ Sitemap: https://nypost.com/sitemap-2019.xml
 Sitemap: https://nypost.com/sitemap-2020.xml
 Sitemap: https://nypost.com/sitemap-2021.xml
 Sitemap: https://nypost.com/sitemap-2022.xml
+Sitemap: https://nypost.com/sitemap-2023.xml
 
 # Additional sitemaps
 Sitemap: https://nypost.com/sitemap-nypost-section.xml

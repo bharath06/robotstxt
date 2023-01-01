@@ -200,6 +200,8 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/11/sitem
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/11/sitemap1.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/11/sitemap2.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/12/sitemap.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/12/sitemap1.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/12/sitemap2.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/2/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/2/sitemap1.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/2/sitemap2.xml.gz
@@ -220,3 +222,4 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitema
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitemap3.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitemap4.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/9/sitemap.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2023/1/sitemap.xml.gz

@@ -89,7 +89,6 @@ Disallow: /wmflows/
 Disallow: */undefined/*
 Disallow: /store/*/search
 Disallow: /c/kp/*/page/*
-Disallow: /orchestra/*
 Disallow: /feeds/*
 
 #Crawler specific settings

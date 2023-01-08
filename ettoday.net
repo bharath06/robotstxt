@@ -48,9 +48,10 @@ Disallow:/fbapp/
 Disallow:/game/
 Disallow:/inner-beauty/
 Disallow:/link/
-Disallow:/news/hot-tag.htm
 Disallow:/news/20111005/123.htm
 Disallow:/news/20111003/1.htm
+Disallow:/news/demo/
+Disallow:/news/hot-tag.htm
 Disallow:/news_search/
 Disallow:/player/
 Disallow:/redir/

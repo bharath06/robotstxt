@@ -36,9 +36,6 @@ Disallow: /fr/s/visuel/*
 Disallow: /fr/newsroom
 Disallow: /fr/communaut%C3%A9
 
-# TEMP
-Disallow: /de/*
-
 # German versions
 Disallow: /de/account/*
 Disallow: /de/s/kollektionen/*

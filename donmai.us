@@ -24,7 +24,6 @@ Allow: /artists
 Allow: /artist_commentaries
 Allow: /comments
 Allow: /explore/posts/popular
-Allow: /explore/posts/curated
 Allow: /explore/posts/viewed
 Allow: /explore/posts/searches
 Allow: /explore/posts/missed_searches

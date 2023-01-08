@@ -1,4 +1,7 @@
 User-agent: Applebot
+Disallow: /explore/*-test
+Disallow: /test
+Disallow: /explore/home/test
 Disallow: /cdn-cgi/
 Disallow: /cgi-bin/
 Disallow: /img/
@@ -73,6 +76,9 @@ Allow: .js
 Allow: .css
 
 User-agent: Googlebot
+Disallow: /explore/*-test
+Disallow: /test
+Disallow: /explore/home/test
 Disallow: /cdn-cgi/
 Disallow: /cgi-bin/
 Disallow: /img/
@@ -148,6 +154,9 @@ Allow: .css
 
 User-agent: PetalBot
 crawl-delay: 10
+Disallow: /explore/*-test
+Disallow: /test
+Disallow: /explore/home/test
 Disallow: /cdn-cgi/
 Disallow: /cgi-bin/
 Disallow: /img/
@@ -222,6 +231,9 @@ Allow: .js
 Allow: .css
 
 User-agent: *
+Disallow: /explore/*-test
+Disallow: /test
+Disallow: /explore/home/test
 Disallow: /cdn-cgi/
 Disallow: /cgi-bin/
 Disallow: /img/
@@ -293,4 +305,14 @@ Allow: 	  /entertainment/wp-content/uploads/2013/01/*.jpg
 Allow: 	  /ads.txt
 Allow: 	  /.well-known/assetlinks.json
 
-Sitemap: /sitemap/index.xml
+Sitemap: https://in.bookmyshow.com/sitemap/index.xml
+Sitemap: https://in.bookmyshow.com/sitemap/movies.xml
+Sitemap: https://in.bookmyshow.com/sitemap/upcoming-movies.xml
+Sitemap: https://in.bookmyshow.com/sitemap/plays.xml
+Sitemap: https://in.bookmyshow.com/sitemap/events.xml
+Sitemap: https://in.bookmyshow.com/sitemap/activities.xml
+Sitemap: https://in.bookmyshow.com/sitemap/movies-synopsis.xml
+Sitemap: https://in.bookmyshow.com/sitemap/events-synopsis.xml
+Sitemap: https://in.bookmyshow.com/sitemap/cinemas.xml
+Sitemap: https://in.bookmyshow.com/sitemap/persons-index.xml
+Sitemap: https://in.bookmyshow.com/sitemap/movie-shows.xml

@@ -19,7 +19,6 @@ Disallow: 		/mobile-rep/
 Disallow: 		/java 
 Disallow: 		/ipad/ 
 Disallow: 		/interstitial/ 
-Disallow: 		/esteri/2012/10/23/news/vaticano_gabriele_colpevole_di_furto-45135552/ 
 Disallow: 		/economia/miojob/rss 
 Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/* 
@@ -28,9 +27,7 @@ Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
 Disallow: 		/economia/finanza/2012/01/28/news/micalizzi_condannato_a_sei_anni_il_madoff_della_bocconi-217673643/ 
 Disallow: 		/dal-quotidiano/ 
-Disallow: 		/cronaca/2020/05/28/news/ndrangheta_un_cartello_di_43_imprese_all_ombra_dei_piromalli_indagato_il_deputato_leghista_domenico_furgiuele-301031411/ 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
-Disallow: 		/cronaca/2016/11/18/news/calabria_ndrangheta_in_sequestro_beni_50_milioni_anche_resort_fiction_rai-152270296/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 

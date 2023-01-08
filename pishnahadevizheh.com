@@ -8,4 +8,4 @@ Disallow: /admin*
 Disallow: *:id*
 
 
-Sitemap: http://www.pishnahadevizheh.com/sitemap.xml
+Sitemap: https://www.pishnahadevizheh.com/sitemap.xml

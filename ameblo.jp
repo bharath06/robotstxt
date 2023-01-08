@@ -9,6 +9,7 @@ Disallow: /*/bookmark.html
 Disallow: /*/bookmark-*.html
 Disallow: /*/amemberentrylist.html
 Disallow: /*/amemberentrylist-*.html
+Disallow: /*/amemberentry-*.html
 Disallow: /*/imagelist.html
 Disallow: /*/imagelist-*.html
 Disallow: /*/image-*-*.html

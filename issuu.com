@@ -59,6 +59,11 @@ Disallow: /query%
 Disallow: /query?
 Disallow: /query/
 
+Disallow: /offers/referral-terms-conditions$
+Disallow: /offers/referral-terms-conditions%
+Disallow: /offers/referral-terms-conditions?
+Disallow: /offers/referral-terms-conditions/
+
 Disallow: /go/menu$
 Disallow: /go/menu%
 Disallow: /go/menu?
@@ -73,11 +78,6 @@ Disallow: /go/realty$
 Disallow: /go/realty%
 Disallow: /go/realty?
 Disallow: /go/realty/
-
-Disallow: /affiliate/info$
-Disallow: /affiliate/info%
-Disallow: /affiliate/info?
-Disallow: /affiliate/info/
 
 Disallow: /acq/nonprofits$
 Disallow: /acq/nonprofits%

@@ -12,7 +12,6 @@ Disallow: /pdf/
 Disallow: /ar/help/
 Disallow: /br/help/
 Disallow: /hk/help/
-Disallow: /kr/help/
 Disallow: /uy/help/
 Disallow: /xf/help/
 Disallow: /xl/help/

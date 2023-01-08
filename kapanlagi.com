@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /search
+Disallow: /infeed
 Disallow: /arsip
 Disallow: /ragam
 Disallow: /game

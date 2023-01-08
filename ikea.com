@@ -54,7 +54,6 @@ Disallow:  *bvrrp*
 Disallow: /retail/
 Disallow: *?krypto=*
 Disallow: */ideas/tags/
-Disallow: */search/
 Disallow:  *compare=*
 Disallow:  *krypto=*
 Disallow:  *max_price=*

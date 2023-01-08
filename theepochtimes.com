@@ -7,7 +7,7 @@ Disallow: /wp-content/plugins/*
 Disallow: /assets/plugins/*
 Disallow: /search/*
 Disallow: /feedback/*
-Disallow: /*?*
+Disallow: /*?q=*
 
 User-agent: Twitterbot
 Allow: /*?*utm_

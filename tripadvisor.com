@@ -704,7 +704,6 @@ Disallow: /RentalsSupport
 Disallow: /RentalWatchSignup
 Disallow: /ReportIAP
 Disallow: /ReportPost
-Disallow: /ReputationManagement
 Disallow: /ReputationManager
 Disallow: /ReservationAjax
 Disallow: /ResponsibleDisclosure
@@ -1585,7 +1584,6 @@ Disallow: /RentalsSupport
 Disallow: /RentalWatchSignup
 Disallow: /ReportIAP
 Disallow: /ReportPost
-Disallow: /ReputationManagement
 Disallow: /ReputationManager
 Disallow: /ReservationAjax
 Disallow: /ResponsibleDisclosure

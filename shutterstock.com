@@ -32,6 +32,7 @@ Disallow: /base/login
 Allow: */search/collections
 Allow: */editorial/collections
 Disallow: */collections
+Disallow: /image-generated/*
 
 Disallow: */search/ris/*
 Disallow: */search/models/*

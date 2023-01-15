@@ -1,10 +1,11 @@
 User-Agent: *
-Disallow: /pages/advertising
+Disallow: /authentications
 Disallow: /auth/
 Disallow: /pages/rules
-Disallow: /bookmarks
-
-Sitemap: https://tap.azstatic.com/uploads/attachment/sitemap_az.xml
+Disallow: /pages/advertising
+Disallow: /*bookmark
 
 User-agent: dotbot
 Crawl-delay: 10
+
+Sitemap: https://tap.azstatic.com/uploads/attachment/sitemap_az.xml

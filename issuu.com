@@ -1,4 +1,8 @@
 
+
+User-agent: PetalBot
+Disallow: /
+
 User-agent: *
 Disallow: /home$
 Disallow: /home/

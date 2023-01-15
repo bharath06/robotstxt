@@ -54,9 +54,6 @@ Disallow: /it/s/immagini/*
 Disallow: /it/stampa
 Disallow: /it/community
 
-# TEMP
-Disallow: /ko/*
-
 # Korean versions
 Disallow: /ko/account/*
 Disallow: /ko/s/%EC%BB%AC%EB%A0%89%EC%85%98/*

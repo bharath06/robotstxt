@@ -32,7 +32,6 @@ Disallow: /contribution/contest/index?
 Disallow: /edu
 Disallow: /courses
 Disallow: /components/
-Disallow: /contribution/
 Disallow: /send?
 Disallow: /profile/messages
 Disallow: /profile/manage/
@@ -42,5 +41,8 @@ Disallow: /tp/
 Disallow: /pro/
 Disallow: /user/auth/
 Disallow: /redirect/away
+Allow: /courses$
+Allow: /courses/blues-guitar$
+Disallow: /courses/section
 
 Sitemap: https://www.ultimate-guitar.com/sitemap.xml

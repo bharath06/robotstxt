@@ -92,6 +92,7 @@ Disallow: /forums/vbsearch.php
 Disallow: /image-pool/*
 Allow: /image-pool/sd-branding/
 Disallow: /landing/*
+Disallow: /landing-new/*
 Disallow: /login.php
 Disallow: /lp/*
 Disallow: /memberlist.php

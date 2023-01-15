@@ -43,6 +43,9 @@ Sitemap: https://www.booking.com/sitembk-district-index.xml
 Sitemap: https://www.booking.com/sitembk-flights-index.xml
 Sitemap: https://www.booking.com/sitembk-flights-priority-index.xml
 Sitemap: https://www.booking.com/sitembk-flights-country-index.xml
+Sitemap: https://www.booking.com/sitembk-flights-to-region-index.xml
+Sitemap: https://www.booking.com/sitembk-flights-to-city-index.xml
+Sitemap: https://www.booking.com/sitembk-flights-to-airport-index.xml
 Sitemap: https://www.booking.com/sitembk-fraud-index.xml
 Sitemap: https://www.booking.com/sitembk-hotel-index.xml
 Sitemap: https://www.booking.com/sitembk-hotel-review-index.xml

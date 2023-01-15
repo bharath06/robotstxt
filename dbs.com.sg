@@ -314,8 +314,12 @@ Disallow: /Contact/posb/deposits/sb-casa-personal-activation/default.page
 Disallow: /Contact/posb/deposits/sb-casa-personal-activation/complete.page
 Disallow: /personal/insurance/accident-health/personal-accident-plans/work-anywhere-protect
 Disallow: /Contact/posb/deposits/posbkids/default.page
+Disallow: /personal/insurance/endowment-with-protection/wealth-accumulation-plans/manulife-smartwealth-ii
 Disallow: /personal/*common-disclaimer.page?url=
+Disallow: /treasures/market-outlook
 Disallow: /personal/community/*user
+
+
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

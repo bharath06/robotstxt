@@ -16,3 +16,8 @@ Disallow: /admin
 Disallow: /log
 Disallow: /upload
 Disallow: /index.php
+Disallow: /search
+Disallow: /search.htm
+Disallow: /api
+Disallow: /uc-assert
+Disallow: /ugc_nuxt

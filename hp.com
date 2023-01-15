@@ -56,7 +56,7 @@ Disallow: /us-en/shop/*/OrderShippingBillingView*
 Disallow: /us-en/shop/*rderCalculate*
 Disallow: /us-en/shop/*/private-stores*
 Disallow: /us-en/shop/accessoryattachview/
-Disallow: /us-en/shop/ajaxorderitemdisplayview*
+Disallow: /us-en/shop/*jax*rder*tem*isplay*iew*
 Disallow: /us-en/shop/myaccountformview
 Disallow: /us-en/shop/managemydevicesview
 Disallow: /us-en/shop/myordersview
@@ -67,6 +67,8 @@ Disallow: /us-en/shop/sendemailview
 Disallow: /us-en/shop/topcategoriesdisplay
 Disallow: /us-en/shop/userregistrationform
 Disallow: /us-en/shop/userregistrationadd
+Disallow: /webapp/wcs/stores/servlet/OrderStatusFinalResultView
+Disallow: /us-en/shop/OrderStatusFinalResultView?*
 
 User-agent: AdsBot-Google
 Allow: /

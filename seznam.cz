@@ -6,7 +6,6 @@ Disallow: /profil/*/sledujicich
 Disallow: /firma/*
 Disallow: /tv
 Disallow: /r/
-Disallow: /reklamnipozice/*
 Disallow: /hobby/hledani
 Disallow: /prozeny/hledani
 Disallow: /horoskopy/hledani
@@ -20,7 +19,6 @@ Disallow: /profil/*/sledujicich
 Disallow: /firma/*
 Disallow: /tv
 Disallow: /r/
-Disallow: /reklamnipozice/*
 Disallow: /hobby/hledani
 Disallow: /prozeny/hledani
 Disallow: /horoskopy/hledani
@@ -29,7 +27,6 @@ Disallow: /magazin/hledani
 User-agent: SeznamSocialBot
 Disallow: /tv
 Disallow: /r/
-Disallow: /reklamnipozice/*
 Disallow: /hobby/hledani
 Disallow: /prozeny/hledani
 Disallow: /horoskopy/hledani
@@ -38,7 +35,6 @@ Disallow: /magazin/hledani
 User-agent: Twitterbot
 Disallow: /tv
 Disallow: /r/
-Disallow: /reklamnipozice/*
 Disallow: /hobby/hledani
 Disallow: /prozeny/hledani
 Disallow: /horoskopy/hledani

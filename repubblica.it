@@ -8,6 +8,7 @@ Disallow: 		/topics/*?p=
 Disallow: 		/swf 
 Disallow: 		/static/__sdemo__/ 
 Disallow: 		/quotidiano 
+Disallow: 		/politica/2021/04/16/news/verona_andrea_bacciga_lega_presidente_commissione_sicurezza-296716275 
 Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il_posto_e_costera_all_erario_mezzo_milione_di_euro[1]156371739/ 
 Disallow: 		/persone/2012/06/10/foto/elio_di_rupo_un_bacio_da_ricordare-36910176 
 Disallow: 		/online3 
@@ -25,8 +26,12 @@ Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/* 
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
-Disallow: 		/economia/finanza/2012/01/28/news/micalizzi_condannato_a_sei_anni_il_madoff_della_bocconi-217673643/ 
+Disallow: 		/economia/finanza/2013/01/31/news/la_difesa_di_gotti_tedeschi_santander_non_ha_segreti-51637119/ 
+Disallow: 		/economia/finanza/2012/07/11/news/cremonini_non_c_era_insider_il_tar_annulla_le_sanzioni_consob-38900725/  
+Disallow: 		/economia/2013/02/10/news/montepaschi_la_procura_convoca_botin_ma_mister_santander_non_risponde-52312227/ 
+Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
+Disallow: 		/cronaca/2022/04/07/news/reggio_calabria_lauree_finte_10_arresti_e_sequestri_per_32_milioni_di_euro-344483170/ 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 

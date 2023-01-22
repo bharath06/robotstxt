@@ -136,6 +136,8 @@ Disallow: /*/*/photos/private
 Disallow: /language/*?*hd=1*
 Disallow: /language/*?*p=*
 Disallow: /language/*?*promo=*
+Disallow: */oauth2*
+Disallow: */gif/view*
 
 Allow: *video*search=*o=mr$
 Allow: /model/*/videos*

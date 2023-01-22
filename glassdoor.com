@@ -151,6 +151,8 @@ Allow: /Salaries/*_IP3.htm*
 Allow: /Salaries/*_IP4.htm*
 Allow: /Salaries/*_IP5.htm*
 
+# WF-709 Blocking diversity culture pages during A/B test
+Disallow: /Culture/*
 
 # Blocking bots from crawling DoubleClick for Publisher and Google Analytics related URL's (which aren't real URL's)
 Disallow: /1060761/*

@@ -65,6 +65,8 @@ Disallow: /biz_update
 Disallow: /bookmark?
 Disallow: /browse/reviews/recent
 Disallow: /client_errors
+Disallow: /collections/following
+Disallow: /collections/user
 Disallow: /csp_block
 Disallow: /csp_report_only
 Disallow: /elite?

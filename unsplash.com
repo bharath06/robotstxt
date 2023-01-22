@@ -63,9 +63,6 @@ Disallow: /ko/s/%EC%8B%9C%EA%B0%81-%EC%9E%90%EB%A3%8C/*
 Disallow: /ko/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C
 Disallow: /ko/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0
 
-# TEMP
-Disallow: /pt-BR/*
-
 # Portuguese (Brazil) versions
 Disallow: /pt-BR/account/*
 Disallow: /pt-BR/s/cole%C3%A7%C3%B5es/*

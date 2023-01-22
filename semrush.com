@@ -73,8 +73,6 @@ Disallow: /projects2/*
 Allow: /blog/*
 Disallow: /blog/search/*
 Disallow: /blog/*utm_source=*
-Disallow: /my-posts/*
-Allow: /my-posts/about/
 Disallow: /blog-manager/*
 Allow: /user/*
 Allow: /ebooks/*
@@ -115,9 +113,17 @@ Disallow: /*/?*
 Crawl-delay: 20
 
 # Sitemap files
+#Blog
 Sitemap: https://www.semrush.com/sitemap.xml
 Sitemap: https://pt.semrush.com/blog/sitemap/
 Sitemap: https://es.semrush.com/blog/sitemap/
 Sitemap: https://it.semrush.com/blog/sitemap/
 Sitemap: https://fr.semrush.com/blog/sitemap/
 Sitemap: https://de.semrush.com/blog/sitemap/
+#Academy
+Sitemap: https://www.semrush.com/academy/sitemap.xml
+Sitemap: https://es.semrush.com/academy/sitemap.xml
+Sitemap: https://pt.semrush.com/academy/sitemap.xml
+Sitemap: https://it.semrush.com/academy/sitemap.xml
+Sitemap: https://fr.semrush.com/academy/sitemap.xml
+Sitemap: https://de.semrush.com/academy/sitemap.xml

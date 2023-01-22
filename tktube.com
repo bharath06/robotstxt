@@ -23,3 +23,4 @@ Disallow: /captcha/*
 Disallow: /link/*
 Disallow: /related_videos_html/*
 Disallow: /embed/*
+Disallow: /get_file/*

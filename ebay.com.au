@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v16.4_AU_December_2022
+# v17.0_AU_January_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -28,6 +28,7 @@ Disallow: /afs/
 Disallow: /act/
 Allow: /ads.txt
 Disallow: /ads
+Disallow: /adsrepository
 Disallow: /atc/
 Allow: /b/*?*_mwBanner
 Disallow: /b/*?*_nkw
@@ -64,6 +65,7 @@ Disallow: /brw/
 Disallow: /cancel/
 Disallow: /clp/
 Disallow: /clt/store/
+Disallow: /cnt/
 Disallow: /contact/
 Disallow: /csc/
 Disallow: /cta/
@@ -161,7 +163,7 @@ Disallow: /sndmsg?
 Disallow: /soc/
 Disallow: /splashui/
 Disallow: /splashui_rc/
-Disallow: /srv/app/v2/
+Disallow: /srv/
 Disallow: /str/*_sacat
 Disallow: /str/*modules=STORE_CATEGORIES
 Disallow: /str/ssdemo
@@ -184,6 +186,7 @@ Disallow: /vlt
 Disallow: /vplbl/
 Disallow: /vod/
 Disallow: /vsp/
+Disallow: /.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
 Disallow: /ws/
 
 User-agent: bingbot
@@ -199,6 +202,7 @@ Disallow: /afs/
 Disallow: /act/
 Allow: /ads.txt
 Disallow: /ads
+Disallow: /adsrepository
 Disallow: /atc/
 Allow: /b/*?*_mwBanner
 Disallow: /b/*?*_nkw
@@ -235,6 +239,7 @@ Disallow: /brw/
 Disallow: /cancel/
 Disallow: /clp/
 Disallow: /clt/store/
+Disallow: /cnt/
 Disallow: /contact/
 Disallow: /csc/
 Disallow: /cta/
@@ -332,7 +337,7 @@ Disallow: /sndmsg?
 Disallow: /soc/
 Disallow: /splashui/
 Disallow: /splashui_rc/
-Disallow: /srv/app/v2/
+Disallow: /srv/
 Disallow: /str/*_sacat
 Disallow: /str/*modules=STORE_CATEGORIES
 Disallow: /str/ssdemo
@@ -354,16 +359,21 @@ Disallow: /vlt
 Disallow: /vplbl/
 Disallow: /vod/
 Disallow: /vsp/
+Disallow: /.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
 Disallow: /ws/
 
 User-agent: AdsBot-Google
 Disallow: /*src=urllib
+Disallow: /srv/
+
 
 User-agent: AdsBot-AdIdxBot
 Disallow: /*src=urllib
+Disallow: /srv/
 
 User-agent: Twitterbot
 Disallow: /*src=urllib
+Disallow: /srv/
 
 
 # PRP Sitemaps

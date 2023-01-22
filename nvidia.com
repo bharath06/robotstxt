@@ -26,11 +26,24 @@
 # Or check out our YouTube channel for our latest
 # https://www.youtube.com/user/nvidia
 #
-# Last updated 15 Dec 2022 by LC
+# Last updated 19 Jan 2023 by LC
 
 sitemap: https://www.nvidia.com/content/dam/sitemaps/sitemap_index.xml
 
 User-agent: *
+
+# Gated Content
+Disallow: /content/g/*
+Disallow: /content/gated-pdfs/*
+Disallow: /content/*/gated-resources/*
+Disallow: /content/*/gated-pdfs/*
+Disallow: /gated-resources/*
+
+# GF Forums
+Disallow: /*?topicPage=
+Disallow: /*&topicPage=
+Disallow: /*?commentPage=
+Disallow: /*&commentPage=
 
 Disallow: /admin/
 
@@ -40,27 +53,17 @@ Disallow: /content/experience-fragments/*
 
 Disallow: /content/forms/
 
-Disallow: /content/g/*
-
-Disallow: /content/gated-pdfs/*
-
-Disallow: /content/*/gated-resources/
-
-Disallow: /content/*/gated-pdfs/
-
 Disallow: /content/license/driver_license.aspx
 
-Disallow: /content/nvidiaGDC/
+Disallow: /content/nvidiaGDC/*
 
 Disallow: /content/temp/*
 
 Disallow: /ddl2*
 
-Disallow: /email-verify/
+Disallow: /email-verify/*
 
-Disallow: /forms/
-
-Disallow: /gated-resources/*
+Disallow: /forms/*
 
 Disallow: /geforce/release-notes/GFE/Rich/*
 
@@ -78,28 +81,45 @@ Disallow: /props/
 
 Disallow: /*.swf$
 
-Disallow: /?commentpage*
+# Parameters
 
-Disallow: /eid?
+Disallow: /*eid?
 
-Disallow: /?ncid*
+Disallow: /*?cid*
+Disallow: /*&cid*
 
-Disallow: /?nvid*
+Disallow: /*?ncid*
+Disallow: /*&ncid*
 
-Disallow: /?link*
+Disallow: /*?nvid*
+Disallow: /*&nvid*
 
-Disallow: /?lx*
+Disallow: /*?link*
+Disallow: /*&link*
 
-Disallow: /?nv_excludes*
+Disallow: /*?lx*
+Disallow: /*&lx*
 
-Disallow: /?jso*
+Disallow: /*?nv_excludes*
+Disallow: /*&nv_excludes*
 
-Disallow: /?page*
+Disallow: /*?jso*
+Disallow: /*&jso*
 
-Disallow: /?topicpage*
+Disallow: /*?page*
+Disallow: /*&page*
 
-Disallow: /utm*
+Disallow: /*?search*
+Disallow: /*&search*
+
+Disallow: /*?section*
+Disallow: /*&section*
+
+Disallow: /*?topicpage*
+Disallow: /*&topicpage*
+
+Disallow: /*?utm*
+Disallow: /*&utm*
 
 User-agent: NvidiaCrawler
-
 Disallow: /on-demand/session/*

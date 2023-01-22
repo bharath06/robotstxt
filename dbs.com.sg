@@ -317,8 +317,11 @@ Disallow: /Contact/posb/deposits/posbkids/default.page
 Disallow: /personal/insurance/endowment-with-protection/wealth-accumulation-plans/manulife-smartwealth-ii
 Disallow: /personal/*common-disclaimer.page?url=
 Disallow: /treasures/market-outlook
+Disallow: /Contact/posb/deposits/sb-casa-joint/default.page
+Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffcashgiftpromo/dbs-staff-cashgift-promo-2023-tnc.pdf
+Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-faq.pdf
+Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-tnc.pdf
 Disallow: /personal/community/*user
-
 
 
 # URL Masking Details

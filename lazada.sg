@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /reviews/
 Disallow: /checkout/
 Disallow: /customer/
 Disallow: /cart/

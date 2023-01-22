@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v16.4_COM_December_2022
+# v17.0_COM_January_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -26,16 +26,20 @@ Disallow: /*rt=nc
 Disallow: /*src=urllib
 Disallow: /act/
 Disallow: /ads
+Disallow: /adsrepository
 Disallow: /afs/
 Disallow: /atc/
-Disallow: /antika-sanat/
-Disallow: /bebek-anne/
-Disallow: /bilgisayar-tablet/
-Disallow: /cep-telefonu-ve-aksesuar/
-Disallow: /ev-bahce/
-Disallow: /giyim-aksesuar/
-Disallow: /muzik-plak-enstruman/
-Disallow: /otomobil-motor-aksesuar/
+Disallow: /adell-mutfak
+Disallow: /ahu-kadin
+Disallow: /antika-sanat
+Disallow: /arama
+Disallow: /bebek-anne
+Disallow: /bilgisayar-tablet
+Disallow: /cep-telefonu-ve-aksesuar
+Disallow: /ev-bahce
+Disallow: /giyim-aksesuar
+Disallow: /muzik-plak-enstruman
+Disallow: /otomobil-motor-aksesuar
 Allow: /ads.txt
 Allow: /b/adidas-Yeezy-Sneakers-for-Men/15709/bn_86578781?*_trkparms=*pageci:*|parentrq:*iid:0
 Allow: /b/Collectible-Sneakers/bn_7000259435?*_trkparms=*pageci:*|parentrq:*iid:0
@@ -84,6 +88,7 @@ Disallow: /cancel/
 Disallow: /chocolatechip/experience/v1/module_provider
 Disallow: /clp/
 Disallow: /clt/store/
+Disallow: /cnt/
 Disallow: /contact/
 Disallow: /csc/
 Disallow: /cta/
@@ -188,7 +193,7 @@ Disallow: /sndmsg?
 Disallow: /soc/
 Disallow: /splashui/
 Disallow: /splashui_rc/
-Disallow: /srv/app/v2/
+Disallow: /srv/
 Disallow: /str/*_sacat
 Disallow: /str/*modules=STORE_CATEGORIES
 Disallow: /str/ssdemo
@@ -212,6 +217,7 @@ Disallow: /vlt
 Disallow: /vod/
 Disallow: /vplbl/
 Disallow: /vsp/
+Disallow: /.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
 Disallow: /ws/
 
 User-agent: bingbot
@@ -226,6 +232,7 @@ Disallow: /*src=urllib
 Disallow: /act/
 Allow: /ads.txt
 Disallow: /ads
+Disallow: /adsrepository
 Disallow: /afs/
 Disallow: /atc/
 Allow: /b/adidas-Yeezy-Sneakers-for-Men/15709/bn_86578781?*_trkparms=*pageci:*|parentrq:*iid:0
@@ -276,6 +283,7 @@ Disallow: /chocolatechip/experience/v1/module_provider
 Disallow: /clp/
 Disallow: /clt/store/
 Disallow: /contact/
+Disallow: /cnt/
 Disallow: /csc/
 Disallow: /cta/
 Disallow: /ctg/
@@ -376,7 +384,7 @@ Disallow: /sndmsg?
 Disallow: /soc/
 Disallow: /splashui/
 Disallow: /splashui_rc/
-Disallow: /srv/app/v2/
+Disallow: /srv/
 Disallow: /str/*_sacat
 Disallow: /str/*modules=STORE_CATEGORIES
 Disallow: /str/ssdemo
@@ -399,24 +407,31 @@ Disallow: /vlt
 Disallow: /vod/
 Disallow: /vplbl/
 Disallow: /vsp/
+Disallow: /.well-known/resource-that-should-not-exist-whose-status-code-should-not-be-200
 Disallow: /ws/
 
 User-agent: AdsBot-Google
 Disallow: /*src=urllib
-Disallow: /antika-sanat/
-Disallow: /bebek-anne/
-Disallow: /bilgisayar-tablet/
-Disallow: /cep-telefonu-ve-aksesuar/
-Disallow: /ev-bahce/
-Disallow: /giyim-aksesuar/
-Disallow: /muzik-plak-enstruman/
-Disallow: /otomobil-motor-aksesuar/
+Disallow: /adell-mutfak
+Disallow: /ahu-kadin
+Disallow: /antika-sanat
+Disallow: /arama
+Disallow: /bebek-anne
+Disallow: /bilgisayar-tablet
+Disallow: /cep-telefonu-ve-aksesuar
+Disallow: /ev-bahce
+Disallow: /giyim-aksesuar
+Disallow: /muzik-plak-enstruman
+Disallow: /otomobil-motor-aksesuar
+Disallow: /srv/
 
 User-agent: AdsBot-AdIdxBot
 Disallow: /*src=urllib
+Disallow: /srv/
 
 User-agent: Twitterbot
 Disallow: /*src=urllib
+Disallow: /srv/
 
 
 # PRP Sitemaps

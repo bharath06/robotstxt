@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
 Allow: /talksafety
-#DaumWebMasterTool:947dc85810eb55639014af0b24fd1e6d37bca12ace1c5c3c60c65f44a252e98d:lP2zy1L0Uz3+lHvVX6EjMA==
+#DaumWebMasterTool:304ca878dc1927c35e02c556711dfe6bf2b1268ef83a2c7256894748348f0f08:QMxhLVeb6Swt8hrGequ+nQ==

@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /?*
+Disallow: /player/*
 Disallow: /playlist/*
 Disallow: /download/*
 Disallow: /contact

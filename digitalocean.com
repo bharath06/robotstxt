@@ -1,5 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /api/*
 
 Sitemap: https://www.digitalocean.com/sitemaps/community-tutorial-collections-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/community-tutorials-0.xml.gz
@@ -30,4 +30,7 @@ Sitemap: https://www.digitalocean.com/sitemaps/blog-authors-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/blog-tags-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/indexes-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/diversity-0.xml.gz
+Sitemap: https://www.digitalocean.com/sitemaps/hatch-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/open-source-0.xml.gz
+Sitemap: https://www.digitalocean.com/sitemaps/partners-0.xml.gz
+Sitemap: https://www.digitalocean.com/sitemaps/press-0.xml.gz

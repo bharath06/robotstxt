@@ -27,7 +27,7 @@ Allow: /research/$
 Disallow: /pro/
 Allow: /pro/$
 Allow: /pro/assets/
-Allow: /pro/ideas/
+Allow: /pro/ideas
 
 Disallow: /news/pro/
 Allow: /news/pro/$

@@ -1,8 +1,4 @@
 User-agent: *
-Disallow: /i/
-Disallow: /m/
-Disallow: *?fEr[0]=*
+Allow: /
 
-User-agent: Googlebot-Mobile
-Allow: /m/
-Disallow: *
+Sitemap: https://wykop.pl/sitemap.xml

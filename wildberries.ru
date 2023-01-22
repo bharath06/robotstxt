@@ -28,7 +28,7 @@ Disallow: /*w_detail.aspx
 Disallow: /*m_detail.aspx
 Disallow: /*details.aspx
 Disallow: /*brands.aspx
-Disallow: /*_About.aspx
+Disallow: /*_about
 Disallow: /*ClientInfo.aspx
 Disallow: /%5C
 Disallow: /services/proverka-sovmestimosti
@@ -67,7 +67,7 @@ Disallow: /*w_detail.aspx
 Disallow: /*m_detail.aspx
 Disallow: /*details.aspx
 Disallow: /*brands.aspx
-Disallow: /*_About.aspx
+Disallow: /*_about
 Disallow: /*ClientInfo.aspx
 Disallow: /%5C
 Disallow: /services/proverka-sovmestimosti

@@ -18,6 +18,8 @@ Disallow: /partner/
 Disallow: /reuters$
 Disallow: /reviews/out?
 Disallow: /s?
+Disallow: /guides/s?
+Disallow: /personal-finance/s?
 Disallow: /search$
 Disallow: /track.gif
 Disallow: /uk$

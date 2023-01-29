@@ -22,23 +22,19 @@ Allow: /blogs$
 Allow: /blogs/$
 Allow: /blogs/pad/$
 Allow: /blogs/pad$
-
 Disallow: /bus/orders*
 Disallow: /bus/api/*
-
 Disallow: /MAPS/
 Disallow: /MaPS/
 Disallow: /MapS/
 Disallow: /Maps/
 Disallow: /mApS/
-
 Disallow: /catalog/?text=
 Disallow: /chat
 Disallow: /cgi-bin/
 Disallow: /cgi/
 Disallow: /chisla.html
 Disallow: /clck
-
 Disallow: /collections/feed
 Disallow: /collections/search/
 Disallow: /collections/*/search/*
@@ -49,22 +45,14 @@ Disallow: /collections/share
 Disallow: /collections/favorites
 Disallow: /collections/embed
 Disallow: /collections/picture/
-
 Disallow: /company/*.rss
 Disallow: /company/search
-
 Disallow: /comments/*
-
 Disallow: /courier
-
 Disallow: /conflagexp
 Disallow: /cy
 Disallow: /cycounter
 Disallow: /dzen
-Disallow: /edu/ping
-Disallow: /edu/tasks
-Disallow: /edu/teachers
-Disallow: /edu/test
 Disallow: /experiments.xml
 Disallow: /efir
 Disallow: /formfeedback
@@ -76,7 +64,6 @@ Disallow: /images-data
 Disallow: /images.html
 Disallow: /images/*
 Disallow: /images-apphost/*
-
 Allow: /images/$
 Allow: /images/smart/$
 Allow: /images/touch/$
@@ -87,7 +74,6 @@ Allow: /images/touch/search?text=*&source=morda*
 Allow: /images/touch/search?rpt=imageview
 Allow: /images/pad/search?text=*&source=morda*
 Allow: /images/pad/search?rpt=imageview
-
 Disallow: /index_m
 Disallow: /infected
 Disallow: /iznanka/
@@ -95,12 +81,9 @@ Disallow: /jobs/skill-diagnostic/private/*
 Disallow: /keyboard_qwerty.html
 Disallow: /logotypes
 Disallow: /business/widget
-
 Disallow: /local/
-
 Disallow: /more_samples
 Disallow: /msearch
-Disallow: /msearchpart
 Disallow: /map-constructor/loader*
 Disallow: /maps/-/*
 Disallow: /maps/print/*
@@ -110,9 +93,7 @@ Allow: /maps/*?lang=kk$
 Allow: /maps/*?lang=uz$
 Disallow: /nmaps/*?
 Disallow: /mapeditor/*?
-
 Disallow: /metro/*?from
-
 Disallow: /norobot
 Disallow: /opensearch.xml
 Disallow: /padsearch
@@ -126,18 +107,14 @@ Disallow: /pogoda/search
 Disallow: /pogoda/404
 Disallow: /pogoda/*?*lat=*&*lon=*
 Disallow: /pogoda/*?*lon=*&*lat=*
-
 Disallow: /polling
 Disallow: /poll/
 Disallow: /prefetch
 Disallow: /promo/*goodbye*
 Disallow: /promo/diskelement
 Disallow: /promo/launcher/mgoodbye/*
-Disallow: /promo/skype*?*
-Disallow: /promo/skype/*/*
 Disallow: /promo/*welcome*
 Disallow: /promo/yobject/changelog*
-
 Disallow: /q/profile/*/answers
 Disallow: /q/profile/*/questions
 Disallow: /q/profile/*/verifies
@@ -150,7 +127,6 @@ Disallow: /q/user/*/verifies
 Disallow: /q/user/*/articles
 Disallow: /q/user/*/subscribers
 Disallow: /q/user/*/org_answers
-
 Disallow: /soft/bm/goodbye
 Disallow: /soft/chrome/ext-install/*
 Disallow: /soft/chrome/searchline-install/*
@@ -181,7 +157,6 @@ Disallow: /storeclick
 Disallow: /storerequest
 Disallow: /subscribe/confirm.pl
 Disallow: /subscribe/view.pl
-
 Allow: /support/
 Disallow: /support/direct-images
 Disallow: /support/direct-tooltips
@@ -196,7 +171,6 @@ Disallow: /support/*zout_
 Disallow: /support/search-results/
 Disallow: /support/praktikum/flow.html
 Disallow: /support/praktikum-english/
-
 Disallow: /talk/create
 Disallow: /talk/api
 Disallow: /talk/user/*/article
@@ -207,25 +181,20 @@ Disallow: /themes
 Disallow: /toggle-experiment
 Disallow: /touchsearch
 Disallow: /tune*retpath=
-
 Allow: /ugcpub/
 Disallow: /ugcpub/cabinet
-
 Disallow: /v$
 Disallow: /viewconfig$
 Disallow: /video/v$
 Disallow: /video/viewconfig$
 Disallow: /images/v$
 Disallow: /images/viewconfig$
-
 Allow: /uslugi/*
 Disallow: /uslugi/cab
 Disallow: /uslugi/*/category/doctors/
-
 Allow: /tutor
 Disallow: /tutor/admin
 Disallow: /tutor/search/problems
-
 Disallow: /versions
 Disallow: /video/*
 Disallow: /video/*filmId=*
@@ -244,7 +213,6 @@ Allow: /video/yabanci-dizi-izle/
 Allow: /video/touch/
 Allow: /video/pad/
 Disallow: /xmlsearch
-
 Disallow: /yaca
 Allow: /yaca/$
 Allow: /yaca/m/$
@@ -259,7 +227,6 @@ Disallow: /yaca/cat/*/geo/*
 Disallow: /yaca/*/synt2/
 Disallow: /yandsearch
 Disallow: /yca/cy
-
 Disallow: /soft/distribution
 Disallow: /soft/?*
 Disallow: /promo/launcher/?*
@@ -273,26 +240,23 @@ Disallow: /element/?*
 Disallow: /element/*goodbye*
 Disallow: /soft/*goodbye*
 Disallow: /adult
-
 Disallow: /sport*?*parent-reqid*
 Disallow: /mirror*?*parent-reqid*
 Disallow: /turbo*?*parent-reqid*
 Disallow: /mirror/hide
-
 Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
-
 Disallow: /addappterless
 Disallow: /archive
-
+Allow: /archive$
 Allow: /video/search?text=video$
-
 Disallow: /all?
-
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
-
+Disallow: /familysearch
+Disallow: /schoolsearch
+Disallow: /yandpage
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
 Sitemap: https://yandex.ru/blog/sitemap.xml
@@ -309,38 +273,7 @@ Sitemap: https://yandex.ru/q/sitemap/sitemap-index.xml
 Sitemap: https://yandex.ru/efir/sitemap.xml
 Sitemap: https://yandex.ru/images/sitemap.xml
 
-User-Agent: Twitterbot
-Allow: /images
-Allow: /gorsel
-Allow: /video
-Allow: /collections/picture/
-Disallow: /adult
-Allow: /ugcpub/
-Disallow: /ugcpub/cabinet
-
-Disallow: /addappterless
-Disallow: /archive
-
-Disallow: /games/*?*reqId*
-Disallow: /games/*?*pageId*
-
-Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
-Sitemap: https://yandex.ru/support/sitemap.xml
-Sitemap: https://yandex.ru/blog/sitemap.xml
-Sitemap: https://yandex.ru/znatoki/sitemap/sitemap-index.xml
-Sitemap: https://frontend.s3.yandex.net/health/sitemap.xml
-Sitemap: https://yandex.ru/talk/sitemap.xml
-Sitemap: https://yandex.ru/uslugi/sitemap/sitemap.xml.gz
-Sitemap: https://yandex.ru/turbo/public/sitemap.xml
-Sitemap: https://yandex.ru/tutor/sitemap/?sitemap=sitemap.xml
-Sitemap: https://yandex.ru/turbo/talk-sitemap-index.xml
-Sitemap: https://yandex.ru/patents/sitemap/sitemap.xml
-Sitemap: https://yandex.ru/games/sitemaps/sitemap.index.xml
-Sitemap: https://yandex.ru/q/sitemap/sitemap-index.xml
-Sitemap: https://yandex.ru/efir/sitemap.xml
-Sitemap: https://yandex.ru/images/sitemap.xml
-
-User-agent: Applebot
+User-agent: Bingbot
 Disallow: /?
 Disallow: /403.html
 Disallow: /404.html
@@ -363,17 +296,19 @@ Allow: /blogs$
 Allow: /blogs/$
 Allow: /blogs/pad/$
 Allow: /blogs/pad$
-
 Disallow: /bus/orders*
 Disallow: /bus/api/*
-
+Disallow: /MAPS/
+Disallow: /MaPS/
+Disallow: /MapS/
+Disallow: /Maps/
+Disallow: /mApS/
 Disallow: /catalog/?text=
 Disallow: /chat
 Disallow: /cgi-bin/
 Disallow: /cgi/
 Disallow: /chisla.html
 Disallow: /clck
-
 Disallow: /collections/feed
 Disallow: /collections/search/
 Disallow: /collections/*/search/*
@@ -384,22 +319,14 @@ Disallow: /collections/share
 Disallow: /collections/favorites
 Disallow: /collections/embed
 Disallow: /collections/picture/
-
 Disallow: /company/*.rss
 Disallow: /company/search
-
 Disallow: /comments/*
-
 Disallow: /courier
-
 Disallow: /conflagexp
 Disallow: /cy
 Disallow: /cycounter
 Disallow: /dzen
-Disallow: /edu/ping
-Disallow: /edu/tasks
-Disallow: /edu/teachers
-Disallow: /edu/test
 Disallow: /experiments.xml
 Disallow: /efir
 Disallow: /formfeedback
@@ -410,6 +337,7 @@ Disallow: /i/
 Disallow: /images-data
 Disallow: /images.html
 Disallow: /images/*
+Disallow: /images-apphost/*
 Allow: /images/$
 Allow: /images/smart/$
 Allow: /images/touch/$
@@ -420,26 +348,26 @@ Allow: /images/touch/search?text=*&source=morda*
 Allow: /images/touch/search?rpt=imageview
 Allow: /images/pad/search?text=*&source=morda*
 Allow: /images/pad/search?rpt=imageview
-
 Disallow: /index_m
 Disallow: /infected
 Disallow: /iznanka/
 Disallow: /jobs/skill-diagnostic/private/*
 Disallow: /keyboard_qwerty.html
-
-Disallow: /local/
-
 Disallow: /logotypes
-Disallow: /map-constructor/loader*
+Disallow: /business/widget
+Disallow: /local/
 Disallow: /more_samples
 Disallow: /msearch
-Disallow: /msearchpart
+Disallow: /map-constructor/loader*
+Disallow: /maps/-/*
+Disallow: /maps/print/*
+Allow: /maps/*?lang=ru$
+Allow: /maps/*?lang=uk$
+Allow: /maps/*?lang=kk$
+Allow: /maps/*?lang=uz$
 Disallow: /nmaps/*?
-Allow: /maps/org/
 Disallow: /mapeditor/*?
-
 Disallow: /metro/*?from
-
 Disallow: /norobot
 Disallow: /opensearch.xml
 Disallow: /padsearch
@@ -453,17 +381,14 @@ Disallow: /pogoda/search
 Disallow: /pogoda/404
 Disallow: /pogoda/*?*lat=*&*lon=*
 Disallow: /pogoda/*?*lon=*&*lat=*
-
 Disallow: /polling
 Disallow: /poll/
+Disallow: /prefetch
 Disallow: /promo/*goodbye*
 Disallow: /promo/diskelement
 Disallow: /promo/launcher/mgoodbye/*
-Disallow: /promo/skype*?*
-Disallow: /promo/skype/*/*
 Disallow: /promo/*welcome*
 Disallow: /promo/yobject/changelog*
-
 Disallow: /q/profile/*/answers
 Disallow: /q/profile/*/questions
 Disallow: /q/profile/*/verifies
@@ -476,7 +401,6 @@ Disallow: /q/user/*/verifies
 Disallow: /q/user/*/articles
 Disallow: /q/user/*/subscribers
 Disallow: /q/user/*/org_answers
-
 Disallow: /soft/bm/goodbye
 Disallow: /soft/chrome/ext-install/*
 Disallow: /soft/chrome/searchline-install/*
@@ -496,7 +420,6 @@ Disallow: /save
 Disallow: /safety/?*
 Disallow: /search
 Allow: /search/entity/touch/
-Disallow: /set/
 Disallow: /setup
 Disallow: /showcaptcha
 Disallow: /sitesearch
@@ -508,7 +431,6 @@ Disallow: /storeclick
 Disallow: /storerequest
 Disallow: /subscribe/confirm.pl
 Disallow: /subscribe/view.pl
-
 Allow: /support/
 Disallow: /support/direct-images
 Disallow: /support/direct-tooltips
@@ -523,7 +445,6 @@ Disallow: /support/*zout_
 Disallow: /support/search-results/
 Disallow: /support/praktikum/flow.html
 Disallow: /support/praktikum-english/
-
 Disallow: /talk/create
 Disallow: /talk/api
 Disallow: /talk/user/*/article
@@ -534,27 +455,27 @@ Disallow: /themes
 Disallow: /toggle-experiment
 Disallow: /touchsearch
 Disallow: /tune*retpath=
-
-Allow: /tutor
-Disallow: /tutor/admin
-
 Allow: /ugcpub/
 Disallow: /ugcpub/cabinet
-
 Disallow: /v$
 Disallow: /viewconfig$
 Disallow: /video/v$
 Disallow: /video/viewconfig$
 Disallow: /images/v$
 Disallow: /images/viewconfig$
-
 Allow: /uslugi/*
 Disallow: /uslugi/cab
 Disallow: /uslugi/*/category/doctors/
-
+Allow: /tutor
+Disallow: /tutor/admin
+Disallow: /tutor/search/problems
 Disallow: /versions
 Disallow: /video/*
 Disallow: /video/*filmId=*
+Disallow: /video/search
+Disallow: /video/preview
+Disallow: /video/*/search
+Disallow: /video/*/preview
 Allow: /video/$
 Allow: /video/?
 Allow: /video/sitemap
@@ -566,7 +487,6 @@ Allow: /video/yabanci-dizi-izle/
 Allow: /video/touch/
 Allow: /video/pad/
 Disallow: /xmlsearch
-
 Disallow: /yaca
 Allow: /yaca/$
 Allow: /yaca/m/$
@@ -581,7 +501,6 @@ Disallow: /yaca/cat/*/geo/*
 Disallow: /yaca/*/synt2/
 Disallow: /yandsearch
 Disallow: /yca/cy
-
 Disallow: /soft/distribution
 Disallow: /soft/?*
 Disallow: /promo/launcher/?*
@@ -595,28 +514,24 @@ Disallow: /element/?*
 Disallow: /element/*goodbye*
 Disallow: /soft/*goodbye*
 Disallow: /adult
-
+Disallow: /sport*?*parent-reqid*
+Disallow: /mirror*?*parent-reqid*
+Disallow: /turbo*?*parent-reqid*
+Disallow: /mirror/hide
+Disallow: /turbo*?*ajax=1*
+Disallow: /sport*?*ajax=1*
+Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
 Disallow: /archive
-
+Allow: /archive$
+Allow: /video/search?text=video$
+Disallow: /all?
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
-
-Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
-Sitemap: https://yandex.ru/support/sitemap.xml
-Sitemap: https://yandex.ru/blog/sitemap.xml
-Sitemap: https://yandex.ru/znatoki/sitemap/sitemap-index.xml
-Sitemap: https://frontend.s3.yandex.net/health/sitemap.xml
-Sitemap: https://yandex.ru/talk/sitemap.xml
-Sitemap: https://yandex.ru/uslugi/sitemap/sitemap.xml.gz
-Sitemap: https://yandex.ru/turbo/public/sitemap.xml
-Sitemap: https://yandex.ru/tutor/sitemap/?sitemap=sitemap.xml
-Sitemap: https://yandex.ru/turbo/talk-sitemap-index.xml
-Sitemap: https://yandex.ru/patents/sitemap/sitemap.xml
-Sitemap: https://yandex.ru/games/sitemaps/sitemap.index.xml
-Sitemap: https://yandex.ru/q/sitemap/sitemap-index.xml
-Sitemap: https://yandex.ru/efir/sitemap.xml
-Sitemap: https://yandex.ru/images/sitemap.xml
+Disallow: /products
+Disallow: /familysearch
+Disallow: /schoolsearch
+Disallow: /yandpage
 
 User-agent: Yandex
 Disallow: /?
@@ -642,23 +557,19 @@ Allow: /blogs$
 Allow: /blogs/$
 Allow: /blogs/pad/$
 Allow: /blogs/pad$
-
 Disallow: /bus/orders*
 Disallow: /bus/api/*
-
 Disallow: /MAPS/
 Disallow: /MaPS/
 Disallow: /MapS/
 Disallow: /Maps/
 Disallow: /mApS/
-
 Disallow: /catalog/?text=
 Disallow: /chat
 Disallow: /cgi-bin/
 Disallow: /cgi/
 Disallow: /chisla.html
 Disallow: /clck
-
 Disallow: /collections/feed
 Disallow: /collections/search/
 Disallow: /collections/*/search/*
@@ -669,27 +580,17 @@ Disallow: /collections/share
 Disallow: /collections/favorites
 Disallow: /collections/embed
 Disallow: /collections/picture/
-
 Disallow: /company/*.rss
 Disallow: /company/search
-
 Disallow: /business/widget
-
 Disallow: /comments/*
-
 Disallow: /courier
-
 Disallow: /products/search?text=
 Disallow: /products/product/*/sku/*
-
 Disallow: /conflagexp
 Disallow: /cy
 Disallow: /cycounter
 Disallow: /dzen
-Disallow: /edu/ping
-Disallow: /edu/tasks
-Disallow: /edu/teachers
-Disallow: /edu/test
 Disallow: /experiments.xml
 Disallow: /efir
 Disallow: /formfeedback
@@ -710,19 +611,15 @@ Allow: /images/touch/search?text=*&source=morda*
 Allow: /images/touch/search?rpt=imageview
 Allow: /images/pad/search?text=*&source=morda*
 Allow: /images/pad/search?rpt=imageview
-
 Disallow: /index_m
 Disallow: /infected
 Disallow: /iznanka/
 Disallow: /jobs/skill-diagnostic/private/*
 Disallow: /keyboard_qwerty.html
 Disallow: /logotypes
-
 Disallow: /local/
-
 Disallow: /more_samples
 Disallow: /msearch
-Disallow: /msearchpart
 Disallow: /map-constructor/loader*
 Disallow: /maps/-/*
 Disallow: /maps/print/*
@@ -731,9 +628,7 @@ Allow: /maps/*?lang=uk$
 Allow: /maps/org/
 Disallow: /nmaps/*?
 Disallow: /mapeditor/*?
-
 Disallow: /metro/*?from
-
 Disallow: /norobot
 Disallow: /opensearch.xml
 Disallow: /padsearch
@@ -747,17 +642,13 @@ Disallow: /pogoda/search
 Disallow: /pogoda/404
 Disallow: /pogoda/*?*lat=*&*lon=*
 Disallow: /pogoda/*?*lon=*&*lat=*
-
 Disallow: /polling
 Disallow: /poll/
 Disallow: /promo/*goodbye*
 Disallow: /promo/diskelement
 Disallow: /promo/launcher/mgoodbye/*
-Disallow: /promo/skype*?*
-Disallow: /promo/skype/*/*
 Disallow: /promo/*welcome*
 Disallow: /promo/yobject/changelog*
-
 Disallow: /q/profile/*/answers
 Disallow: /q/profile/*/questions
 Disallow: /q/profile/*/verifies
@@ -770,7 +661,6 @@ Disallow: /q/user/*/verifies
 Disallow: /q/user/*/articles
 Disallow: /q/user/*/subscribers
 Disallow: /q/user/*/org_answers
-
 Disallow: /soft/bm/goodbye
 Disallow: /soft/chrome/ext-install/*
 Disallow: /soft/chrome/searchline-install/*
@@ -801,7 +691,6 @@ Disallow: /storeclick
 Disallow: /storerequest
 Disallow: /subscribe/confirm.pl
 Disallow: /subscribe/view.pl
-
 Allow: /support/
 Disallow: /support/direct-images
 Disallow: /support/direct-tooltips
@@ -816,7 +705,6 @@ Disallow: /support/*zout_
 Disallow: /support/search-results/
 Disallow: /support/praktikum/flow.html
 Disallow: /support/praktikum-english/
-
 Disallow: /talk/create
 Disallow: /talk/api
 Disallow: /talk/user/*/article
@@ -827,25 +715,20 @@ Disallow: /themes
 Disallow: /toggle-experiment
 Disallow: /touchsearch
 Disallow: /tune*retpath=
-
 Allow: /tutor
 Disallow: /tutor/admin
 Sitemap: https://yandex.ru/tutor/sitemap/?sitemap=sitemap.xml
-
 Allow: /ugcpub/
 Disallow: /ugcpub/cabinet
-
 Disallow: /v$
 Disallow: /viewconfig$
 Disallow: /video/v$
 Disallow: /video/viewconfig$
 Disallow: /images/v$
 Disallow: /images/viewconfig$
-
 Disallow: /uslugi/*
 Disallow: /uslugi/cab
 Disallow: /uslugi/*/category/doctors/
-
 Disallow: /versions
 Disallow: /video/*
 Disallow: /video/*filmId=*
@@ -859,7 +742,6 @@ Allow: /video/yerli-dizi-izle/
 Allow: /video/yabanci-dizi-izle/
 Allow: /video/pad/
 Disallow: /xmlsearch
-
 Disallow: /yaca
 Allow: /yaca/$
 Allow: /yaca/m/$
@@ -874,7 +756,6 @@ Disallow: /yaca/cat/*/geo/*
 Disallow: /yaca/*/synt2/
 Disallow: /yandsearch
 Disallow: /yca/cy
-
 Disallow: /soft/distribution
 Disallow: /soft/?*
 Disallow: /promo/launcher/?*
@@ -888,13 +769,14 @@ Disallow: /element/?*
 Disallow: /element/*goodbye*
 Disallow: /soft/*goodbye*
 Disallow: /adult
-
 Disallow: /addappterless
 Disallow: /archive
-
+Allow: /archive$
 Allow: /video/search?text=video$
-
 Disallow: /all?
+Disallow: /familysearch
+Disallow: /schoolsearch
+Disallow: /yandpage
 
 User-agent: Googlebot
 Disallow: /$
@@ -920,25 +802,20 @@ Allow: /blogs$
 Allow: /blogs/$
 Allow: /blogs/pad/$
 Allow: /blogs/pad$
-
 Disallow: /bus/orders*
 Disallow: /bus/api/*
-
 Disallow: /business/widget
-
 Disallow: /MAPS/
 Disallow: /MaPS/
 Disallow: /MapS/
 Disallow: /Maps/
 Disallow: /mApS/
-
 Disallow: /catalog/?text=
 Disallow: /chat
 Disallow: /cgi-bin/
 Disallow: /cgi/
 Disallow: /chisla.html
 Disallow: /clck
-
 Disallow: /collections/feed
 Disallow: /collections/search/
 Disallow: /collections/*/search/*
@@ -949,22 +826,14 @@ Disallow: /collections/share
 Disallow: /collections/favorites
 Disallow: /collections/embed
 Disallow: /collections/picture/
-
 Disallow: /company/*.rss
 Disallow: /company/search
-
 Disallow: /comments/*
-
 Disallow: /courier
-
 Disallow: /conflagexp
 Disallow: /cy
 Disallow: /cycounter
 Disallow: /dzen
-Disallow: /edu/ping
-Disallow: /edu/tasks
-Disallow: /edu/teachers
-Disallow: /edu/test
 Disallow: /experiments.xml
 Disallow: /efir
 Disallow: /formfeedback
@@ -976,7 +845,6 @@ Disallow: /images-data
 Disallow: /images.html
 Disallow: /images/*
 Disallow: /images-apphost/*
-
 Allow: /images/$
 Allow: /images/smart/$
 Allow: /images/touch/$
@@ -987,19 +855,15 @@ Allow: /images/touch/search?text=*&source=morda*
 Allow: /images/touch/search?rpt=imageview
 Allow: /images/pad/search?text=*&source=morda*
 Allow: /images/pad/search?rpt=imageview
-
 Disallow: /index_m
 Disallow: /infected
 Disallow: /iznanka/
 Disallow: /jobs/skill-diagnostic/private/*
 Disallow: /keyboard_qwerty.html
 Disallow: /logotypes
-
 Disallow: /local/
-
 Disallow: /more_samples
 Disallow: /msearch
-Disallow: /msearchpart
 Disallow: /map-constructor/loader*
 Disallow: /maps/-/*
 Disallow: /maps/print/*
@@ -1009,9 +873,7 @@ Allow: /maps/*?lang=kk$
 Allow: /maps/*?lang=uz$
 Disallow: /nmaps/*?
 Disallow: /mapeditor/*?
-
 Disallow: /metro/*?from
-
 Disallow: /norobot
 Disallow: /opensearch.xml
 Disallow: /padsearch
@@ -1025,18 +887,14 @@ Disallow: /pogoda/search
 Disallow: /pogoda/404
 Disallow: /pogoda/*?*lat=*&*lon=*
 Disallow: /pogoda/*?*lon=*&*lat=*
-
 Disallow: /polling
 Disallow: /poll/
 Disallow: /prefetch
 Disallow: /promo/*goodbye*
 Disallow: /promo/diskelement
 Disallow: /promo/launcher/mgoodbye/*
-Disallow: /promo/skype*?*
-Disallow: /promo/skype/*/*
 Disallow: /promo/*welcome*
 Disallow: /promo/yobject/changelog*
-
 Disallow: /q/profile/*/answers
 Disallow: /q/profile/*/questions
 Disallow: /q/profile/*/verifies
@@ -1049,7 +907,6 @@ Disallow: /q/user/*/verifies
 Disallow: /q/user/*/articles
 Disallow: /q/user/*/subscribers
 Disallow: /q/user/*/org_answers
-
 Disallow: /soft/bm/goodbye
 Disallow: /soft/chrome/ext-install/*
 Disallow: /soft/chrome/searchline-install/*
@@ -1080,7 +937,6 @@ Disallow: /storeclick
 Disallow: /storerequest
 Disallow: /subscribe/confirm.pl
 Disallow: /subscribe/view.pl
-
 Allow: /support/
 Disallow: /support/direct-images
 Disallow: /support/direct-tooltips
@@ -1095,7 +951,6 @@ Disallow: /support/*zout_
 Disallow: /support/search-results/
 Disallow: /support/praktikum/flow.html
 Disallow: /support/praktikum-english/
-
 Disallow: /talk/create
 Disallow: /talk/api
 Disallow: /talk/user/*/article
@@ -1106,25 +961,20 @@ Disallow: /themes
 Disallow: /toggle-experiment
 Disallow: /touchsearch
 Disallow: /tune*retpath=
-
 Allow: /ugcpub/
 Disallow: /ugcpub/cabinet
-
 Disallow: /v$
 Disallow: /viewconfig$
 Disallow: /video/v$
 Disallow: /video/viewconfig$
 Disallow: /images/v$
 Disallow: /images/viewconfig$
-
 Allow: /uslugi/*
 Disallow: /uslugi/cab
 Disallow: /uslugi/*/category/doctors/
-
 Allow: /tutor
 Disallow: /tutor/admin
 Disallow: /tutor/search/problems
-
 Disallow: /versions
 Disallow: /video/*
 Disallow: /video/*filmId=*
@@ -1143,7 +993,6 @@ Allow: /video/yabanci-dizi-izle/
 Allow: /video/touch/
 Allow: /video/pad/
 Disallow: /xmlsearch
-
 Disallow: /yaca
 Allow: /yaca/$
 Allow: /yaca/m/$
@@ -1158,7 +1007,6 @@ Disallow: /yaca/cat/*/geo/*
 Disallow: /yaca/*/synt2/
 Disallow: /yandsearch
 Disallow: /yca/cy
-
 Disallow: /soft/distribution
 Disallow: /soft/?*
 Disallow: /promo/launcher/?*
@@ -1172,26 +1020,23 @@ Disallow: /element/?*
 Disallow: /element/*goodbye*
 Disallow: /soft/*goodbye*
 Disallow: /adult
-
 Disallow: /sport*?*parent-reqid*
 Disallow: /mirror*?*parent-reqid*
 Disallow: /turbo*?*parent-reqid*
 Disallow: /mirror/hide
-
 Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
-
 Disallow: /addappterless
 Disallow: /archive
-
+Allow: /archive$
 Allow: /video/search?text=video$
-
 Disallow: /all?
-
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
-
+Disallow: /familysearch
+Disallow: /schoolsearch
+Disallow: /yandpage
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
 Sitemap: https://yandex.ru/blog/sitemap.xml
@@ -1207,7 +1052,6 @@ Sitemap: https://yandex.ru/games/sitemaps/sitemap.index.xml
 Sitemap: https://yandex.ru/q/sitemap/sitemap-index.xml
 Sitemap: https://yandex.ru/efir/sitemap.xml
 Sitemap: https://yandex.ru/images/sitemap.xml
-
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&utm_nooverride&utm_expid&gclid&_openstat&yclid&gsaid&_gs_rmark&_gs_ref&_gs_cttl&iframe /health/
 Clean-Param: p&msp&occupationId&specId&serviceId&rubric&afterWorkerPage&clarifier&create_order&workerId&categoryId&specializationId&title&onlyForInvited&price&priceMeasure&isPromotion&from&source&region&max_reactions_count&adbody&adurl&backpath&query&saas_webreqid&action&displayid&promoAction&ref&orderId&utm&ig_source&creative&campaignid&adgroupid&worker_id&order_access_key&push_id&intent&family&status&t&tss&utm_campa&utm_left&utm_sup_project&utm_sup_source&utm_sup_type&yhid /uslugi/*

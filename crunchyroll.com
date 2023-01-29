@@ -2,7 +2,7 @@ sitemap: https://www.crunchyroll.com/sitemap.xml
 sitemap: https://www.crunchyroll.com/sitemap
 User-agent: *
 Disallow: /showtag
-Disallow: /search
+Disallow: */search
 Disallow: /facebook
 Disallow: /css/
 Disallow: /js/
@@ -23,3 +23,9 @@ Disallow: /vilos/
 Disallow: /store/
 Disallow: /email/
 Disallow: /search-classic
+Disallow: */account
+Disallow: */activate
+Disallow: */profile/activation
+Disallow: */watchlist
+Disallow: */history
+Disallow: */crunchylists

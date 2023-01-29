@@ -8,6 +8,7 @@ Disallow:
 User-agent: *
 Disallow: /account/
 Disallow: /aclick
+Disallow: /alink
 Disallow: /amp/
 Allow: /api/maps/
 Disallow: /api/
@@ -30,6 +31,10 @@ Disallow: /images/search/?
 Disallow: /images/searchbyimage
 Disallow: /images/async?
 Disallow: /images/async/?
+Disallow: /images/hosted?
+Disallow: /images/hosted/?
+Disallow: /images/hosted/search?
+Disallow: /inboxcommerce
 Disallow: /local
 Disallow: /maps/adsendpoint
 Disallow: /notifications/

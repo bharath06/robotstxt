@@ -7,3 +7,4 @@ Allow: /link-intersect/$
 Disallow: /link-intersect/*
 Disallow: /v4*
 Disallow: /blog/*?s=*
+Disallow: /seo/for/*?*draft

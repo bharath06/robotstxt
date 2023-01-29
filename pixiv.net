@@ -8,9 +8,6 @@ Disallow: /index.php?return_to=
 
 Disallow: /artworks/unlisted/*
 
-Disallow: /tags/* * *
-Disallow: /tags/*%20*%20*
-
 Disallow: /users/*/followers
 Disallow: /users/*/mypixiv
 Disallow: /users/*/bookmarks
@@ -18,9 +15,6 @@ Disallow: /novel/comments.php?id=
 Disallow: /novels/unlisted/*
 
 Disallow: /en/group
-
-Disallow: /en/tags/* * *
-Disallow: /en/tags/*%20*%20*
 
 Disallow: /en/search/
 

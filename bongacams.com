@@ -13,7 +13,6 @@ Disallow: /interview-vote
 Disallow: /subscribe-online*
 Disallow: /unsubscribe-online*
 Disallow: /is-subscribed-online*
-Disallow: /chat-profile/*
 Disallow: /chat-ajax*
 Disallow: /chat-translator*
 Disallow: /cybersale-ajax

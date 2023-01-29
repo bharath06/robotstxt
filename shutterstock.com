@@ -33,6 +33,8 @@ Allow: */search/collections
 Allow: */editorial/collections
 Disallow: */collections
 Disallow: /image-generated/*
+Disallow: */generate/*
+Allow: */generate/$
 
 Disallow: */search/ris/*
 Disallow: */search/models/*

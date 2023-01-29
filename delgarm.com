@@ -8,8 +8,8 @@ Disallow: /loadmore?page=
 Disallow: /pageroll?v=
 
 User-agent: Googlebot
-User-agent: Mediapartners-Google
-User-agent: Googlebot-Image
+User-agent: Googlebot-Mobile
+User-agent: Googlebot-Video
 Allow: /tag/
 
 Sitemap: https://www.delgarm.com/sitemap.xml

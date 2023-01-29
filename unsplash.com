@@ -1,111 +1,119 @@
 User-Agent: *
 
-# English versions
+Sitemap: https://unsplash.com/sitemaps/sitemap.xml
+
 Disallow: /photos/*/download
+
+Disallow: /de/account
+Disallow: /de/account/*
+Disallow: /de/s/kollektionen/*
+Disallow: /de/s/benutzer/*
+Disallow: /de/s/visuell/*
+Disallow: /de/werben
+Disallow: /de/kollektionen
+Disallow: /de/kollektionen/*
+Disallow: /de/community
+Disallow: /de/einstellung/*
+Disallow: /de/einstellung/job-posts/*
+Disallow: /de/unsere-geschichte
+Disallow: /de/presse
+Disallow: /de/@*
+
+Disallow: /account
 Disallow: /account/*
 Disallow: /s/collections/*
 Disallow: /s/users/*
 Disallow: /s/visual/*
 
-# (`account` does not change because it's part of the Rails app and those strings are not translated)
-
-# Spanish versions
+Disallow: /es/account
 Disallow: /es/account/*
 Disallow: /es/s/colecciones/*
-Disallow: /es/colecciones*
 Disallow: /es/s/usuarios/*
 Disallow: /es/s/perfecta/*
-Disallow: /es/prensa
+Disallow: /es/anunciarse
+Disallow: /es/colecciones
+Disallow: /es/colecciones/*
 Disallow: /es/comunidad
+Disallow: /es/contrataci%C3%B3n/*
+Disallow: /es/contrataci%C3%B3n/job-posts/*
+Disallow: /es/historia
+Disallow: /es/prensa
+Disallow: /es/@*
 
-# Japanese versions
-Disallow: /ja/account/*
-Disallow: /ja/s/ã³ã¬ã¯ã·ã§ã³/*
-Disallow: /ja/ã³ã¬ã¯ã·ã§ã³*
-Disallow: /ja/s/ã¦ã¼ã¶ã¼/*
-Disallow: /ja/s/ãã¸ã¥ã¢ã«/*
-Disallow: /ja/ãã¬ã¹
-Disallow: /ja/ã³ãã¥ããã£
-
-# French versions
+Disallow: /fr/account
 Disallow: /fr/account/*
 Disallow: /fr/s/collections/*
-Disallow: /fr/collections*
 Disallow: /fr/s/utilisateurs/*
 Disallow: /fr/s/visuel/*
-Disallow: /fr/newsroom
+Disallow: /fr/faire-votre-publicit%C3%A9
+Disallow: /fr/collections
+Disallow: /fr/collections/*
 Disallow: /fr/communaut%C3%A9
+Disallow: /fr/recrutement/*
+Disallow: /fr/recrutement/job-posts/*
+Disallow: /fr/histoire
+Disallow: /fr/newsroom
+Disallow: /fr/@*
 
-# German versions
-Disallow: /de/account/*
-Disallow: /de/s/kollektionen/*
-Disallow: /de/kollektionen*
-Disallow: /de/s/benutzer/*
-Disallow: /de/s/visuell/*
-Disallow: /de/presse
-Disallow: /de/community
-
-# Italian versions
+Disallow: /it/account
 Disallow: /it/account/*
 Disallow: /it/s/collezioni/*
-Disallow: /it/collezioni*
 Disallow: /it/s/utenti/*
 Disallow: /it/s/immagini/*
-Disallow: /it/stampa
+Disallow: /it/diventa-inserzionista
+Disallow: /it/collezioni
+Disallow: /it/collezioni/*
 Disallow: /it/community
+Disallow: /it/assunzioni/*
+Disallow: /it/assunzioni/job-posts/*
+Disallow: /it/la-nostra-storia
+Disallow: /it/press-room
+Disallow: /it/@*
 
-# Korean versions
+Disallow: /ja/account
+Disallow: /ja/account/*
+Disallow: /ja/s/%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/*
+Disallow: /ja/s/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC/*
+Disallow: /ja/s/%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB/*
+Disallow: /ja/%E5%BA%83%E5%91%8A
+Disallow: /ja/%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3
+Disallow: /ja/%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/*
+Disallow: /ja/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3
+Disallow: /ja/%E6%A1%88%E4%BB%B6%E4%BE%9D%E9%A0%BC%E4%B8%AD/*
+Disallow: /ja/%E6%A1%88%E4%BB%B6%E4%BE%9D%E9%A0%BC%E4%B8%AD/job-posts/*
+Disallow: /ja/%E5%B1%A5%E6%AD%B4
+Disallow: /ja/%E3%83%97%E3%83%AC%E3%82%B9
+Disallow: /ja/@*
+
+Disallow: /ko/account
 Disallow: /ko/account/*
 Disallow: /ko/s/%EC%BB%AC%EB%A0%89%EC%85%98/*
-Disallow: /ko/%EC%BB%AC%EB%A0%89%EC%85%98*
 Disallow: /ko/s/%EC%82%AC%EC%9A%A9%EC%9E%90/*
 Disallow: /ko/s/%EC%8B%9C%EA%B0%81-%EC%9E%90%EB%A3%8C/*
-Disallow: /ko/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C
-Disallow: /ko/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0
-
-# Portuguese (Brazil) versions
-Disallow: /pt-BR/account/*
-Disallow: /pt-BR/s/cole%C3%A7%C3%B5es/*
-Disallow: /pt-BR/cole%C3%A7%C3%B5es*
-Disallow: /pt-BR/s/usu%C3%A1rios/*
-Disallow: /pt-BR/s/visual/*
-Disallow: /pt-BR/imprensa
-Disallow: /pt-BR/comunidade
-
-# UNS-1065
-Disallow: /es/@*
-Disallow: /es/contrataciÃ³n*
-Disallow: /es/historia
-Disallow: /es/anunciarse
-
-Disallow: /ja/@*
-Disallow: /ja/æ¡ä»¶ä¾é ¼ä¸­*
-Disallow: /ja/å±¥æ­´
-Disallow: /ja/åºå
-
-Disallow: /de/@*
-Disallow: /de/engagieren*
-Disallow: /de/verlauf
-Disallow: /de/werben
-
-Disallow: /it/@*
-Disallow: /it/assunzioni*
-Disallow: /it/cronologia
-Disallow: /it/pubblicizza
-
-Disallow: /fr/@*
-Disallow: /fr/recrutement*
-Disallow: /fr/historique
-Disallow: /fr/promouvoir
-
-Disallow: /ko/@*
-Disallow: /ko/%EA%B3%A0%EC%9A%A9-%EC%A4%91*
-Disallow: /ko/%EA%B2%80%EC%83%89-%EA%B8%B0%EB%A1%9D
 Disallow: /ko/%EA%B4%91%EA%B3%A0
+Disallow: /ko/%EC%BB%AC%EB%A0%89%EC%85%98
+Disallow: /ko/%EC%BB%AC%EB%A0%89%EC%85%98/*
+Disallow: /ko/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0
+Disallow: /ko/%EA%B3%A0%EC%9A%A9-%EC%A4%91/*
+Disallow: /ko/%EA%B3%A0%EC%9A%A9-%EC%A4%91/job-posts/*
+Disallow: /ko/%EC%97%AD%EC%82%AC
+Disallow: /ko/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C
+Disallow: /ko/@*
 
-Disallow: /pt-BR/@*
-Disallow: /pt-BR/contratando
-Disallow: /pt-BR/hist%C3%B3rico
-Disallow: /pt-BR/anunciar
+Disallow: /pt-br/account
+Disallow: /pt-br/account/*
+Disallow: /pt-br/s/cole%C3%A7%C3%B5es/*
+Disallow: /pt-br/s/usu%C3%A1rios/*
+Disallow: /pt-br/s/visual/*
+Disallow: /pt-br/anunciar
+Disallow: /pt-br/cole%C3%A7%C3%B5es
+Disallow: /pt-br/cole%C3%A7%C3%B5es/*
+Disallow: /pt-br/comunidade
+Disallow: /pt-br/contratando/*
+Disallow: /pt-br/contratando/job-posts/*
+Disallow: /pt-br/nossa-hist%C3%B3ria
+Disallow: /pt-br/imprensa
+Disallow: /pt-br/@*
 
-Sitemap: https://unsplash.com/sitemaps/sitemap.xml
+Disallow: /en-xa
+Disallow: /en-xa/*

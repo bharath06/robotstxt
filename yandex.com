@@ -233,6 +233,13 @@ Disallow: /mirror*?*ajax=1*
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
 
+Disallow: /weather/*
+Disallow: /weather*
+Disallow: /pogoda/*
+Disallow: /pogod*
+Disallow: /hava/*
+Disallow: /hava*
+
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*
 Clean-Param: app-id&game-id&div-rtx-reqid&lang&platform&header&from /games/
@@ -476,6 +483,13 @@ Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
 
+Disallow: /weather/*
+Disallow: /weather*
+Disallow: /pogoda/*
+Disallow: /pogod*
+Disallow: /hava/*
+Disallow: /hava*
+
 User-Agent: Twitterbot
 Allow: /images
 Allow: /gorsel
@@ -488,6 +502,13 @@ Disallow: /news/
 
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
+
+Disallow: /weather/*
+Disallow: /weather*
+Disallow: /pogoda/*
+Disallow: /pogod*
+Disallow: /hava/*
+Disallow: /hava*
 
 Sitemap: https://yandex.com/support/sitemap.xml
 Sitemap: https://yandex.com/blog/sitemap.xml
@@ -709,6 +730,13 @@ Disallow: /adult
 
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
+
+Disallow: /weather/*
+Disallow: /weather*
+Disallow: /pogoda/*
+Disallow: /pogod*
+Disallow: /hava/*
+Disallow: /hava*
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*

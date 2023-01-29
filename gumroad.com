@@ -223,3 +223,5 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitema
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/8/sitemap4.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2022/9/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2023/1/sitemap.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2023/1/sitemap1.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2023/1/sitemap2.xml.gz

@@ -53,8 +53,6 @@ Disallow: /cricketnext/photogallery/series*
 Disallow: /cricketnext/profile/*
 Disallow: /amp/cricketnext/*
 Disallow: /cricketnext/newstopics/*
-Disallow: /cricketnext/amp/cricket-live-scorecard/*  
-Disallow: /cricketnext/cricket-live-scorecard/*
 Disallow: /blogs/*
 Disallow: /cricketnext/amp/profile/*
 Disallow: /cricketnext/news/series/*

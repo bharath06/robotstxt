@@ -8,4 +8,4 @@ Disallow: /admin*
 Disallow: *:id*
 
 
-Sitemap: http://www.shomanews.com/sitemap.xml
+Sitemap: https://www.shomanews.com/sitemap.xml

@@ -4,6 +4,8 @@ Sitemap: https://unsplash.com/sitemaps/sitemap.xml
 
 Disallow: /photos/*/download
 
+Disallow: /de/b/*
+Disallow: /de/b
 Disallow: /de/account
 Disallow: /de/account/*
 Disallow: /de/s/kollektionen/*
@@ -19,12 +21,16 @@ Disallow: /de/unsere-geschichte
 Disallow: /de/presse
 Disallow: /de/@*
 
+Disallow: /b/*
+Disallow: /b
 Disallow: /account
 Disallow: /account/*
 Disallow: /s/collections/*
 Disallow: /s/users/*
 Disallow: /s/visual/*
 
+Disallow: /es/b/*
+Disallow: /es/b
 Disallow: /es/account
 Disallow: /es/account/*
 Disallow: /es/s/colecciones/*
@@ -40,6 +46,8 @@ Disallow: /es/historia
 Disallow: /es/prensa
 Disallow: /es/@*
 
+Disallow: /fr/b/*
+Disallow: /fr/b
 Disallow: /fr/account
 Disallow: /fr/account/*
 Disallow: /fr/s/collections/*
@@ -55,6 +63,8 @@ Disallow: /fr/histoire
 Disallow: /fr/newsroom
 Disallow: /fr/@*
 
+Disallow: /it/b/*
+Disallow: /it/b
 Disallow: /it/account
 Disallow: /it/account/*
 Disallow: /it/s/collezioni/*
@@ -70,6 +80,8 @@ Disallow: /it/la-nostra-storia
 Disallow: /it/press-room
 Disallow: /it/@*
 
+Disallow: /ja/b/*
+Disallow: /ja/b
 Disallow: /ja/account
 Disallow: /ja/account/*
 Disallow: /ja/s/%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/*
@@ -85,6 +97,8 @@ Disallow: /ja/%E5%B1%A5%E6%AD%B4
 Disallow: /ja/%E3%83%97%E3%83%AC%E3%82%B9
 Disallow: /ja/@*
 
+Disallow: /ko/b/*
+Disallow: /ko/b
 Disallow: /ko/account
 Disallow: /ko/account/*
 Disallow: /ko/s/%EC%BB%AC%EB%A0%89%EC%85%98/*
@@ -100,6 +114,8 @@ Disallow: /ko/%EC%97%AD%EC%82%AC
 Disallow: /ko/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C
 Disallow: /ko/@*
 
+Disallow: /pt-br/b/*
+Disallow: /pt-br/b
 Disallow: /pt-br/account
 Disallow: /pt-br/account/*
 Disallow: /pt-br/s/cole%C3%A7%C3%B5es/*

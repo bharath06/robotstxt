@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /user/
 Disallow: /api/
 Disallow: /admin/
+Disallow: /anime/
+Disallow: /v

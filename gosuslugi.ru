@@ -77,6 +77,8 @@ Allow: /donation
 Allow: /info_molodym
 Allow: /exam_places
 Allow: /socialfund
+Allow: /cybersecurity
+Allow: /bugbounty
 Allow: /600244/1/form$
 Allow: /600361/1/form$
 Allow: /600142/1/form$
@@ -187,6 +189,8 @@ Allow: /info_molodym
 Allow: /exam_places
 Allow: /research
 Allow: /socialfund
+Allow: /cybersecurity
+Allow: /bugbounty
 Allow: /600244/1/form$
 Allow: /600361/1/form$
 Allow: /600142/1/form$
@@ -297,6 +301,8 @@ Allow: /info_molodym
 Allow: /exam_places
 Allow: /research
 Allow: /socialfund
+Allow: /cybersecurity
+Allow: /bugbounty
 Allow: /600244/1/form$
 Allow: /600361/1/form$
 Allow: /600142/1/form$

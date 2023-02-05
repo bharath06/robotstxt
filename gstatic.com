@@ -94,6 +94,7 @@ Allow: /pay/images/merchant_logos/
 Allow: /pay/images/program_logos/
 Allow: /paygo/
 Allow: /play/store/web/
+Allow: /play/surveys/serp/
 Allow: /podcasts/test-podcast/rss/
 Allow: /politics/e/sharing/
 Allow: /prettyearth/assets/

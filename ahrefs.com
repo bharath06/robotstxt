@@ -8,3 +8,5 @@ Disallow: /link-intersect/*
 Disallow: /v4*
 Disallow: /blog/*?s=*
 Disallow: /seo/for/*?*draft
+Disallow: /blog/top-bing-searches/
+Disallow: /blog/top-youtube-searches/

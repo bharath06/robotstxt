@@ -28,6 +28,7 @@ Disallow: /mx/api/
 Disallow: /it/api/
 Disallow: /jp/api/
 Disallow: /pl/api/
+Disallow: /de-en/api/
 Disallow: /your/
 Disallow: /uk/your/
 Disallow: /au/your/
@@ -54,6 +55,7 @@ Disallow: /mx/your/
 Disallow: /it/your/
 Disallow: /jp/your/
 Disallow: /pl/your/
+Disallow: /de-en/your/
 Disallow: /transactions/
 Disallow: /uk/transactions/
 Disallow: /au/transactions/
@@ -80,6 +82,7 @@ Disallow: /mx/transactions/
 Disallow: /it/transactions/
 Disallow: /jp/transactions/
 Disallow: /pl/transactions/
+Disallow: /de-en/transactions/
 Disallow: /treasury
 Disallow: /uk/treasury
 Disallow: /au/treasury
@@ -106,6 +109,7 @@ Disallow: /mx/treasury
 Disallow: /it/treasury
 Disallow: /jp/treasury
 Disallow: /pl/treasury
+Disallow: /de-en/treasury
 Disallow: /teams
 Disallow: /uk/teams
 Disallow: /au/teams
@@ -132,6 +136,7 @@ Disallow: /mx/teams
 Disallow: /it/teams
 Disallow: /jp/teams
 Disallow: /pl/teams
+Disallow: /de-en/teams
 Disallow: /cart
 Disallow: /uk/cart
 Disallow: /au/cart
@@ -158,6 +163,7 @@ Disallow: /mx/cart
 Disallow: /it/cart
 Disallow: /jp/cart
 Disallow: /pl/cart
+Disallow: /de-en/cart
 Disallow: /conversations
 Disallow: /uk/conversations
 Disallow: /au/conversations
@@ -184,6 +190,7 @@ Disallow: /mx/conversations
 Disallow: /it/conversations
 Disallow: /jp/conversations
 Disallow: /pl/conversations
+Disallow: /de-en/conversations
 Disallow: /conversations/
 Disallow: /uk/conversations/
 Disallow: /au/conversations/
@@ -210,6 +217,7 @@ Disallow: /mx/conversations/
 Disallow: /it/conversations/
 Disallow: /jp/conversations/
 Disallow: /pl/conversations/
+Disallow: /de-en/conversations/
 Disallow: /locale/overlay
 Disallow: /uk/locale/overlay
 Disallow: /au/locale/overlay
@@ -236,6 +244,7 @@ Disallow: /mx/locale/overlay
 Disallow: /it/locale/overlay
 Disallow: /jp/locale/overlay
 Disallow: /pl/locale/overlay
+Disallow: /de-en/locale/overlay
 Disallow: /locale/overlay_secure
 Disallow: /uk/locale/overlay_secure
 Disallow: /au/locale/overlay_secure
@@ -262,6 +271,7 @@ Disallow: /mx/locale/overlay_secure
 Disallow: /it/locale/overlay_secure
 Disallow: /jp/locale/overlay_secure
 Disallow: /pl/locale/overlay_secure
+Disallow: /de-en/locale/overlay_secure
 Disallow: /guest-pass/
 Disallow: /uk/guest-pass/
 Disallow: /au/guest-pass/
@@ -288,6 +298,7 @@ Disallow: /mx/guest-pass/
 Disallow: /it/guest-pass/
 Disallow: /jp/guest-pass/
 Disallow: /pl/guest-pass/
+Disallow: /de-en/guest-pass/
 Disallow: /mailinglist/
 Disallow: /uk/mailinglist/
 Disallow: /au/mailinglist/
@@ -314,6 +325,7 @@ Disallow: /mx/mailinglist/
 Disallow: /it/mailinglist/
 Disallow: /jp/mailinglist/
 Disallow: /pl/mailinglist/
+Disallow: /de-en/mailinglist/
 Disallow: /mini.php
 Disallow: /uk/mini.php
 Disallow: /au/mini.php
@@ -340,6 +352,7 @@ Disallow: /mx/mini.php
 Disallow: /it/mini.php
 Disallow: /jp/mini.php
 Disallow: /pl/mini.php
+Disallow: /de-en/mini.php
 Disallow: /invites/buy
 Disallow: /uk/invites/buy
 Disallow: /au/invites/buy
@@ -366,6 +379,7 @@ Disallow: /mx/invites/buy
 Disallow: /it/invites/buy
 Disallow: /jp/invites/buy
 Disallow: /pl/invites/buy
+Disallow: /de-en/invites/buy
 Disallow: /share
 Disallow: /uk/share
 Disallow: /au/share
@@ -392,6 +406,7 @@ Disallow: /mx/share
 Disallow: /it/share
 Disallow: /jp/share
 Disallow: /pl/share
+Disallow: /de-en/share
 Disallow: /bcn
 Disallow: /uk/bcn
 Disallow: /au/bcn
@@ -418,6 +433,7 @@ Disallow: /mx/bcn
 Disallow: /it/bcn
 Disallow: /jp/bcn
 Disallow: /pl/bcn
+Disallow: /de-en/bcn
 Disallow: /listing/*/stubs/*
 Disallow: /uk/listing/*/stubs/*
 Disallow: /au/listing/*/stubs/*
@@ -444,6 +460,7 @@ Disallow: /mx/listing/*/stubs/*
 Disallow: /it/listing/*/stubs/*
 Disallow: /jp/listing/*/stubs/*
 Disallow: /pl/listing/*/stubs/*
+Disallow: /de-en/listing/*/stubs/*
 Disallow: /market/confederate_flag
 Disallow: /uk/market/confederate_flag
 Disallow: /au/market/confederate_flag
@@ -470,6 +487,7 @@ Disallow: /mx/market/confederate_flag
 Disallow: /it/market/confederate_flag
 Disallow: /jp/market/confederate_flag
 Disallow: /pl/market/confederate_flag
+Disallow: /de-en/market/confederate_flag
 Disallow: /market/rebel_flag
 Disallow: /uk/market/rebel_flag
 Disallow: /au/market/rebel_flag
@@ -496,6 +514,7 @@ Disallow: /mx/market/rebel_flag
 Disallow: /it/market/rebel_flag
 Disallow: /jp/market/rebel_flag
 Disallow: /pl/market/rebel_flag
+Disallow: /de-en/market/rebel_flag
 Disallow: /market/dixie_flag
 Disallow: /uk/market/dixie_flag
 Disallow: /au/market/dixie_flag
@@ -522,6 +541,7 @@ Disallow: /mx/market/dixie_flag
 Disallow: /it/market/dixie_flag
 Disallow: /jp/market/dixie_flag
 Disallow: /pl/market/dixie_flag
+Disallow: /de-en/market/dixie_flag
 Disallow: /help/sitemap.php
 Disallow: /uk/help/sitemap.php
 Disallow: /au/help/sitemap.php
@@ -548,6 +568,7 @@ Disallow: /mx/help/sitemap.php
 Disallow: /it/help/sitemap.php
 Disallow: /jp/help/sitemap.php
 Disallow: /pl/help/sitemap.php
+Disallow: /de-en/help/sitemap.php
 Disallow: /help/sitemap/*
 Disallow: /uk/help/sitemap/*
 Disallow: /au/help/sitemap/*
@@ -574,6 +595,7 @@ Disallow: /mx/help/sitemap/*
 Disallow: /it/help/sitemap/*
 Disallow: /jp/help/sitemap/*
 Disallow: /pl/help/sitemap/*
+Disallow: /de-en/help/sitemap/*
 Disallow: /*?order=*
 Disallow: /uk/*?order=*
 Disallow: /au/*?order=*
@@ -600,6 +622,7 @@ Disallow: /mx/*?order=*
 Disallow: /it/*?order=*
 Disallow: /jp/*?order=*
 Disallow: /pl/*?order=*
+Disallow: /de-en/*?order=*
 Disallow: /*handmade/
 Disallow: /uk/*handmade/
 Disallow: /au/*handmade/
@@ -626,6 +649,7 @@ Disallow: /mx/*handmade/
 Disallow: /it/*handmade/
 Disallow: /jp/*handmade/
 Disallow: /pl/*handmade/
+Disallow: /de-en/*handmade/
 Disallow: /*color=*
 Disallow: /uk/*color=*
 Disallow: /au/*color=*
@@ -652,6 +676,7 @@ Disallow: /mx/*color=*
 Disallow: /it/*color=*
 Disallow: /jp/*color=*
 Disallow: /pl/*color=*
+Disallow: /de-en/*color=*
 Disallow: /*my_etsy=*
 Disallow: /uk/*my_etsy=*
 Disallow: /au/*my_etsy=*
@@ -678,6 +703,7 @@ Disallow: /mx/*my_etsy=*
 Disallow: /it/*my_etsy=*
 Disallow: /jp/*my_etsy=*
 Disallow: /pl/*my_etsy=*
+Disallow: /de-en/*my_etsy=*
 Disallow: /*gift_card=*
 Disallow: /uk/*gift_card=*
 Disallow: /au/*gift_card=*
@@ -704,6 +730,7 @@ Disallow: /mx/*gift_card=*
 Disallow: /it/*gift_card=*
 Disallow: /jp/*gift_card=*
 Disallow: /pl/*gift_card=*
+Disallow: /de-en/*gift_card=*
 Disallow: /*customizable=*
 Disallow: /uk/*customizable=*
 Disallow: /au/*customizable=*
@@ -730,6 +757,7 @@ Disallow: /mx/*customizable=*
 Disallow: /it/*customizable=*
 Disallow: /jp/*customizable=*
 Disallow: /pl/*customizable=*
+Disallow: /de-en/*customizable=*
 Disallow: /*locationQuery=*
 Disallow: /uk/*locationQuery=*
 Disallow: /au/*locationQuery=*
@@ -756,6 +784,7 @@ Disallow: /mx/*locationQuery=*
 Disallow: /it/*locationQuery=*
 Disallow: /jp/*locationQuery=*
 Disallow: /pl/*locationQuery=*
+Disallow: /de-en/*locationQuery=*
 Disallow: /*min=*
 Disallow: /uk/*min=*
 Disallow: /au/*min=*
@@ -782,6 +811,7 @@ Disallow: /mx/*min=*
 Disallow: /it/*min=*
 Disallow: /jp/*min=*
 Disallow: /pl/*min=*
+Disallow: /de-en/*min=*
 Disallow: /*max=*
 Disallow: /uk/*max=*
 Disallow: /au/*max=*
@@ -808,6 +838,7 @@ Disallow: /mx/*max=*
 Disallow: /it/*max=*
 Disallow: /jp/*max=*
 Disallow: /pl/*max=*
+Disallow: /de-en/*max=*
 Disallow: */people/*/circle*
 Disallow: /uk*/people/*/circle*
 Disallow: /au*/people/*/circle*
@@ -834,6 +865,7 @@ Disallow: /mx*/people/*/circle*
 Disallow: /it*/people/*/circle*
 Disallow: /jp*/people/*/circle*
 Disallow: /pl*/people/*/circle*
+Disallow: /de-en*/people/*/circle*
 Disallow: */people/*/favorites*
 Disallow: /uk*/people/*/favorites*
 Disallow: /au*/people/*/favorites*
@@ -860,6 +892,7 @@ Disallow: /mx*/people/*/favorites*
 Disallow: /it*/people/*/favorites*
 Disallow: /jp*/people/*/favorites*
 Disallow: /pl*/people/*/favorites*
+Disallow: /de-en*/people/*/favorites*
 Disallow: */shop/*/sold*
 Disallow: /uk*/shop/*/sold*
 Disallow: /au*/shop/*/sold*
@@ -886,6 +919,7 @@ Disallow: /mx*/shop/*/sold*
 Disallow: /it*/shop/*/sold*
 Disallow: /jp*/shop/*/sold*
 Disallow: /pl*/shop/*/sold*
+Disallow: /de-en*/shop/*/sold*
 Disallow: */shop/*/favoriters*
 Disallow: /uk*/shop/*/favoriters*
 Disallow: /au*/shop/*/favoriters*
@@ -912,6 +946,7 @@ Disallow: /mx*/shop/*/favoriters*
 Disallow: /it*/shop/*/favoriters*
 Disallow: /jp*/shop/*/favoriters*
 Disallow: /pl*/shop/*/favoriters*
+Disallow: /de-en*/shop/*/favoriters*
 Disallow: */listing/*/favoriters*
 Disallow: /uk*/listing/*/favoriters*
 Disallow: /au*/listing/*/favoriters*
@@ -938,6 +973,7 @@ Disallow: /mx*/listing/*/favoriters*
 Disallow: /it*/listing/*/favoriters*
 Disallow: /jp*/listing/*/favoriters*
 Disallow: /pl*/listing/*/favoriters*
+Disallow: /de-en*/listing/*/favoriters*
 Disallow: /search*attr_*=*
 Disallow: /uk/search*attr_*=*
 Disallow: /au/search*attr_*=*
@@ -964,6 +1000,7 @@ Disallow: /mx/search*attr_*=*
 Disallow: /it/search*attr_*=*
 Disallow: /jp/search*attr_*=*
 Disallow: /pl/search*attr_*=*
+Disallow: /de-en/search*attr_*=*
 Disallow: /c/*attr_*=*
 Disallow: /uk/c/*attr_*=*
 Disallow: /au/c/*attr_*=*
@@ -990,6 +1027,7 @@ Disallow: /mx/c/*attr_*=*
 Disallow: /it/c/*attr_*=*
 Disallow: /jp/c/*attr_*=*
 Disallow: /pl/c/*attr_*=*
+Disallow: /de-en/c/*attr_*=*
 Disallow: /search*price_bucket=*
 Disallow: /uk/search*price_bucket=*
 Disallow: /au/search*price_bucket=*
@@ -1016,6 +1054,7 @@ Disallow: /mx/search*price_bucket=*
 Disallow: /it/search*price_bucket=*
 Disallow: /jp/search*price_bucket=*
 Disallow: /pl/search*price_bucket=*
+Disallow: /de-en/search*price_bucket=*
 Disallow: /c/*price_bucket=*
 Disallow: /uk/c/*price_bucket=*
 Disallow: /au/c/*price_bucket=*
@@ -1042,6 +1081,7 @@ Disallow: /mx/c/*price_bucket=*
 Disallow: /it/c/*price_bucket=*
 Disallow: /jp/c/*price_bucket=*
 Disallow: /pl/c/*price_bucket=*
+Disallow: /de-en/c/*price_bucket=*
 Disallow: /search*ship_to=*
 Disallow: /uk/search*ship_to=*
 Disallow: /au/search*ship_to=*
@@ -1068,6 +1108,7 @@ Disallow: /mx/search*ship_to=*
 Disallow: /it/search*ship_to=*
 Disallow: /jp/search*ship_to=*
 Disallow: /pl/search*ship_to=*
+Disallow: /de-en/search*ship_to=*
 Disallow: /c/*ship_to=*
 Disallow: /uk/c/*ship_to=*
 Disallow: /au/c/*ship_to=*
@@ -1094,6 +1135,7 @@ Disallow: /mx/c/*ship_to=*
 Disallow: /it/c/*ship_to=*
 Disallow: /jp/c/*ship_to=*
 Disallow: /pl/c/*ship_to=*
+Disallow: /de-en/c/*ship_to=*
 Disallow: /search*search_type=*
 Disallow: /uk/search*search_type=*
 Disallow: /au/search*search_type=*
@@ -1120,6 +1162,7 @@ Disallow: /mx/search*search_type=*
 Disallow: /it/search*search_type=*
 Disallow: /jp/search*search_type=*
 Disallow: /pl/search*search_type=*
+Disallow: /de-en/search*search_type=*
 Disallow: /c/*search_type=*
 Disallow: /uk/c/*search_type=*
 Disallow: /au/c/*search_type=*
@@ -1146,6 +1189,7 @@ Disallow: /mx/c/*search_type=*
 Disallow: /it/c/*search_type=*
 Disallow: /jp/c/*search_type=*
 Disallow: /pl/c/*search_type=*
+Disallow: /de-en/c/*search_type=*
 Disallow: /shop_name_search_service
 Disallow: /uk/shop_name_search_service
 Disallow: /au/shop_name_search_service
@@ -1172,6 +1216,7 @@ Disallow: /mx/shop_name_search_service
 Disallow: /it/shop_name_search_service
 Disallow: /jp/shop_name_search_service
 Disallow: /pl/shop_name_search_service
+Disallow: /de-en/shop_name_search_service
 Disallow: /messages
 Disallow: /uk/messages
 Disallow: /au/messages
@@ -1198,6 +1243,7 @@ Disallow: /mx/messages
 Disallow: /it/messages
 Disallow: /jp/messages
 Disallow: /pl/messages
+Disallow: /de-en/messages
 Disallow: /registry/
 Disallow: /uk/registry/
 Disallow: /au/registry/
@@ -1224,6 +1270,7 @@ Disallow: /mx/registry/
 Disallow: /it/registry/
 Disallow: /jp/registry/
 Disallow: /pl/registry/
+Disallow: /de-en/registry/
 Disallow: /apps
 Disallow: /uk/apps
 Disallow: /au/apps
@@ -1250,6 +1297,7 @@ Disallow: /mx/apps
 Disallow: /it/apps
 Disallow: /jp/apps
 Disallow: /pl/apps
+Disallow: /de-en/apps
 Allow: /mailinglist/email/
 Allow: /uk/mailinglist/email/
 Allow: /au/mailinglist/email/
@@ -1276,6 +1324,7 @@ Allow: /mx/mailinglist/email/
 Allow: /it/mailinglist/email/
 Allow: /jp/mailinglist/email/
 Allow: /pl/mailinglist/email/
+Allow: /de-en/mailinglist/email/
 Sitemap: https://www.etsy.com/sitemaps.xml
 Sitemap: https://www.etsy.com/blog/sitemap.xml.gz
 Sitemap: https://www.etsy.com/sitemaps/shops/all.xml
@@ -1294,6 +1343,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/de/sitemaps/shops/all.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/it/sitemaps/shops/all.xml
@@ -1320,6 +1370,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/shops/power-seller.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/shops/power-seller.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/shops/power-seller.xml
 Sitemap: https://www.etsy.com/de/sitemaps/shops/power-seller.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/shops/power-seller.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/shops/power-seller.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/shops/power-seller.xml
 Sitemap: https://www.etsy.com/it/sitemaps/shops/power-seller.xml
@@ -1346,6 +1397,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/shops/top-seller.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/shops/top-seller.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/shops/top-seller.xml
 Sitemap: https://www.etsy.com/de/sitemaps/shops/top-seller.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/shops/top-seller.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/shops/top-seller.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/shops/top-seller.xml
 Sitemap: https://www.etsy.com/it/sitemaps/shops/top-seller.xml
@@ -1372,6 +1424,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/shops/star-seller.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/shops/star-seller.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/shops/star-seller.xml
 Sitemap: https://www.etsy.com/de/sitemaps/shops/star-seller.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/shops/star-seller.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/shops/star-seller.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/shops/star-seller.xml
 Sitemap: https://www.etsy.com/it/sitemaps/shops/star-seller.xml
@@ -1398,6 +1451,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/de/sitemaps/shops/local.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/it/sitemaps/shops/local.xml
@@ -1424,6 +1478,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/listing/power-seller.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/listing/power-seller.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/listing/power-seller.xml
 Sitemap: https://www.etsy.com/de/sitemaps/listing/power-seller.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/listing/power-seller.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/listing/power-seller.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/listing/power-seller.xml
 Sitemap: https://www.etsy.com/it/sitemaps/listing/power-seller.xml
@@ -1450,6 +1505,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/listing/top-seller.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/listing/top-seller.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/listing/top-seller.xml
 Sitemap: https://www.etsy.com/de/sitemaps/listing/top-seller.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/listing/top-seller.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/listing/top-seller.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/listing/top-seller.xml
 Sitemap: https://www.etsy.com/it/sitemaps/listing/top-seller.xml
@@ -1476,6 +1532,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/listing/star-seller.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/listing/star-seller.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/listing/star-seller.xml
 Sitemap: https://www.etsy.com/de/sitemaps/listing/star-seller.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/listing/star-seller.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/listing/star-seller.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/listing/star-seller.xml
 Sitemap: https://www.etsy.com/it/sitemaps/listing/star-seller.xml
@@ -1502,6 +1559,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/de/sitemaps/listing/local.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/listing/local.xml
 Sitemap: https://www.etsy.com/it/sitemaps/listing/local.xml
@@ -1528,6 +1586,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/market.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/market.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/market.xml
 Sitemap: https://www.etsy.com/de/sitemaps/market.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/market.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/market.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/market.xml
 Sitemap: https://www.etsy.com/it/sitemaps/market.xml
@@ -1554,6 +1613,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/de/sitemaps/taxonomy.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/it/sitemaps/taxonomy.xml
@@ -1580,6 +1640,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/home.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/home.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/home.xml
 Sitemap: https://www.etsy.com/de/sitemaps/home.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/home.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/home.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/home.xml
 Sitemap: https://www.etsy.com/it/sitemaps/home.xml
@@ -1606,6 +1667,7 @@ Sitemap: https://www.etsy.com/se-en/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/sg-en/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/uk/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/de/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/de-en/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/fr/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/nl/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/it/sitemaps/blocklist.xml
@@ -1617,7 +1679,7 @@ Sitemap: https://www.etsy.com/at/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/be/sitemaps/blocklist.xml
 #
-# What's up?#   \
+# Hallöchen!#   \
 #
 #    -----
 #   | . . |

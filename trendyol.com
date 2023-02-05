@@ -157,9 +157,13 @@ Disallow: /de/login
 Disallow: /de/register
 Disallow: /de/change-password
 Disallow: /de/cart
+Disallow: /de/*-p-*/product-features
 Disallow: /de/sr?
 Disallow: /de/sr/
 Disallow: /de/sr$
+Disallow: /de/get/api/search/slicing-attributes/*
+Disallow: /de/get/api/popup/*
+Disallow: /de/get/api/review/*
 Allow: /de/*gads=true
 # EN rules
 Disallow: /en/account
@@ -167,9 +171,13 @@ Disallow: /en/login
 Disallow: /en/register
 Disallow: /en/change-password
 Disallow: /en/cart
+Disallow: /en/*-p-*/product-features
 Disallow: /en/sr?
 Disallow: /en/sr/
 Disallow: /en/sr$
+Disallow: /en/get/api/search/slicing-attributes/*
+Disallow: /en/get/api/popup/*
+Disallow: /en/get/api/review/*
 Allow: /en/*gads=true
 # UA rules
 User-agent: Googlebot-Image

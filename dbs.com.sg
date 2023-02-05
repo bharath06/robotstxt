@@ -321,6 +321,7 @@ Disallow: /Contact/posb/deposits/sb-casa-joint/default.page
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffcashgiftpromo/dbs-staff-cashgift-promo-2023-tnc.pdf
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-faq.pdf
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-tnc.pdf
+Disallow: /personal/investments/invest-and-save.page
 Disallow: /personal/community/*user
 
 
@@ -352,6 +353,4 @@ Sitemap: https://www.dbs.com.sg/sitemap-treasures-private-client-2022.xml
 Sitemap: https://www.dbs.com.sg/sitemap-private-banking-2022.xml
 Sitemap: http://www.dbs.com.sg/dbs-sitemap-20211201.xml
 
-
-/*SG*/
 

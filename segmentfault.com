@@ -3,6 +3,11 @@ User-agent: *
 Disallow: /user/*
 Disallow: /bookmark/*
 Disallow: /api/*
-Disallow: /search/*
+Disallow: /search?*
 Disallow: /r/*
 Disallow: /n/*
+Disallow: /reco/*
+Disallow: /*/edit$
+Disallow: /*/revision$
+Disallow: /ask
+Disallow: /write

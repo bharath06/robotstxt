@@ -8,6 +8,7 @@ Disallow: /topicList.jsp?*
 Disallow: /point_question.jsp?*
 Disallow: /load_ask_userHome.jsp*
 Disallow: /mx2019.jsp*
+Disallow: /user_*
 
 Disallow: /load_search.jsp*
 Disallow: /load_pph_conts*

@@ -13,4 +13,10 @@ User-agent: AdsBot-Google
 User-agent: Mediapartners-Google
 Allow: /tw-railway/result/*
 
+# Feb 2023
+# request removal of *.piliapp.com from archive.org
+# service@piliapp.com
+User-agent: archive.org_bot
+Disallow: /
+
 Sitemap: https://www.piliapp.com/sitemap.xml

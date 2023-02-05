@@ -52,5 +52,6 @@ Disallow: /video/video/search
 Disallow: /video/video/stat
 Disallow: /video/video/upload1
 Allow: /etc/api
+Allow: *nextq=*
 
 Sitemap: https://www.aparat.com/sitemap.xml

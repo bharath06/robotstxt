@@ -26,7 +26,6 @@ Disallow: /2015/07/04/419570939/chasing-memories-in-their-refugee-camp-40-years-
 Disallow: /transcripts/419570939*
 Disallow: /sections/parallels/2016/08/15/480128005/for-french-teens-smoking-still-has-more-allure-than-stigma
 Disallow: /transcripts/480128005*
-Disallow: /tags*
 Disallow: /sureroute
 Disallow: /*/partials*
 Disallow: /*?live=*

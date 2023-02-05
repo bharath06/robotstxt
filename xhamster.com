@@ -76,6 +76,8 @@ disallow: */channels/*fps=
 disallow: */pornstars/*fps=
 disallow: */creators/*fps=
 disallow: */celebrities/*fps=
+disallow: *=producer
+disallow: *=creator
 disallow: /signup?
 disallow: /api/
 disallow: */search/*cats=

@@ -87,4 +87,3 @@ Allow: /pages/
 User-agent: *
 Disallow: /
 
-Sitemap: https://nextdoor.com/sitemap-index.xml

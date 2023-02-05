@@ -41,9 +41,21 @@ User-Agent: SemrushBot
 Disallow: /
 
 User-agent: *
+Disallow: /*listStyle=
+Disallow: /*sort_index=
 Disallow: /*act=IS&
+Disallow: /*act=IS$
+Disallow: /*act=dispBoardCategory
+Disallow: /*act=procFileDownload
 Disallow: /*search_keyword=
+Disallow: /*search_target=
+Disallow: /*module_srl=
 Disallow: /*act=dispMemberBookmark
 Disallow: /*_filter=
-Disallow: /*m=
+Disallow: /*m=0&
+Disallow: /*m=0$
+Disallow: /*m=1&
+Disallow: /*m=1$
+Disallow: /*m=6&
+Disallow: /*m=6$
 Disallow: /_loader

@@ -28,10 +28,12 @@
 User-Agent: AdsBot-Google
 Allow: /*-fragment.html
 Allow: /ext/
+Allow: *filters=*
 
 User-Agent: AdsBot-Google-Mobile
 Allow: /*-fragment.html
 Allow: /ext/
+Allow: *filters=*
 
 User-agent: *
 Disallow: /compare*
@@ -94,7 +96,11 @@ Disallow: */ramavtal/*
 Disallow: */buyback/*
 Disallow: */asisonline/*
 Disallow: */nudge/*
+Disallow: *filters=*
 
 Clean-param: tag_id&token&storeID&state&locale&id&return_url&lang&uiPlatform&range&itm_campaign
 Clean-param: tduid&ikeacookiekokpopup&type&orderId&sub1&etext
 Sitemap: https://www.ikea.com/sitemaps/sitemap.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/it-it-cat-sitemap.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/de-de-cat-sitemap.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/de-de-paginations-sitemap.xml

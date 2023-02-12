@@ -1,18 +1,25 @@
 User-agent: *
 Allow: /
 Disallow: /ajax/
+Disallow: /kr/ajax/
+Disallow: /de/ajax/
+Disallow: /fr/ajax/
+Disallow: /br/ajax/
+Disallow: /ru/ajax/
 Disallow: /test/
 Disallow: /edge/
 Disallow: /search
-Disallow: /ko/search
+Disallow: /kr/search
 Disallow: /de/suche
 Disallow: /fr/chercher
 Disallow: /br/buscar
-Disallow: /search/pack
-Disallow: /br/buscar/pack
-Disallow: /de/suche/pack
-Disallow: /fr/chercher/pack
-Disallow: /ko/search/pack
+Disallow: /ru/search
+Disallow: /pack/search
+Disallow: /br/pack/buscar
+Disallow: /de/pack/suche
+Disallow: /fr/pack/chercher
+Disallow: /kr/pack/search
+Disallow: /ur/pack/search
 Disallow: /p/_
 Disallow: /i/_
 Disallow: /packs/search?word
@@ -28,16 +35,22 @@ Disallow: /fr/auteurs/*/*
 Disallow: /de/autoren/*/*
 Disallow: /br/autores/*/*
 Disallow: /svg/static/icons/svg/
+Disallow: /style
+Disallow: /de/style
+Disallow: /br/style
+Disallow: /fr/style
+Disallow: /kr/style
+Disallow: /ru/style
 
 User-agent: Mediapartners-Google
 Allow: /search
-Allow: /ko/search
+Allow: /kr/search
 Allow: /fr/chercher
 Allow: /br/buscar
 
 User-agent: Adsbot-Google
 Allow: /search
-Allow: /ko/search
+Allow: /kr/search
 Allow: /fr/chercher
 Allow: /br/buscar
 

@@ -9,7 +9,6 @@ Disallow: /request
 Disallow: /newsletter
 Disallow: /*/search
 Disallow: /*/search/bang
-Disallow: /*/searchbox$
 Disallow: /*/news_tab
 Disallow: /*/social_tab$
 Disallow: /*/ratings_tab$

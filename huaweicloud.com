@@ -1,9 +1,9 @@
 User-agent: *
 Disallow: /*?*
 Disallow: /common/*
-Disallow: /eu/*
-Disallow: /intl/tr-tr/*
-Disallow: /intl/id-id/*
+Allow: /intl/en-us/
+Disallow: /en-us/
+Disallow: /tips/
 
 # Sitemap files
 

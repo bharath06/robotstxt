@@ -8,4 +8,3 @@ Disallow: /teen
 
 Sitemap: https://www.kapanlagi.com/sitemap.xml
 Sitemap: https://www.kapanlagi.com/sitemap-video-terbaru.xml
-Sitemap: https://www.kapanlagi.com/stories/sitemap.xml

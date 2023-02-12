@@ -28,9 +28,13 @@ Disallow: /pro/
 Allow: /pro/$
 Allow: /pro/assets/
 Allow: /pro/ideas
+Allow: /pro/*/explorer/marketcap
 
 Disallow: /news/pro/
 Allow: /news/pro/$
+
+Disallow: /news/assorted/
+Allow: /news/assorted/$
 
 User-agent: Mediapartners-Google
 Disallow:

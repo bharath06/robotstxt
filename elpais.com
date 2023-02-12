@@ -9,7 +9,6 @@ Disallow: /*.swf$
 Disallow: /eskupTSUpdate
 Disallow: /*=/*x*/
 Disallow: /subscriptions/*
-Disallow: /landing_oferta/
 
 
 # Bots bloqueados

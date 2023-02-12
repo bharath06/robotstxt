@@ -10,6 +10,9 @@ Disallow: /partner/uc_browser/
 Disallow: /apollo_admin/
 Disallow: /apollo_global_admin/
 
+User-agent: grapeshot
+Disallow:
+
 Allow: *
 Allow: /
 Sitemap: https://www.jpnn.com/sitemap.xml

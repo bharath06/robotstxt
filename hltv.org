@@ -24,3 +24,8 @@ Disallow: /download/demo*
 Disallow: /legacystats/*
 Disallow: /fantasy/*/league/*?*
 Disallow: /fantasy/*/league/*/join
+Disallow: /transfers?startDate*
+Disallow: /transfers?country*
+Disallow: /transfers?ranking*
+Disallow: /transfers?page*
+Disallow: /transfers?freeAgentsOnly*

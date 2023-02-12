@@ -1225,6 +1225,12 @@ Disallow: /lite/*
 Disallow: /ajax/*
 Disallow: /archive/*
 Disallow: *.pdf
+Disallow: /campaigns/
+Disallow: /mailer/
+Disallow: *.xls
+Disallow: *.doc
+Disallow: *.docx
+Disallow: *.jpg
 
 User-agent: OmniExplorer_Bot
 Disallow: /

@@ -44,5 +44,7 @@ Crawl-delay: 3
 User-agent: Seznambot
 Crawl-delay: 5
 
+User-agent: grapeshot
+Disallow:
 
 Sitemap: https://www.gsmarena.com/sitemap.xml

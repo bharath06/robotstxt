@@ -18,6 +18,7 @@ Disallow: /watch/_ajax/option
 Disallow: /_json/video/mon
 Disallow: /_json/getAdsForMediaViewer/
 Disallow: /list/ls*/_ajax
+Disallow: /list/ls*/export
 Disallow: /*/*/rg*/mediaviewer/rm*/tr
 Disallow: /*/rg*/mediaviewer/rm*/tr
 Disallow: /*/mediaviewer/*/tr
@@ -28,6 +29,9 @@ Disallow: /tr/
 Disallow: /title/tt*/watchoptions
 Disallow: /search/title/?title_type=feature,tv_movie,tv_miniseries,documentary,short,video,tv_short&release_date=,2020-12-31&lists=%21ls538187658,%21ls539867036,%21ls538186228&view=simple&sort=num_votes,asc&aft
 Disallow: /name/nm*/filmotype/*
+Disallow: /user/ur*/ratings
+Disallow: /user/ur*/checkins
+Disallow: /_json/*
 
 User-agent: Baiduspider
 Disallow: /list/*

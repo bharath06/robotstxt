@@ -104,6 +104,23 @@ Disallow: /reviews/top-reviewers
 Disallow: /reviews/hall-of-fame
 Disallow: /hz/help/contact/*/message/$
 Disallow: /gp/aw/shoppingAids/
+Noindex: */product-reviews/*&pageNumber=2
+Noindex: */product-reviews/*&pageNumber=3
+Noindex: */product-reviews/*&pageNumber=4
+Noindex: */product-reviews/*&pageNumber=5
+Noindex: */product-reviews/*&pageNumber=6
+Noindex: */product-reviews/*&pageNumber=7
+Noindex: */product-reviews/*&pageNumber=8
+Noindex: */product-reviews/*&pageNumber=9
+
+Noindex: /ask/questions/asin/*/2
+Noindex: /ask/questions/asin/*/3
+Noindex: /ask/questions/asin/*/4
+Noindex: /ask/questions/asin/*/5
+Noindex: /ask/questions/asin/*/6
+Noindex: /ask/questions/asin/*/7
+Noindex: /ask/questions/asin/*/8
+Noindex: /ask/questions/asin/*/9
 
 User-agent: EtaoSpider
 Disallow: /

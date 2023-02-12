@@ -2,7 +2,6 @@ User-agent: *
 Sitemap: https://www.repubblica.it/sitemap-n.xml 
 Allow: 		/ 
 Disallow: 		/ztest/ 
-Disallow: 		/vaticano/2020/10/02/news/il_cardinale_scrive_al_papa_dopo_l_ira_una_lettera_di_scuse-301070691/ 
 Disallow: 		/ultimora/24ore/nazionale/news-dettaglio/3688417 
 Disallow: 		/ultimora/24ore/AUTO-IN-CAMBIO-DI-DROGA-13-ARRESTI-DELLA-POLIZIA-DI-PESCARA-(2)/news-dettaglio/3746479 
 Disallow: 		/topics/*?p= 
@@ -26,12 +25,9 @@ Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/* 
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
-Disallow: 		/economia/2018/11/19/news/scontrini_case_e_amici_politici_sangalli_e_il_regno_confcommercio-300977184/ 
 Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
-Disallow: 		/cronaca/2017/10/18/news/mamme_e_in_carriera_cosi_sono_rinate_le_ragazze_di_gianpi_tarantini-178588525/ 
-Disallow: 		/cronaca/2017/10/17/news/cosi_tarantini_e_le_sue_donne_vissero_felici_e_contenti-178510091/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 

@@ -25,6 +25,7 @@ Disallow: /search/
 Disallow: /share/
 Disallow: /slideshow/embed_code/
 Disallow: /uploads/
+Disallow: /nextjs/
 
 User-agent: bingbot
 Disallow: /*/followers/

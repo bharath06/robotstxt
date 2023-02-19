@@ -5,6 +5,7 @@ Sitemap: https://unsplash.com/sitemaps/sitemap.xml
 Disallow: /photos/*/download
 
 Disallow: /de/b/*
+Disallow: /de/plus/r/*
 Disallow: /de/b
 Disallow: /de/account
 Disallow: /de/account/*
@@ -22,6 +23,7 @@ Disallow: /de/presse
 Disallow: /de/@*
 
 Disallow: /b/*
+Disallow: /plus/r/*
 Disallow: /b
 Disallow: /account
 Disallow: /account/*
@@ -30,6 +32,7 @@ Disallow: /s/users/*
 Disallow: /s/visual/*
 
 Disallow: /es/b/*
+Disallow: /es/plus/r/*
 Disallow: /es/b
 Disallow: /es/account
 Disallow: /es/account/*
@@ -47,6 +50,7 @@ Disallow: /es/prensa
 Disallow: /es/@*
 
 Disallow: /fr/b/*
+Disallow: /fr/plus/r/*
 Disallow: /fr/b
 Disallow: /fr/account
 Disallow: /fr/account/*
@@ -64,6 +68,7 @@ Disallow: /fr/newsroom
 Disallow: /fr/@*
 
 Disallow: /it/b/*
+Disallow: /it/plus/r/*
 Disallow: /it/b
 Disallow: /it/account
 Disallow: /it/account/*
@@ -81,6 +86,7 @@ Disallow: /it/press-room
 Disallow: /it/@*
 
 Disallow: /ja/b/*
+Disallow: /ja/plus/r/*
 Disallow: /ja/b
 Disallow: /ja/account
 Disallow: /ja/account/*
@@ -98,6 +104,7 @@ Disallow: /ja/%E3%83%97%E3%83%AC%E3%82%B9
 Disallow: /ja/@*
 
 Disallow: /ko/b/*
+Disallow: /ko/%ED%94%8C%EB%9F%AC%EC%8A%A4/r/*
 Disallow: /ko/b
 Disallow: /ko/account
 Disallow: /ko/account/*
@@ -115,6 +122,7 @@ Disallow: /ko/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C
 Disallow: /ko/@*
 
 Disallow: /pt-br/b/*
+Disallow: /pt-br/plus/r/*
 Disallow: /pt-br/b
 Disallow: /pt-br/account
 Disallow: /pt-br/account/*

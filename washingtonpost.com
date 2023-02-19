@@ -88,6 +88,17 @@ Disallow: /search
 Disallow: /s/*
 Disallow: /embed/
 Disallow: /native/
+Disallow: /subscribe/braintree/
+Disallow: /subscribe/enterpriseportal/
+Disallow: /subscribe/foryouapi/
+Disallow: /subscribe/lagoon/
+Disallow: /subscribe/offers/service/
+Disallow: /subscribe/onsiteapi/
+Disallow: /subscribe/paywall/
+Disallow: /subscribe/person/
+Disallow: /subscribe/preferenceapi/
+Disallow: /subscribe/subscriptionapi/
+Disallow: /subscribe/user/
 
 User-agent: Twitterbot
 Allow: /posttv-beta/

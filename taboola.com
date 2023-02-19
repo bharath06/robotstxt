@@ -89,6 +89,7 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+Disallow: /atlassian-domain-verification*
 
 # Operad
 Disallow: */node/

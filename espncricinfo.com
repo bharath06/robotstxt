@@ -34,7 +34,7 @@ Disallow: /db/photos/
 Disallow: /greatestallrounder/
 Disallow: /icc_cricket_worldcup2011/
 Disallow: /radio/
-Disallow: /games/ontent/site/games/
+Disallow: /games/content/site/games/
 Disallow: /hsbcview/
 Disallow: /hsbcviews/
 Disallow: /internal_applications/

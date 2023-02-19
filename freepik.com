@@ -19,7 +19,7 @@ Disallow: /profile/payment/getstarted/*
 Disallow: /profile/license
 Disallow: /profile/downloads_limit
 Disallow: /xhr/
-Disallow: /translations.js
+Disallow: /media/js/translations.js
 Disallow: /download-limit
 Disallow: /download-file/
 Disallow: /redirect

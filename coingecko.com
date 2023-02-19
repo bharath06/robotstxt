@@ -16,12 +16,9 @@ Disallow: /*/widgets_tab$
 Disallow: /*/developer_tab$
 Disallow: /*/status_updates_tab$
 Disallow: /*/guides_tab
-Disallow: /*/top_tickers$
 Disallow: /*/sentiment_votes$
 Disallow: /*/markets_tab$
 Disallow: /*/news_guides$
-Disallow: /*/overall_stats$
-Disallow: /*/currency_selector$
 Disallow: /*/sparkline
 Disallow: /*/render_hashing_algorithm_selector
 Disallow: /*/show_more_tickers

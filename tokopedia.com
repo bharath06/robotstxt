@@ -53,6 +53,9 @@ Disallow: /tokopoints
 Disallow: /wishlist?*
 Disallow: /helios-client/*
 
+User-agent: Yandex
+Disallow: /
+
 Sitemap: https://www.tokopedia.com/sitemap/catalog-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/category-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/cms-index.xml

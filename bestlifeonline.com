@@ -17,5 +17,6 @@ Disallow: *?s=
 User-agent: *
 Disallow:
 
+Sitemap: https://bestlifeonline.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

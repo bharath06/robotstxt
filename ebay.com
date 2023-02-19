@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v17.0_COM_January_2023
+# v17.1_COM_February_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -24,7 +24,11 @@ Disallow: /*redirect%3Dmobile
 Disallow: /*rt%3Dnc
 Disallow: /*rt=nc
 Disallow: /*src=urllib
+Disallow: /?SSOWebDispatcher=&tg=web&ru={{ru}}
+Disallow: %2F%3FSSOWebDispatcher%3D%26tg%3Dweb%26ru%3D%7B%7Bru%7D%7D
 Disallow: /act/
+Disallow: /adchoice
+Allow: /ads.txt
 Disallow: /ads
 Disallow: /adsrepository
 Disallow: /afs/
@@ -40,7 +44,6 @@ Disallow: /ev-bahce
 Disallow: /giyim-aksesuar
 Disallow: /muzik-plak-enstruman
 Disallow: /otomobil-motor-aksesuar
-Allow: /ads.txt
 Allow: /b/adidas-Yeezy-Sneakers-for-Men/15709/bn_86578781?*_trkparms=*pageci:*|parentrq:*iid:0
 Allow: /b/Collectible-Sneakers/bn_7000259435?*_trkparms=*pageci:*|parentrq:*iid:0
 Allow: /b/Jordan-Sneakers-for-Men/15709/bn_96541848?*_trkparms=*pageci:*|parentrq:*iid:0
@@ -97,6 +100,7 @@ Disallow: /ctm/
 Disallow: /dsc/
 Disallow: /e/*?
 Disallow: /ebay/cronus/
+Disallow: /ebaylive/host
 Disallow: /ecaptcha/
 Disallow: /edc/
 Disallow: /experience/fic
@@ -141,13 +145,14 @@ Disallow: /lst/ng/
 Disallow: /lux/
 Disallow: /lvx/
 Disallow: /mbf/
+Disallow: /merchanism/
 Disallow: /mes/
 Disallow: /mla/
 Disallow: /mlt/
-Disallow: /myb/
-Disallow: /mye/
-Disallow: /myebay/
-Disallow: /mys/
+Disallow: /myb
+Disallow: /mye
+Disallow: /myebay
+Disallow: /mys
 Disallow: /nap/
 Disallow: /nectar
 Disallow: /npk/
@@ -201,6 +206,7 @@ Disallow: /str/svc
 Disallow: /t/*/15709
 Disallow: /talk/
 Disallow: /tickets/
+Disallow: /tkt
 Disallow: /today/
 Disallow: /trylater/
 Disallow: /ulk/i/
@@ -229,7 +235,10 @@ Disallow: /*redirect%3Dmobile
 Disallow: /*rt%3Dnc
 Disallow: /*rt=nc
 Disallow: /*src=urllib
+Disallow: /?SSOWebDispatcher=&tg=web&ru={{ru}}
+Disallow: %2F%3FSSOWebDispatcher%3D%26tg%3Dweb%26ru%3D%7B%7Bru%7D%7D
 Disallow: /act/
+Disallow: /adchoice
 Allow: /ads.txt
 Disallow: /ads
 Disallow: /adsrepository
@@ -291,6 +300,7 @@ Disallow: /ctm/
 Disallow: /dsc/
 Disallow: /e/*?
 Disallow: /ebay/cronus/
+Disallow: /ebaylive/host
 Disallow: /ecaptcha/
 Disallow: /edc/
 Disallow: /experience/fic
@@ -335,13 +345,14 @@ Disallow: /lst/ng/
 Disallow: /lux/
 Disallow: /lvx/
 Disallow: /mbf/
+Disallow: /merchanism/
 Disallow: /mes/
 Disallow: /mla/
 Disallow: /mlt/
-Disallow: /myb/
-Disallow: /mye/
-Disallow: /myebay/
-Disallow: /mys/
+Disallow: /myb
+Disallow: /mye
+Disallow: /myebay
+Disallow: /mys
 Disallow: /nap/
 Disallow: /nectar
 Disallow: /npk/
@@ -392,6 +403,7 @@ Disallow: /str/svc
 Disallow: /t/*/15709
 Disallow: /talk/
 Disallow: /tickets/
+Disallow: /tkt
 Disallow: /today/
 Disallow: /trylater/
 Disallow: /ulk/i/
@@ -432,6 +444,7 @@ Disallow: /srv/
 User-agent: Twitterbot
 Disallow: /*src=urllib
 Disallow: /srv/
+
 
 
 # PRP Sitemaps

@@ -54,4 +54,5 @@ Disallow: /library/gated_form/gated_thankyou.html
 Disallow: /downloads/downloads-thank-you.html 
 Disallow: /downloads/downloads-thank-you-jabber.html 
 Disallow: /downloads/client.html
+Disallow: /trybuy.html
 sitemap:https://www.webex.com/sitemap.xml 

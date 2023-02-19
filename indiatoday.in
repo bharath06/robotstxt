@@ -80,3 +80,6 @@ Disallow: /topic/
 
 User-agent: Applebot
 Disallow: /topic/
+
+User-agent: CCBot
+Disallow: /

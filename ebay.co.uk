@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v17.0_UK_DE_January_2023
+# v17.1_UK_DE_February_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -24,7 +24,10 @@ Disallow: /*redirect%3Dmobile
 Disallow: /*rt%3Dnc
 Disallow: /*rt=nc
 Disallow: /*src=urllib
+Disallow: /?SSOWebDispatcher=&tg=web&ru={{ru}}
+Disallow: %2F%3FSSOWebDispatcher%3D%26tg%3Dweb%26ru%3D%7B%7Bru%7D%7D
 Disallow: /act/
+Disallow: /adchoice
 Allow: /ads.txt
 Disallow: /ads
 Disallow: /adsrepository
@@ -76,6 +79,7 @@ Disallow: /ctg/
 Disallow: /ctm/
 Disallow: /dsc/
 Disallow: /e/*?
+Disallow: /ebaylive/host
 Disallow: /ebay/cronus/
 Disallow: /ecaptcha/
 Disallow: /edc/
@@ -120,13 +124,14 @@ Disallow: /lst/ng/
 Disallow: /lux/
 Disallow: /lvx/
 Disallow: /mbf/
+Disallow: /merchanism/
 Disallow: /mes/
 Disallow: /mla/
 Disallow: /mlt/
-Disallow: /myb/
-Disallow: /mye/
-Disallow: /myebay/
-Disallow: /mys/
+Disallow: /myb
+Disallow: /mye
+Disallow: /myebay
+Disallow: /mys
 Disallow: /nap/
 Disallow: /nectar
 Disallow: /npk/
@@ -176,6 +181,7 @@ Disallow: /str/ssdemo
 Disallow: /str/svc
 Disallow: /talk/
 Disallow: /tickets/
+Disallow: /tkt
 Disallow: /today/
 Disallow: /trylater/
 Disallow: /ulk/i/
@@ -204,7 +210,10 @@ Disallow: /*redirect%3Dmobile
 Disallow: /*rt%3Dnc
 Disallow: /*rt=nc
 Disallow: /*src=urllib
+Disallow: /?SSOWebDispatcher=&tg=web&ru={{ru}}
+Disallow: %2F%3FSSOWebDispatcher%3D%26tg%3Dweb%26ru%3D%7B%7Bru%7D%7D
 Disallow: /act/
+Disallow: /adchoice
 Allow: /ads.txt
 Disallow: /ads
 Disallow: /adsrepository
@@ -257,6 +266,7 @@ Disallow: /ctm/
 Disallow: /dsc/
 Disallow: /e/*?
 Disallow: /ebay/cronus/
+Disallow: /ebaylive/host
 Disallow: /ecaptcha/
 Disallow: /edc/
 Disallow: /experience/fic
@@ -300,13 +310,14 @@ Disallow: /lst/ng/
 Disallow: /lux/
 Disallow: /lvx/
 Disallow: /mbf/
+Disallow: /merchanism/
 Disallow: /mes/
 Disallow: /mla/
 Disallow: /mlt/
-Disallow: /myb/
-Disallow: /mye/
-Disallow: /myebay/
-Disallow: /mys/
+Disallow: /myb
+Disallow: /mye
+Disallow: /myebay
+Disallow: /mys
 Disallow: /nap/
 Disallow: /nectar
 Disallow: /npk/
@@ -356,6 +367,7 @@ Disallow: /str/ssdemo
 Disallow: /str/svc
 Disallow: /talk/
 Disallow: /tickets/
+Disallow: /tkt
 Disallow: /today/
 Disallow: /trylater/
 Disallow: /ulk/i/

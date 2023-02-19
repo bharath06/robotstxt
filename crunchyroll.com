@@ -21,7 +21,7 @@ Disallow: /getitem
 Disallow: /user
 Disallow: /vilos/
 Disallow: /store/
-Disallow: /email/
+Disallow: /email
 Disallow: /search-classic
 Disallow: */account
 Disallow: */activate

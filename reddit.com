@@ -39,7 +39,6 @@ Disallow: /api
 Disallow: /post
 Disallow: /submit
 Disallow: /goto
-Disallow: /*after=
 Disallow: /*before=
 Disallow: /domain/*t=
 Disallow: /login

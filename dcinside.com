@@ -12,3 +12,6 @@ Allow : /
 # NAVER
 User-agent: Yeti
 Allow: /
+
+User-agent: Mediapartners-Google
+Allow : /  

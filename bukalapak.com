@@ -40,6 +40,7 @@ Disallow: /v2/
 Disallow: /u/*/label/bukamobil
 Disallow: /cdn-cgi/
 Disallow: /site_map/users-*
+Disallow: /reviews/
 Sitemap: https://www.bukalapak.com/sitemap.xml
 Sitemap: https://www.bukalapak.com/sitemap-index-product-0.xml
 Sitemap: https://www.bukalapak.com/sitemap-index-top-keyword-0.xml

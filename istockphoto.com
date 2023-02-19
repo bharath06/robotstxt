@@ -98,6 +98,7 @@ Disallow: /*/*-mating-
 Disallow: /*/*-mating$
 Disallow: /*/*-milf-
 Disallow: /*/*-milf$
+Disallow: /*/*mischling
 Disallow: /*/*-naga-
 Disallow: /*/*-naga$
 Disallow: /*/*-nagi-

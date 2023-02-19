@@ -8,3 +8,4 @@ Disallow: /app
 Disallow: /api-access
 Disallow: /cdn-cgi/
 Disallow: /abtest
+Disallow: /recovery

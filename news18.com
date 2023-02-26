@@ -60,5 +60,6 @@ Disallow: /cricketnext/series/*
 Disallow: /cricketnext/amp/series/*
 Disallow: /amp/podcast/*
 
+Sitemap: https://www.news18.com/web-stories-sitemap-index.xml
 Sitemap: https://www.news18.com/news-googlesitemap.xml
-Sitemap: https://www.news18.com/author-sitemap.xml
+Sitemap: https://www.news18.com/sitemap/index-sitemap.xml

@@ -1,15 +1,3 @@
-User-agent: Twitterbot
-Allow: /file
-Allow: /folder
-Allow: /chat
-Allow: /objectstorage
-
-User-agent: facebookexternalhit
-Allow: /file
-Allow: /folder
-Allow: /chat
-Allow: /objectstorage
-
 User-agent: *
 Disallow: /
 Allow: /$
@@ -73,7 +61,6 @@ Allow: /register
 Allow: /cookie
 Allow: /dispute
 Allow: /sdkterms
-Allow: /objectstorage
 Allow: /Mega_Transparency_Report*
 Allow: /*sitemap*
 Allow: /lang_*

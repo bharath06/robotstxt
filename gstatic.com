@@ -15,6 +15,7 @@ Allow: /_/mss/boq-chrome-cloudcast/
 Allow: /_/mss/boq-geo/
 Allow: /_/mss/boq-nbu-monetization/
 Allow: /_/mss/boq-travel/
+Allow: /_/mss/boq-identity/
 Allow: /_/pantheon/
 Allow: /_/pantheon-platform/
 Allow: /_/play/

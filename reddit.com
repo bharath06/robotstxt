@@ -54,6 +54,7 @@ Disallow: /timings/perf
 Disallow: /counters/client-screenview
 Disallow: /*?*feed=
 Disallow: /svc/shreddit/*
+Disallow: /errors$
 Allow: /
 Allow: /sitemaps/*.xml
 Allow: /posts/*

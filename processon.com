@@ -1,7 +1,7 @@
 Sitemap: http://www.processon.com/sitemap.xml
 
 
-User-agent:*
+User-Agent:*
 Disallow:/tag/
 Disallow:/view/link/
 Disallow:/view/designer/

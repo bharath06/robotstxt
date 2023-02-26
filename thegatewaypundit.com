@@ -19,13 +19,9 @@ Disallow: /search/
 Disallow: /wp-admin/
 Disallow: /wp-login.php
 Disallow: /members/
+Disallow: /admin_page/
+Disallow: /admin_page/*
+Disallow: /campaign/
+Disallow: /twitter/
+Disallow: /youtube/
 Allow: /wp-admin/admin-ajax.php
-
-User-agent: Twitterbot
-Allow: *
-User-agent: facebookexternalhit
-Allow: *
-User-agent: facebot
-Allow: *
-User-agent: Googlebot
-Allow: *

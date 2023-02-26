@@ -119,3 +119,4 @@ Disallow: /rugby?*
 Allow: */platform/amp*
 Allow: /*&platform=amp
 Allow: /*?platform=amp
+Sitemap: https://www.espn.com/sitemap.xml

@@ -1,4 +1,4 @@
-# Robots.txt for https://www.dailymail.co.uk/ updated 15/02/2023
+# Robots.txt for https://www.dailymail.co.uk/ updated 21/02/2023
 # 
 #
 # All Robots
@@ -48,4 +48,8 @@ Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2021.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2022.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2022.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-facts-year~2022.xml
-Sitemap: https://www.dailymail.co.uk/best-buys/sitemap.xml 
+Sitemap: https://www.dailymail.co.uk/best-buys/sitemap.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2023.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2023.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-facts-year~20223.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-authors.xml

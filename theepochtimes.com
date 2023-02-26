@@ -8,6 +8,8 @@ Disallow: /assets/plugins/*
 Disallow: /search/*
 Disallow: /feedback/*
 Disallow: /*?q=*
+Disallow: /*?ref
+Disallow: *utm_
 
 User-agent: Twitterbot
 Allow: /*?*utm_

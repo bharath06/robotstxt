@@ -25,5 +25,8 @@ Disallow: /developers/downloads/sdks/
 Disallow: /developers/whats_new
 Disallow: /reengageoptout/*
 Disallow: /preview/
+Disallow: /s/
+Disallow: /sh/
+
 
 Sitemap: https://www.dropbox.com/sitemapindex.xml

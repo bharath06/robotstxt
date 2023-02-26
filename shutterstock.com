@@ -92,3 +92,6 @@ Sitemap: https://www.shutterstock.com/ko/blog/sitemap_index.xml
 Sitemap: https://www.shutterstock.com/th/blog/sitemap_index.xml
 Sitemap: https://www.shutterstock.com/pt/blog/sitemap_index.xml
 Sitemap: https://www.shutterstock.com/zh-Hant/blog/sitemap_index.xml
+
+User-agent: CCBot
+Disallow: /

@@ -17,5 +17,8 @@ Disallow: /counters.php
 # Wordpress Previews
 Disallow: /articles/mnt-*
 
+# Infinite Scroll API
+Disallow: /api/content/
+
 # Sitemaps
 Sitemap: https://www.medicalnewstoday.com/sitemap.xml

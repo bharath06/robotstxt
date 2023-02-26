@@ -67,6 +67,7 @@ Sitemap: https://www.tokopedia.com/sitemap/hotel-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/official-store-brand-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/official-store-category-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/official-store-index.xml
+Sitemap: https://www.tokopedia.com/sitemap/play-channel.xml
 Sitemap: https://www.tokopedia.com/sitemap/product-find-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/products-index-0.xml
 Sitemap: https://www.tokopedia.com/sitemap/products-index-1.xml

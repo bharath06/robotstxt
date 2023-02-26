@@ -3,7 +3,6 @@ Disallow: /admin/
 Disallow: /cache/
 Disallow: /clearcache
 Disallow: /ad/
-Disallow: /ads/
 Disallow: /printing/
 Disallow: /comments/
 Disallow: /tmp/

@@ -25,6 +25,9 @@ Disallow: /nutrition/*/wp-*
 Disallow: /health-news/*/wp-*
 Disallow: /cdn.jwplayer.com/previews/*
 
+# Infinite Scroll API
+Disallow: /api/content/
+
 Disallow: /hlcmsresource/*.txt$
 Disallow: /hlcmsresource/*.xml$
 

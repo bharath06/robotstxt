@@ -1,21 +1,16 @@
-Sitemap: https://www.payoneer.com/sitemap_index.xml 
-
 User-agent: *
-Disallow: /*tags*
-Disallow: /*sector*
-Disallow: /downloads/*
-Disallow: /*.pdf$
-Disallow: /go/
-Disallow: /link/
-Disallow: /en/link/
-Disallow: /currency/
-Disallow: /ar/currency/
-Disallow: /en/currency/
-Disallow: /es/currency/
-Disallow: /in/currency/
-Disallow: /ja/currency/
-Disallow: /ko/currency/
-Disallow: /ru/currency/
-Disallow: /vi/currency/
-Disallow: /blog/currency/
 Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /go/
+Disallow: /*.jpeg$
+Disallow: /*.jpg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.mp4$
+Disallow: /*.webm$
+Disallow: /*.woff$
+Disallow: /*.woff2$
+Disallow: /*.ttf$
+Disallow: /*.eot$
+Sitemap: https://www.payoneer.com/sitemap_index.xml
+

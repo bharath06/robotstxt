@@ -31,7 +31,16 @@ Disallow: /sso/*
 Disallow: /login/
 Disallow: /cc/*
 Disallow: /*/followers/*
-
+Disallow:/user/*/pins
+Disallow:/user/*/likes
+Disallow:/user/*/creations
+Disallow:/user/*/tags
+Disallow:/pins/*/similar
+Disallow:/user/*/following
+Disallow:/from/*
+Disallow:/boards/favorite/*
+Disallow:/users/favorite/*
+ 
 User-agent: YandexBot
 Disallow: /
 

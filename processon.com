@@ -8,3 +8,7 @@ Disallow:/view/designer/
 Disallow:/outline/
 Disallow:/diagrams/
 Disallow:/preview/
+Disallow:/api/
+Disallow:/v/
+Disallow:/mindmap/
+Disallow:/diagraming/

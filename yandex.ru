@@ -257,6 +257,8 @@ Disallow: /games/*?*pageId*
 Disallow: /familysearch
 Disallow: /schoolsearch
 Disallow: /yandpage
+Disallow: *maps/covid19*
+
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
 Sitemap: https://yandex.ru/blog/sitemap.xml
@@ -532,6 +534,7 @@ Disallow: /products
 Disallow: /familysearch
 Disallow: /schoolsearch
 Disallow: /yandpage
+Disallow: *maps/covid19*
 
 User-agent: Yandex
 Disallow: /?
@@ -777,6 +780,7 @@ Disallow: /all?
 Disallow: /familysearch
 Disallow: /schoolsearch
 Disallow: /yandpage
+Disallow: *maps/covid19*
 
 User-agent: Googlebot
 Disallow: /$
@@ -1037,6 +1041,8 @@ Disallow: /games/*?*pageId*
 Disallow: /familysearch
 Disallow: /schoolsearch
 Disallow: /yandpage
+Disallow: *maps/covid19*
+
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
 Sitemap: https://yandex.ru/blog/sitemap.xml

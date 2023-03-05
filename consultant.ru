@@ -24,6 +24,7 @@ Disallow: /regbase/static
 Disallow: /fss/
 Disallow: /kniga/
 Clean-param: utm_campaign&utm_source&utm_medium&utm_term&utm_content&yclid&gclid&ts&frame&SEARCHPLUS&_ga&back&bx_sender_conversion_id&div&disableGlobalInfoCollect&mode&ref&last&msclkid&fl
+Clean-param: date_start&date_end&important&vc_select&from&stat&cacheid
 Disallow: /cons/cgi/online.cgi?req=doc;base=EXP;n=630136
 
 Host: www.consultant.ru

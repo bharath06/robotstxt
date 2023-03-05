@@ -8,4 +8,4 @@ Disallow: /admin*
 Disallow: *:id*
 
 
-Sitemap: http://www.fardanews.com/sitemap.xml
+Sitemap: https://www.fardanews.com/sitemap.xml

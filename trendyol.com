@@ -105,6 +105,7 @@ Disallow: /*/*-p-*/saticiya-sor
 Disallow: /*/*-p-*/yorum-yap
 Disallow: /*/*-p-*/yorumlar
 Disallow: /*/*-p-*/reviews
+Disallow: /afet-yardim/
 Disallow: /authentication/logout
 Disallow: /basket/getbasketitemcountasync
 Disallow: /Basket/GetBasketItemCountAsync

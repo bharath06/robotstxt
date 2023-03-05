@@ -85,7 +85,7 @@ Disallow: */shoppingcart/
 Disallow: */order/
 Disallow: */energy-services/web/modules/*
 Disallow: */3daas-rotera/*
-Disallow: */assets/global/rotera/*
+Disallow: */global/assets/rotera/*
 Disallow: */watch/*
 Disallow: */cart/*
 Disallow: */favourites/*
@@ -96,12 +96,12 @@ Disallow: */ramavtal/*
 Disallow: */buyback/*
 Disallow: */asisonline/*
 Disallow: */nudge/*
+Disallow: */ces/web/modules/*
 Disallow: *filters=*
 
 Clean-param: tag_id&token&storeID&state&locale&id&return_url&lang&uiPlatform&range&itm_campaign
 Clean-param: tduid&ikeacookiekokpopup&type&orderId&sub1&etext
 Sitemap: https://www.ikea.com/sitemaps/sitemap.xml
-Sitemap: https://www.ikea.com/global/assets/sitemaps/it-it-cat-sitemap.xml
 Sitemap: https://www.ikea.com/global/assets/sitemaps/de-de-paginations-sitemap.xml
 Sitemap: https://www.ikea.com/global/assets/sitemaps/cat-de_1.xml
 Sitemap: https://www.ikea.com/global/assets/sitemaps/catalogfilter-de_1.xml
@@ -116,3 +116,15 @@ Sitemap: https://www.ikea.com/global/assets/sitemaps/prod-de_3.xml
 Sitemap: https://www.ikea.com/global/assets/sitemaps/series-de_1.xml
 Sitemap: https://www.ikea.com/global/assets/sitemaps/store-events-de_1.xml
 Sitemap: https://www.ikea.com/global/assets/sitemaps/veta-de_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/cat-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/catalogfilter-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/collection-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/contentgallery-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/edit-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/homepage-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/planner-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/prod-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/prod-it_2.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/series-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/store-events-it_1.xml
+Sitemap: https://www.ikea.com/global/assets/sitemaps/veta-it_1.xml

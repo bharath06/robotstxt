@@ -15,10 +15,12 @@ Disallow: /stats?rankingFilter*
 Disallow: /stats?bestOf*
 Disallow: /stats*?*matchType*
 Disallow: /stats*?*startDate*
+Disallow: /stats*?*endDate*
 Disallow: /stats*?*rankingFilter*
 Disallow: /stats*?*bestOf*
 Disallow: /stats*?*maps*
 Disallow: /stats*?*lineup*
+Disallow: /stats/players/career/*?
 Disallow: /blog/*
 Disallow: /download/demo*
 Disallow: /legacystats/*

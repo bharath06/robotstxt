@@ -5,3 +5,4 @@ Disallow: /blog/de/wp-json/
 Disallow: /blog/fr/wp-json/
 Disallow: /webinars/wp-json/
 Disallow: /videos/
+Disallow: /legal/

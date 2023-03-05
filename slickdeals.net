@@ -14,7 +14,6 @@ User-agent: dotbot
 Disallow:
 
 User-agent: *
-Disallow: *couponid=*
 Disallow: /*bfid=*
 Disallow: /*ccid=*
 Disallow: /*cno=*

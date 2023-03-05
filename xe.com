@@ -39,3 +39,4 @@ Sitemap: https://www.xe.com/zh-HK/sitemap-charts.xml
 
 Sitemap: https://www.xe.com/blog/sitemap.xml
 Sitemap: https://www.xe.com/sitemap-business.xml
+Sitemap: https://www.xe.com/sitemap-magneto.xml

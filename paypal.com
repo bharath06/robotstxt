@@ -58,6 +58,6 @@ Disallow: /pools/campaign/*
 Disallow: /invoice/p/*
 Disallow: /pools/c/*
 Disallow: /*/claim-money?*
-Disallow: /hub?category=*
-Disallow: /fundraiser/charity/*
+Disallow: /*/hub?category=*
+Disallow: /*/fundraiser/charity/*
 Sitemap: https://www.paypal.com/paypal-sitemap-index.xml

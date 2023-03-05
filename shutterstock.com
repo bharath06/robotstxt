@@ -74,6 +74,10 @@ Disallow: *?id=*
 Disallow: *?include=*
 Disallow: *?inline=*
 
+# Disallow User-Agents
+User-agent: CCBot
+Disallow: /
+
 # Sitemaps
 Sitemap: https://www.shutterstock.com/sitemapz/20211116/image-index.xml
 Sitemap: https://www.shutterstock.com/sitemapz/20211116/video-index.xml
@@ -92,6 +96,3 @@ Sitemap: https://www.shutterstock.com/ko/blog/sitemap_index.xml
 Sitemap: https://www.shutterstock.com/th/blog/sitemap_index.xml
 Sitemap: https://www.shutterstock.com/pt/blog/sitemap_index.xml
 Sitemap: https://www.shutterstock.com/zh-Hant/blog/sitemap_index.xml
-
-User-agent: CCBot
-Disallow: /

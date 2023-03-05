@@ -8,7 +8,6 @@ Disallow: /notificarelacionadas
 Disallow: /*.swf$
 Disallow: /eskupTSUpdate
 Disallow: /*=/*x*/
-Disallow: /subscriptions/*
 
 
 # Bots bloqueados

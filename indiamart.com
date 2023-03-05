@@ -3,6 +3,8 @@ Disallow: /stats/  # stats directory
 Disallow: /cgi/
 Disallow: /temp/
 Disallow: /company1/
+Disallow: /proddetail1
+Disallow: /proddetail1/
 Disallow: /mdc/
 Disallow: /company/A/
 Disallow: /company/B/

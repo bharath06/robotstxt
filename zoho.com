@@ -2,11 +2,15 @@
 # ZOHO Corp. -- http://www.zoho.com
 # Robot Exclusion File -- robots.txt
 # Author: Zoho Creative
-# Last Updated: 24/11/2022
+# Last Updated: 27/02/2023
 # ------------------------------------------
+
 User-agent: *
 Allow: */crm/lp/
+
+
 # unwanted list taken from zoho search list
+
 Disallow: /unsubscribe-thankyou.html
 Disallow: /jumpstart/
 Disallow: /creative/test.html
@@ -67,7 +71,9 @@ Disallow: /analytics/onpremise/demo-thank-you.html
 Disallow: /analytics/onpremise/get-quote-thank-you.html
 Disallow: /analytics/onpremise/license-request-thank-you.html
 Disallow: /vault/password-manager-teams-enterprise.html
+
 # unwanted list taken from zoho search for zoholics
+
 Disallow: /blog/zoholics/announcing-zoholics-zoho-user-conference.html
 Disallow: /blog/zoholics/zoholics-2014-four-events-more-interaction.html
 Disallow: /blog/zoholics/zoholics-2019-bigger-and-better-than-ever.html
@@ -77,7 +83,9 @@ Disallow: /blog/zoholics/announcing-the-first-ever-zoholics-finance-and-hr-user-
 Disallow: /blog/zoholics/announcing-the-first-ever-zoholics-for-productivity-and-collaboration-apps.html
 Disallow: /blog/zoholics/youre-invited-to-our-biggest-event-of-the-year-zoholics-sales-and-marketing.html
 Disallow: /zoholics/Folleto-Zoholics-Mexico-2016.pdf
+
 # unwanted list taken from zoho search for zoho
+
 Disallow: /zoho-for-google-apps/
 Disallow: /blogask-zoho/
 Disallow: /bloghumor/
@@ -257,11 +265,17 @@ Disallow: /cliq/cliqtrix/
 Disallow: /zh-hant/workplace/
 Disallow: /hi-in/
 Disallow: /tables
+Disallow: /zh-hant/
+
 User-agent: Googlebot-Image
+
 Disallow: /branding/images/dont-04.png
 Disallow: /branding/images/dont-03.png
 Disallow: /branding/images/dont-02.png
 Disallow: /branding/images/dont-01.png
+
 User-agent: zs-crawler
+User-agent: zoho-scrapy
 Allow: /
+
 Sitemap: http://www.zoho.com/sitemap-index.xml

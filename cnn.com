@@ -38,7 +38,7 @@ Disallow: /PV/
 Disallow: /Quickcast/
 Disallow: /quickcast/
 Disallow: /QUICKNEWS/
-Disallow: /search/
+Disallow: /search
 Disallow: /terms
 Disallow: /test/
 Disallow: /virtual/

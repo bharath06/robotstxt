@@ -78,7 +78,6 @@ Disallow: /community_comment/*
 Disallow: /community_post/*
 Disallow: /connect/*/
 Disallow: /content-claiming/*
-Disallow: /content-safety-portal/
 Disallow: /conversation/*
 Disallow: /conversations/*
 Disallow: /convert-business/
@@ -136,6 +135,7 @@ Disallow: /password/reset/
 Disallow: /password/reset/*
 Disallow: /pin-builder/
 Disallow: /pin-communities/*
+Disallow: /pin-creation-tool/*
 Disallow: /pin-editor/
 Disallow: /pin/*/activities
 Disallow: /pin/*/activity/
@@ -173,6 +173,7 @@ Disallow: /pw/*
 Disallow: /quiz/*
 Disallow: /recently-viewed/
 Disallow: /register/
+Disallow: /reports-and-violations/
 Disallow: /resource/
 Disallow: /safe-redirect/
 Disallow: /search/
@@ -206,21 +207,22 @@ Disallow: /welcome/
 Disallow: /your-shop/
 Disallow: /your-shop/*
 
+Sitemap: https://www.pinterest.com/v3_sitemaps/expanded_video_klps_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_today_article_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/user_link_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/video_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/board_link_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_interest_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_image_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_product_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/image_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_image_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/video_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/user_link_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_interest_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_product_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_expansion_www.pinterest.com.xml
 
 User-agent: Googlebot
@@ -297,7 +299,6 @@ Disallow: /community_comment/*
 Disallow: /community_post/*
 Disallow: /connect/*/
 Disallow: /content-claiming/*
-Disallow: /content-safety-portal/
 Disallow: /conversation/*
 Disallow: /conversations/*
 Disallow: /convert-business/
@@ -356,6 +357,7 @@ Disallow: /password/reset/
 Disallow: /password/reset/*
 Disallow: /pin-builder/
 Disallow: /pin-communities/*
+Disallow: /pin-creation-tool/*
 Disallow: /pin-editor/
 Disallow: /pin/*/activities
 Disallow: /pin/*/activity/
@@ -393,6 +395,7 @@ Disallow: /pw/*
 Disallow: /quiz/*
 Disallow: /recently-viewed/
 Disallow: /register/
+Disallow: /reports-and-violations/
 Disallow: /resource/
 Disallow: /safe-redirect/
 Disallow: /search/
@@ -502,7 +505,6 @@ Disallow: /community_comment/*
 Disallow: /community_post/*
 Disallow: /connect/*/
 Disallow: /content-claiming/*
-Disallow: /content-safety-portal/
 Disallow: /conversation/*
 Disallow: /conversations/*
 Disallow: /convert-business/
@@ -561,6 +563,7 @@ Disallow: /password/reset/
 Disallow: /password/reset/*
 Disallow: /pin-builder/
 Disallow: /pin-communities/*
+Disallow: /pin-creation-tool/*
 Disallow: /pin-editor/
 Disallow: /pin/*/activities
 Disallow: /pin/*/activity/
@@ -597,6 +600,7 @@ Disallow: /pw/*
 Disallow: /quiz/*
 Disallow: /recently-viewed/
 Disallow: /register/
+Disallow: /reports-and-violations/
 Disallow: /resource/
 Disallow: /safe-redirect/
 Disallow: /search/

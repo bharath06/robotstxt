@@ -8,6 +8,21 @@ Disallow: /polska
 Allow: /account/newsletters
 Disallow: /account/*
 Disallow: /tosv*.html
+Disallow: /search
+Disallow: /company/search/
+Disallow: /professional/search/
+Disallow: /impact/search/
+Disallow: /ux/search/
+Disallow: /wnwi/search/
+Disallow: /gei/search/
+Disallow: /impact/search/
+Disallow: /netzeropathfinders/search/
+Disallow: /notices/search/
+Disallow: /distribution/search/
+Disallow: /ukinnovators/search/
+Disallow: /latam/search/
+Disallow: /faq/search/
+Disallow: /tc/search/
 
 User-agent: Mediapartners-Google
 Disallow: /about/careers
@@ -16,7 +31,6 @@ Disallow: /offlinemessage/
 Disallow: /apps/fbk
 Disallow: /bb/newsarchive/
 Disallow: /apps/news
-Disallow: /search
 
 User-agent: Spinn3r
 Disallow: /podcasts/

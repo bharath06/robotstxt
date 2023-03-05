@@ -84,7 +84,7 @@ Sitemap: https://www.nike.com/sitemap-us-help.xml
 Sitemap: https://www.nike.com/sitemap-v2-landingpage-index.xml
 Sitemap: https://www.nike.com/sitemap-v2-pdp-index.xml
 Sitemap: https://www.nike.com/sitemap-v2-snkrsweb-index.xml
-Sitemap: https://www.nike.com/sitemap-wall-index.xml
+Sitemap: https://www.nike.com/sitemap-v2-gridwall-index.xml
 Sitemap: https://www.nike.com/sitemap-v2-article-index.xml
 Sitemap: https://www.nike.com/sitemap-locator-index.xml
 

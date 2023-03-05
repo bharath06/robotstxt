@@ -240,6 +240,8 @@ Disallow: /pogod*
 Disallow: /hava/*
 Disallow: /hava*
 
+Disallow: *maps/covid19*
+
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*
 Clean-Param: app-id&game-id&div-rtx-reqid&lang&platform&header&from /games/
@@ -490,6 +492,8 @@ Disallow: /pogod*
 Disallow: /hava/*
 Disallow: /hava*
 
+Disallow: *maps/covid19*
+
 User-Agent: Twitterbot
 Allow: /images
 Allow: /gorsel
@@ -509,6 +513,8 @@ Disallow: /pogoda/*
 Disallow: /pogod*
 Disallow: /hava/*
 Disallow: /hava*
+
+Disallow: *maps/covid19*
 
 Sitemap: https://yandex.com/support/sitemap.xml
 Sitemap: https://yandex.com/blog/sitemap.xml
@@ -737,6 +743,8 @@ Disallow: /pogoda/*
 Disallow: /pogod*
 Disallow: /hava/*
 Disallow: /hava*
+
+Disallow: *maps/covid19*
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*

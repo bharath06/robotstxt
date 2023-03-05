@@ -25,6 +25,7 @@ Disallow: /track.gif
 Disallow: /uk$
 Disallow: /ws/
 Disallow: /.well-known/amphtml/apikey.pub
+Disallow: /business-insider
 User-agent: googlebot_news
 Disallow: /sc/
 Sitemap: https://www.businessinsider.com/sitemap/latest.xml

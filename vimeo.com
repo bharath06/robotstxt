@@ -2,16 +2,11 @@
 #
 # robots@vimeo.com
 
-Sitemap: https://vimeo.com/sitemap/master.xml.gz
-Sitemap: https://vimeo.com/sitemap/latest.xml.gz
-Sitemap: https://vimeo.com/sitemap/stock.xml.gz
-Sitemap: https://vimeo.com/sitemap/static-sitemap.xml
-Sitemap: https://vimeo.com/blog/sitemap_index.xml
-
 User-agent: Mediapartners-Google
 Disallow:
 
 User-agent: *
+Disallow: /sitemap_media_redirect?
 Disallow: */format:thumbnail
 Disallow: /download/
 Disallow: /*/download?

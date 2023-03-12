@@ -116,6 +116,7 @@ Disallow: /soccer/video
 Disallow: //*
 Disallow: /*?*::*
 Disallow: /rugby?*
+Disallow: /jayski/tracks/archive/story/_/id/*/*/*
 Allow: */platform/amp*
 Allow: /*&platform=amp
 Allow: /*?platform=amp

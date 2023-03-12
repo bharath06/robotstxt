@@ -50,6 +50,7 @@ Disallow: /coupons/merge.php
 Disallow: /coupons/store.php
 Disallow: /current-fp/
 Disallow: /deal-alerts/share/
+Disallow: /deal-feed/*
 Disallow: /deals/filtered/
 Disallow: /e/
 Disallow: /editpost.php

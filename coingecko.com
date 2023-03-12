@@ -7,6 +7,7 @@ Disallow: /api/documentations/v3
 Disallow: /resource_redirect
 Disallow: /request
 Disallow: /newsletter
+Disallow: /cdn-cgi/
 Disallow: /*/search
 Disallow: /*/search/bang
 Disallow: /*/news_tab
@@ -19,7 +20,6 @@ Disallow: /*/guides_tab
 Disallow: /*/sentiment_votes$
 Disallow: /*/markets_tab$
 Disallow: /*/news_guides$
-Disallow: /*/sparkline
 Disallow: /*/render_hashing_algorithm_selector
 Disallow: /*/show_more_tickers
 Disallow: /*/analysis_tab
@@ -36,6 +36,15 @@ Disallow: *.csv$
 Disallow: /*/news/load_more
 Disallow: /*/compare-cryptocurrencies?coins
 Disallow: /*/widget_component
+Disallow: /*/ajax/aggregate
+Disallow: /*/page_view_event/aggregate
+Disallow: /*/page_view_timing/aggregate
+Disallow: /*/spa/aggregate
+Disallow: /*/metrics/aggregate
+Disallow: /*/session_trace/aggregate
+Disallow: /*/jserrors/aggregate
+Disallow: /*/page_action/aggregate
+Disallow: /*/render_category_selector
 Disallow: /ar/مكونات_
 Disallow: /de/widgetkomponente
 Disallow: /es/componente_del_widget

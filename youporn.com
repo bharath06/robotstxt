@@ -54,8 +54,6 @@ Disallow: /*suggestedPornstar*
 Disallow: /recommended/*category_id=*
 Disallow: /videoview/*
 Disallow: /phva/video-payout/*
-Disallow: /erotica/*/favorite*
-Disallow: /erotica/*/unfavorite*
 Disallow: /svvt/*
 Disallow: /*add_to_collection*
 Disallow: /*video_id*

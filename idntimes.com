@@ -6,7 +6,8 @@ Allow:*
 Allow: /
 
 User-agent: *
-Disallow: /ajax/
+Disallow: https://cdn.idntimes.com/content-documents/*
+Disallow: */ajax/*
 Disallow: ?utm_source=
 Disallow: /https://twitter.com/
 Disallow: /253109699/

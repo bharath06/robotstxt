@@ -23,6 +23,7 @@ Disallow: /unsubscribe
 Disallow: /deactivate
 Disallow: /pm/
 Disallow: /profile/
+Disallow: /register/
 Sitemap: https://www.duolingo.com/sitemap_index.xml
 
 # Certain social media sites are added to allow crawlers to access page markup when links to /profile are shared.

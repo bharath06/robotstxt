@@ -95,11 +95,11 @@ Disallow: /campaign/
 
 Disallow: /campaign-premium/
 
-Disallow: /campaign-test/
+Disallow: /allaccess_6/
 
 Disallow: /international-offer/
 
-Disallow: /epaper-upsc/
+Disallow: /allaccess_4/
 
 Disallow: /special-offer/
 
@@ -136,6 +136,37 @@ Disallow: /campaign-all-access-2/
 Disallow: /campaign-all-access-3/
 
 Disallow: /campaign-all-access-4/
+
+Disallow: /allaccess_5/
+
+Disallow: /product-page-testing/
+
+Disallow: /offers/
+
+Disallow: /exclusive-benefits-subscription/
+
+Disallow: /digital_1/
+
+Disallow: /digital_2/
+
+Disallow: /digital_3/
+
+Disallow: /allaccess_1/
+
+Disallow: /allaccess_2/
+
+Disallow: /allaccess_3/
+
+Disallow: /paytm/
+
+Disallow: /partner/
+
+Disallow: /student-offer/
+
+Disallow: /student-offer-epaper/
+
+User-agent:  CCBot
+Disallow: /
 
 Sitemap: https://indianexpress.com/news-sitemap.xml
 

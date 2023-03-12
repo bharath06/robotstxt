@@ -110,10 +110,8 @@ Disallow: /realestateandhomes-detail/*?ex=
 Disallow: /realestateandhomes-print/
 Disallow: /realestateandhomes-search/*/*/pg-
 Disallow: /realestateandhomes-search/*?from_ldp=true
-Disallow: /realestateandhomes-search/*?cid=prt
-Disallow: /realestateandhomes-search/*?cid=PRT
-Disallow: /realestateandhomes-search/*?cid=pvs
-Disallow: /realestateandhomes-search/*?cid=soc
+Disallow: /realestateandhomes-search/*?cid=
+Disallow: /realestateandhomes-detail/*?cid=
 Disallow: /realestateandhomes-search/*/pg-*/show-recently-sold
 Disallow: /realestateandhomes-search/*/price-
 Disallow: /realestateandhomes-search/*/radius-

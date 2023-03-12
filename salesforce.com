@@ -290,6 +290,8 @@ Disallow: /jp/company/force_com_sites_terms.jsp
 Disallow: /assets/pdf/company/private/
 #
 Disallow: /jp/assets/pdf/
+Disallow: /content/dam/web/ja_jp/www/documents/ 
+Disallow: /content/dam/web/ja_jp/www/assets/pdf/
 #
 # Blocked /in/ on request from ALoon
 # RH (09/11/09) Unlbocked /in/ on request from ALoon

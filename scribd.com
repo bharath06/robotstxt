@@ -78,7 +78,6 @@ Disallow: /ssi/geoip_cc
 Disallow: /store_purchase
 Disallow: /upload-document?
 Disallow: /upload/auto
-Disallow: /upload/supload
 Disallow: /upload/throttled
 Disallow: /upload/upload_progress/
 Disallow: /user_flags/

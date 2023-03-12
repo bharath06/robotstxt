@@ -262,7 +262,6 @@ Disallow: /sites/zweb/images/crm/signup_onboarding_loader.mp4
 Disallow: /thrive/
 Disallow: /services/
 Disallow: /cliq/cliqtrix/
-Disallow: /zh-hant/workplace/
 Disallow: /hi-in/
 Disallow: /tables
 Disallow: /zh-hant/

@@ -13,7 +13,6 @@ Disallow: /php/viewart.php*
 Disallow: /php/get_book_comment.php*
 Disallow: /php/getRecommendJob.php*
 Disallow: /php/getArtCount.php*
-Disallow: /it/m/login.php*
 Sitemap: https://www.51cto.com/sitemap/google/index.xml
 Sitemap: https://www.51cto.com/sitemap/google/index_detail.xml
 Sitemap: https://www.51cto.com/sitemap/google/list.xml

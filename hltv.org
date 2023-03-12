@@ -31,3 +31,4 @@ Disallow: /transfers?country*
 Disallow: /transfers?ranking*
 Disallow: /transfers?page*
 Disallow: /transfers?freeAgentsOnly*
+Disallow: /matches?*

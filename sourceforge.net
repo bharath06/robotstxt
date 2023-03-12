@@ -23,6 +23,11 @@ Disallow: /*/commit_browser
 Disallow: /*/commit_browser_data
 Disallow: /*?barediff=
 Disallow: /*?diff=
+Disallow: /*/bugs/new/
+Disallow: /*/support-requests/new/
+Disallow: /*/patches/new/
+Disallow: /*/feature-requests/new/
+Disallow: /*/tickets/new/
 Disallow: /projects/*/files/*/stats/timeline
 Disallow: /projects/*/files/stats/timeline
 Disallow: /projects/*/files/*/stats/map

@@ -59,6 +59,8 @@ Disallow: /cricketnext/news/series/*
 Disallow: /cricketnext/series/*
 Disallow: /cricketnext/amp/series/*
 Disallow: /amp/podcast/*
+Disallow: /indiwo/*
+Disallow: /preview/*
 
 Sitemap: https://www.news18.com/web-stories-sitemap-index.xml
 Sitemap: https://www.news18.com/news-googlesitemap.xml

@@ -12,6 +12,7 @@ Disallow: /abbonati.Suspended/
 Disallow: /corcommunitynew/accesso/LogOut.do
 Disallow: /indexMethodeProve.shtml
 
+Disallow: /apw.js
 Disallow: /salute/cardiologia/sintomi-infartosintomi-infarto
 Disallow: /salute/cardiologia/sintomi-infartoheart-attack-symptoms
 Disallow: /salute/cardiologia/sintomi-infartosÃ­ntomas-ataque-cardÃ­aco
@@ -54,6 +55,7 @@ Disallow: /cronache/speciali/2010/maturita/test-universita.shtml
 Disallow: /smallApp/tellafriend/
 Disallow: /*_print.html$
 Disallow: /*.xml
+Allow: 	  /salute/sitemap-dizionario-corriere-salute.xml
 Allow:    /dynamic-sitemap/sitemap-last-100/*.xml
 Allow:    /dynamic-feed/*.xml
 Allow: 	  /cook*sitemap*.xml

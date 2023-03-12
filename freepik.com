@@ -29,6 +29,7 @@ Disallow: /blog-old
 Disallow: /language-switch/?currentPath
 Disallow: /_ga
 Disallow: /photo-editor/*
+Disallow: /blog/?s=
 
 # Google AdSense
 User-agent: Mediapartners-Google

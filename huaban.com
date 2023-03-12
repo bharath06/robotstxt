@@ -32,20 +32,13 @@ Disallow: /login/
 Disallow: /cc/*
 Disallow: /*/followers/*
 Disallow:/user/*/pins
-Disallow:/user/*/likes
 Disallow:/user/*/creations
-Disallow:/user/*/tags
+Disallow:/user/*/likes
+Disallow:/user/*/tags/*
 Disallow:/pins/*/similar
-Disallow:/user/*/following
 Disallow:/from/*
 Disallow:/boards/favorite/*
 Disallow:/users/favorite/*
  
 User-agent: YandexBot
 Disallow: /
-
-Sitemap: https://huaban.com/sitemap/board-sitemap-index-0.xml
-Sitemap: https://huaban.com/sitemap/user-sitemap-index-0.xml
-Sitemap: https://huaban.com/sitemap/slug-sitemap-index-0.xml
-Sitemap: https://huaban.com/sitemap/explore-sitemap-index-0.xml
-Sitemap: https://huaban.com/sitemap/pin-sitemap-index-0.xml

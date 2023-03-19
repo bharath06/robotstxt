@@ -3,6 +3,7 @@ Disallow: /items/*
 Disallow: /bin/*
 Disallow: /search/*
 Allow: /wholesale.html$
+Allow: /wholesale-page-*.html
 Disallow: /wholesale*
 Disallow: /productdetail/*
 Allow: /api/data_homepage.do

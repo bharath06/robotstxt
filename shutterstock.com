@@ -38,7 +38,6 @@ Allow: */generate/$
 
 Disallow: */search/ris/*
 Disallow: */search/models/*
-Disallow: */search/similar/*
 
 # Editor Images
 Disallow: */editor/image/*

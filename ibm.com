@@ -1,4 +1,4 @@
-# $Id: robots.txt,v 1.97 2022/11/07 19:56:32 jliao Exp goutvenk $
+# $Id: robots.txt,v 1.100 2023/03/16 18:05:04 jliao Exp $
 #
 # This is a file retrieved by webwalkers a.k.a. spiders that 
 # conform to a defacto standard.
@@ -62,7 +62,6 @@ Disallow: /web/portal/software/websphere
 Disallow: /common/austin-summit
 Disallow: /link
 Disallow: /links
-Disallow: /blog/
 Disallow: /web/portal/commerce 
 Disallow: /industries/clients
 Disallow: /standards
@@ -90,6 +89,7 @@ sitemap: https://www.ibm.com/common/ssi/start/sitemap.xml
 sitemap: https://www.ibm.com/content/dam/adobe-cms/IBM_Adobe_Sitemap.xml
 sitemap: https://www.ibm.com/mysupport/s/sitemap.xml
 sitemap: https://www.ibm.com/docs/sitemap.xml
+sitemap: https://www.ibm.com/blog/sitemap_index.xml
 
 User-agent: Fast corporate crawler
 Disallow: //

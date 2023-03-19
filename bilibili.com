@@ -1,4 +1,7 @@
 
+User-agent: *
+Disallow: /medialist/detail/
+
 User-agent: Yisouspider
 Allow: /
 
@@ -29,5 +32,3 @@ Allow: /
 User-agent: PetalBot
 Allow: /
 
-User-agent: *
-Disallow: /

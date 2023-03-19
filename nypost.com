@@ -86,6 +86,10 @@ Disallow: /*?wptouch_preview_theme=
 Disallow: /*&gt;
 Disallow: /?attachment_id=
 Disallow: /affiliate/
+Disallow: /new-york-post-instagram-feed/
+Disallow: /new-york-post-tiktok-feed/
+Disallow: /alexa-new-york-post-instagram-feed/
+Disallow: /alexa-new-york-post-tiktok-feed/
 # Sitemap archive
 Sitemap: https://nypost.com/sitemap-502.xml
 Sitemap: https://nypost.com/sitemap-1865.xml

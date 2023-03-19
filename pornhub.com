@@ -121,10 +121,6 @@ Disallow: /video/privates*
 Disallow: /video/propose_pornstar*
 Disallow: /video/rate*
 Disallow: /video/search*p=*o=*
-Disallow: /video/search?search=*the+hun$
-Disallow: /video/search?search=*the+hun+
-Disallow: /video/search?search=*thehun$
-Disallow: /video/search?search=*thehun+
 Disallow: /video/search_autocomplete*
 Disallow: /wall_player_v2.php
 Disallow: /watch_stream/*

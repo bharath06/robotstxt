@@ -165,9 +165,6 @@ Disallow: /student-offer/
 
 Disallow: /student-offer-epaper/
 
-User-agent:  CCBot
-Disallow: /
-
 Sitemap: https://indianexpress.com/news-sitemap.xml
 
 Sitemap: https://indianexpress.com/image-sitemap.xml

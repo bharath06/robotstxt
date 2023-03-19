@@ -18,6 +18,7 @@ Disallow: /partner/
 Disallow: /reuters$
 Disallow: /reviews/out?
 Disallow: /s?
+Disallow: /sync-domains
 Disallow: /guides/s?
 Disallow: /personal-finance/s?
 Disallow: /search$

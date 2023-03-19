@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /cdn-cgi/
 Disallow: /rpc/index.php?mode=profile_module_illusts&user_id=*&illust_id=*
 Disallow: /ajax/illust/*/recommend/init
 Disallow: *return_to*

@@ -258,6 +258,7 @@ Disallow: /familysearch
 Disallow: /schoolsearch
 Disallow: /yandpage
 Disallow: *maps/covid19*
+Disallow: /promo/market/mobile/app*?from=
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
@@ -535,6 +536,7 @@ Disallow: /familysearch
 Disallow: /schoolsearch
 Disallow: /yandpage
 Disallow: *maps/covid19*
+Disallow: /promo/market/mobile/app*?from=
 
 User-agent: Yandex
 Disallow: /?
@@ -781,6 +783,7 @@ Disallow: /familysearch
 Disallow: /schoolsearch
 Disallow: /yandpage
 Disallow: *maps/covid19*
+Disallow: /promo/market/mobile/app*?from=
 
 User-agent: Googlebot
 Disallow: /$
@@ -1042,6 +1045,7 @@ Disallow: /familysearch
 Disallow: /schoolsearch
 Disallow: /yandpage
 Disallow: *maps/covid19*
+Disallow: /promo/market/mobile/app*?from=
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml

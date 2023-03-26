@@ -44,6 +44,12 @@ Crawl-delay: 3
 User-agent: Seznambot
 Crawl-delay: 5
 
+User-agent: DataForSeoBot
+Crawl-delay: 10
+
+User-agent: Dotbot
+Crawl-delay: 5
+
 User-agent: grapeshot
 Disallow:
 

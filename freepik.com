@@ -31,6 +31,11 @@ Disallow: /_ga
 Disallow: /photo-editor/*
 Disallow: /blog/?s=
 
+Disallow: /videos
+Disallow: /videos/
+Disallow: /free-video/
+Disallow: /premium-video/
+
 # Google AdSense
 User-agent: Mediapartners-Google
 Allow: /search

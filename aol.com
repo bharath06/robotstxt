@@ -25,3 +25,6 @@ Sitemap: https://www.aol.com/sitemaps/aollifestyle-sitemap_index_US_en-US.xml.gz
 Sitemap: https://www.aol.com/sitemaps/aollifestyle-sitemap_googlenewsindex_US_en-US.xml.gz
 Sitemap: https://www.aol.com/sitemaps/aolweather-sitemap_index_US_en-US.xml.gz
 Sitemap: https://www.aol.com/sitemaps/aolweather-sitemap_googlenewsindex_US_en-US.xml.gz
+
+# sitemap path intentional
+Sitemap: https://www.aol.com/products/sitemap.xml

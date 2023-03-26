@@ -175,7 +175,7 @@ Disallow: /
 User-agent: *
 Disallow: /*express/*.mp4$
 
-# XML sitemaps updates per SH05172022
+# XML sitemaps
 Sitemap: https://www.adobe.com/cc-creativecloud.index.xml
 Sitemap: https://www.adobe.com/cc-product.index.xml
 Sitemap: https://www.adobe.com/cc-business.index.xml
@@ -185,25 +185,12 @@ Sitemap: https://www.adobe.com/ppbu-product-sitemap.xml
 Sitemap: https://www.adobe.com/acom-temp.xml
 Sitemap: https://www.adobe.com/dc-howto-sitemap.xml
 
-# Hreflang sitemap SH09072021
-Sitemap: https://www.adobe.com/hreflang_22082017_photoshop-family-s.xml
-Sitemap: https://www.adobe.com/hreflang_22082017_plans-s.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-catalog.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-CC-apps-services1-s.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-CC-apps-services1-s.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-CC-apps-services3-s.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-CC-apps-services4-s.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-CC-apps-services5-s.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-CC-apps-services6-s.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-homepage-s.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-reselllers-s.xml
-Sitemap: https://www.adobe.com/hreflang-sitemap-XD-LR-Dimension-s.xml
-
 # FEDS Publishing Platform
 Sitemap: https://www.adobe.com/hub/sitemap.xml
 
 # CC Express 
 Sitemap: https://www.adobe.com/express/sitemap.xml
+Sitemap: https://www.adobe.com/express/sitemap-seo-templates.xml
 
-#Naver SH09292021
+#Naver
 Sitemap: https://www.adobe.com/naver.index.xml

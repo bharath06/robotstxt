@@ -2,6 +2,8 @@ User-Agent: *
 
 Sitemap: https://unsplash.com/sitemaps/sitemap.xml
 
+Allow: /blog
+
 Disallow: /photos/*/download
 
 Disallow: /de/b/*

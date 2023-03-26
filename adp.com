@@ -43,6 +43,8 @@ Disallow: /spark/contributor/doug-bonderud-2117*
 Disallow: /spark/contributor/nancy-mann-jackson-2123*
 Disallow: /spark/contributor/spark-team-2131*
 Disallow: /spark/handlers/recordView.ashx*
+Disallow: /spark2023
+Disallow: /spark2023/*
 Disallow: /thrive/handlers/recordView.ashx*
 Disallow: /workforce-management/docs/whitepaper/*
 Disallow: /-/media/PDF/Policies/*

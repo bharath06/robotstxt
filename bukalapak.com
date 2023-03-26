@@ -41,6 +41,11 @@ Disallow: /u/*/label/bukamobil
 Disallow: /cdn-cgi/
 Disallow: /site_map/users-*
 Disallow: /reviews/
+Disallow: /westeros/
+Disallow: /track-external-visit/
+Disallow: /westeros_auth_proxies/
+Disallow: /track_external.json/
+Disallow: /404
 Sitemap: https://www.bukalapak.com/sitemap.xml
 Sitemap: https://www.bukalapak.com/sitemap-index-product-0.xml
 Sitemap: https://www.bukalapak.com/sitemap-index-top-keyword-0.xml

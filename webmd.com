@@ -7,3 +7,4 @@ Disallow: /drugs/ReportAbuse.aspx*
 Disallow: */cm/
 Disallow: /Share.aspx*
 Disallow: /mm/
+Disallow: /kapi/

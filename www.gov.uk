@@ -8,9 +8,9 @@ Sitemap: https://www.gov.uk/sitemap.xml
 User-agent: AhrefsBot
 Crawl-delay: 10
 
-# https://www.deepcrawl.com/bot/ makes lots of requests. Ideally
-# we'd slow it down rather than blocking it but it doesn't mention
-# whether or not it supports crawl-delay.
+# https://www.deepcrawl.com/bot/ makes lots of requests. Ideally we'd slow it
+# down rather than blocking it but it doesn't mention whether or not it
+# supports crawl-delay.
 User-agent: deepcrawl
 Disallow: /
 
@@ -21,7 +21,7 @@ Disallow: /
 User-agent: MS Search 6.0 Robot
 Disallow: /
 
-# Google's crawler was sending requests for each variation of query param for the sectors page of licence-finder
-# resulting in millions of requests a day.
+# Google's crawler was sending requests for each variation of query param for
+# the sectors page of licence-finder # resulting in millions of requests a day.
 User-agent: Googlebot
 Disallow: /licence-finder/*

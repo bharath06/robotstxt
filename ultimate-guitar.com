@@ -30,7 +30,6 @@ Disallow: /forum/showthread.php?t=*&goto=*
 Disallow: /forum/archive/index.php?t-*.html
 Disallow: /contribution/contest/index?
 Disallow: /edu
-Disallow: /courses
 Disallow: /components/
 Disallow: /send?
 Disallow: /profile/messages
@@ -41,8 +40,6 @@ Disallow: /tp/
 Disallow: /pro/
 Disallow: /user/auth/
 Disallow: /redirect/away
-Allow: /courses$
-Allow: /courses/blues-guitar$
 Disallow: /courses/section
 
 Sitemap: https://www.ultimate-guitar.com/sitemap.xml

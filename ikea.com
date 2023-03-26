@@ -98,6 +98,8 @@ Disallow: */asisonline/*
 Disallow: */nudge/*
 Disallow: */ces/web/modules/*
 Disallow: *filters=*
+Disallow: */apply-for-finance/fragments/simulator/
+
 
 Clean-param: tag_id&token&storeID&state&locale&id&return_url&lang&uiPlatform&range&itm_campaign
 Clean-param: tduid&ikeacookiekokpopup&type&orderId&sub1&etext

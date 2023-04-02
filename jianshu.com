@@ -30,3 +30,5 @@ Request-rate: 2/1 # load 2 page per 1 seconds
 Crawl-delay: 10
 Allow: /
 
+User-agent: Mediapartners-Google
+Allow: /

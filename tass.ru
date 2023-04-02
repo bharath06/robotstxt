@@ -13,7 +13,7 @@ Disallow: /preview/
 Disallow: /n/
 Disallow: /api
 Disallow: */amp
-Clean-param: nw&following_ch&keepThis&mobile&disableGlobalInfoCollect&spush&utm_test&ref&_gl
+Clean-param: nw&following_ch&keepThis&mobile&disableGlobalInfoCollect&spush&utm_test&ref&_gl&post&amp&mindbox-message-key&utm_
 
 User-agent: Googlebot
 Disallow: /novosti-partnerov

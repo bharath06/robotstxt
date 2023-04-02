@@ -73,6 +73,7 @@ Allow: /page-2158488_50129817$
 Allow: /search*offset=
 Allow: /feed?section=coronavirus$
 Allow: /feed?section=stayhome$
+Allow: /doctor_obninsk
 
 User-agent: Googlebot
 Disallow: /away.php
@@ -143,6 +144,7 @@ Allow: /page-2158488_50129817$
 Allow: /search*offset=
 Allow: /feed?section=coronavirus$
 Allow: /feed?section=stayhome
+Allow: /doctor_obninsk
 
 User-agent: Yandex
 Disallow: /doc*_
@@ -217,4 +219,5 @@ Allow: /page-2158488_50129817$
 Allow: /search*offset=
 Allow: /feed?section=coronavirus$
 Allow: /feed?section=stayhome$
+Allow: /doctor_obninsk
 Clean-param: ref&list&from&rev&anchor&utm_source&utm_medium&utm_campaign

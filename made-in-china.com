@@ -27,6 +27,8 @@ User-agent: *
 Disallow: /cs/
 Disallow: /dt/
 Disallow: /price-search/
+Disallow: /quality-china-product/productSearch
+Disallow: /*html?*
 
 User-agent: SemrushBot
 Disallow: /

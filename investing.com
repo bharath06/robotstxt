@@ -20,6 +20,7 @@ Disallow: /mobile/mobile-redirect
 Disallow: /mobile/footer-redirect
 Disallow: /research/
 Disallow: /brokers2/
+Disallow: /cdn-cgi/
 
 Allow: /members/contributors
 Allow: /research/$

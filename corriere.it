@@ -209,39 +209,27 @@ Allow: /oroscopo/sitemap.xml
 
 Sitemap: https://www.corriere.it/rss/homepage.xml
 Sitemap: https://www.corriere.it/salute/sitemap-dizionario.xml
-Sitemap: https://www.corriere.it/sitemap_100_english.xml
-Sitemap: https://www.corriere.it/sitemap_100_chinese.xml
 Sitemap: https://www.corriere.it/rss/lastvideos.xml
 Sitemap: https://www.corriere.it/rss/sitemap_v2.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Economia.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Scienze.xml
 Sitemap: https://www.corriere.it/rss/sitemap/LiberiTutti.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Moda.xml
-Sitemap: https://www.corriere.it/rss/sitemap/Futura.xml
-Sitemap: https://www.corriere.it/rss/sitemap/Eventi.xml
-Sitemap: https://www.corriere.it/rss/sitemap/SolferinoLibri.xml
-
-
 
 #CORRIERE-452 2018-10-08
 
-Sitemap: https://www.corriere.it/rss/sitemap/Tecnologia.xml
-Sitemap: https://www.corriere.it/rss/sitemap/Animali.xml
-Sitemap: https://www.corriere.it/rss/sitemap/Scuola.xml
-Sitemap: https://www.corriere.it/rss/sitemap/Sette.xml
+Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Tecnologia.xml
+Sitemap: https://www.corriere.it/rss/sitemap/Sette - 7.xml
 Sitemap: https://www.corriere.it/rss/sitemap/BuoneNotizie.xml
 Sitemap: https://www.corriere.it/rss/sitemap/DataRoom.xml
-Sitemap: https://www.corriere.it/rss/sitemap/La-Lettura.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Motori.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Esteri.xml
-Sitemap: https://www.corriere.it/rss/sitemap/Cronache.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Politica.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Spettacoli.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Salute.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Cultura.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Sport.xml
 Sitemap: https://vivimilano.corriere.it/sitemap_index.xml
-Sitemap: https://www.corriere.it/rss/sitemap/Economia.xml
 Sitemap: https://www.corriere.it/cook/sitemap-index.xml
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Tecnologia.xml
 Sitemap: https://www.corriere.it/oroscopo/sitemap.xml

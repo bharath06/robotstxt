@@ -1692,7 +1692,7 @@ Sitemap: https://www.etsy.com/at/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/be/sitemaps/blocklist.xml
 #
-# Hallöchen!#   \
+# What's up?#   \
 #
 #    -----
 #   | . . |

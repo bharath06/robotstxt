@@ -68,11 +68,6 @@ Disallow: /lp/thank-you-reader%
 Disallow: /lp/thank-you-reader?
 Disallow: /lp/thank-you-reader/
 
-Disallow: /resources/case-studies/kempinski$
-Disallow: /resources/case-studies/kempinski%
-Disallow: /resources/case-studies/kempinski?
-Disallow: /resources/case-studies/kempinski/
-
 Disallow: /offers/referral-terms-conditions$
 Disallow: /offers/referral-terms-conditions%
 Disallow: /offers/referral-terms-conditions?

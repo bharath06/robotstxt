@@ -4,6 +4,7 @@ Disallow: /migrate-cookies
 Disallow: /visit/
 Disallow: /*/*/currency-converter/
 Disallow: /*/swift-bic/
+Disallow: /widget
 
 # Stop bots from wasting crawl budget on these parameters
 Disallow: *redirectUrl=*

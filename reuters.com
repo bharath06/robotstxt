@@ -8,7 +8,7 @@ Disallow: /finance/stocks/financialHighlights
 Disallow: /search
 Disallow: /site-search/
 Disallow: /beta
-Disallow: /designtech*
+Disallow: /designtech
 Disallow: /featured-optimize
 Disallow: /energy-test
 Disallow: /article/beta
@@ -17,12 +17,13 @@ Disallow: /sponsored/previewarticle
 Disallow: /test/
 Disallow: /commentary
 Disallow: /news/archive/commentary
-Disallow: /brandfeatures/venture-capital*
+Disallow: /brandfeatures/venture-capital
 Disallow: /journalists/
 Disallow: /assets/siteindex
 Disallow: /article/api/
 Disallow: /practical-law-the-journal/search/
 Disallow: /practical-law-the-journal/contributors/
+Disallow: /fr/
 
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml

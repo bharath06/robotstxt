@@ -216,6 +216,7 @@ Disallow: /personal/marketplace/search/travel-play.html
 Disallow: /personal/marketplace/search/travel-flights.html
 Disallow: /personal/marketplace/search/property-selection.html
 Disallow: /personal/marketplace/search/property-rental.html
+
 Disallow: /personal/marketplace-pilot/search/sitemap-treasures-private-client-2022.html
 Disallow: /personal/marketplace-pilot/search/sitemap-treasures-2022.html
 Disallow: /personal/marketplace-pilot/search/sitemap-posb-2022.html
@@ -314,31 +315,58 @@ Disallow: /Contact/posb/deposits/sb-casa-personal-activation/complete.page
 Disallow: /personal/insurance/accident-health/personal-accident-plans/work-anywhere-protect
 Disallow: /Contact/posb/deposits/posbkids/default.page
 Disallow: /personal/insurance/endowment-with-protection/wealth-accumulation-plans/manulife-smartwealth-ii
+Disallow: /personal/*common-disclaimer.page?url=
 Disallow: /treasures/market-outlook
 Disallow: /Contact/posb/deposits/sb-casa-joint/default.page
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffcashgiftpromo/dbs-staff-cashgift-promo-2023-tnc.pdf
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-faq.pdf
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-tnc.pdf
 Disallow: /personal/investments/invest-and-save.page
-Disallow: /personal/*common-disclaimer.page?url=
+Disallow: /personal/cards/promotions/sg-clr1RE.page
+Disallow: /personal/cards/promotions/sg-clr1TA.page
+Disallow: /personal/cards/promotions/sg-clr2RE.page
+Disallow: /personal/cards/promotions/sg-clr2TA.page
+Disallow: /personal/cards/promotions/sg-clr3RE.page
+Disallow: /personal/cards/promotions/sg-clr3TA.page
+Disallow: /personal/cards/promotions/sg-clr4RE.page
+Disallow: /personal/cards/promotions/sg-clr4TA.page
+Disallow: /personal/cards/promotions/sg-clr5RE.page
+Disallow: /personal/cards/promotions/sg-clr5TA.page
+Disallow: /personal/cards/promotions/sg-clr6RE.page
+Disallow: /personal/cards/promotions/sg-clr6TA.page
+Disallow: /personal/cards/promotions/sg-clr7RE.page
+Disallow: /personal/cards/promotions/sg-clr7TA.page
+Disallow: /personal/cards/promotions/sg-clr8RE.page
+Disallow: /personal/cards/promotions/sg-clr8TA.page
+Disallow: /personal/cards/promotions/sg-clr9RE.page
+Disallow: /personal/cards/promotions/sg-clr9TA.page
+Disallow: /personal/cards/promotions/sg-clr10RE.page
+Disallow: /personal/cards/promotions/sg-clr10TA.page
+Disallow: /personal/cards/promotions/sg-clr11RE.page
+Disallow: /personal/cards/promotions/sg-clr11TA.page
+Disallow: /personal/cards/promotions/sg-vtwlt.page
+Disallow: /personal/cards/promotions/sg-vttrv.page
+Disallow: /personal/cards/promotions/sg-dbsvtmlao.page
+Disallow: /personal/cards/promotions/sg-dbsvtml.page
+Disallow: /personal/cards/promotions/dbs-yuu-card-promo.page
+Disallow: /personal/loans/promotions/dbs-reno-loan-bruno-hotplate-promo.page
+Disallow: /personal/cards/promotions/sg-dbsvtcnew.page
+Disallow: /personal/cards/promotions/sg-dbsvtcao.page
+Disallow: /Contact/dbs/deposits/attestation/default.page
+Disallow: /personal/cards/promotions/sg-clr30.page
+Disallow: /personal/cards/promotions/sg-marsmp5.page
+Disallow: /personal/cards/promotions/sg-marsmp8.page
+Disallow: /personal/cards/promotions/sg-aprsmp5.page
+Disallow: /personal/cards/promotions/sg-aprsmp8.page
+Disallow: /personal/deposits/promotions/paylah-dbs-travel-deals.page
+Disallow: /personal/cards/promotions/sg-ca8apr.page
+Disallow: /personal/cards/credit-cards/dbs-vantage-card-afw-60k.page
+Disallow: /iwov-resources/pdf/deposits/promotions/multiplier-cash-gift/salary-credit-ns-tnc.pdf
+Disallow: /iwov-resources/media/pdf/deposits/salary-credit-nsf-promotion-tnc.pdf
+Disallow: /iwov-resources/pdf/deposits/promotions/sc-may-promo-tnc.pdf
+
 Disallow: /personal/community/*user
-Disallow: /sme/searchresults.page*
-Disallow: /sme/tools/product-finder-result.page
-Disallow: /sme/dbs-forms/*-thank-you$
-Disallow: /sme/survey/form/thank-you$
-Disallow: /sme/dbs/forms/*-thank-you$
-Disallow: /sme/dbs-forms/*-ty$
-Disallow: /sme/dbs-forms/businessclass/*/thank-you.page
-Disallow: /sme/dbs-forms/*thank-you$
-Disallow: /sme/dbs-forms/businessclass/*-thankyou.page
-Disallow: /sme/aics//pdfController.page*
-Disallow: /sme/aics/pdfController.page*
-Disallow: /sme/businessclass/articles/do-not-use*
-Disallow: /sme/businessclass/events/disrupt-at-the-bay/to-be-deleted.page
-Disallow: /sme/businessclass/business-tools-list-old.page
-Disallow: /sme/businessclass/about-us.page-old
-Disallow: /sme/businessclass/events/disrupt-at-the-bay/to-be-deleted.page
-Disallow: /sme/contact-us.page1
+
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/
@@ -351,6 +379,8 @@ User-agent: ia_archiver
 Disallow: /
 User-agent: archive.org_bot
 Disallow: /
+
+
 
 User-agent: AdsBot-Google
 Disallow:
@@ -365,8 +395,5 @@ Sitemap: https://www.dbs.com.sg/sitemap-treasures-2022.xml
 Sitemap: https://www.dbs.com.sg/sitemap-treasures-private-client-2022.xml
 Sitemap: https://www.dbs.com.sg/sitemap-private-banking-2022.xml
 Sitemap: http://www.dbs.com.sg/dbs-sitemap-20211201.xml
-Sitemap: https://www.dbs.com.sg/treasury-and-markets/sitemap.xml
-
-
 
 

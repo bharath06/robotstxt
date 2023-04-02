@@ -31,6 +31,7 @@ Disallow: /_ga
 Disallow: /photo-editor/*
 Disallow: /blog/?s=
 
+Disallow: /_next/
 Disallow: /videos
 Disallow: /videos/
 Disallow: /free-video/

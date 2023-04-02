@@ -30,4 +30,7 @@ Disallow: /subscribe-site-push-notifications
 Disallow: /site-push-notifications/track
 Disallow: /api/*
 
+User-agent: SemrushBot
+Crawl-delay: 5
+
 Sitemap: https://bongacams.com/sitemap.xml

@@ -32,6 +32,8 @@ Disallow: /homemade/readme.html
 Disallow: /homemade/refer/
 Disallow: /international/print/
 Disallow: /international/us/
+Disallow: /international/*?sort=distance
+Disallow: /international/*?sort=date
 Disallow: /*?lang=
 Disallow: /map
 Disallow: /Map
@@ -304,6 +306,7 @@ Sitemap: https://www.realtor.com/realestateandhomes-detail/sitemap-rss-new/rss-n
 Sitemap: https://www.realtor.com/realestateandhomes-detail/sitemap-rss-open-house/rss-open-house-index.xml
 Sitemap: https://www.realtor.com/realestateandhomes-detail/sitemap-rss-price/rss-price-index.xml
 Sitemap: https://www.realtor.com/realestateandhomes-detail/sitemap-rss-sold/rss-sold-index.xml
+Sitemap: https://www.realtor.com/realestateandhomes-detail/sitemap-rss-new-rental/rss-new-rental-index.xml
 Sitemap: https://www.realtor.com/realestateandhomes-detail/sitemap-spec/sitemap-new-homes-ldp-spec-1-index.xml
 Sitemap: https://www.realtor.com/local/sitemaps/district/sitemap-local-district-1-index.xml
 Sitemap: https://www.realtor.com/local/sitemaps/school/sitemap-local-school-1-index.xml

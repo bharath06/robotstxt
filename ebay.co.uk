@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v17.1_UK_DE_February_2023
+# v18_UK_DE_March_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -68,6 +68,7 @@ Disallow: /bfl/
 Disallow: /bgmt/
 Disallow: /blueberry/
 Disallow: /brw/
+Disallow: /c/
 Disallow: /cancel/
 Disallow: /clp/
 Disallow: /clt/store/
@@ -254,6 +255,7 @@ Disallow: /bfl/
 Disallow: /bgmt/
 Disallow: /blueberry/
 Disallow: /brw/
+Disallow: /c/
 Disallow: /cancel/
 Disallow: /clp/
 Disallow: /clt/store/

@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v17.1_COM_February_2023
+# v18_COM_March_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -87,6 +87,7 @@ Disallow: /bin/
 Disallow: /blueberry/
 Disallow: /bo/
 Disallow: /brw/
+Disallow: /c/
 Disallow: /cancel/
 Disallow: /chocolatechip/experience/v1/module_provider
 Disallow: /clp/
@@ -287,6 +288,7 @@ Disallow: /bin/
 Disallow: /blueberry/
 Disallow: /bo/
 Disallow: /brw/
+Disallow: /c/
 Disallow: /cancel/
 Disallow: /chocolatechip/experience/v1/module_provider
 Disallow: /clp/

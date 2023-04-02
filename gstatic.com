@@ -79,6 +79,7 @@ Allow: /identity/accountsettingsactivityweb/
 Allow: /identity/accountsettingssyaf/
 Allow: /images
 Allow: /inproduct_help/chatsupport/
+Allow: /lamda/images/
 Allow: /local/donut/
 Allow: /mapspro/
 Allow: /moderator/static/ux/

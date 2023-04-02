@@ -14,6 +14,9 @@ Disallow: /feed/podcast/*/private/*.rss
 Disallow: /subscribe
 Disallow: /lovestack/*
 Disallow: /p/*/comment/*
+Disallow: /inbox/post/*
+Disallow: /notes/post/*
+Disallow: /profile/*/note/*
 Disallow: /embed
 
 

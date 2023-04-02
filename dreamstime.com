@@ -1,4 +1,8 @@
 ###################################
+# Disallow for ChatGPT
+User-agent: ChatGPT-User
+Disallow: /
+
 # https://www.dreamstime.com/robots.txt and country subdomains
 User-agent: *
 Disallow: /testfl/

@@ -235,8 +235,8 @@ Disallow: /mirror*?*ajax=1*
 
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
-
 Disallow: *maps/covid19*
+Disallow: /support2/*zout_
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*
@@ -477,8 +477,8 @@ Disallow: /mirror/hide
 Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
-
 Disallow: *maps/covid19*
+Disallow: /support2/*zout_
 
 User-Agent: Twitterbot
 Allow: /images
@@ -489,8 +489,8 @@ Disallow: /adult
 
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
-
 Disallow: *maps/covid19*
+Disallow: /support2/*zout_
 
 Sitemap: https://yandex.com.tr/hava/sitemap_index.xml
 Sitemap: https://yandex.com.tr/support/sitemap.xml
@@ -711,8 +711,8 @@ Disallow: /adult
 
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
-
 Disallow: *maps/covid19*
+Disallow: /support2/*zout_
 
 Sitemap: https://yandex.com.tr/hava/sitemap_index.xml
 Sitemap: https://yandex.com.tr/support/sitemap.xml

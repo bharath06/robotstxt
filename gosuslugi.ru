@@ -79,10 +79,9 @@ Allow: /exam_places
 Allow: /socialfund
 Allow: /cybersecurity
 Allow: /bugbounty
-Allow: /600244/1/form$
-Allow: /600361/1/form$
-Allow: /600142/1/form$
-Disallow: *?coid
+Allow: /vkontakte
+Allow: /ebs_verification
+Disallow: *?*oid_*
 
 User-agent: GoogleBot
 Disallow: *2019_08_09_super_services
@@ -191,10 +190,9 @@ Allow: /research
 Allow: /socialfund
 Allow: /cybersecurity
 Allow: /bugbounty
-Allow: /600244/1/form$
-Allow: /600361/1/form$
-Allow: /600142/1/form$
-Disallow: *?coid
+Allow: /vkontakte
+Allow: /ebs_verification
+Disallow: *?*oid_*
 
 User-agent: *
 Disallow: *2019_08_09_super_services
@@ -303,12 +301,11 @@ Allow: /research
 Allow: /socialfund
 Allow: /cybersecurity
 Allow: /bugbounty
-Allow: /600244/1/form$
-Allow: /600361/1/form$
-Allow: /600142/1/form$
-Disallow: *?coid
+Allow: /vkontakte
+Allow: /ebs_verification
+Disallow: *?*oid_*
 
 Clean-param: utm_campaign&utm_source&utm_term&utm_medium&utm_startpage&utm_orderpage&utm_referer&utm_content
-Clean-param: q&special&from&serviceTargetExtId&p&id&contacts&layer&filter&services&_&amp&scroll&uin&referrer&view&organization&region&tab&control&link&pl
+Clean-param: q&special&from&serviceTargetExtId&p&id&contacts&layer&filter&services&scroll&uin&referrer&view&organization&region&tab&control&link&pl&categoryCode&rUrl&tid&rid&children&info_4
 
 Sitemap: https://www.gosuslugi.ru/sitemap/all-sitemap.xml

@@ -1,6 +1,7 @@
 
 User-agent: *
 Disallow: /medialist/detail/
+Disallow: /index.html
 
 User-agent: Yisouspider
 Allow: /

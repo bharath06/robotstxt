@@ -22,6 +22,7 @@ Disallow: /auth
 Disallow: /embed/@
 Disallow: /embed/v2
 Disallow: /embed/curated
+Disallow: /link
 
 User-agent: Bingbot
 Disallow: /discover

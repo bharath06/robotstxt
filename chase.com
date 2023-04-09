@@ -93,6 +93,8 @@ Disallow: /content/dam/chasecom/en/checking/documents/millenium/branches.json
 Disallow: /content/dam/chaseonline/en/legacy/content/secure/chf/document/mortgage_feeschedule.pdf
 Disallow: /content/dam/mobile/en/legacy/documents/legal-docs/
 Disallow: /content/dam/chaseonline/en/legalagreements/
+Disallow: /content/chase-ux/en/structured/module/
+Disallow: /content/chase-ux/es/structured/module/
 Allow: /online/Credit-Cards/disney.htm
 Allow: /online/Home-Lending/mortgages.htm
 Allow: /online/Home-Lending/home-value-estimator.htm

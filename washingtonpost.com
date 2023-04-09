@@ -99,6 +99,7 @@ Disallow: /subscribe/person/
 Disallow: /subscribe/preferenceapi/
 Disallow: /subscribe/subscriptionapi/
 Disallow: /subscribe/user/
+Disallow: /wpost/proxy
 
 User-agent: Twitterbot
 Allow: /posttv-beta/

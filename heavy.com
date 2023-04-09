@@ -123,9 +123,6 @@ Disallow: /tag/没
 Disallow: /tag/公
 Disallow: /tag/从
 
-User-agent: Mediapartners-Google
-Disallow: 
-
 User-agent: *
 Disallow: /wp-admin/
 

@@ -32,7 +32,7 @@ Disallow: /base/login
 Allow: */search/collections
 Allow: */editorial/collections
 Disallow: */collections
-Disallow: /image-generated/*
+Disallow: */image-generated/*
 Disallow: */generate/*
 Allow: */generate/$
 
@@ -76,6 +76,88 @@ Disallow: *?inline=*
 # Disallow User-Agents
 User-agent: CCBot
 Disallow: /
+
+User-Agent: Yandex
+Allow: */image-illustration/*.jpg # Allow Images that match Image ADP paths
+Allow: */image-illustration/*.webp
+Allow: */image-photo/*.jpg
+Allow: */image-photo/*.webp
+Allow: */image-vector/*.jpg
+Allow: */image-vector/*.webp
+Disallow: */image-editorial/* # Disallow Editorial ADPs
+Disallow: */music/track-* # Disallow Music ADPs
+Disallow: */image-illustration/* # Disallow Image ADPs
+Disallow: */image-photo/*
+Disallow: */image-vector/*
+Disallow: */video/clip-* # Disallow Video ADPs
+Allow: */search/login
+Allow: */login$
+Disallow: */login
+Disallow: */base/logout
+Allow: */search/account
+Disallow: */account
+Disallow: /subscribe_success
+Disallow: /download
+Disallow: /checkout
+Disallow: /account_purchase_history.mhtml
+Disallow: /contests
+Allow: */search/portfolio
+Disallow: */portfolio
+Disallow: */editor/template
+Disallow: */editor/design
+Disallow: */editor/search
+Disallow: */video/cart
+Disallow: */video/checkout
+Disallow: */music/cart
+Disallow: */music/user
+Disallow: */music/orders
+Disallow: /web/checkout
+Disallow: /sstk/api/footage/wasabi/*
+Disallow: /studioapi/wasabi/*
+Disallow: /sstk/api/*
+Disallow: /studioapi/*
+Disallow: /feed.mhtml
+Disallow: /nuance-chat.html
+Disallow: /sw/*
+Disallow: /base/login
+Allow: */search/collections
+Allow: */editorial/collections
+Disallow: */collections
+Disallow: /image-generated/*
+Disallow: */generate/*
+Allow: */generate/$
+Disallow: */search/ris/*
+Disallow: */search/models/*
+Disallow: */editor/image/* # Editor Images
+Allow: */editor/image/$
+Disallow: *?a=* # Filters & Query Params
+Disallow: *?action=*
+Disallow: *?age=*
+Disallow: *?apidt=*
+Disallow: *?artist=*
+Disallow: *?artistsExclude=*
+Disallow: *?artistsInclude=*
+Disallow: *?aspect_ratio=*
+Disallow: *?authentic=*
+Disallow: *?bpm=*
+Disallow: *?c=*
+Disallow: *?category=*
+Disallow: *?clear_recent_searches=*
+Disallow: *?color=*
+Disallow: *?cr=*
+Disallow: *?date=*
+Disallow: *?dateShot=*
+Disallow: *?duration=*
+Disallow: *?environment=*
+Disallow: *?ethnicity=*
+Disallow: *?exclude=*
+Disallow: *?fps=*
+Disallow: *?gender=*
+Disallow: *?glid=*
+Disallow: *?height=*
+Disallow: *?id=*
+Disallow: *?include=*
+Disallow: *?inline=*
 
 # Sitemaps
 Sitemap: https://www.shutterstock.com/sitemapz/20211116/image-index.xml

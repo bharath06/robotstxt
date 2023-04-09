@@ -1,5 +1,5 @@
 #   Robots.txt file WebMD
-#   Updated: Mar 2023
+#   Updated: Apr 6 2023
 
 User-agent: *
 Disallow: */search/search_results/
@@ -8,3 +8,6 @@ Disallow: */cm/
 Disallow: /Share.aspx*
 Disallow: /mm/
 Disallow: /kapi/
+Disallow: /click*
+Disallow: /drugs/2/search*
+Disallow: /sponsored/

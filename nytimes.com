@@ -53,6 +53,9 @@ Disallow: /
 User-agent: ia_archiver
 Disallow: /
 
+User-agent: CCBot
+Disallow: /
+
 Sitemap: https://www.nytimes.com/sitemaps/new/news.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/sitemap.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/collections.xml.gz

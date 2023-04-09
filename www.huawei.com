@@ -25,3 +25,4 @@ Disallow: /enterpriseform/
 Disallow: /ilink/
 Disallow: /ucmf/groups/
 Disallow: /mediafiles/*
+Disallow: /us/

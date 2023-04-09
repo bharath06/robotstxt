@@ -7,6 +7,7 @@ Disallow:
 
 User-agent: *
 Disallow: /comment
+Disallow: /feeds/videos.xml
 Disallow: /get_video
 Disallow: /get_video_info
 Disallow: /get_midroll_info

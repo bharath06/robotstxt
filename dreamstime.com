@@ -8,6 +8,8 @@ User-agent: *
 Disallow: /testfl/
 Disallow: /ajax/
 Disallow: /templates/
+Disallow: /new/*.ajax.php
+Disallow: /new/*.tpl.php
 Disallow: /*jump_to
 Disallow: /lightbox-controller.php
 Disallow: /lightbox-model.php

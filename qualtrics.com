@@ -36,9 +36,6 @@ Disallow: /custom_banner/*
 Noindex: /support/search/*
 
 
-Disallow: *$(this).fadeOut();*
-
-
 #WP rules
 disallow: */feed/
 disallow: */rss2/
@@ -65,11 +62,8 @@ Disallow: /hidden/
 Sitemap: https://www.qualtrics.com/hreflang.xml
 Sitemap: https://www.qualtrics.com/uk/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/sitemap_index.xml
-Sitemap: https://www.qualtrics.com/eng/sitemap_index.xml
-Sitemap: https://www.qualtrics.com/support/sitemap_index.xml
+Sitemap: https://www.qualtrics.com/support/sitemap_index.xml 
 Sitemap: https://www.qualtrics.com/blog/sitemap_index.xml
-Sitemap: https://www.qualtrics.com/qualtrics-life/sitemap_index.xml
-Sitemap: https://www.qualtrics.com/community/sitemapindex.xml
 Sitemap: https://www.qualtrics.com/jp/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/fr/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/de/sitemap_index.xml
@@ -81,3 +75,6 @@ Sitemap: https://www.qualtrics.com/partnerships/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/pt-br/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/es-la/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/kr/sitemap_index.xml
+Sitemap: https://www.qualtrics.com/nl/sitemap_index.xml
+Sitemap: https://www.qualtrics.com/hk/sitemap_index.xml
+Sitemap: https://www.qualtrics.com/th/sitemap_index.xml

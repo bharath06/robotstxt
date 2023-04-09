@@ -257,6 +257,3 @@ Disallow: /
 #
 User-Agent: omgili
 Disallow: /
-#
-User-agent: ChatGPT-User
-Disallow: /

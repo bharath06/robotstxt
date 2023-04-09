@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v18_COM_March_2023
+# v18.2_COM_April_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -139,7 +139,9 @@ Disallow: /itm/addToCart
 Disallow: /itm/fetchmodules
 Disallow: /itm/sellerInfoV2
 Disallow: /itm/soi
+Disallow: /itm/variationlogistics
 Disallow: /itm/watch/
+Disallow: /itmhero/
 Disallow: /lit/
 Disallow: /logout
 Disallow: /lst/ng/
@@ -340,7 +342,9 @@ Disallow: /itm/addToCart
 Disallow: /itm/fetchmodules
 Disallow: /itm/sellerInfoV2
 Disallow: /itm/soi
+Disallow: /itm/variationlogistics
 Disallow: /itm/watch/
+Disallow: /itmhero/
 Disallow: /lit/
 Disallow: /logout
 Disallow: /lst/ng/
@@ -446,7 +450,6 @@ Disallow: /srv/
 User-agent: Twitterbot
 Disallow: /*src=urllib
 Disallow: /srv/
-
 
 
 # PRP Sitemaps

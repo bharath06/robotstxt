@@ -11,6 +11,7 @@ Disallow: /audio.html/
 Disallow: /houseads/
 Disallow: /askhome/
 Disallow: /t2opt/
+Disallow: /browse-2/
 
 Allow: /
 Sitemap: https://www.thesaurus.com/sitemap-thes-index.xml

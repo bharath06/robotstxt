@@ -208,7 +208,7 @@ Allow: /editorspicks/
 Allow: /oroscopo/sitemap.xml
 
 Sitemap: https://www.corriere.it/rss/homepage.xml
-Sitemap: https://www.corriere.it/salute/sitemap-dizionario.xml
+Sitemap: https://www.corriere.it/salute/sitemap-dizionario-corriere-salute.xml 
 Sitemap: https://www.corriere.it/rss/lastvideos.xml
 Sitemap: https://www.corriere.it/rss/sitemap_v2.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Economia.xml
@@ -219,6 +219,7 @@ Sitemap: https://www.corriere.it/rss/sitemap/Moda.xml
 #CORRIERE-452 2018-10-08
 
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Tecnologia.xml
+Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Offerte-recensioni.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Sette - 7.xml
 Sitemap: https://www.corriere.it/rss/sitemap/BuoneNotizie.xml
 Sitemap: https://www.corriere.it/rss/sitemap/DataRoom.xml

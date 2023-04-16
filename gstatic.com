@@ -11,6 +11,7 @@ Allow: /_/compare-banking/
 Allow: /_/compare-insurance/
 Allow: /_/fi/
 Allow: /_/fonts/
+Allow: /_/mss/boq-bard-web/
 Allow: /_/mss/boq-chrome-cloudcast/
 Allow: /_/mss/boq-geo/
 Allow: /_/mss/boq-nbu-monetization/

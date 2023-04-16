@@ -60,4 +60,13 @@ Disallow: /pools/c/*
 Disallow: /*/claim-money?*
 Disallow: /*/hub?category=*
 Disallow: /*/fundraiser/charity/*
+Disallow: /auth/createchallenge
+Disallow: /graphql?
+Disallow: /muse/identity/v2/identity.js
+Disallow: /sdk/js
+Disallow: /smart/button
+Disallow: /smart/buttons
+Disallow: /tagmanager/containers/xo
+Disallow: /tagmanager/pptm.js
+Disallow: /xoplatform/logger/api/logger
 Sitemap: https://www.paypal.com/paypal-sitemap-index.xml

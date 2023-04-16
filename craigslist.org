@@ -6,4 +6,4 @@ Disallow: /flag
 Disallow: /mf
 Disallow: /mailflag
 Disallow: /eaf
-Sitemap: https://craigslist.org/sitemap_index.xml
+

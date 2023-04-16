@@ -276,6 +276,7 @@ Allow: /js/
 Disallow: /nonprofits/account/
 Disallow: /fbx
 Disallow: /uviewer
+Disallow: /landing/cmsnext-root/
 
 # AdsBot
 User-agent: AdsBot-Google

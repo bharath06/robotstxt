@@ -266,6 +266,7 @@ Disallow: /hi-in/
 Disallow: /tables
 Disallow: /zh-hant/
 Disallow: /procurement/
+Disallow: /start/
 
 User-agent: Googlebot-Image
 

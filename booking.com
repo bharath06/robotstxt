@@ -407,6 +407,7 @@ Disallow: /region_attractions
 Disallow: /*city_bookings
 Disallow: /*nofollow=1
 Disallow: /flexiproduct
+Disallow: /asapi/*
 Disallow: /js_errors
 Disallow: /js_tracking
 Disallow: /join_js_tracking

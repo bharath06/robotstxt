@@ -3,6 +3,8 @@ Disallow: /~/
 Disallow: /slideshow/*/lead-form
 Disallow: /*/leads/*/show_form.html
 Disallow: /*/leads/*/jsplayer_show_lead_form.html
+Disallow: /*/followers/
+Disallow: /*/following/
 Disallow: /business/leads/show_form.html
 Disallow: /business/leads/jsplayer_show_lead_form.html
 Disallow: /account/
@@ -26,11 +28,6 @@ Disallow: /share/
 Disallow: /slideshow/embed_code/
 Disallow: /uploads/
 Disallow: /nextjs/
-
-User-agent: bingbot
-Disallow: /*/followers/
-Disallow: /*/following/
-Disallow: /latest/*
 
 User-agent: archive.org_bot
 Disallow: /w/*

@@ -29,3 +29,8 @@ Disallow: */profile/activation
 Disallow: */watchlist
 Disallow: */history
 Disallow: */crunchylists
+Disallow: /create_review
+Disallow: /editarticle*
+Disallow: /edit_article*
+Disallow: /newpoll
+Disallow: /editgroup

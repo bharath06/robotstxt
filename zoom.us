@@ -6,5 +6,23 @@ Disallow: /docs/doc/2-Page-All-Products.pdf
 Disallow: /docs/doc/zoom-apps-security-privacy-faq.pdf
 Disallow: /docs/doc/zoom-apps-data-management.pdf
 Disallow: /j/*
+Disallow: /wc/*
+Disallow: /web/*
+Disallow: /share*
+Disallow: /support*
+Disallow: /z/*
+Disallow: /s/*
+Disallow: /u/*
+Disallow: /w/*
+Disallow: /e/*
+Disallow: /account*
+Disallow: /start*
+Disallow: /postattendee*
+Disallow: /rec/*
+Disallow: /register*
+Disallow: /webinar/register/*
+Disallow: /meeting/register/*
+Disallow: /*oauth_signin
+Disallow: /my/*
 
 Sitemap: http://zoom.us/sitemap.xml

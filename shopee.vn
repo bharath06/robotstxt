@@ -44,6 +44,7 @@ Disallow: /search?category=*.tv
 Disallow: /search?category=*.xyz
 Disallow: /search?category=*ãCom
 Disallow: /search?category=*Â·COM
+Disallow: *utm_source
 
 User-Agent:*
 Disallow: /cart/

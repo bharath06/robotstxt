@@ -12,6 +12,11 @@ Disallow:/api/
 Disallow:/v/
 Disallow:/mindmap/
 Disallow:/diagraming/
+Disallow:/assets/
+Disallow:/scripts_bin/
+Disallow:/chart_image/
+Disallow:/sepcial/
+Disallow:/public/
 Allow:https://pc-gray.processon.com/robots.txt
 Allow:https://app.processon.com/robots.txt
 Allow:https://pc-test.processon.com/robots.txt

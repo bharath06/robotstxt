@@ -33,6 +33,7 @@ Disallow: *?sp_atk=
 Disallow: /search_user
 Disallow: /search?keyword=*.com
 Disallow: /blog/?s=
+Disallow: *utm_source
 
 User-Agent:*
 Crawl-delay:1

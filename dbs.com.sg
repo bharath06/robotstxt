@@ -320,6 +320,10 @@ Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffcashgiftpromo/db
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-faq.pdf
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-tnc.pdf
 Disallow: /personal/help-and-support-incident.page
+Disallow: /personal/Success.page
+Disallow: /personal/SuccessTest.page
+Disallow: /personal/cards/promotions/sg-ca8apr.page
+Disallow: /iwov-resources/pdf/cards/visapaywave-tre.pdf
 Disallow: /personal/investments/invest-and-save.page
 Disallow: /personal/*common-disclaimer.page?url=
 Disallow: /personal/community/*user
@@ -344,6 +348,7 @@ Disallow: /personal/insurance/growth/default.page
 Disallow: /personal/insurance/home/default.page
 Disallow: /personal/insurance/lifestyle/default.page
 Disallow: /personal/insurance/dbs-home/default.page
+Disallow: /personal/insurance/accident-health/health-plans/hospital-recovery-cash-plus
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

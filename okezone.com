@@ -2,7 +2,6 @@ User-agent: Googlebot
 User-agent: *
 Disallow: /okezoneid
 Disallow: /jadwalsholat/*
-Disallow: /alquran/*
 Disallow: /php/
 Disallow: /rc.php?*
 Allow: /

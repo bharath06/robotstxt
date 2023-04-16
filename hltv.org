@@ -20,6 +20,9 @@ Disallow: /stats*?*rankingFilter*
 Disallow: /stats*?*bestOf*
 Disallow: /stats*?*maps*
 Disallow: /stats*?*lineup*
+Disallow: /stats*?*gender*
+Disallow: /stats*?*minAge*
+Disallow: /stats*?*maxAge*
 Disallow: /stats/players/career/*?
 Disallow: /blog/*
 Disallow: /download/demo*

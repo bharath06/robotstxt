@@ -3,4 +3,4 @@ Disallow: /portal/*
 Disallow: /panel/*
 Disallow: /agent/*
 Disallow: /recom_video/*
-
+Disallow: /report/*

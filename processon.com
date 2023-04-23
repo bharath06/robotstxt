@@ -17,6 +17,7 @@ Disallow:/scripts_bin/
 Disallow:/chart_image/
 Disallow:/sepcial/
 Disallow:/public/
+Disallow:/login
 Allow:https://pc-gray.processon.com/robots.txt
 Allow:https://app.processon.com/robots.txt
 Allow:https://pc-test.processon.com/robots.txt

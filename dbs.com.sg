@@ -323,6 +323,8 @@ Disallow: /personal/help-and-support-incident.page
 Disallow: /personal/Success.page
 Disallow: /personal/SuccessTest.page
 Disallow: /personal/cards/promotions/sg-ca8apr.page
+Disallow: /personal/deposits/promotions/paylah-dbs-travel-deals.page
+Disallow: /personal/deposits/promotions/paylah-dbs-hari-raya-deals.page
 Disallow: /iwov-resources/pdf/cards/visapaywave-tre.pdf
 Disallow: /personal/investments/invest-and-save.page
 Disallow: /personal/*common-disclaimer.page?url=

@@ -1231,7 +1231,7 @@ Disallow: *.xls
 Disallow: *.doc
 Disallow: *.docx
 Disallow: *.jpg
-
+Allow: /campaigns/summer-bonanza/html/index.html
 User-agent: OmniExplorer_Bot
 Disallow: /
 

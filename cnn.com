@@ -8,6 +8,7 @@ Sitemap: https://edition.cnn.com/sitemaps/news.xml
 Sitemap: https://www.cnn.com/sitemap/article/cnn-underscored.xml
 Sitemap: https://www.cnn.com/sitemap/section/cnn-underscored.xml
 Sitemap: https://www.cnn.com/sitemap/section/politics.xml
+Sitemap: https://www.cnn.com/sitemap/article/opinions.xml
 User-agent: *
 Allow: /partners/ipad/live-video.json
 Disallow: /*.jsx$
@@ -16,6 +17,7 @@ Disallow: /*.jsx/
 Disallow: *.jsx?
 Disallow: /ads/
 Disallow: /aol/
+Disallow: /api/
 Disallow: /beta/
 Disallow: /browsers/
 Disallow: /cl/

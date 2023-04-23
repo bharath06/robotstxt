@@ -61,6 +61,12 @@ Disallow: /tr/widget_bileşeni
 Disallow: /vi/tiện_ích_widget
 Disallow: /zh-tw/工具組件
 Disallow: /zh/工具组件
+Disallow: /account/candy
+Disallow: /account/my-rewards
+Disallow: */developers/
+Disallow: /account/subscriptions
+Disallow: /account/security
+Disallow: /apk
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml

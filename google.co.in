@@ -216,6 +216,7 @@ Disallow: /ads/plan/api/
 Disallow: /ads/hotels/partners
 Disallow: /phone/compare/?
 Disallow: /travel/clk
+Disallow: /travel/flights/s/
 Disallow: /hotelfinder/rpc
 Disallow: /hotels/rpc
 Disallow: /commercesearch/services/

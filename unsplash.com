@@ -4,6 +4,8 @@ Sitemap: https://unsplash.com/sitemaps/sitemap.xml
 
 Allow: /blog
 
+Allow: /backgrounds
+
 Disallow: /photos/*/download
 
 Disallow: /de/b/*

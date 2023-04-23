@@ -23,7 +23,6 @@ Disallow: /*/structures
 Disallow: /*/metrics
 Disallow: /platform/contextual
 Disallow: /articles/*.ris
-Disallow: /nature-index/
 Disallow: /nature-index/article-api/
 Disallow: /nature-index/articles/saudi-arabia
 Disallow: /nature-index/articles/saudi-arabia-altmetric

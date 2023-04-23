@@ -11,3 +11,4 @@ Disallow: /seo/for/*?*draft
 Disallow: /blog/top-bing-searches/
 Disallow: /blog/top-youtube-searches/
 Disallow: /academy/*?*draft
+Disallow: /team-new

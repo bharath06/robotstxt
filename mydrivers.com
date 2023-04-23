@@ -1,5 +1,5 @@
-# robots.txt for http://www.mydrivers.com/
+# robots.txt for https://www.mydrivers.com/
 
 User-agent: *
-Sitemap: http://www.mydrivers.com/sitemap.xml
+Sitemap: https://www.mydrivers.com/sitemap.xml
 Disallow:

@@ -9,6 +9,7 @@ Disallow: */sitemap_gpdc.xml
 Disallow: */?category*
 Disallow: */content/usergenerated/asi/mongo/content/sites/activitystreams/activities/community/*
 Disallow: */search/?q*
+Disallow: */search-results*
 
 User-agent:  AhrefsBot
 Crawl-delay: 10

@@ -31,7 +31,6 @@
 
 
 User-agent: *
-Disallow: /*__*
 
 
 # lp

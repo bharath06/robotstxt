@@ -83,6 +83,8 @@ Allow: /uy/index.html
 Allow: /uy/corporate/contact/
 Allow: /uy/news/
 Allow: /uy/corporate/careers/
+Allow: /industries/innovation-lab/
+Allow: /industries/product-tours/
 Disallow: /asiasouth/
 Disallow: /lad/
 Disallow: /bz/
@@ -148,7 +150,7 @@ Disallow: /search/results?
 Disallow: /search/results/_/
 Disallow: /beehive/
 Disallow: /a/ocom/resources/
-Disallow: /industries/financial-services/ofss/
+Disallow: /financial-services/ofss/
 Disallow: /a/ocom/docs/corporate/pricing/
 Disallow: /us/corporate/oracle-fact-sheet-079219.pdf
 Disallow: /webfolder/branddesigntests/
@@ -156,3 +158,4 @@ Disallow: /assets/oracle-fact-sheet-079219.pdf
 Disallow: /assets/managed-cloud-services-sd-4738082.pdf
 Disallow: /us/corporate/contracts/mcs-iaas-service-desc-3014939.pdf
 Disallow: /us/corporate/contracts/mcs-saas-service-desc-3762902.pdf
+Disallow: /industries/

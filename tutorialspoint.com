@@ -1,9 +1,5 @@
 User-agent: *
-Disallow: /questions/
-Disallow: /listtutorials/
-Disallow: /listtutorial/
-Disallow: /answers/
-Disallow: /suggestions/
+Disallow: /questions/qadmin
 Disallow: /assets/
 Disallow: /video/
 Disallow: /tag/
@@ -13,7 +9,8 @@ Disallow: /logs/
 Disallow: /rate/
 Disallow: /store/
 Disallow: /cgi-bin/
-Disallow: /videotutorials/
+Disallow: /videotutorials/video_course_view.php?*
+Disallow: /videotutorials/course_view.php?*
 Disallow: /*/*_question_bank/
 Disallow: //*/*/*/*/src/
 Sitemap: https://www.tutorialspoint.com/tp.xml

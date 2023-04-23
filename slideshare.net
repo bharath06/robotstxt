@@ -22,7 +22,7 @@ Disallow: /group/
 Disallow: /ia/
 Disallow: /main/
 Disallow: /pingback/
-Disallow: /rss/tag/
+Disallow: /rss/
 Disallow: /search/
 Disallow: /share/
 Disallow: /slideshow/embed_code/

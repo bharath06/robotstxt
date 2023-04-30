@@ -3,6 +3,16 @@
 # Email : jai.sharma[at]naukri.com
 # Edited : Feb 10, 2022
 # Edited : Mar 04, 2022 (sitemaps added)
+# Edited : Apr 25, 2023 (Block ChatGPT)
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ChatGPT
+Disallow: /
+
+User-agent: OpenAI
+Disallow: /
 
 User-agent: *
 

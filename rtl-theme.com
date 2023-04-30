@@ -17,6 +17,7 @@ Allow: /wp-content/*
 Allow: /wp-content/uploads/
 Allow: /wp-content/themes/rtl-theme/upload/uploads/image/*
 Allow: /*?affid=
+Allow: /?utm
 
 # Google Image
 User-agent: Googlebot-Image

@@ -259,12 +259,10 @@ Disallow: /in/einvoice/
 Disallow: /sites/default/files/commandcenter/commandcenter-as-a-service-helpdoc.pdf
 Disallow: /sites/default/files/crm/signup_onboarding_loader.mp4
 Disallow: /sites/zweb/images/crm/signup_onboarding_loader.mp4
-Disallow: /thrive/
 Disallow: /services/
 Disallow: /cliq/cliqtrix/
 Disallow: /hi-in/
 Disallow: /tables
-Disallow: /zh-hant/
 Disallow: /procurement/
 Disallow: /start/
 

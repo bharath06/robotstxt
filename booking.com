@@ -34,6 +34,10 @@ Sitemap: https://www.booking.com/sitembk-attractions-index.xml
 Sitemap: https://www.booking.com/sitembk-beaches-index.xml
 Sitemap: https://www.booking.com/sitembk-beach-holidays-index.xml
 Sitemap: https://www.booking.com/sitembk-cars-index.xml
+Sitemap: https://www.booking.com/sitembk-cars-airport-index.xml
+Sitemap: https://www.booking.com/sitembk-cars-city-index.xml
+Sitemap: https://www.booking.com/sitembk-cars-country-index.xml
+Sitemap: https://www.booking.com/sitembk-cars-region-index.xml
 Sitemap: https://www.booking.com/sitembk-city-index.xml
 Sitemap: https://www.booking.com/sitembk-city-review-index.xml
 Sitemap: https://www.booking.com/sitembk-communities-index.xml
@@ -349,6 +353,11 @@ Allow: /no-booking-fees/index.*
 Allow: /we-speak-your-language/index.*
 Allow: /deals-special-offers/index.*
 Allow: /free-cancellation/index.*
+Disallow: /js_errors
+Disallow: /js_tracking
+Disallow: /c360/v1/track
+Disallow: /squeak
+Disallow: /log_rt_blocks_order
 
 User-agent: AdsBot-Google-Mobile
 Disallow: /s/
@@ -360,6 +369,11 @@ Allow: /no-booking-fees/index.*
 Allow: /we-speak-your-language/index.*
 Allow: /deals-special-offers/index.*
 Allow: /free-cancellation/index.*
+Disallow: /js_errors
+Disallow: /js_tracking
+Disallow: /c360/v1/track
+Disallow: /squeak
+Disallow: /log_rt_blocks_order
 
 User-agent: YaDirectFetcher
 Disallow: /s/

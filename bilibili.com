@@ -33,3 +33,5 @@ Allow: /
 User-agent: PetalBot
 Allow: /
 
+User-agent: *
+Disallow: /

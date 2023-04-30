@@ -1,20 +1,16 @@
 User-agent: Mediapartners-Google
-Disallow: 
 User-agent: *
 Disallow: */start$
 Disallow: */start/$
 Disallow: */start_new/*
 Disallow: */edit$
-Disallow: */join?gc=*
+Disallow: */join/quiz/*
 Disallow: */join/?gc=*
 Disallow: */settings
 Disallow: */flashcards/*
-Noindex: */start$
-Noindex: */start/$
-Noindex: */start_new/*
-Noindex: */edit$
-Noindex: */admin/quiz/homework/*
-Noindex: */quiz/*/edit$
-Noindex: */settings
-Noindex: */print/quiz/*
-Noindex: */organization/*
+Disallow: */admin/quiz/homework/*
+Sitemap: https://quizizz.com/sitemap/e4a0ab82-7275-4efe-968f-quizizz-index/sitemap-list.xml
+Sitemap: https://quizizz.com/sitemap/worksheets.xml
+Sitemap: https://quizizz.com/sitemap/marketing-sitemap.xml
+Sitemap: https://quizizz.com/sitemap/featured-quizzes.xml
+Sitemap: https://quizizz.com/sitemap/topics.xml

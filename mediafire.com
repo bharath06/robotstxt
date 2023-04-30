@@ -9,3 +9,4 @@ Disallow: /myaccount/
 Disallow: /api/
 Disallow: /basicapi/
 Disallow: /filedrop/
+Disallow: /cdn-cgi/

@@ -123,7 +123,6 @@ Disallow: /accountaccess
 Disallow: /AccountAccess
 Disallow: /activate
 Disallow: /Activate
-Disallow: /app
 Disallow: /BillingActivity
 Disallow: /browse
 Disallow: /browse/*

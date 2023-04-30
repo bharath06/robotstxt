@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /*
 
-Sitemap: https://www.espncricinfo.com/sitemap_index.xml
+Sitemap: https://www.espncricinfo.com/sitemap.xml 
 
 
 Disallow: /*wrappertype=print

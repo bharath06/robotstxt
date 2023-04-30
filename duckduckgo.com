@@ -13,6 +13,7 @@ Disallow: /email/
 Allow: /email/$
 Allow: /email/faq
 Allow: /email/privacy-guarantees
+Allow: /email/privacy-terms
 
 User-agent: ia_archiver
 Disallow: /

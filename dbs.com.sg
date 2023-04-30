@@ -325,6 +325,10 @@ Disallow: /personal/SuccessTest.page
 Disallow: /personal/cards/promotions/sg-ca8apr.page
 Disallow: /personal/deposits/promotions/paylah-dbs-travel-deals.page
 Disallow: /personal/deposits/promotions/paylah-dbs-hari-raya-deals.page
+Disallow: /personal/loans/car-loans/loans-carloan-application-redirect.page
+Disallow: /personal/cards/promotions/sg-maysmp5.page
+Disallow: /personal/cards/promotions/sg-maysmp8.page
+Disallow: /personal/loans/sg-rs9.page
 Disallow: /iwov-resources/pdf/cards/visapaywave-tre.pdf
 Disallow: /personal/investments/invest-and-save.page
 Disallow: /personal/*common-disclaimer.page?url=

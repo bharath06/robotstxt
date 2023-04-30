@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v18.2_COM_April_2023
+# v18.3_COM_April_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -105,6 +105,7 @@ Disallow: /ebaylive/host
 Disallow: /ecaptcha/
 Disallow: /edc/
 Disallow: /experience/fic
+Disallow: /explore
 Disallow: /feed/
 Disallow: /fdbk/
 Disallow: /ficapp/
@@ -308,6 +309,7 @@ Disallow: /ebaylive/host
 Disallow: /ecaptcha/
 Disallow: /edc/
 Disallow: /experience/fic
+Disallow: /explore
 Disallow: /feed/
 Disallow: /fdbk/
 Disallow: /ficapp/
@@ -443,7 +445,7 @@ Disallow: /muzik-plak-enstruman
 Disallow: /otomobil-motor-aksesuar
 Disallow: /srv/
 
-User-agent: AdsBot-AdIdxBot
+User-agent: AdIdxBot
 Disallow: /*src=urllib
 Disallow: /srv/
 

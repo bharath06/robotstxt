@@ -6,7 +6,6 @@ User-agent: Mediapartners-Google
 Disallow:
 
 User-agent: *
-Disallow: /sitemap_media_redirect?
 Disallow: */format:thumbnail
 Disallow: /download/
 Disallow: /*/download?

@@ -77,7 +77,6 @@ Disallow: /*/followers
 Disallow: /*/followers/
 Disallow: /*/following
 Disallow: /*/following/
-Disallow: /photos/*
 Disallow: /templates/*/*/?uid=*
 Disallow: /templates/?uid=*
 Allow: /templates/classroom-decoration
@@ -105,7 +104,6 @@ Disallow: /ko_kr/templates/M
 Disallow: /sv_se/mallar/M
 Disallow: /zh_tw/templates/M
 Disallow: /templates/*/MA
-Disallow: /_m2/icons/*
 Disallow: /*/_m2/
 Disallow: /en_oz/
 Disallow: /join/*
@@ -131,7 +129,7 @@ Allow: /
 
 
 
-Sitemap: https://sitemap.canva.com/marketplace_templates/index.xml
-Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
 Sitemap: https://sitemap.canva.com/help_center_pages/index.xml
 Sitemap: https://sitemap.canva.com/marketplace_templates_search_pages/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_templates/index.xml

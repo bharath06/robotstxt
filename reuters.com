@@ -28,7 +28,7 @@ Disallow: /fr/
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml
 SITEMAP: https://www.reuters.com/sitemap_video_index.xml
-SITEMAP: https://www.reuters.com/brandfeature/sitemap
+SITEMAP: https://www.reuters.com/plus/sitemap-index
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-plj-index/?outputType=xml
 SITEMAP: https://www.reuters.com/graphics/sitemap.xml
 

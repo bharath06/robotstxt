@@ -30,3 +30,6 @@ Disallow: /?ivk_sa=*
 Disallow: /?key=*
 Disallow: /?scity=*
 Disallow: /?page=*
+Disallow: /web/boss/*
+Disallow: /web/geek/guide*
+Disallow: /web/geek/recommend*

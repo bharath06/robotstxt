@@ -2,6 +2,11 @@ User-agent: *
 Allow:  /
 
 Disallow: /edu/
+Disallow: /content/experience-fragments/*
+Disallow: *.model.json
+Disallow: /static/chunks/*
+Disallow: /content/mayoclinic/*
+Disallow: /api/*
 
 sitemap: https://www.mayoclinic.org/arabic_condition_consolidated_concepts.xml
 sitemap: https://www.mayoclinic.org/arabic_organization_concepts.xml

@@ -67,6 +67,19 @@ Disallow: */developers/
 Disallow: /account/subscriptions
 Disallow: /account/security
 Disallow: /apk
+Disallow: /*/*/*/bch$
+Disallow: /*/*/*/bits$
+Disallow: /*/*/*/dot$
+Disallow: /*/*/*/eos$
+Disallow: /*/*/*/link$
+Disallow: /*/*/*/ltc$
+Disallow: /*/*/*/sats$
+Disallow: /*/*/*/xag$
+Disallow: /*/*/*/xau$
+Disallow: /*/*/*/xdr$
+Disallow: /*/*/*/xlm$
+Disallow: /*/*/*/xrp$
+Disallow: /*/*/*/yfi$
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml

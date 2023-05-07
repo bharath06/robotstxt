@@ -10,6 +10,9 @@ Disallow: /files/
 Disallow: /php/
 Disallow: /edu/auth/
 Disallow: /edu/rating*?v*
+Disallow: /edu/student/concurs/game_*/
+Disallow: /edu/center/training/*/theme*/minitest/
+Disallow: /edu/center/tts/
 Disallow: /online/base/
 Disallow: /index.html
 Disallow: /cons/rtfcache/
@@ -24,5 +27,4 @@ Disallow: /regbase/static
 Disallow: /fss/
 Disallow: /kniga/
 Clean-param: utm_campaign&utm_source&utm_medium&utm_term&utm_content&yclid&gclid&ts&frame&SEARCHPLUS&_ga&back&bx_sender_conversion_id&div&disableGlobalInfoCollect&mode&ref&last&msclkid&fl
-Clean-param: date_start&date_end&important&vc_select&from&stat&cacheid
-Disallow: /cons/cgi/online.cgi?req=doc;base=EXP;n=630136
+Clean-param: date_start&date_end&important&vc_select&from&stat&cacheid&diff&BASENODE

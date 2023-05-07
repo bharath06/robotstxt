@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: /wp-admin/
+Disallow: /community/
 Disallow: /wp-content/plugins/
 Disallow: /content-override.php
+User-agent: ChatGPT-User
+Disallow: /

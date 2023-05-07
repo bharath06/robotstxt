@@ -86,6 +86,7 @@ Disallow: /kuruma/used/getUCShopMap.asp*
 Disallow: /keitai/smartphone/jump/
 Disallow: /keitai/smartphone/ad/jump/
 Disallow: /mobile_data/world-wifi/jump/
+Disallow: /mobile_data/world-wifi/info/detail/*
 Disallow: /bb/jump/
 Disallow: /bb/ispapply_change.asp*
 Disallow: /bb/ispapply_flets_change.asp*
@@ -181,6 +182,7 @@ Disallow: /kuruma/used/getUCShopMap.asp*
 Disallow: /keitai/smartphone/jump/
 Disallow: /keitai/smartphone/ad/jump/
 Disallow: /mobile_data/world-wifi/jump/
+Disallow: /mobile_data/world-wifi/info/detail/*
 Disallow: /bb/jump/
 Disallow: /bb/ispapply_change.asp*
 Disallow: /bb/ispapply_flets_change.asp*

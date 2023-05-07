@@ -88,6 +88,7 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+Disallow: /arc/outboundfeeds/rss/*
 
 User-agent: grapeshot
 Disallow:

@@ -51,3 +51,5 @@ Sitemap: https://www.usatoday.com/web-sitemap-index.xml
 Sitemap: https://www.usatoday.com/video-sitemap-index.xml
 Sitemap: https://www.usatoday.com/money/blueprint/sitemap.xml
 Sitemap: https://www.usatoday.com/money/blueprint/sitemap-news.xml
+Sitemap: https://www.usatoday.com/betting/sitemap.xml
+Sitemap: https://www.usatoday.com/betting/news-sitemap.xml

@@ -1,5 +1,2 @@
-User-agent: Baiduspider
-Disallow: /
-
-User-agent: baiduspider
+User-agent: * 
 Disallow: /

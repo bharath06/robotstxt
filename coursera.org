@@ -19,3 +19,6 @@ Disallow: /business/xmlrpc.php
 Disallow: /business/wp-content/uploads/ 
 Sitemap: https://www.coursera.org/sitemap.xml
 Sitemap: https://www.coursera.org/coursera-for-business-sitemap.xml
+
+User-agent: CCBot
+Disallow: /

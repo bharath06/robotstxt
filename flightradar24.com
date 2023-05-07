@@ -8,3 +8,4 @@ Disallow: /redir.php
 Disallow: /aircraft-icons/sprite*
 Disallow: /assets/aircraft/*
 Disallow: /multiview/
+Disallow: /cdn-cgi/*

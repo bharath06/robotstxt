@@ -36,6 +36,7 @@ Disallow: /ZCestino/
 Disallow: /prova/
 Disallow: /test/
 Disallow: /test_mf/
+Disallow: /piano-511/
 Disallow: /b2b/
 Disallow: /_template/
 Disallow: /_docs/

@@ -1,12 +1,35 @@
+# SYNC 2023
+# HTTPS  www.alwafd.news
+
+Sitemap: https://www.alwafd.news/sitemaps.xml
+
 User-agent: *
-Disallow: /admin/
-Disallow: /cache/
-Disallow: /clearcache
-Disallow: /printing/
-Disallow: /comments/
-Disallow: /tmp/
-Disallow: /junk/
-Disallow: /css/
-Disallow: /vote/
-Disallow: /article/
-Sitemap: https://alwafd.news/sitemaps/index.xml
+Disallow:
+
+User-agent: Googlebot-Mobile
+Disallow:
+
+User-agent: AdsBot-Google-Mobile
+Disallow:
+
+User-agent: bingbot-mobile
+Disallow:
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: APIs-Google
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+
+Disallow: /reporter/
+Disallow: /_control
+Disallow: /_ctl
+Disallow: /Login.aspx
+Disallow: /_panel

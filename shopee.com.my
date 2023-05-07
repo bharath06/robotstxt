@@ -34,6 +34,18 @@ Disallow: *__classic__=1
 Disallow: /search_user
 Disallow: /blog/?s=
 Disallow: *utm_source
+Disallow: /search?keyword=*.com
+Disallow: /search?keyword=*Â·com
+Disallow: /search?keyword=*.tv
+Disallow: /search?keyword=*.xyz
+Disallow: /search?keyword=*ãCom
+Disallow: /search?keyword=*Â·COM
+Disallow: /search?category=*.com
+Disallow: /search?category=*Â·com
+Disallow: /search?category=*.tv
+Disallow: /search?category=*.xyz
+Disallow: /search?category=*ãCom
+Disallow: /search?category=*Â·COM
 
 User-Agent:*
 Crawl-delay:1

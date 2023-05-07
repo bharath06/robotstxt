@@ -1,6 +1,4 @@
 User-agent: *
-Allow: /search?q=
-Disallow: /*q=
 Disallow: /users/*?
 Disallow: /join/*?
 Disallow: /morelikethis/

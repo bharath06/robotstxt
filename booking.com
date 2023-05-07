@@ -33,7 +33,6 @@ Sitemap: https://www.booking.com/sitembk-articles-index.xml
 Sitemap: https://www.booking.com/sitembk-attractions-index.xml
 Sitemap: https://www.booking.com/sitembk-beaches-index.xml
 Sitemap: https://www.booking.com/sitembk-beach-holidays-index.xml
-Sitemap: https://www.booking.com/sitembk-cars-index.xml
 Sitemap: https://www.booking.com/sitembk-cars-airport-index.xml
 Sitemap: https://www.booking.com/sitembk-cars-city-index.xml
 Sitemap: https://www.booking.com/sitembk-cars-country-index.xml

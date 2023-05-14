@@ -18,9 +18,9 @@ Disallow: /query/
 Disallow: /logging/
 Disallow: /qp/batch_fetch_web/
 Disallow: /client_error/
-Disallow: /*?hl=
 Disallow: /*/comments/
 Disallow: /*/c/
+Disallow: /*/p/
 Disallow: /*/liked_by/
 
 User-agent: DuckDuckBot
@@ -36,9 +36,9 @@ Disallow: /query/
 Disallow: /logging/
 Disallow: /qp/batch_fetch_web/
 Disallow: /client_error/
-Disallow: /*?hl=
 Disallow: /*/comments/
 Disallow: /*/c/
+Disallow: /*/p/
 Disallow: /*/liked_by/
 
 User-agent: ia_archiver
@@ -61,9 +61,9 @@ Disallow: /query/
 Disallow: /logging/
 Disallow: /qp/batch_fetch_web/
 Disallow: /client_error/
-Disallow: /*?hl=
 Disallow: /*/comments/
 Disallow: /*/c/
+Disallow: /*/p/
 Disallow: /*/liked_by/
 
 User-agent: seznambot

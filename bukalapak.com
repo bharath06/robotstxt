@@ -47,9 +47,6 @@ Disallow: /westeros_auth_proxies/
 Disallow: /track_external.json/
 Disallow: /404
 Sitemap: https://www.bukalapak.com/sitemap.xml
-Sitemap: https://www.bukalapak.com/sitemap-index-product-0.xml
-Sitemap: https://www.bukalapak.com/sitemap-index-top-keyword-0.xml
-Sitemap: https://www.bukalapak.com/sitemap-index-new-top-keyword-0.xml
 Sitemap: https://www.bukalapak.com/sitemap-index-user-0.xml
 Sitemap: https://www.bukalapak.com/sitemap-index-tag-page-0.xml
 Sitemap: https://www.bukalapak.com/sitemap-index-top-keyword-0.xml

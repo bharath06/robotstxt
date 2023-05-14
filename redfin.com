@@ -86,6 +86,7 @@ Disallow: /corv/beacon/amp-perf
 Disallow: /selling-plan/*
 Disallow: /buying-analysis/*
 Disallow: /hard-bid/*
+Disallow: /stingray/api/home/details/transit-stops
 Noindex: /edit-facts/*
 Noindex: /homeowner-verification/*
 Sitemap: https://www.redfin.com/agent_sitemap.xml
@@ -141,6 +142,8 @@ Sitemap: https://www.redfin.com/LNP_rental_details_pages.xml
 Sitemap: https://www.redfin.com/PDP_NA_rental_details_pages.xml
 Sitemap: https://www.redfin.com/mf_rental_details_pages.xml
 Sitemap: https://www.redfin.com/sf_rental_details_pages.xml
+Sitemap: https://www.redfin.com/core_rental_details_pages.xml
+Sitemap: https://www.redfin.com/additional_rental_details_pages.xml
 
 User-agent: *
 Allow: /stingray/do/buy
@@ -174,6 +177,7 @@ Allow: /direct
 Allow: /corv/data/environment/
 Disallow: /buy-a-home/start-an-offer?listingId=*
 Disallow: /myredfin/
+Disallow: /groups/accept-invite
 Disallow: /stingray/
 Disallow: /corv/data/
 Noindex: /corv/data/
@@ -236,6 +240,7 @@ Disallow: /hard-bid/*
 Disallow: /redfinnow-questionnaire
 Disallow: /opendoor-questionnaire
 Disallow: /opendoor/confirmation
+Disallow: /stingray/api/home/details/transit-stops
 Noindex: /edit-facts/*
 Noindex: /homeowner-verification/*
 Sitemap: https://www.redfin.com/agent_sitemap.xml
@@ -310,6 +315,7 @@ Disallow: /stingray/do/get-primary-group-summary
 Disallow: /stingray/redfinnow/api/merchandising/info/for/property
 Disallow: /stingray/serviceRequest/sellerConsult/getConsultTime
 Disallow: /tools/api/agents/agentMarket
+Disallow: /stingray/api/home/details/transit-stops
 
 User-agent: google-amphtml
 disallow: */images/ghostTownMap2x

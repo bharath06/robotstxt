@@ -4,6 +4,7 @@ Allow: 		/
 Disallow: 		/ztest/ 
 Disallow: 		/ultimora/24ore/nazionale/news-dettaglio/3688417 
 Disallow: 		/ultimora/24ore/AUTO-IN-CAMBIO-DI-DROGA-13-ARRESTI-DELLA-POLIZIA-DI-PESCARA-(2)/news-dettaglio/3746479 
+Disallow: 		/tv/ 
 Disallow: 		/topics/*?p= 
 Disallow: 		/swf 
 Disallow: 		/static/__sdemo__/ 

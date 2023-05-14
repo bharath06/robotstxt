@@ -42,6 +42,7 @@ disallow: /onlinepayment/*
 disallow: /load/*
 disallow: /additionalinfo/*
 disallow: /mag/readme
+disallow: /personalized-category
 Allow: *?amp=1
 Allow: */mag/*.js
 Allow: */mag/*.css

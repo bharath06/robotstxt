@@ -2,7 +2,9 @@ User-Agent: *
 Disallow: /search/
 Disallow: /search/?q=*
 Disallow: /cdn-cgi/
-Disallow: /dateline/
+Disallow: /dateline*
+Disallow: /author*?page
+Disallow: /tag*?page
 
 User-agent: *
 Allow: /

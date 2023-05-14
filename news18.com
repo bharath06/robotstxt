@@ -12,6 +12,7 @@ Disallow: /blogs/*
 Disallow: /indiwo/*
 Disallow: /preview/*
 Disallow: /series/*
+Disallow: /newstopics/*
 
 Disallow: /ipl-predict-win-contest/
 Disallow: /win-ipl-tickets-contest-2017/

@@ -15,6 +15,9 @@ Allow: /email/faq
 Allow: /email/privacy-guarantees
 Allow: /email/privacy-terms
 
+# Old Privacy page
+Disallow: /2012-privacy-policy
+
 User-agent: ia_archiver
 Disallow: /
 

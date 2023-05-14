@@ -18,6 +18,7 @@ Disallow: /typo/
 Disallow: /read/
 Allow: /log-in$
 Disallow: /log-in?
+Disallow: /wp-login.php
 Disallow: /wp-signup.php
 Disallow: /press-this.php
 Disallow: /remote-login.php
@@ -27,4 +28,4 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-# This file was generated on Sun, 07 May 2023 06:13:59 +0000
+# This file was generated on Sun, 14 May 2023 02:58:59 +0000

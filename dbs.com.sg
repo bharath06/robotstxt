@@ -315,6 +315,7 @@ Disallow: /personal/insurance/accident-health/personal-accident-plans/work-anywh
 Disallow: /Contact/posb/deposits/posbkids/default.page
 Disallow: /personal/insurance/endowment-with-protection/wealth-accumulation-plans/manulife-smartwealth-ii
 Disallow: /treasures/market-outlook
+Disallow: /treasures/investments/invest-and-save-redirect.page
 Disallow: /Contact/posb/deposits/sb-casa-joint/default.page
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffcashgiftpromo/dbs-staff-cashgift-promo-2023-tnc.pdf
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-faq.pdf
@@ -325,6 +326,7 @@ Disallow: /personal/SuccessTest.page
 Disallow: /personal/cards/promotions/sg-ca8apr.page
 Disallow: /personal/deposits/promotions/paylah-dbs-travel-deals.page
 Disallow: /personal/deposits/promotions/paylah-dbs-hari-raya-deals.page
+Disallow: /personal/deposits/promotions/paylah-mothers-day-deals.page
 Disallow: /personal/loans/car-loans/loans-carloan-application-redirect.page
 Disallow: /personal/cards/promotions/sg-maysmp5.page
 Disallow: /personal/cards/promotions/sg-maysmp8.page

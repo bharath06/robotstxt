@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v18.3_COM_April_2023
+# v18.4_COM_May_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -442,11 +442,24 @@ Disallow: /cep-telefonu-ve-aksesuar
 Disallow: /ev-bahce
 Disallow: /giyim-aksesuar
 Disallow: /muzik-plak-enstruman
+Disallow: /nap/
 Disallow: /otomobil-motor-aksesuar
 Disallow: /srv/
 
 User-agent: AdIdxBot
 Disallow: /*src=urllib
+Disallow: /adell-mutfak
+Disallow: /ahu-kadin
+Disallow: /antika-sanat
+Disallow: /arama
+Disallow: /bebek-anne
+Disallow: /bilgisayar-tablet
+Disallow: /cep-telefonu-ve-aksesuar
+Disallow: /ev-bahce
+Disallow: /giyim-aksesuar
+Disallow: /muzik-plak-enstruman
+Disallow: /nap/
+Disallow: /otomobil-motor-aksesuar
 Disallow: /srv/
 
 User-agent: Twitterbot

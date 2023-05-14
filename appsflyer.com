@@ -30,8 +30,9 @@ Disallow: /wp-admin/
 Disallow: /wp-includes/
 Disallow: /gatedpdfs/
 Disallow: /wp-content/
+Disallow: /expired-link/
+Disallow: /signup-error/
 Disallow: */cta/
-Disallow: */infograms/
 Disallow: */blog/login-content-countries/
 Disallow: */blog/outlets/
 Disallow: */blog/industries/

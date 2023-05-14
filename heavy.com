@@ -122,6 +122,7 @@ Disallow: /tag/主
 Disallow: /tag/没
 Disallow: /tag/公
 Disallow: /tag/从
+Disallow: /*%7B%7Burl$
 
 User-agent: *
 Disallow: /wp-admin/

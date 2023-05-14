@@ -43,6 +43,9 @@ Disallow: /sponsor/
 Disallow: /news/sponsors/*
 Disallow: /news/terminal/*
 
+User-agent: Twitterbot
+Allow: /en/news/thp
+
 Sitemap: https://www.bloomberg.com/sitemap.xml
 Sitemap: https://www.bloomberg.com/feeds/sitemap_news.xml
 Sitemap: https://www.bloomberg.com/feeds/bbiz/sitemap_index.xml

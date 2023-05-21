@@ -19,6 +19,7 @@ Disallow: /live-score/v2/*
 Disallow: /sex-survey-2012/*
 Disallow: /sex-survey-2013/*
 Disallow: /story/?sId*
+Disallow: /custom-search/
 # Files
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php

@@ -5,7 +5,3 @@ Disallow: /wp-admin
 Disallow: /wp-includes
 Sitemap: https://www.in.gr/sitemap.xml
 Sitemap: https://www.in.gr/wp-content/uploads/json/sitemap-news.xml
-
-User-agent: itm-sonar,axios
-Allow: /
-Crawl-delay: 60

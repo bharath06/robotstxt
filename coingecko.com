@@ -80,6 +80,12 @@ Disallow: /*/*/*/xdr$
 Disallow: /*/*/*/xlm$
 Disallow: /*/*/*/xrp$
 Disallow: /*/*/*/yfi$
+Disallow: *?ref=wticker
+Disallow: *?depth=
+Disallow: *?sort_by=
+Disallow: *?top=
+Disallow: *?time=
+Disallow: *?TRUE
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml

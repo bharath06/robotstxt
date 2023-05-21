@@ -90,6 +90,3 @@ Sitemap: https://www.india.com/special-sitemap.xml
 Sitemap: https://www.india.com/ifsc-code-sitemap.xml
 Sitemap: https://www.india.com/sitemap-topic.xml
 Sitemap: https://www.india.com/travel/sitemap.xml
-Sitemap: https://www.india.com/sitemap-webstory-english.xml
-Sitemap: https://www.india.com/sitemap-webstory-hindi.xml
-Sitemap: https://www.india.com/sitemap-webstory-marathi.xml

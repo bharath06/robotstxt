@@ -39,5 +39,25 @@ Disallow: /load_homepage_podcast_ajax.html
 Disallow: /photogallery_widget_ajax.html
 Disallow: /microsite/itsnotokay/ajax/video-consumption.php
 
+Disallow: /byline/*/videos/*
+Disallow: /byline/*/news/*
+Disallow: /byline/*/photos/*
+Disallow: /amp/amp/*
+Disallow: /search.php*
+Disallow: /cricketnext/search/*
+Disallow: /news18_revamp/*
+
+Disallow: /india-*/page-*/$
+Disallow: /*-india/page-*/$
+Disallow: /*-india-*/page-*/$
+Disallow: /*-world-*/page-*/$
+Disallow: /sports_2/page-*/$
+Disallow: /topics/*.html$
+Disallow: /topics/*/page-*/$
+Disallow: /topics/*/news/$
+Disallow: /topics/*/videos/$
+Disallow: /cricketnext/videos/series/*/page-*/news18.com/*/page-*/
+Disallow: /topics/*/photos/$
+
 
 Sitemap: https://www.news18.com/news-googlesitemap.xml

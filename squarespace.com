@@ -44,6 +44,7 @@ Allow: /templates/
 Allow: /tour$
 Allow: /tour/
 Allow: /api/v1/marketplace/designers/*/$
+Allow: /api/extensions/1.0/extensions/
 Disallow: /offers$
 Disallow: /offers/*
 Disallow: /press-coverage/?offset=*
@@ -105,6 +106,7 @@ Allow: /templates/
 Allow: /tour$
 Allow: /tour/
 Allow: /api/v1/marketplace/designers/*/$
+Allow: /api/extensions/1.0/extensions/
 Disallow: /offers$
 Disallow: /offers/*
 Disallow: /press-coverage/?offset=*
@@ -166,6 +168,7 @@ Allow: /templates/
 Allow: /tour$
 Allow: /tour/
 Allow: /api/v1/marketplace/designers/*/$
+Allow: /api/extensions/1.0/extensions/
 Disallow: /offers$
 Disallow: /offers/*
 Disallow: /press-coverage/?offset=*
@@ -227,6 +230,7 @@ Allow: /templates/
 Allow: /tour$
 Allow: /tour/
 Allow: /api/v1/marketplace/designers/*/$
+Allow: /api/extensions/1.0/extensions/
 Disallow: /offers$
 Disallow: /offers/*
 Disallow: /press-coverage/?offset=*

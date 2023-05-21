@@ -15,7 +15,6 @@ Disallow: /ramadan2016/*
 Disallow: /bola/team/*
 Disallow: /bola/news/read/*
 Disallow: /bola/player/*
-Disallow: /amp/index.php/*
 Disallow: /amp/antv/program
 Disallow: /amp/antv/program/*
 Disallow: /beta-dev/*

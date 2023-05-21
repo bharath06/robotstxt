@@ -1,7 +1,9 @@
-Sitemap: https://www.target.com/sitemap_index.xml.gz
-Sitemap: https://www.target.com/sitemap_image_index.xml.gz
-Sitemap: https://www.target.com/sitemap_video_index.xml.gz
-Sitemap: https://www.target.com/b/sitemap_001.xml.gz
+Sitemap: https://www.target.com/sitemap_keywords-index.xml.gz
+Sitemap: https://www.target.com/sitemap_stores-index.xml.gz
+Sitemap: https://www.target.com/sitemap_taxonomy-categories-index.xml.gz
+Sitemap: https://www.target.com/sitemap_pdp-index.xml.gz
+Sitemap: https://www.target.com/sitemap_taxonomy-brand-index.xml.gz
+Sitemap: https://www.target.com/sitemap_facet-categories-index.xml.gz
 
 User-agent: *
 Disallow: /*/Ntk

@@ -1,5 +1,5 @@
 User-agent: * 
-Disallow:  https://m2.youm7.com
+Disallow:  /https://m2.youm7.com
 
 
 User-agent: Googlebot

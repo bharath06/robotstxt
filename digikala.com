@@ -46,5 +46,8 @@ disallow: /personalized-category
 Allow: *?amp=1
 Allow: */mag/*.js
 Allow: */mag/*.css
+Allow: /?sizes*
+Allow: /?color_palettes*
+Allow: /?attributes*
 
 Sitemap: https://www.digikala.com/sitemap.xml

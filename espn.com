@@ -1,9 +1,6 @@
 # robots.txt for www.espn.com
 
 User-agent: *
-Disallow: */_/scoreboard/
-Disallow: */_/week/
-Disallow: */_/*/year/
 Disallow: */admin/
 Disallow: */boxscore?
 Disallow: */calendar/
@@ -30,26 +27,14 @@ Disallow: /watch/*?*partner=
 Disallow: /watch/*?*redirected=
 Disallow: /watch/_/redirected/*
 Disallow: /watch/*?*om-navmethod=
-Disallow: */player/advancedstats
-Disallow: */player/batvspitch
-Disallow: */player/hollinger
-Disallow: */player/matches
-Disallow: */player/news
-Disallow: */player/splits
-Disallow: */player/stats
-Disallow: */fighter/history
-Disallow: */fighter/stats
 Disallow: */print?id
 Disallow: */printschedule/
 Disallow: */season/200
-Disallow: */seasontype/
-Disallow: */sort/*
 Disallow: */split/
 Disallow: */start/
 Disallow: */swf/
 Disallow: */type/
 Disallow: */util/
-Disallow: */view/
 Disallow: */webslices/
 Disallow: */year/200
 Disallow: /*?ex_cid=

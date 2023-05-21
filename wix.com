@@ -55,6 +55,7 @@ Disallow: /marketplace/hire/*?serviceIds=
 Disallow: /marketplace/hire/*&serviceIds=
 Disallow: /wix-platform
 Disallow: /blog-temp-ru
+Disallow: */fullscreen-page
 
 Sitemap: https://www.wix.com/sitemap.xml
 

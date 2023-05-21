@@ -111,6 +111,9 @@ Disallow: /api
 Disallow: /search
 
 User-agent: bingbot
+# 2021-10-14 - removed crawl-delay for Bingbot. Needs to be re-added if there are any problems.
+# 2021-10-26 - added back
+Crawl-delay: 1
 Allow: /archive
 Allow: /year
 Allow: /list

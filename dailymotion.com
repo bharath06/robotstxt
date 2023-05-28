@@ -103,7 +103,6 @@ Disallow: */en/categories/*
 Disallow: */en/no-ad/*
 Disallow: */opensearch/*
 Disallow: */widget/*
-Disallow: */videozap/*
 
 # Disallow access to old sitemaps (DAILY-63261)
 Disallow: /map-regular.xml
@@ -214,7 +213,6 @@ Disallow: */en/categories/*
 Disallow: */en/no-ad/*
 Disallow: */opensearch/*
 Disallow: */widget/*
-Disallow: */videozap/*
 
 # Disallow access to old sitemaps (DAILY-63261)
 Disallow: /map-regular.xml
@@ -315,7 +313,6 @@ Disallow: */en/categories/*
 Disallow: */en/no-ad/*
 Disallow: */opensearch/*
 Disallow: */widget/*
-Disallow: */videozap/*
 
 # Disallow access to old sitemaps (DAILY-63261)
 Disallow: /map-regular.xml
@@ -425,7 +422,6 @@ Disallow: */en/categories/*
 Disallow: */en/no-ad/*
 Disallow: */opensearch/*
 Disallow: */widget/*
-Disallow: */videozap/*
 
 # Disallow access to old sitemaps (DAILY-63261)
 Disallow: /map-regular.xml
@@ -535,7 +531,6 @@ Disallow: */en/categories/*
 Disallow: */en/no-ad/*
 Disallow: */opensearch/*
 Disallow: */widget/*
-Disallow: */videozap/*
 
 # Disallow access to old sitemaps (DAILY-63261)
 Disallow: /map-regular.xml
@@ -645,7 +640,6 @@ Disallow: */en/categories/*
 Disallow: */en/no-ad/*
 Disallow: */opensearch/*
 Disallow: */widget/*
-Disallow: */videozap/*
 
 # Disallow access to old sitemaps (DAILY-63261)
 Disallow: /map-regular.xml
@@ -756,7 +750,6 @@ Disallow: */en/categories/*
 Disallow: */en/no-ad/*
 Disallow: */opensearch/*
 Disallow: */widget/*
-Disallow: */videozap/*
 
 # Disallow access to old sitemaps (DAILY-63261)
 Disallow: /map-regular.xml

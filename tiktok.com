@@ -23,6 +23,7 @@ Disallow: /embed/@
 Disallow: /embed/v2
 Disallow: /embed/curated
 Disallow: /link
+Disallow: */directory/
 
 User-agent: Bingbot
 Disallow: /discover

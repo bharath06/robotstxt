@@ -290,8 +290,16 @@ Disallow: /maps/api/streetview
 # Crawlers of certain social media sites are allowed to access page markup when google.com/imgres* links are shared. To learn more, please contact images-robots-allowlist@google.com.
 User-agent: Twitterbot
 Allow: /imgres
+Disallow: /search
+Disallow: /groups
+Disallow: /hosted/images/
+Disallow: /m/
 
 User-agent: facebookexternalhit
 Allow: /imgres
+Disallow: /search
+Disallow: /groups
+Disallow: /hosted/images/
+Disallow: /m/
 
 Sitemap: https://www.google.com/sitemap.xml

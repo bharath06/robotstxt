@@ -272,7 +272,7 @@ Disallow: /*
 Allow: /cn/*
 Allow: /cn-k12/*
 
-DaumWebMasterTool:fe46641ef2e4f3f25544ad9d70c6029df24dd184fad54154abaa3c263cf5a09a:DJh5xomiTcQ+2b1qsxHOUA==
+#DaumWebMasterTool:fe46641ef2e4f3f25544ad9d70c6029df24dd184fad54154abaa3c263cf5a09a:h7Tb+WCGBcuKBnKRAHQGEQ==
 
 Sitemap: https://www.apple.com/shop/sitemap.xml
 Sitemap: https://www.apple.com/autopush/robots/compare-sitemap.xml

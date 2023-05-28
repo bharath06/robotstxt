@@ -1,5 +1,4 @@
 User-agent: *
-Sitemap: https://www.repubblica.it/sitemap-n.xml 
 Allow: 		/ 
 Disallow: 		/ultimora/24ore/nazionale/news-dettaglio/3688417 
 Disallow: 		/ultimora/24ore/AUTO-IN-CAMBIO-DI-DROGA-13-ARRESTI-DELLA-POLIZIA-DI-PESCARA-(2)/news-dettaglio/3746479 
@@ -16,11 +15,8 @@ Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/* 
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
-Disallow: 		/economia/2015/07/17/news/gamberale_sea_prosciolto_aggiotaggio-119288507/ 
-Disallow: 		/economia/2014/02/27/news/vendita_sea_chiuse_le_indagini_gamberale_turb_l_asta_per_il_29_della_societ-79790870/ 
 Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
-Disallow: 		/cronaca/2021/03/18/news/eni_congo_risarcimento_corruzione-292778379/ 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
@@ -48,3 +44,46 @@ Disallow: 		/static/__sdemo__/
 Disallow: 		/quotidiano 
 User-agent: Googlebot-News 
 Disallow: 		/la-zampa/ 
+# 
+Sitemap: 		https://www.repubblica.it/sitemap-n.xml 
+# 
+Sitemap: 		https://video.repubblica.it/sitemap-v-day.xml 
+Sitemap: 		https://video.repubblica.it/sitemap-2023-05.xml 
+# 
+Sitemap: 		https://www.repubblica.it/sitemap-moda-e-beauty-n.xml 
+Sitemap: 		https://www.repubblica.it/sitemap-italiantech-n.xml 
+Sitemap: 		https://www.repubblica.it/sitemap-il-gusto-n.xml 
+Sitemap: 		https://www.repubblica.it/sitemap-salute-n.xml 
+Sitemap: 		https://www.repubblica.it/sitemap-green-and-blue-n.xml 
+# 
+Sitemap: 		https://www.repubblica.it/sitemap-dirette-sport-n.xml 
+# 
+Sitemap: 		https://www.repubblica.it/sitemap.xml 
+# 
+Sitemap: 		https://www.repubblica.it/sitemap-moda-e-beauty.xml 
+Sitemap: 		https://www.repubblica.it/sitemap-italiantech.xml 
+Sitemap: 		https://www.repubblica.it/sitemap-il-gusto.xml 
+Sitemap: 		https://www.repubblica.it/sitemap-salute.xml 
+Sitemap: 		https://www.repubblica.it/sitemap-green-and-blue.xml 
+# 
+Sitemap: 		https://bari.repubblica.it/sitemap-n.xml 
+Sitemap: 		https://bologna.repubblica.it/sitemap-n.xml 
+Sitemap: 		https://firenze.repubblica.it/sitemap-n.xml 
+Sitemap: 		https://genova.repubblica.it/sitemap-n.xml 
+Sitemap: 		https://milano.repubblica.it/sitemap-n.xml 
+Sitemap: 		https://napoli.repubblica.it/sitemap-n.xml 
+Sitemap: 		https://palermo.repubblica.it/sitemap-n.xml 
+Sitemap: 		https://parma.repubblica.it/sitemap-n.xml 
+Sitemap: 		https://roma.repubblica.it/sitemap-n.xml 
+Sitemap: 		https://torino.repubblica.it/sitemap-n.xml 
+# 
+Sitemap: 		https://bari.repubblica.it/sitemap.xml 
+Sitemap: 		https://bologna.repubblica.it/sitemap.xml 
+Sitemap: 		https://firenze.repubblica.it/sitemap.xml 
+Sitemap: 		https://genova.repubblica.it/sitemap.xml 
+Sitemap: 		https://milano.repubblica.it/sitemap.xml 
+Sitemap: 		https://napoli.repubblica.it/sitemap.xml 
+Sitemap: 		https://palermo.repubblica.it/sitemap.xml 
+Sitemap: 		https://parma.repubblica.it/sitemap.xml 
+Sitemap: 		https://roma.repubblica.it/sitemap.xml 
+Sitemap: 		https://torino.repubblica.it/sitemap.xml 

@@ -1,9 +1,9 @@
 ï»¿User-agent: * 
 Allow: /1
-Sitemap:http://www.gov.cn/baidu.xml 
-Sitemap:http://www.gov.cn/google.xml
-Sitemap:http://www.gov.cn/bing.xml
-Sitemap:http://www.gov.cn/sogou.xml
+Sitemap:https://www.gov.cn/baidu.xml 
+Sitemap:https://www.gov.cn/google.xml
+Sitemap:https://www.gov.cn/bing.xml
+Sitemap:https://www.gov.cn/sogou.xml
 Disallow:/2016gov/
 Disallow:/2016shuju/
 Disallow:/2016guoqing/

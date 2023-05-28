@@ -11,5 +11,9 @@ Disallow: *task=*
 Disallow: *tmpl=*
 Disallow: /cpnw?*
 Disallow: /stools?*
+Disallow: *preview=*
+Disallow: *print=*
+Disallow: *Itemid=*
+
 
 Sitemap: https://www.delgarm.com/sitemap.xml

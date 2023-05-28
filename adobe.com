@@ -180,17 +180,16 @@ Sitemap: https://www.adobe.com/cc-creativecloud.index.xml
 Sitemap: https://www.adobe.com/cc-product.index.xml
 Sitemap: https://www.adobe.com/cc-business.index.xml
 Sitemap: https://www.adobe.com/dc.index.xml
+Sitemap: https://www.adobe.com/dc.milo.sitemap-index.xml
 Sitemap: https://www.adobe.com/Adobe-non-cloud033120.xml
 Sitemap: https://www.adobe.com/ppbu-product-sitemap.xml
 Sitemap: https://www.adobe.com/acom-temp.xml
-Sitemap: https://www.adobe.com/dc-howto-sitemap.xml
 
 # FEDS Publishing Platform
 Sitemap: https://www.adobe.com/hub/sitemap.xml
 
 # CC Express 
 Sitemap: https://www.adobe.com/express/sitemap.xml
-Sitemap: https://www.adobe.com/express/sitemap-seo-templates.xml
 
 #Naver
 Sitemap: https://www.adobe.com/naver.index.xml

@@ -358,6 +358,9 @@ Disallow: /personal/insurance/home/default.page
 Disallow: /personal/insurance/lifestyle/default.page
 Disallow: /personal/insurance/dbs-home/default.page
 Disallow: /personal/insurance/accident-health/health-plans/hospital-recovery-cash-plus
+Disallow: /personal/mobile/dl/dbs-digibank-mobile-hw.html
+Disallow: /personal/others/digibank-redirect-lv.page
+
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

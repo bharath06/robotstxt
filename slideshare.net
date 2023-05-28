@@ -28,8 +28,8 @@ Disallow: /share/
 Disallow: /slideshow/embed_code/
 Disallow: /uploads/
 Disallow: /nextjs/
-Disallow: /favorites_list/*
-Disallow: /stats?id=*
+Disallow: */favorites_list/*
+Disallow: */stats?id=*
 
 User-agent: archive.org_bot
 Disallow: /w/*

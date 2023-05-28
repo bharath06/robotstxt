@@ -37,6 +37,7 @@ Disallow: /prevnext
 Disallow: /ct
 Disallow: /api
 Disallow: /search
+Disallow: /set_author_id
 Disallow: /show-email
 
 User-agent: Googlebot

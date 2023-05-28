@@ -122,6 +122,7 @@ Disallow: /*/login/verify-email
 
 User-agent: AdsBot-Google
 User-agent: AdsIdxBot
+User-agent: Google-InspectionTool
 Allow: /
 
 User-agent: Twitterbot
@@ -130,6 +131,6 @@ Allow: /
 
 
 Sitemap: https://sitemap.canva.com/marketplace_templates_search_pages/index.xml
-Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
 Sitemap: https://sitemap.canva.com/marketplace_templates/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
 Sitemap: https://sitemap.canva.com/help_center_pages/index.xml

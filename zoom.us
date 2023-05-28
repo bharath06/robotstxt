@@ -21,8 +21,9 @@ Disallow: /postattendee*
 Disallow: /rec/*
 Disallow: /register*
 Disallow: /webinar/register/*
+Disallow: /webinar/registerevent/*
 Disallow: /meeting/register/*
 Disallow: /*oauth_signin
 Disallow: /my/*
 
-Sitemap: http://zoom.us/sitemap.xml
+Sitemap: https://zoom.us/sitemap.xml

@@ -264,6 +264,8 @@ Disallow: /cliq/cliqtrix/
 Disallow: /hi-in/
 Disallow: /tables
 Disallow: /procurement/
+Disallow: /cmstest/
+Disallow: /creativetest/
 
 
 User-agent: Googlebot-Image

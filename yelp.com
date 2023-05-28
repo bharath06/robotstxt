@@ -70,6 +70,7 @@ Disallow: /collections/user
 Disallow: /csp_block
 Disallow: /csp_report_only
 Disallow: /elite?
+Disallow: /email_actions
 Disallow: /events
 Disallow: /events/export/
 Disallow: /facebook_connect

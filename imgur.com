@@ -1,5 +1,8 @@
-# robots
+# IMG-1139
+User-agent: Mediapartners-Google
+Allow: *
 
+# robots
 User-agent: *
 Disallow: /account/
 Disallow: /beta

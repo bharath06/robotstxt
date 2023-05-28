@@ -9,6 +9,11 @@ Disallow: */join/?gc=*
 Disallow: */settings
 Disallow: */flashcards/*
 Disallow: */admin/quiz/homework/*
+Disallow: */en-us/*
+Disallow: */en-in/*
+Disallow: */en-gb/*
+Disallow: */api/*
+Disallow: */_api/*
 Sitemap: https://quizizz.com/sitemap/e4a0ab82-7275-4efe-968f-quizizz-index/sitemap-list.xml
 Sitemap: https://quizizz.com/sitemap/worksheets.xml
 Sitemap: https://quizizz.com/sitemap/marketing-sitemap.xml

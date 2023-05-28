@@ -207,6 +207,7 @@ Allow: /notizie-ultima-ora/sitemap-news.xml
 #richiesta da Ruggiero BG27112011
 Allow: /editorspicks/
 Allow: /oroscopo/sitemap.xml
+Allow: /elezioni/*.xml
 
 Sitemap: https://www.corriere.it/rss/homepage.xml
 Sitemap: https://www.corriere.it/salute/sitemap-dizionario-corriere-salute.xml 
@@ -236,3 +237,4 @@ Sitemap: https://vivimilano.corriere.it/sitemap_index.xml
 Sitemap: https://www.corriere.it/cook/sitemap-index.xml
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Tecnologia.xml
 Sitemap: https://www.corriere.it/oroscopo/sitemap.xml
+Sitemap: https://www.corriere.it/elezioni/sitemap/sitemap.xml

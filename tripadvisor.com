@@ -18,7 +18,6 @@ Sitemap: https://www.tripadvisor.com/sitemap/vr/en_US/sitemap_en_US_rentals_inde
 Sitemap: https://www.tripadvisor.com/sitemap/vr/en_US/sitemap_en_US_vacation_rental_review_index.xml
 Sitemap: https://www.tripadvisor.com/sitemap/vr/en_US/sitemap_en_US_vacation_rentals_index.xml
 Sitemap: https://www.tripadvisor.com/sitemap/vr/en_US/sitemap_en_US_vacation_rentals_near_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/vr/en_US/sitemap_en_US_vr_show_user_reviews_index.xml
 Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attractions_index.xml
 Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attraction_review_index.xml
 Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attraction_product_review_index.xml
@@ -157,10 +156,8 @@ Disallow: /CookiePingback
 Disallow: /CoralEditor
 Disallow: /CostPerClick
 Disallow: /CountryAjax
-Disallow: /CreateListing
 Disallow: /CruisesCommerce
 Disallow: /CruisesPartnerHandoff
-Disallow: /CuratedShelvesPreview
 Disallow: /CurationTool
 Disallow: /DangDangFirstPopup
 Disallow: /DaoDaoEtpassFirstPopup
@@ -181,7 +178,6 @@ Disallow: /Destinations
 Disallow: /developers
 Disallow: /DevMediaRedirector
 Disallow: /DhtmlPopup
-Disallow: /DiningClub
 Disallow: /DiscountGroup
 Disallow: /DisplayMap
 Disallow: /DynamicDeals
@@ -204,6 +200,7 @@ Disallow: /FareCalendar
 Disallow: /FavoriteReviewManagement
 Disallow: /Featured
 Disallow: /FilterState
+Disallow: /FindRestaurants
 Disallow: /FinishAppInstall
 Disallow: /Flights?
 Disallow: /FlightsCommerce
@@ -299,6 +296,7 @@ Disallow: /LinkGenerator
 Disallow: /ListingQuestionsAjax
 Disallow: /LithiumEmptyPage
 Disallow: /LithiumPageNotFound
+Disallow: /LithiumRegController
 Disallow: /LNAjax
 Disallow: /LocationPhotoAlbum
 Disallow: /LocationPhotosInline
@@ -308,7 +306,6 @@ Disallow: /LocationTab
 Disallow: /LocationWidget
 Disallow: /LogMediaClick
 Disallow: /MachineTranslation
-Disallow: /managediningclub
 Disallow: /ManageListing
 Disallow: /ManagementCenter
 Disallow: /ManageOwnersTopReasonsApi
@@ -613,7 +610,6 @@ Disallow: /Owners-
 Disallow: /OwnersDM
 Disallow: /OwnersTermsAndConditions
 Disallow: /OwnerSupport
-Disallow: /OwnerVerification
 Disallow: /OwnerVerifyLocation
 Disallow: /PageMoniker
 Disallow: /pages/rss_terms.html
@@ -648,6 +644,9 @@ Disallow: /PostVideo
 Disallow: /Premium-
 Disallow: /PremiumAjax
 Disallow: /PremiumEdit
+Disallow: /PremiumGuidanceLander
+Disallow: /PremiumGuidanceMatchResults
+Disallow: /PremiumGuidancePayment
 Disallow: /PremiumPlans
 Disallow: /PreviewImage
 Disallow: /PrimaryPhotoMlOptOutTool
@@ -916,6 +915,7 @@ Allow: /js3/ta-mobile
 Allow: /js3/vr-shared
 Allow: /UserReview$
 Allow: /data/*/crosssellaccommodations
+Allow: /data/1.0/bundle
 
 User-Agent: bingbot
 Disallow: /5349
@@ -1036,10 +1036,8 @@ Disallow: /CookiePingback
 Disallow: /CoralEditor
 Disallow: /CostPerClick
 Disallow: /CountryAjax
-Disallow: /CreateListing
 Disallow: /CruisesCommerce
 Disallow: /CruisesPartnerHandoff
-Disallow: /CuratedShelvesPreview
 Disallow: /CurationTool
 Disallow: /DangDangFirstPopup
 Disallow: /DaoDaoEtpassFirstPopup
@@ -1060,7 +1058,6 @@ Disallow: /Destinations
 Disallow: /developers
 Disallow: /DevMediaRedirector
 Disallow: /DhtmlPopup
-Disallow: /DiningClub
 Disallow: /DiscountGroup
 Disallow: /DisplayMap
 Disallow: /DynamicDeals
@@ -1083,6 +1080,7 @@ Disallow: /FareCalendar
 Disallow: /FavoriteReviewManagement
 Disallow: /Featured
 Disallow: /FilterState
+Disallow: /FindRestaurants
 Disallow: /FinishAppInstall
 Disallow: /Flights?
 Disallow: /FlightsCommerce
@@ -1178,6 +1176,7 @@ Disallow: /LinkGenerator
 Disallow: /ListingQuestionsAjax
 Disallow: /LithiumEmptyPage
 Disallow: /LithiumPageNotFound
+Disallow: /LithiumRegController
 Disallow: /LNAjax
 Disallow: /LocationPhotoAlbum
 Disallow: /LocationPhotoDirectLink
@@ -1188,7 +1187,6 @@ Disallow: /LocationTab
 Disallow: /LocationWidget
 Disallow: /LogMediaClick
 Disallow: /MachineTranslation
-Disallow: /managediningclub
 Disallow: /ManageListing
 Disallow: /ManagementCenter
 Disallow: /ManageOwnersTopReasonsApi
@@ -1493,7 +1491,6 @@ Disallow: /Owners-
 Disallow: /OwnersDM
 Disallow: /OwnersTermsAndConditions
 Disallow: /OwnerSupport
-Disallow: /OwnerVerification
 Disallow: /OwnerVerifyLocation
 Disallow: /PageMoniker
 Disallow: /pages/rss_terms.html
@@ -1528,6 +1525,9 @@ Disallow: /PostVideo
 Disallow: /Premium-
 Disallow: /PremiumAjax
 Disallow: /PremiumEdit
+Disallow: /PremiumGuidanceLander
+Disallow: /PremiumGuidanceMatchResults
+Disallow: /PremiumGuidancePayment
 Disallow: /PremiumPlans
 Disallow: /PreviewImage
 Disallow: /PrimaryPhotoMlOptOutTool
@@ -1796,6 +1796,7 @@ Allow: /js3/ta-mobile
 Allow: /js3/vr-shared
 Allow: /UserReview$
 Allow: /data/*/crosssellaccommodations
+Allow: /data/1.0/bundle
 
 
 User-Agent: applebot

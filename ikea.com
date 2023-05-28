@@ -99,6 +99,8 @@ Disallow: */nudge/*
 Disallow: */ces/web/modules/*
 Disallow: *filters=*
 Disallow: */apply-for-finance/fragments/simulator/
+Allow: */clean-energy/electricity/
+Disallow: */electricity/
 
 
 Clean-param: tag_id&token&storeID&state&locale&id&return_url&lang&uiPlatform&range&itm_campaign

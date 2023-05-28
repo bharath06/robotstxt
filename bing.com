@@ -71,6 +71,9 @@ Disallow: /travel/hotel/hotelMiniSearchRequest
 Disallow: /travel/hotel/hotelSearch
 Disallow: /travel/hotels/search?
 Disallow: /travel/hotels/search/?
+Disallow: /travel/hotel-search
+Disallow: /travel/hotels/detail
+Disallow: /travel/hotels/checkout
 Disallow: /travel/scripts
 Disallow: /travel/secure
 Disallow: /url

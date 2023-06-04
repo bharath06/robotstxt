@@ -15,6 +15,7 @@ Disallow: */rss$
 Disallow: */rss2/$
 Disallow: */feed$
 Disallow: /*/coupons/visit/*
+Disallow: /app-route/
 
 Sitemap: https://www.news.com.au/sitemap.xml
 Sitemap: https://www.news.com.au/news-sitemap.xml

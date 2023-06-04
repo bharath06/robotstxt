@@ -15,6 +15,7 @@ Disallow: /creator
 Disallow: /notification
 Disallow: /translate
 Disallow: /zhuanlan
+Disallow: /spost
 
 Sitemap: https://juejin.cn/sitemap/posts/index.xml
 Sitemap: https://juejin.cn/sitemap/user/index.xml

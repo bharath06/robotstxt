@@ -184,6 +184,7 @@ Sitemap: https://www.adobe.com/dc.milo.sitemap-index.xml
 Sitemap: https://www.adobe.com/Adobe-non-cloud033120.xml
 Sitemap: https://www.adobe.com/ppbu-product-sitemap.xml
 Sitemap: https://www.adobe.com/acom-temp.xml
+Sitemap: https://www.adobe.com/gen-ai-sitemap.xml
 
 # FEDS Publishing Platform
 Sitemap: https://www.adobe.com/hub/sitemap.xml

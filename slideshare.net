@@ -30,6 +30,10 @@ Disallow: /uploads/
 Disallow: /nextjs/
 Disallow: */favorites_list/*
 Disallow: */stats?id=*
+Disallow: /ab_tests
+Disallow: /mobile/*
+Disallow: /frontend-track/
+Disallow: /fullscreen/ReportLinker/
 
 User-agent: archive.org_bot
 Disallow: /w/*

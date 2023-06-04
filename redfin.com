@@ -142,6 +142,8 @@ Sitemap: https://www.redfin.com/LNP_rental_details_pages.xml
 Sitemap: https://www.redfin.com/PDP_NA_rental_details_pages.xml
 Sitemap: https://www.redfin.com/mf_rental_details_pages.xml
 Sitemap: https://www.redfin.com/sf_rental_details_pages.xml
+Sitemap: https://www.redfin.com/core_rental_details_pages.xml
+Sitemap: https://www.redfin.com/additional_rental_details_pages.xml
 
 User-agent: *
 Allow: /stingray/do/buy
@@ -294,6 +296,8 @@ Sitemap: https://www.redfin.com/LNP_rental_details_pages.xml
 Sitemap: https://www.redfin.com/PDP_NA_rental_details_pages.xml
 Sitemap: https://www.redfin.com/mf_rental_details_pages.xml
 Sitemap: https://www.redfin.com/sf_rental_details_pages.xml
+Sitemap: https://www.redfin.com/core_rental_details_pages.xml
+Sitemap: https://www.redfin.com/additional_rental_details_pages.xml
 
 User-agent: AdsBot-Google
 Allow: /corv/data/environment/

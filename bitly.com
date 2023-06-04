@@ -8,7 +8,7 @@ Disallow: /pages/pt$
 Disallow: /pages/it$
 Disallow: /pages/de$
 Disallow: /pages/fr$
-Disallow: /pages/home/
+Disallow: /pages/home
 Disallow: /pages/thank-you
 Disallow: /pages/free-plan-refresh-faqs
 Disallow: /blog/*?

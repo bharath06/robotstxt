@@ -327,6 +327,7 @@ Disallow: /personal/cards/promotions/sg-ca8apr.page
 Disallow: /personal/deposits/promotions/paylah-dbs-travel-deals.page
 Disallow: /personal/deposits/promotions/paylah-dbs-hari-raya-deals.page
 Disallow: /personal/deposits/promotions/paylah-mothers-day-deals.page
+Disallow: /personal/deposits/promotions/paylah-dbs-buy-now-pay-later.page
 Disallow: /personal/loans/car-loans/loans-carloan-application-redirect.page
 Disallow: /personal/cards/promotions/sg-maysmp5.page
 Disallow: /personal/cards/promotions/sg-maysmp8.page
@@ -360,6 +361,9 @@ Disallow: /personal/insurance/dbs-home/default.page
 Disallow: /personal/insurance/accident-health/health-plans/hospital-recovery-cash-plus
 Disallow: /personal/mobile/dl/dbs-digibank-mobile-hw.html
 Disallow: /personal/others/digibank-redirect-lv.page
+Disallow: /personal/deposits/promotions/pl-taobao.page
+Disallow: /personal/deposits/promotions/pl-getgo.page
+Disallow: /personal/deposits/promotions/pl-puyt.page
 
 
 # URL Masking Details

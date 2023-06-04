@@ -10,7 +10,9 @@ User-agent: *
 Disallow: /zh/
 Disallow: /einterface/
 Disallow: /search/
+Disallow: /en-gb/search/
 Allow: /search/default.mi
+Allow: /en-gb/search/default.mi
 Disallow: /hotels/newAdaptiveRoomTypePhotoViewer
 Disallow: /reservation/availabilitySearch.mi
 Disallow: /aries-search/

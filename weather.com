@@ -166,7 +166,7 @@ Disallow: /sponsored
 Disallow: /ugc
 Disallow: /sponsored-content
 
-Sitemap: https://weather.com/sitemaps/sitemap.xml
+Sitemap: https://weather.com/en-US/sitemaps/sitemap.xml
 Sitemap: https://weather.com/pt-PT/sitemaps/sitemap.xml
 Sitemap: https://weather.com/de-DE/sitemaps/sitemap.xml
 Sitemap: https://weather.com/fr-FR/sitemaps/sitemap.xml

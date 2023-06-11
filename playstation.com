@@ -3,7 +3,6 @@
 User-agent: *
 
 Disallow: */explore/testing/
-Disallow: */profile.html*
 Disallow: */community/community-score*
 Disallow: */sitemap_gpdc.xml
 Disallow: */?category*

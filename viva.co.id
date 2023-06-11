@@ -9,8 +9,6 @@ Disallow: /enindeks/*
 Disallow: /anindeks/*
 Disallow: /appaux/*
 Disallow: /ramadan2015/*
-Disallow: /bola/team/*
-Disallow: /bola/player/*
 Disallow: /amp/antv/program
 Disallow: /amp/antv/program/*
 Disallow: /beta-dev/*

@@ -1,3 +1,15 @@
+# Common Crawl.
+User-agent: CCBot
+Disallow: /
+
+# OpenAI and related.
+User-agent: OpenAI
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+# Others.
 User-agent: *
 Disallow: /search
 Disallow: /infeed

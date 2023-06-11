@@ -49,6 +49,7 @@ Disallow: /static/button/button1.js
 Disallow: /static/button/button1.html
 Disallow: /static/button/button2.html
 Disallow: /static/button/button3.html
+Disallow: /subreddits/*
 Disallow: /buttonlite.js
 Disallow: /timings/perf
 Disallow: /counters/client-screenview

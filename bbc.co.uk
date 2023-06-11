@@ -1,5 +1,5 @@
 
-# version: b85740d67991b872e60d12572817dc0106edcc30
+# version: 75d49f0bf44dc93af220aa02802ed23bd30ae8e4
 
 # HTTPS www.bbc.co.uk
 
@@ -17,10 +17,13 @@ Sitemap: https://www.bbc.co.uk/sport/sitemap.xml
 Sitemap: https://www.bbc.co.uk/sitemaps/sitemap-uk-topics.xml
 Sitemap: https://www.bbc.co.uk/ideas/sitemap.xml
 
+Disallow: /bitesize/groups/
+Disallow: /bitesize/parents
 Disallow: /bitesize/preview
 Disallow: /bitesize/search$
 Disallow: /bitesize/search/
 Disallow: /bitesize/search?
+Disallow: /bitesize/study-support
 Disallow: /cbbc/search$
 Disallow: /cbbc/search/
 Disallow: /cbbc/search?

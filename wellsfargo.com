@@ -11,6 +11,7 @@ Disallow: /search/
 Disallow: /util/
 Disallow: /wf/product/apply
 Disallow: /locator/api/
+Disallow: /as/target/
 Allow: /search/exit
 
 Sitemap: https://www.wellsfargo.com/seo-sitemap/wellsfargositemap_index.xml

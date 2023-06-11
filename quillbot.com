@@ -8,4 +8,6 @@ Disallow: /app
 Disallow: /api-access
 Disallow: /cdn-cgi/
 Disallow: /abtest
+Disallow: /privacy/old
+Disallow: /desktop-mac
 Disallow: /recovery

@@ -29,11 +29,15 @@ User-Agent: AdsBot-Google
 Allow: /*-fragment.html
 Allow: /ext/
 Allow: *filters=*
+Allow: */monthlyfragments/*
+Allow: */gcbalance/*
 
 User-Agent: AdsBot-Google-Mobile
 Allow: /*-fragment.html
 Allow: /ext/
 Allow: *filters=*
+Allow: */monthlyfragments/*
+Allow: */gcbalance/*
 
 User-agent: *
 Disallow: /compare*
@@ -100,6 +104,9 @@ Disallow: */ces/web/modules/*
 Disallow: *filters=*
 Disallow: */apply-for-finance/fragments/simulator/
 Disallow: */electricity-app/
+Disallow: */watch-fragments/*
+Disallow: */monthlyfragments/*
+Disallow: */gcbalance/*
 
 Clean-param: tag_id&token&storeID&state&locale&id&return_url&lang&uiPlatform&range&itm_campaign
 Clean-param: tduid&ikeacookiekokpopup&type&orderId&sub1&etext

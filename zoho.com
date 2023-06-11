@@ -266,6 +266,8 @@ Disallow: /tables
 Disallow: /procurement/
 Disallow: /cmstest/
 Disallow: /creativetest/
+Disallow: /sites/zweb/images/workplace/pdf/saas-affiliate-marketing.pdf
+Disallow: /sites/zweb/images/workplace/pdf/affiliate-marketing-guide.pdf
 
 
 User-agent: Googlebot-Image

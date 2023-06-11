@@ -364,7 +364,13 @@ Disallow: /personal/others/digibank-redirect-lv.page
 Disallow: /personal/deposits/promotions/pl-taobao.page
 Disallow: /personal/deposits/promotions/pl-getgo.page
 Disallow: /personal/deposits/promotions/pl-puyt.page
-
+Disallow: /personal/msps-specialdeal.page
+Disallow: /personal/insurance-publicofficers.page
+Disallow: /personal/multiplier-tier.page
+Disallow: /personal/insurance-dbs-staff.page
+Disallow: /personal/family-birthdays.page
+Disallow: /personal/cards/promotions/sg-digitalyuu.page
+Disallow: /personal/landing/eposbkids-popular-redemption/index.html
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

@@ -20,6 +20,7 @@ Sitemap: https://kumparan.com/sitemap_channel_woman.xml
 Sitemap: https://kumparan.com/sitemap_channel_bola-sports.xml
 Sitemap: https://kumparan.com/sitemap_channel_bisnis.xml
 Sitemap: https://kumparan.com/sitemap_channel_buzz.xml
+Sitemap: https://kumparan.com/sitemap_channel_bolanita.xml
 Sitemap: https://kumparan.com/sitemap_collection.xml
 
 User-agent: *

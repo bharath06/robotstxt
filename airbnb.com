@@ -1,25 +1,25 @@
-#                      ///////
-#                     //     //
-#                    //       //
-#                   //         //                           ///             ///                      ///
-#                  //           //                                          ///                      ///
-#                 //     ///     //               //// ///  ///  /// ////   /// ////     /// ////    /// ////
-#                //   ///   ///   //            //////////  ///  ////////// ///////////  //////////  ///////////
-#               //   //       //   //          ///     ///  ///  ///        ///      /// ///     /// ///      ///
-#              //    //       //    //        ///      ///  ///  ///        ///      /// ///     /// ///      ///
-#             //      //     //      //        ///     ///  ///  ///        ///     ///  ///     /// ///     ///
-#            //        //   //        //        //////////  ///  ///        //////////   ///     /// //////////
-#            //         /////         //
-#            //         /////         //
-#             //      ///   ///      //
-#               //////         //////
+#              ///////
+#             //     //
+#            //       //
+#           //         //                           ///             ///                      ///
+#          //           //                                          ///                      ///
+#         //     ///     //               //// ///  ///  /// ////   /// ////     /// ////    /// ////
+#        //   ///   ///   //            //////////  ///  ////////// ///////////  //////////  ///////////
+#       //   //       //   //          ///     ///  ///  ///        ///      /// ///     /// ///      ///
+#      //    //       //    //        ///      ///  ///  ///        ///      /// ///     /// ///      ///
+#     //      //     //      //        ///     ///  ///  ///        ///     ///  ///     /// ///     ///
+#    //        //   //        //        //////////  ///  ///        //////////   ///     /// //////////
+#    //         /////         //
+#    //         /////         //
+#     //      ///   ///      //
+#       //////         //////
 #
 #
-#    We thought you'd never make it!
-#    We hope you feel right at home in this file...unless you're a disallowed subfolder.
-#    And since you're here, read up on our culture and team: https://www.airbnb.com/careers/departments/engineering
-#    There's even a bring your robot to work day.
-
+#    Hello bot, engineer, or very lost layperson! Welcome to your stay on the Airbnb site, we're happy to have you as a guest.
+#    If you're a human who likes solving interesting challenges with other humans, check out our careers page: https://www.airbnb.com/careers/departments/engineering
+#    If you're a bot who likes crawling webpages, please mind the house rules and avoid accessing any disallowed subfolders to earn a 5-star review from us.
+#    Either way, thanks for stopping by! There's no need to collect your garbage at the end of your stay - we use Javascript for that.
+#    See you on the next crawl!
 
 User-agent: Googlebot
 Allow: /calendar/ical/
@@ -48,30 +48,27 @@ Disallow: /skeleton/
 Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
 Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/
 Disallow: /update-your-browser
 Disallow: /reservation
-
-        Disallow: /rooms/*/safety
-        Disallow: /rooms/*/reviews
-        Disallow: /rooms/*/photos
-        Disallow: /rooms/*/location
-        Disallow: /rooms/*/house-rules
-        Disallow: /rooms/*/enhanced-cleaning
-        Disallow: /rooms/*/amenities
-        Disallow: /users/show
-        Disallow: /users/*/listings
-        Disallow: /contact_host
-        Disallow: /book
-        Disallow: /stories
-        Disallow: /embeddable
-        Disallow: /guidebooks
-        
-
-
+Disallow: /rooms/*/safety
+Disallow: /rooms/*/reviews
+Disallow: /rooms/*/photos
+Disallow: /rooms/*/location
+Disallow: /rooms/*/house-rules
+Disallow: /rooms/*/enhanced-cleaning
+Disallow: /rooms/*/amenities
+Disallow: /users/show
+Disallow: /users/*/listings
+Disallow: /contact_host
+Disallow: /book
+Disallow: /stories
+Disallow: /embeddable
+Disallow: /guidebooks
 
 User-agent: Bingbot
 Allow: /calendar/ical/
@@ -100,30 +97,27 @@ Disallow: /skeleton/
 Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
 Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/
 Disallow: /update-your-browser
 Disallow: /reservation
-
-        Disallow: /rooms/*/safety
-        Disallow: /rooms/*/reviews
-        Disallow: /rooms/*/photos
-        Disallow: /rooms/*/location
-        Disallow: /rooms/*/house-rules
-        Disallow: /rooms/*/enhanced-cleaning
-        Disallow: /rooms/*/amenities
-        Disallow: /users/show
-        Disallow: /users/*/listings
-        Disallow: /contact_host
-        Disallow: /book
-        Disallow: /stories
-        Disallow: /embeddable
-        Disallow: /guidebooks
-        
-
-
+Disallow: /rooms/*/safety
+Disallow: /rooms/*/reviews
+Disallow: /rooms/*/photos
+Disallow: /rooms/*/location
+Disallow: /rooms/*/house-rules
+Disallow: /rooms/*/enhanced-cleaning
+Disallow: /rooms/*/amenities
+Disallow: /users/show
+Disallow: /users/*/listings
+Disallow: /contact_host
+Disallow: /book
+Disallow: /stories
+Disallow: /embeddable
+Disallow: /guidebooks
 
 User-agent: YandexBot
 Allow: /calendar/ical/
@@ -152,30 +146,27 @@ Disallow: /skeleton/
 Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
 Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/
 Disallow: /update-your-browser
 Disallow: /reservation
-
-        Disallow: /rooms/*/safety
-        Disallow: /rooms/*/reviews
-        Disallow: /rooms/*/photos
-        Disallow: /rooms/*/location
-        Disallow: /rooms/*/house-rules
-        Disallow: /rooms/*/enhanced-cleaning
-        Disallow: /rooms/*/amenities
-        Disallow: /users/show
-        Disallow: /users/*/listings
-        Disallow: /contact_host
-        Disallow: /book
-        Disallow: /stories
-        Disallow: /embeddable
-        Disallow: /guidebooks
-        
-
-
+Disallow: /rooms/*/safety
+Disallow: /rooms/*/reviews
+Disallow: /rooms/*/photos
+Disallow: /rooms/*/location
+Disallow: /rooms/*/house-rules
+Disallow: /rooms/*/enhanced-cleaning
+Disallow: /rooms/*/amenities
+Disallow: /users/show
+Disallow: /users/*/listings
+Disallow: /contact_host
+Disallow: /book
+Disallow: /stories
+Disallow: /embeddable
+Disallow: /guidebooks
 
 User-agent: Baiduspider
 Allow: /calendar/ical/
@@ -204,29 +195,27 @@ Disallow: /skeleton/
 Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
 Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/
 Disallow: /update-your-browser
 Disallow: /reservation
-
-        Disallow: /rooms/*/safety
-        Disallow: /rooms/*/reviews
-        Disallow: /rooms/*/photos
-        Disallow: /rooms/*/location
-        Disallow: /rooms/*/house-rules
-        Disallow: /rooms/*/enhanced-cleaning
-        Disallow: /rooms/*/amenities
-        Disallow: /users/show
-        Disallow: /users/*/listings
-        Disallow: /contact_host
-        Disallow: /book
-        Disallow: /stories
-        Disallow: /embeddable
-        Disallow: /guidebooks
-        
-
+Disallow: /rooms/*/safety
+Disallow: /rooms/*/reviews
+Disallow: /rooms/*/photos
+Disallow: /rooms/*/location
+Disallow: /rooms/*/house-rules
+Disallow: /rooms/*/enhanced-cleaning
+Disallow: /rooms/*/amenities
+Disallow: /users/show
+Disallow: /users/*/listings
+Disallow: /contact_host
+Disallow: /book
+Disallow: /stories
+Disallow: /embeddable
+Disallow: /guidebooks
 
 
 User-Agent: *
@@ -256,29 +245,27 @@ Disallow: /skeleton/
 Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
+Disallow: /.well-known/assetlinks.json
 Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/
 Disallow: /update-your-browser
 Disallow: /reservation
-
-        Disallow: /rooms/*/safety
-        Disallow: /rooms/*/reviews
-        Disallow: /rooms/*/photos
-        Disallow: /rooms/*/location
-        Disallow: /rooms/*/house-rules
-        Disallow: /rooms/*/enhanced-cleaning
-        Disallow: /rooms/*/amenities
-        Disallow: /users/show
-        Disallow: /users/*/listings
-        Disallow: /contact_host
-        Disallow: /book
-        Disallow: /stories
-        Disallow: /embeddable
-        Disallow: /guidebooks
-        
-
+Disallow: /rooms/*/safety
+Disallow: /rooms/*/reviews
+Disallow: /rooms/*/photos
+Disallow: /rooms/*/location
+Disallow: /rooms/*/house-rules
+Disallow: /rooms/*/enhanced-cleaning
+Disallow: /rooms/*/amenities
+Disallow: /users/show
+Disallow: /users/*/listings
+Disallow: /contact_host
+Disallow: /book
+Disallow: /stories
+Disallow: /embeddable
+Disallow: /guidebooks
 
 
 Sitemap: https://www.airbnb.com/sitemap-master-index.xml.gz

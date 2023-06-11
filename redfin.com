@@ -318,6 +318,7 @@ Disallow: /stingray/redfinnow/api/merchandising/info/for/property
 Disallow: /stingray/serviceRequest/sellerConsult/getConsultTime
 Disallow: /tools/api/agents/agentMarket
 Disallow: /stingray/api/home/details/transit-stops
+Disallow: /stingray/ask-a-question/stage/get
 
 User-agent: google-amphtml
 disallow: */images/ghostTownMap2x

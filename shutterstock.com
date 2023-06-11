@@ -73,10 +73,15 @@ Disallow: *?id=*
 Disallow: *?include=*
 Disallow: *?inline=*
 
+Allow: /fi/image-vector/*.jpg
+Allow: /fi/image-vector/*.webp
+Disallow: /fi/image-vector/*
+
 # Disallow User-Agents
 User-agent: CCBot
 Disallow: /
 
+User-Agent: bingbot
 User-Agent: Yandex
 Allow: */image-illustration/*.jpg # Allow Images that match Image ADP paths
 Allow: */image-illustration/*.webp
@@ -160,8 +165,6 @@ Disallow: *?include=*
 Disallow: *?inline=*
 
 # Sitemaps
-Sitemap: https://www.shutterstock.com/sitemapz/20211116/image-index.xml
-Sitemap: https://www.shutterstock.com/sitemapz/20211116/video-index.xml
 Sitemap: https://www.shutterstock.com/sitemaps/image/search-2022/sitemap-image-search-2022-index.xml
 Sitemap: https://www.shutterstock.com/sitemaps/video/search-2022/sitemap-video-search-2022-index.xml
 Sitemap: https://www.shutterstock.com/sitemaps/video/sitemap/sitemap-search-index.xml

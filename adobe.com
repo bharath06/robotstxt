@@ -176,6 +176,7 @@ User-agent: *
 Disallow: /*express/*.mp4$
 
 # XML sitemaps
+Sitemap: https://www.adobe.com/cc.sitemap-index.xml
 Sitemap: https://www.adobe.com/cc-creativecloud.index.xml
 Sitemap: https://www.adobe.com/cc-product.index.xml
 Sitemap: https://www.adobe.com/cc-business.index.xml

@@ -48,6 +48,7 @@ Disallow: /inbox-reputation/*
 Disallow: /inbox-talk
 Disallow: /inbox-talk/*
 Disallow: /inbox-user
+Disallow: /info/logistic/*
 Disallow: /insight/*
 Disallow: /kartu-kredit*?id=*
 Disallow: /membership/*

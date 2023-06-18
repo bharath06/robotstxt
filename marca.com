@@ -15,3 +15,8 @@ Disallow: /encuentros/roberto-palomar/2016/03/29/*
 Disallow: /2012/11/03/en/football/spanish_football/1351965522.html
 Disallow: /2012/11/03/futbol/1adivision/1351945508.html
 Disallow: /rss/google/portada_google_news.xml
+Disallow: /sitemaps/noticia_mx_historico_1ef98b92e830238d3829fec55d1a374c.xml
+Disallow: /sitemaps/video_mx_historico_0f59f568fe5ebc3d7f75aa9d28652a98.xml
+Disallow: /sitemaps/album_mx_historico_3df1b39da91a80192c3f33c7d1be7392.xml
+Disallow: /sitemaps/cronica_mx_historico_543dc740f15ae665522a3b249ddbcb75.xml
+Disallow: /sitemaps/opinion_mx_historico_e86bc13cd21efdba2ccac91e69a4b950.xml

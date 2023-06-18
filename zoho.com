@@ -262,7 +262,6 @@ Disallow: /sites/zweb/images/crm/signup_onboarding_loader.mp4
 Disallow: /services/
 Disallow: /cliq/cliqtrix/
 Disallow: /hi-in/
-Disallow: /tables
 Disallow: /procurement/
 Disallow: /cmstest/
 Disallow: /creativetest/

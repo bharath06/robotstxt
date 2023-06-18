@@ -3,6 +3,7 @@ User-agent: Mozilla/5.0 (compatible; Google-Podcast)
 Disallow: /settings
 Disallow: /logout
 Disallow: /bePatronDone
+Disallow: /productPurchaseDone
 Disallow: /file
 Disallow: /patronNext
 Disallow: /userNext

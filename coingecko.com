@@ -27,8 +27,6 @@ Disallow: /*/render_platform_selector
 Disallow: /omniauth
 Disallow: /ahoy/visits
 Disallow: /geckoterminal/token_is_valid
-Disallow: /*/historical_data*?*end_date
-Disallow: /*/historical_data*?*start_date
 Disallow: /*/portfolios/
 Disallow: /*/alerts
 Disallow: *.xls$
@@ -36,14 +34,6 @@ Disallow: *.csv$
 Disallow: /*/news/load_more
 Disallow: /*/compare-cryptocurrencies?coins
 Disallow: /*/widget_component
-Disallow: /*/ajax/aggregate
-Disallow: /*/page_view_event/aggregate
-Disallow: /*/page_view_timing/aggregate
-Disallow: /*/spa/aggregate
-Disallow: /*/metrics/aggregate
-Disallow: /*/session_trace/aggregate
-Disallow: /*/jserrors/aggregate
-Disallow: /*/page_action/aggregate
 Disallow: /*/render_category_selector
 Disallow: /ar/مكونات_
 Disallow: /de/widgetkomponente
@@ -86,6 +76,8 @@ Disallow: *?sort_by=
 Disallow: *?top=
 Disallow: *?time=
 Disallow: *?TRUE
+Disallow: /*/historical_data*?*end=
+Disallow: /*/historical_data*?*start=
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml

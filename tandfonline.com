@@ -32,6 +32,7 @@ Allow: /action/journalInformation*editorialBoard*
 Allow: /action/journalInformation*journalMetrics*
 Allow: /topic/articlecollection
 Allow: /topic/sections
+Allow: /action/journalInformation*societyInformation*
 
 User-agent: facebookexternalhit
 User-agent: LinkedInBot

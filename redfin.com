@@ -23,7 +23,6 @@ Allow: /stingray/do/buy
 Allow: /stingray/do/home
 Allow: /stingray/do/js
 Allow: /stingray/do/multiget
-Allow: /stingray/do/multicontroller
 Allow: /stingray/do/printable-listing
 Allow: /stingray/do/printable-property
 Allow: /stingray/do/redfin-advantage
@@ -150,7 +149,6 @@ Allow: /stingray/do/buy
 Allow: /stingray/do/home
 Allow: /stingray/do/js
 Allow: /stingray/do/multiget
-Allow: /stingray/do/multicontroller
 Allow: /stingray/do/printable-listing
 Allow: /stingray/do/printable-property
 Allow: /stingray/do/redfin-advantage

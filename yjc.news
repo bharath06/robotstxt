@@ -1,30 +1,6 @@
-Sitemap: https://www.yjc.news/sitemap.xml
-Sitemap: https://www.yjc.news/fa-sitemap-newsarchive
-Sitemap: https://www.yjc.news/fa-sitemap-news
-Sitemap: https://www.yjc.news/ar-sitemap-newsarchive
-Sitemap: https://www.yjc.news/ar-sitemap-news
-Sitemap: https://www.yjc.news/en-sitemap-newsarchive
-Sitemap: https://www.yjc.news/en-sitemap-news
-
-Sitemap: https://www.yjc.news/sitemap-price.xml
-
-User-agent: *
-Disallow: /files/adv
-Disallow: /fa/report
-Disallow: /ar/report
-Disallow: /en/report
-Disallow: /fa/send
-Disallow: /ar/send
-Disallow: /en/send
-Disallow: /fa/print
-Disallow: /ar/print
-Disallow: /en/print
-Disallow: /fa/save
-Disallow: /ar/save
-Disallow: /en/save
-Disallow: /fa/archive
-Disallow: /ar/archive
-Disallow: /en/archive
-Disallow: /fa/news/play/embed
-Disallow: /ar/news/play/embed
-Disallow: /en/news/play/embed
+User-Agent: *
+Disallow: /cpx.php
+Disallow: /medios1.php
+Disallow: /toolbar.php
+Disallow: /check_image.php
+Disallow: /check_popunder.php

@@ -1289,6 +1289,7 @@ Disallow: *.xls
 Disallow: *.doc
 Disallow: *.docx
 Disallow: *.jpg
+Disallow: /personal-banking/accounts/zero-balance-savings-account
 
 Allow: /campaigns/summer-bonanza/html/index.html
 User-agent: OmniExplorer_Bot

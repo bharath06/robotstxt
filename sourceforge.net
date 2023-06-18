@@ -16,6 +16,7 @@ Disallow: /p/*/tree/
 Disallow: /p/*/search_feed/
 Disallow: /p/*/search_help/
 Disallow: /p/*/wiki/*/edit
+Disallow: /p/*/wiki/browse_tags/
 Disallow: /p/*/discussion/create_topic/
 Disallow: /p/*/discussion/stats
 Disallow: /*/ci/

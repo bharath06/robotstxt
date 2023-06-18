@@ -13,6 +13,7 @@ Disallow: /get_video_info
 Disallow: /get_midroll_info
 Disallow: /live_chat
 Disallow: /login
+Disallow: /qr
 Disallow: /results
 Disallow: /signup
 Disallow: /t/terms

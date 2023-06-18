@@ -1,1 +1,9 @@
 User-Agent: *
+
+Disallow: /admin/
+
+Sitemap: https://linktr.ee/discover/profile-directory/sitemapindex.xml
+Sitemap: https://linktr.ee/b0mWdW2jdv3phms1s8a1.sitemapindex.profiles.xml
+Sitemap: https://linktr.ee/s/sitemap-index.xml
+Sitemap: https://linktr.ee/s/sitemap-0.xml
+Sitemap: https://linktr.ee/marketplace/sitemap.xml

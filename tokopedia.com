@@ -129,4 +129,4 @@ Sitemap: https://www.tokopedia.com/sitemap/products-index-9.xml
 Sitemap: https://www.tokopedia.com/sitemap/recharge-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/review-index.xml
 Sitemap: https://www.tokopedia.com/sitemap/salam-index.xml
-Sitemap: https://www.tokopedia.com/sitemap/shop-index.xml
+Sitemap: https://www.tokopedia.com/sitemap/shop-score-index.xml

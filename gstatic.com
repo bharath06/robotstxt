@@ -36,6 +36,7 @@ Allow: /ads/research/
 Allow: /ads/ubaq/
 Allow: /aihub/tfhub/
 Allow: /alkali/
+Allow: /amphtml/stamp/ucp/post-testing/
 Allow: /android/market/
 Allow: /android/market_images/
 Allow: /atari/images/public/

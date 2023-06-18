@@ -371,6 +371,10 @@ Disallow: /personal/insurance-dbs-staff.page
 Disallow: /personal/family-birthdays.page
 Disallow: /personal/cards/promotions/sg-digitalyuu.page
 Disallow: /personal/landing/eposbkids-popular-redemption/index.html
+Disallow: /personal/insurance-savvyendowment-specialdeal.page
+Disallow: /personal/msff-specialdeal.page
+Disallow: /personal/msfj-specialdeal.page
+Disallow: /personal/msmy-specialdeal.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

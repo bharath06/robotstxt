@@ -53,10 +53,13 @@ Disallow: /cricketnext/videos/series/*/page-*/news18.com/*/page-*/
 Disallow: /cricketnext/videos/series/*/page-*/news18.com/*.html$
 Disallow: /amp/*/page-*/$
 Disallow: /*/page-*/$
-
 Disallow: /cricketnext/cricket-live-scorecard/*
 Disallow: /amp/topics/*/page-*
 Disallow: /topics/*/page-*
 Disallow: *.html"$
+Disallow: */page-*/news18.com/*
+Disallow: */photogallery/*/news18.com/*
+Disallow: /amp/lok-sabha-elections-2019/*
+Disallow: /news/cricketnext/*
 
 Sitemap: https://www.news18.com/news-googlesitemap.xml

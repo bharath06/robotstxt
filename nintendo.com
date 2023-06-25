@@ -9,9 +9,11 @@ Disallow: /address-book/
 Disallow: /*-*/address-book/
 
 Sitemap: https://noa-prod-graph-sitemaps.s3.amazonaws.com/nintendo.com/whatsnew/sitemap.xml
+Sitemap: https://noa-prod-graph-sitemaps.s3.amazonaws.com/nintendo.com/nintendo-direct/sitemap.xml
 Sitemap: https://noa-prod-graph-sitemaps.s3.amazonaws.com/nintendo.com/store/sitemap.xml
 Sitemap: https://noa-prod-graph-sitemaps.s3.amazonaws.com/nintendo.com/sitemap.xml
 Sitemap: https://noa-prod-graph-sitemaps.s3.amazonaws.com/nintendo.com/en-ca/whatsnew/sitemap.xml
+Sitemap: https://noa-prod-graph-sitemaps.s3.amazonaws.com/nintendo.com/en-ca/nintendo-direct/sitemap.xml
 Sitemap: https://noa-prod-graph-sitemaps.s3.amazonaws.com/nintendo.com/en-ca/store/sitemap.xml
 Sitemap: https://noa-prod-graph-sitemaps.s3.amazonaws.com/nintendo.com/en-ca/sitemap.xml
 Sitemap: https://noa-prod-graph-sitemaps.s3.amazonaws.com/nintendo.com/fr-ca/whatsnew/sitemap.xml

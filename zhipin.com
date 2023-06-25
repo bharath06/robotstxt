@@ -27,9 +27,12 @@ Disallow: /wapi/zpuser/countryCode*
 Disallow: *?from=*
 Disallow: /web/geek/job*
 Disallow: /?ivk_sa=*
-Disallow: /?key=*
+Disallow: /*?key=*
 Disallow: /?scity=*
 Disallow: /?page=*
 Disallow: /web/boss/*
 Disallow: /web/geek/guide*
 Disallow: /web/geek/recommend*
+Disallow: /*?medium=*
+Disallow: /*?ref=*
+Disallow: /*?frozen=*

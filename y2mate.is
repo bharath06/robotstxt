@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /analyze
+Disallow:
 
 Sitemap: https://y2mate.is/sitemap.xml

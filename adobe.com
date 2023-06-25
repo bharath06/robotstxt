@@ -162,6 +162,7 @@ Disallow: /content/dam/www/us/en/offer/pdf/digital-trends-2020-in-IT.pdf
 Disallow: /content/dam/www/us/en/adi/2020/pdfs/*
 Disallow: /content/dam/www/us/en/offer/digital-trends-2021-core/digital-trends-2021-full-report-*.pdf
 Disallow: /*langmaster/
+Disallow: /*express/*.mp4$
 
 User-agent: AdsBot-Google
 Allow: /
@@ -172,20 +173,20 @@ Allow: /
 User-agent: SearchmetricsBot
 Disallow: /
 
-User-agent: *
-Disallow: /*express/*.mp4$
+User-agent: Googlebot
+Disallow: /*promoid=
+Disallow: /*trackingid=
 
 # XML sitemaps
+Sitemap: https://www.adobe.com/gen-ai-sitemap.xml
 Sitemap: https://www.adobe.com/cc.sitemap-index.xml
 Sitemap: https://www.adobe.com/cc-creativecloud.index.xml
 Sitemap: https://www.adobe.com/cc-product.index.xml
 Sitemap: https://www.adobe.com/cc-business.index.xml
 Sitemap: https://www.adobe.com/dc.index.xml
 Sitemap: https://www.adobe.com/dc.milo.sitemap-index.xml
-Sitemap: https://www.adobe.com/Adobe-non-cloud033120.xml
 Sitemap: https://www.adobe.com/ppbu-product-sitemap.xml
 Sitemap: https://www.adobe.com/acom-temp.xml
-Sitemap: https://www.adobe.com/gen-ai-sitemap.xml
 
 # FEDS Publishing Platform
 Sitemap: https://www.adobe.com/hub/sitemap.xml

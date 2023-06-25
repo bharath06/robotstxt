@@ -198,12 +198,12 @@ Disallow: /cook/ricette/ricerca
 Disallow: /CorriereAppNews/
 Disallow: /corrierepoint/
 Allow: /sitemap*.xml
-Allow: /notizie-ultima-ora/rss_col.xml
+# Allow: /notizie-ultima-ora/rss_col.xml
 Allow: /rss/*.xml
 Allow: /salute/sitemap-dizionario.xml
 Allow: /rss/ultimora.xml
 Allow: /rss/homepage.xml
-Allow: /notizie-ultima-ora/sitemap-news.xml
+# Allow: /notizie-ultima-ora/sitemap-news.xml
 #richiesta da Ruggiero BG27112011
 Allow: /editorspicks/
 Allow: /oroscopo/sitemap.xml

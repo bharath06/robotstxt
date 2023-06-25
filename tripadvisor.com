@@ -86,7 +86,6 @@ Disallow: /Attraction_Products
 Disallow: /AttractionAmendTravelDate
 Disallow: /AttractionBookingApi
 Disallow: /AttractionBookingDetails
-Disallow: /AttractionBookingProfile
 Disallow: /AttractionCancelBooking
 Disallow: /AttractionCommerce
 Disallow: /AttractionLander
@@ -180,7 +179,6 @@ Disallow: /DevMediaRedirector
 Disallow: /DhtmlPopup
 Disallow: /DiscountGroup
 Disallow: /DisplayMap
-Disallow: /DynamicDeals
 Disallow: /DynamicPlacementAjax
 Disallow: /EmailHotel
 Disallow: /EmailMap
@@ -842,6 +840,7 @@ Disallow: /TripConnectPaymentForm
 Disallow: /TripConnectPlus
 Disallow: /TripConnectPremium
 Disallow: /Trips/
+Disallow: /TripsNative
 Disallow: /TripsWebview
 Disallow: /TripWatchPromoAjax
 Disallow: /tucritica
@@ -966,7 +965,6 @@ Disallow: /Attraction_Products
 Disallow: /AttractionAmendTravelDate
 Disallow: /AttractionBookingApi
 Disallow: /AttractionBookingDetails
-Disallow: /AttractionBookingProfile
 Disallow: /AttractionCancelBooking
 Disallow: /AttractionCommerce
 Disallow: /AttractionLander
@@ -1060,7 +1058,6 @@ Disallow: /DevMediaRedirector
 Disallow: /DhtmlPopup
 Disallow: /DiscountGroup
 Disallow: /DisplayMap
-Disallow: /DynamicDeals
 Disallow: /DynamicPlacementAjax
 Disallow: /EmailHotel
 Disallow: /EmailMap
@@ -1723,6 +1720,7 @@ Disallow: /TripConnectPaymentForm
 Disallow: /TripConnectPlus
 Disallow: /TripConnectPremium
 Disallow: /Trips/
+Disallow: /TripsNative
 Disallow: /TripsWebview
 Disallow: /TripWatchPromoAjax
 Disallow: /tucritica

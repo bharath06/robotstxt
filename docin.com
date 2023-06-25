@@ -5,6 +5,8 @@ Disallow: /players/
 Disallow: /help
 Disallow: /touch/
 Disallow: /docsearch
+Disallow: /app/teamMessage/
+Disallow: *-f*.html
 Sitemap: https://www.docin.com/sitemap/
 
 User-agent: AhrefsBot

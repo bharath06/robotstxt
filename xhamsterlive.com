@@ -4,6 +4,7 @@ User-agent: *
 Disallow: /user/
 Disallow: /confirm-email/
 Disallow: /messages/
+Disallow: */filter/*
 
 Sitemap: https://xhamsterlive.com/sitemap.xml
 Sitemap: https://xhamsterlive.com/sitemap-index.xml

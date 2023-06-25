@@ -10,4 +10,5 @@ Disallow: /cdn-cgi/
 Disallow: /abtest
 Disallow: /privacy/old
 Disallow: /desktop-mac
+Disallow: /cms-test-page
 Disallow: /recovery

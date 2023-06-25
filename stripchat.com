@@ -4,6 +4,7 @@ User-agent: *
 Disallow: /user/
 Disallow: /confirm-email/
 Disallow: /messages/
+Disallow: */filter/*
 
 Sitemap: https://stripchat.com/sitemap.xml
 Sitemap: https://stripchat.com/sitemap-index.xml

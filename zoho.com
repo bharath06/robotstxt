@@ -261,10 +261,10 @@ Disallow: /sites/default/files/crm/signup_onboarding_loader.mp4
 Disallow: /sites/zweb/images/crm/signup_onboarding_loader.mp4
 Disallow: /services/
 Disallow: /cliq/cliqtrix/
-Disallow: /hi-in/
 Disallow: /procurement/
 Disallow: /cmstest/
 Disallow: /creativetest/
+Disallow: /hi-in/
 Disallow: /sites/zweb/images/workplace/pdf/saas-affiliate-marketing.pdf
 Disallow: /sites/zweb/images/workplace/pdf/affiliate-marketing-guide.pdf
 

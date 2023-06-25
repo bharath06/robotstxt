@@ -13,6 +13,9 @@ Disallow: /indiwo/*
 Disallow: /preview/*
 Disallow: /series/*
 Disallow: /newstopics/*
+Disallow: /amp/newstopics/*
+Disallow: /astrology/horoscope/todays-*-horoscope-in-english*
+Disallow: /astrology/todays-panchang-in-english-*
 
 Disallow: /ipl-predict-win-contest/
 Disallow: /win-ipl-tickets-contest-2017/

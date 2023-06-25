@@ -90,6 +90,7 @@ Disallow: /mobile_data/world-wifi/info/detail/*
 Disallow: /bb/jump/
 Disallow: /bb/ispapply_change.asp*
 Disallow: /bb/ispapply_flets_change.asp*
+Disallow: /robot-advisor/jump/
 
 User-agent: Mediapartners-Google
 Allow: /kuchikomi/review/history/
@@ -186,4 +187,5 @@ Disallow: /mobile_data/world-wifi/info/detail/*
 Disallow: /bb/jump/
 Disallow: /bb/ispapply_change.asp*
 Disallow: /bb/ispapply_flets_change.asp*
+Disallow: /robot-advisor/jump/
 Disallow: /used/*?*

@@ -4,5 +4,6 @@ User-agent: *
 Disallow: /user/
 Disallow: /confirm-email/
 Disallow: /messages/
+Disallow: */filter/*
 Disallow: /model-agreement/
 Disallow: /studio-agreement/

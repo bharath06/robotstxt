@@ -15,5 +15,8 @@ Disallow: *preview=*
 Disallow: *print=*
 Disallow: *Itemid=*
 
+User-agent: bingbot
+Crawl-delay: 30
+
 
 Sitemap: https://www.delgarm.com/sitemap.xml

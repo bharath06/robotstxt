@@ -21,6 +21,7 @@ Disallow: /book/
 Disallow: /thankyou/
 Disallow: /flights/results
 Disallow: /*/flights/results
+Disallow: /activities/detail
 
 User-agent: Googlebot
 Disallow: /*/hotel/all/
@@ -36,6 +37,7 @@ Disallow: /book/
 Disallow: /thankyou/
 Disallow: /flights/results
 Disallow: /*/flights/results
+Disallow: /activities/detail
 
 User-agent: google-hoteladsverifier
 Disallow:

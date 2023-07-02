@@ -10,5 +10,5 @@ Disallow: /blog/*?s=*
 Disallow: /seo/for/*?*draft
 Disallow: /academy/*?*draft
 Disallow: /team-new
-Disallow: /team-new-b
 Disallow: /team-new-a
+Disallow: /team-new-b

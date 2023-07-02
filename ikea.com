@@ -24,7 +24,6 @@
 #  https://en-global-jobs.about.ikea.com/
 
 
-
 User-Agent: AdsBot-Google
 Allow: /*-fragment.html
 Allow: /ext/
@@ -107,6 +106,7 @@ Disallow: */electricity-app/
 Disallow: */watch-fragments/*
 Disallow: */monthlyfragments/*
 Disallow: */gcbalance/*
+Allow: */ces/web/modules/*.css
 
 Clean-param: tag_id&token&storeID&state&locale&id&return_url&lang&uiPlatform&range&itm_campaign
 Clean-param: tduid&ikeacookiekokpopup&type&orderId&sub1&etext

@@ -85,6 +85,10 @@ Allow: /lamda/images/
 Allow: /local/donut/
 Allow: /mapspro/
 Allow: /moderator/static/ux/
+Allow: /modern-formats-eng/ucp/framework_logging/
+Allow: /modern-formats-eng/ucp/*/client/
+Allow: /modern-formats-eng/ucp/*/csr/
+Allow: /modern-formats-eng/ucp/*/dev/
 Allow: /nbubumblebee/
 Allow: /og/
 Allow: /onebox/media/sports/logos/

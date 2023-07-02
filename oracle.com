@@ -154,6 +154,13 @@ Disallow: /financial-services/ofss/
 Disallow: /a/ocom/docs/corporate/pricing/
 Disallow: /us/corporate/oracle-fact-sheet-079219.pdf
 Disallow: /webfolder/branddesigntests/
+Disallow: /webfolder/technetwork/jet-1400/
+Disallow: /webfolder/technetwork/jet-1300/
+Disallow: /webfolder/technetwork/jet-1200/
+Disallow: /webfolder/technetwork/jet-1100/
+Disallow: /webfolder/technetwork/jet-1000/
+Disallow: /webfolder/technetwork/jet-900/
+Disallow: /webfolder/technetwork/jet-800/
 Disallow: /assets/oracle-fact-sheet-079219.pdf
 Disallow: /assets/managed-cloud-services-sd-4738082.pdf
 Disallow: /us/corporate/contracts/mcs-iaas-service-desc-3014939.pdf

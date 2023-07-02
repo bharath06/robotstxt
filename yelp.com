@@ -12,10 +12,10 @@
 # 3. A robot must protect its own existence as long as such protection does
 #    not conflict with the First or Second Law.
 
-User-Agent: Googlebot
+User-Agent: Googlebot-Image
 Allow: /biz_photos/
 
-User-Agent: Googlebot-Image
+User-Agent: Googlebot
 Allow: /biz_photos/
 
 User-Agent: AdsBot-Google
@@ -32,6 +32,9 @@ User-Agent: Yahoo! Slurp
 User-Agent: archive.org_bot
 User-Agent: bingbot
 User-Agent: ia_archiver
+Disallow: *US_CENSUS_NAME*
+Disallow: *US_FEMALE_NAME*
+Disallow: *US_MALE_NAME*
 Disallow: /1014943
 Disallow: /3584794
 Disallow: /5787254

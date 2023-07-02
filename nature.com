@@ -34,6 +34,8 @@ Disallow: /nature-index/global-city-map/data
 Disallow: /nature-index/institution-outputs-api/
 Disallow: /nature-index/institution-suggestion
 Disallow: /nature-index/institution-suggestion/news-archive
+Disallow: /naturecareers/session-img/
+Disallow: /naturecareers/jobsrss/
 Disallow: /nature-index/annual-tables/export/
 Disallow: /nature-index/country-outputs/export/
 Disallow: /nature-index/country-territory-research-output/export

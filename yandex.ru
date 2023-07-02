@@ -260,6 +260,7 @@ Disallow: /yandpage
 Disallow: *maps/covid19*
 Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
+Disallow: /activity/
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
@@ -539,6 +540,7 @@ Disallow: /yandpage
 Disallow: *maps/covid19*
 Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
+Disallow: /activity/
 
 User-agent: Yandex
 Disallow: /?
@@ -787,9 +789,9 @@ Disallow: /yandpage
 Disallow: *maps/covid19*
 Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
+Disallow: /activity/
 
 User-agent: Googlebot
-Disallow: /$
 Disallow: /?
 Disallow: /403.html
 Disallow: /404.html
@@ -1050,6 +1052,7 @@ Disallow: /yandpage
 Disallow: *maps/covid19*
 Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
+Disallow: /activity/
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml

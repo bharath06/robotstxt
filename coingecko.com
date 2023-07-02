@@ -10,13 +10,10 @@ Disallow: /newsletter
 Disallow: /cdn-cgi/
 Disallow: /*/search
 Disallow: /*/search/bang
-Disallow: /*/news_tab
 Disallow: /*/social_tab$
-Disallow: /*/ratings_tab$
 Disallow: /*/widgets_tab$
 Disallow: /*/developer_tab$
 Disallow: /*/status_updates_tab$
-Disallow: /*/guides_tab
 Disallow: /*/sentiment_votes$
 Disallow: /*/markets_tab$
 Disallow: /*/news_guides$

@@ -1,7 +1,6 @@
 # robots.txt
 # Handbook of Robotics, 56th Edition, 2058 A.D.
 
-
 User-agent: Fasterfox
 Disallow: /
 
@@ -28,3 +27,6 @@ Disallow: /
 
 User-agent: MLBot
 Disallow: /
+
+Sitemap: https://www.figma.com/sitemap.xml
+Sitemap: https://help.figma.com/hc/sitemap.xml

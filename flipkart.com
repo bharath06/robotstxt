@@ -82,14 +82,14 @@ Disallow: /*=facets*
 User-agent: *
 Disallow: /amp/
 
-Sitemap: http://www.flipkart.com/sitemap_s_store-browse.xml
-Sitemap: http://www.flipkart.com/sitemap_v_view-browse.xml
-Sitemap: http://www.flipkart.com/sitemap_p_product_index_1.xml
-Sitemap: http://www.flipkart.com/sitemap_p_product_index_2.xml
-Sitemap: http://www.flipkart.com/sitemap_p_product_index_3.xml
-Sitemap: http://www.flipkart.com/sitemap_p_product_index_4.xml
-Sitemap: http://www.flipkart.com/sitemap_p_product_index_5.xml
-Sitemap: http://www.flipkart.com/sitemap_p_product_index_6.xml
-Sitemap: http://www.flipkart.com/sitemap_p_product_index_7.xml
-Sitemap: http://www.flipkart.com/sitemap_p_product_index_8.xml
-Sitemap: http://www.flipkart.com/sitemap_p_product_index_9.xml
+Sitemap: https://www.flipkart.com/sitemap_s_store-browse.xml
+Sitemap: https://www.flipkart.com/sitemap_v_view-browse.xml
+Sitemap: https://www.flipkart.com/sitemap_p_product_index_1.xml
+Sitemap: https://www.flipkart.com/sitemap_p_product_index_2.xml
+Sitemap: https://www.flipkart.com/sitemap_p_product_index_3.xml
+Sitemap: https://www.flipkart.com/sitemap_p_product_index_4.xml
+Sitemap: https://www.flipkart.com/sitemap_p_product_index_5.xml
+Sitemap: https://www.flipkart.com/sitemap_p_product_index_6.xml
+Sitemap: https://www.flipkart.com/sitemap_p_product_index_7.xml
+Sitemap: https://www.flipkart.com/sitemap_p_product_index_8.xml
+Sitemap: https://www.flipkart.com/sitemap_p_product_index_9.xml

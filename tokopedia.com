@@ -1,4 +1,6 @@
 User-agent: *
+Allow: /*/review
+Allow: /*/*/review
 Allow: /blog/etalase
 Allow: /blog/note
 Allow: /blog/review
@@ -7,10 +9,8 @@ Allow: /find/*/c/*?page
 Allow: /tokopoints/intro/
 Disallow: */tokopedia-lite-production/
 Disallow: /*.pl
-Disallow: /*/*/review
 Disallow: /*/*/talk
 Disallow: /*/note
-Disallow: /*/review
 Disallow: /action
 Disallow: /admin-confirmation
 Disallow: /amp/api/*

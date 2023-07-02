@@ -51,6 +51,8 @@ Sitemap: https://www.salesforce.com/jp/blog/sitemap.xml
 Sitemap: https://www.salesforce.com/mx/blog/sitemap.xml
 Sitemap: https://www.salesforce.com/nl/blog/sitemap.xml
 Sitemap: https://www.salesforce.com/uk/blog/sitemap.xml
+Sitemap: https://www.salesforce.com/sitemap-forms.xml
+Sitemap: https://www.salesforce.com/sitemap-events.xml
 
 #
 # Keep mis-configured Microsoft SharePoint servers from hammering us

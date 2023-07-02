@@ -12,6 +12,9 @@ User-agent: AdsBot-Google
 Allow: /
 Disallow: /*/health/search/filter
 
+User-agent: ias_crawler
+Crawl-delay: 1
+
 Sitemap: https://www.msn.com/sitemaps/health/health-sitemap-index.xml
 Sitemap: https://www.msn.com/sitemaps/shopping/shopping-sitemap-index.xml
 Sitemap: https://www.msn.com/en-us/autos/marketplace/sitemap.xml

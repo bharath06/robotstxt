@@ -1326,6 +1326,32 @@ Sitemap: https://www.etsy.com/pl/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/at/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/shops/all.xml
 Sitemap: https://www.etsy.com/be/sitemaps/shops/all.xml
+Sitemap: https://www.etsy.com/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/fi-en/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/au/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/ca/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/ca-fr/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/dk-en/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/hk-en/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/ie/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/il-en/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/in-en/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/nz/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/no-en/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/se-en/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/sg-en/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/uk/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/de/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/fr/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/nl/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/it/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/es/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/mx/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/jp/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/pl/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/at/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/ch/sitemaps/shops/vip-seller.xml
+Sitemap: https://www.etsy.com/be/sitemaps/shops/vip-seller.xml
 Sitemap: https://www.etsy.com/sitemaps/shops/power-seller.xml
 Sitemap: https://www.etsy.com/fi-en/sitemaps/shops/power-seller.xml
 Sitemap: https://www.etsy.com/au/sitemaps/shops/power-seller.xml
@@ -1612,6 +1638,32 @@ Sitemap: https://www.etsy.com/pl/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/at/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/taxonomy.xml
 Sitemap: https://www.etsy.com/be/sitemaps/taxonomy.xml
+Sitemap: https://www.etsy.com/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/fi-en/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/au/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/ca/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/ca-fr/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/dk-en/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/hk-en/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/ie/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/il-en/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/in-en/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/nz/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/no-en/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/se-en/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/sg-en/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/uk/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/de/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/fr/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/nl/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/it/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/es/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/mx/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/jp/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/pl/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/at/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/ch/sitemaps/taxonomy/legacy.xml
+Sitemap: https://www.etsy.com/be/sitemaps/taxonomy/legacy.xml
 Sitemap: https://www.etsy.com/sitemaps/home.xml
 Sitemap: https://www.etsy.com/fi-en/sitemaps/home.xml
 Sitemap: https://www.etsy.com/au/sitemaps/home.xml
@@ -1665,7 +1717,7 @@ Sitemap: https://www.etsy.com/at/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/be/sitemaps/blocklist.xml
 #
-# Oi, kent!#   \
+# What's up?#   \
 #
 #    -----
 #   | . . |

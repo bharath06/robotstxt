@@ -255,8 +255,6 @@ Disallow: *?inline=*
 # Sitemaps
 Sitemap: https://www.shutterstock.com/sitemaps/image/search-2022/sitemap-image-search-2022-index.xml
 Sitemap: https://www.shutterstock.com/sitemaps/video/search-2022/sitemap-video-search-2022-index.xml
-Sitemap: https://www.shutterstock.com/sitemaps/video/sitemap/sitemap-search-index.xml
-Sitemap: https://www.shutterstock.com/sitemaps/image/sitemap/sitemap-search-index.xml
 Sitemap: https://www.shutterstock.com/sitemaps/editorial/sitemap-editorial-index.xml
 Sitemap: https://www.shutterstock.com/blog/sitemap_index.xml
 Sitemap: https://www.shutterstock.com/blog/india/sitemap_index.xml

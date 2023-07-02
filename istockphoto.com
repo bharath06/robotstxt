@@ -1,11 +1,10 @@
 User-agent: *
+Disallow: /collaboration/boards/
 Disallow: /preference/
 Allow: /video_passthrough.php
 Allow: /video_passthrough/
 Disallow: /webservices/
-Disallow: /sign-in/
 Disallow: /logout
-Disallow: /join/
 Disallow: /image-zoom/
 Disallow: /test/diagnostic-tool
 Disallow: /bearing/
@@ -41,8 +40,6 @@ Disallow: /en$
 Disallow: */join?*
 Disallow: */sign-in?*
 Disallow: /workwithus/
-Disallow: /collaboration/
-Disallow: /*/collaboration/
 Disallow: /*/*client_event
 Disallow: /*/*client_metric
 Disallow: /notifications
@@ -55,15 +52,21 @@ Disallow: /visual-gps/insights/results*
 Disallow: /*/editor/
 Disallow: /*/*-anal-
 Disallow: /*/*-anal$
+Disallow: /*/*animal-sax?
 Disallow: /*/*-anus-
 Disallow: /*/*-anus$
 Disallow: /*/*-arse-
 Disallow: /*/*-arse$
+Disallow: /*/*ass?
 Disallow: /*/*-ass-
 Disallow: /*/*-ass$
+Disallow: /*/*assholes?
 Disallow: /*/*-asses-
 Disallow: /*/*-asses$
 Disallow: /*/*-bbw
+Disallow: /*/*breast?
+Disallow: /*/*breasts?
+Disallow: /*/*butt?
 Disallow: /*/*-boner
 Disallow: /*/*-boner-
 Disallow: /*/*-bordel
@@ -116,6 +119,8 @@ Disallow: /*/*-nuas-
 Disallow: /*/*-nuas$
 Disallow: /*/*-nuda-
 Disallow: /*/*-nuda$
+Disallow: /*/*nude-boys?
+Disallow: /*/*nude-girls?
 Disallow: /*/*-nudes-
 Disallow: /*/*-nudes$
 Disallow: /*/*-nudez-
@@ -138,10 +143,13 @@ Disallow: /*/*-pene-
 Disallow: /*/*-pene$
 Disallow: /*/*-penis-
 Disallow: /*/*-penis$
+Disallow: /*/*penis?
+Disallow: /*/*-pissing?
 Disallow: /*/*-pubic-
 Disallow: /*/*-pubic$
 Disallow: /*/*-pubis-
 Disallow: /*/*-pubis$
+Disallow: /*/*pussies?
 Disallow: /*/*-rape
 Disallow: /*/*-raping-
 Disallow: /*/*-raping$
@@ -244,6 +252,8 @@ Disallow: /*/*boob
 Disallow: /*/*booty
 Disallow: /*/*bordel$
 Disallow: /*/*botergeil
+Disallow: /*/*boy-feet
+Disallow: /*/*boys-feet
 Disallow: /*/*boy-nude
 Disallow: /*/*boys-nude
 Disallow: /*/*branlage
@@ -255,6 +265,7 @@ Disallow: /*/*bratze
 Disallow: /*/*brazzer
 Disallow: /*/*brazzers
 Disallow: /*/*brazzier
+Disallow: /*/*breast
 Disallow: /*/*breast-kiss
 Disallow: /*/*breast-woman
 Disallow: /*/*broekhoesten
@@ -433,6 +444,7 @@ Disallow: /*/*gangbang
 Disallow: /*/*garçon-nu
 Disallow: /*/*garçon-tout-nu
 Disallow: /*/*garçons-nus
+Disallow: /*/*gay-boy?
 Disallow: /*/*gedoogzone
 Disallow: /*/*geilneef
 Disallow: /*/*genital$
@@ -440,6 +452,8 @@ Disallow: /*/*gesodemieter
 Disallow: /*/*gigolo
 Disallow: /*/*girl-bath
 Disallow: /*/*girl-nude
+Disallow: /*/*girl-feet
+Disallow: /*/*girls-feet
 Disallow: /*/*girl-on-girl
 Disallow: /*/*girls-nude
 Disallow: /*/*girls-spreading
@@ -537,6 +551,8 @@ Disallow: /*/*lenceria-transparente
 Disallow: /*/*lingerie
 Disallow: /*/*lingerine
 Disallow: /*/*lipshits
+Disallow: /*/*little-girl
+Disallow: /*/*little-boy
 Disallow: /*/*love-making
 Disallow: /*/*lovemaking
 Disallow: /*/*lul-de-behanger
@@ -623,6 +639,7 @@ Disallow: /*/*nique-ta-mère
 Disallow: /*/*nique-ta-race
 Disallow: /*/*no-clothing
 Disallow: /*/*nsfw
+Disallow: /*/*nude
 Disallow: /*/*nu-adolescente
 Disallow: /*/*nü-çocuk
 Disallow: /*/*nü-erkek-çocuk
@@ -675,6 +692,7 @@ Disallow: /*/*pelado-
 Disallow: /*/*pelado$
 Disallow: /*/*pelados-
 Disallow: /*/*penetration
+Disallow: /*/*penis
 Disallow: /*/*pénis
 Disallow: /*/*penozeg
 Disallow: /*/*penuses
@@ -783,6 +801,7 @@ Disallow: /*/*testicle
 Disallow: /*/*three-some
 Disallow: /*/*threesome
 Disallow: /*/*tiny-teen
+Disallow: /*/*-tits?
 Disallow: /*/*titties
 Disallow: /*/*toddler-con
 Disallow: /*/*toddlercon
@@ -845,6 +864,8 @@ Disallow: /*/*x-x
 Disallow: /*/*xrated
 Disallow: /*/*xvideo
 Disallow: /*/*xxx
+Disallow: /*/*year-old-girl
+Disallow: /*/*year-old-boy
 Disallow: /*/*young-ass
 Disallow: /*young-boy
 Disallow: /*youngboy

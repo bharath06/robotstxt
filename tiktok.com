@@ -27,18 +27,3 @@ Disallow: */directory/
 
 User-agent: Bingbot
 Disallow: /discover
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_tag_jpagency_index_20200509_-1553821641.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_tag_jpagency_index_20200525_-1553821583.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_tag_jpagency_index_20200615_-1553820653.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_tag_jpagency_index_20200814_-1553818732.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_tag_jpagency_index_20200817_-1553818729.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_tag_jpagency_index_20200923_-1553817741.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_tag_jpagency_index_20201027_-1553796595.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_JP-sitemap-202011_20201118_500859092.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_JP-sitemap-202012_20210110_-1305701649.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_JP-sitemap-202101_20210110_-1098685040.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_JP-sitemap_20210204_1693176571.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_JP-sitemap-202103-SG_20210305_1559370417.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_JP-sitemap-202104_20210429_2068889086.xml
-Sitemap: https://www.tiktok.com/tos/node/sitemaps/sitemap_JP-sitemap-202106_20210611_-1546017957.xml

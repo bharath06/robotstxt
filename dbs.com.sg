@@ -361,6 +361,9 @@ Disallow: /treasures/contentlist.page
 Disallow: /ibanking/faq
 Disallow: /treasures/investments/ut-experimentation.page
 Disallow: https://internet-banking.dbs.com.sg/DBSObWeb/pages/ob/pweb.html?pid=
+Disallow: /personal/dbs-forms/branchconnect/
+Disallow: /personal/ps-specialdeal.page
+
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

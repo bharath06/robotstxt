@@ -27,6 +27,7 @@ Disallow: /cdm/
 Disallow: /special/STmeeting/
 Disallow: /special/C15998/
 Disallow: /special/C16121/
+Disallow: /fashion/special/C22685/
 Disallow: /special/3/
 Disallow: /special/4/
 Disallow: /special/5/

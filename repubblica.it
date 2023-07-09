@@ -2,6 +2,8 @@ User-agent: *
 Allow: 		/ 
 Disallow: 		/ultimora/24ore/nazionale/news-dettaglio/3688417 
 Disallow: 		/ultimora/24ore/AUTO-IN-CAMBIO-DI-DROGA-13-ARRESTI-DELLA-POLIZIA-DI-PESCARA-(2)/news-dettaglio/3746479 
+Disallow: 		/sport/tennis/2020/01/20/news/tennis_sei_sexy_a_una_raccattapalle_arbitro_squalificato_a_vita-246218884 
+Disallow: 		/sport/calcio/serie-a/inter/2020/08/03/news/conte_juventus_zhang_allegri-263589649 
 Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il_posto_e_costera_all_erario_mezzo_milione_di_euro[1]156371739/ 
 Disallow: 		/online/cronaca/veronaecstasy/bologna/bologna.html 
 Disallow: 		/online/ 
@@ -17,7 +19,9 @@ Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
 Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
+Disallow: 		/cronaca/2021/06/26/news/diabolik_conto_alla_rovescia_con_il_killer-307773556 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
+Disallow: 		/cronaca/2014/07/23/news/_ndrangheta_doppia_operazione_contro_le_cosche_in_manette_membri_del_clan_gallico_e_iamonte-92194378 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 

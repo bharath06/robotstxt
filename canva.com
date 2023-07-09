@@ -105,6 +105,7 @@ Disallow: /sv_se/mallar/M
 Disallow: /zh_tw/templates/M
 Disallow: /templates/*/MA
 Disallow: /*/_m2/
+Disallow: /_print/*
 Disallow: /en_oz/
 Disallow: /join/*
 Disallow: /q/*
@@ -130,7 +131,7 @@ Allow: /
 
 
 
-Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
-Sitemap: https://sitemap.canva.com/help_center_pages/index.xml
 Sitemap: https://sitemap.canva.com/marketplace_templates/index.xml
+Sitemap: https://sitemap.canva.com/help_center_pages/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
 Sitemap: https://sitemap.canva.com/marketplace_templates_search_pages/index.xml

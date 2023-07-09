@@ -17,6 +17,7 @@ Disallow: /blog/*?tag=
 Disallow: /blog/*/*/*
 Disallow: /blog/punto
 
+Disallow: /activity/
 Disallow: /business/widget
 
 Disallow: /MAPS/
@@ -100,7 +101,6 @@ Disallow: /map-constructor/loader*
 Disallow: /more_samples
 Disallow: /msearch
 Disallow: /msearchpart
-Disallow: /maps/-/*
 Disallow: /maps/print/*
 Allow: /maps/*?lang=kk$
 Allow: /maps/*?lang=uz$
@@ -266,6 +266,7 @@ Disallow: /advertising
 Disallow: /all-supported-params
 Disallow: /articles
 
+Disallow: /activity/
 Disallow: /blog/*?text=
 Disallow: /blog/*?tag=
 Disallow: /blog/*/*/*
@@ -354,7 +355,6 @@ Disallow: /map-constructor/loader*
 Disallow: /more_samples
 Disallow: /msearch
 Disallow: /msearchpart
-Disallow: /maps/-/*
 Disallow: /maps/print/*
 Allow: /maps/*?lang=kk$
 Allow: /maps/*?lang=uz$
@@ -501,6 +501,7 @@ Allow: /video
 Allow: /collections/picture/
 Disallow: /adult
 
+Disallow: /activity/
 Disallow: /news
 Disallow: /news/
 
@@ -540,6 +541,7 @@ Disallow: /blog/*?tag=
 Disallow: /blog/*/*/*
 Disallow: /blog/punto
 
+Disallow: /activity/
 Disallow: /news
 Disallow: /news/
 
@@ -617,7 +619,6 @@ Disallow: /nmaps/*?
 Disallow: /maps/print/*
 Allow: /maps/*?ll=*
 Allow: /maps/org/
-Disallow: /maps/-/*
 Disallow: /mapeditor/*?
 
 Disallow: /metro/*?from

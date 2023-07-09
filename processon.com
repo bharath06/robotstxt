@@ -18,6 +18,8 @@ Disallow:/chart_image/
 Disallow:/sepcial/
 Disallow:/public
 Disallow:/login
+Disallow:/myteams
+Disallow:/f/
 Allow:https://pc-gray.processon.com/robots.txt
 Allow:https://app.processon.com/robots.txt
 Allow:https://mp.processon.com/robots.txt

@@ -7,7 +7,8 @@ Disallow: /touch/
 Disallow: /docsearch
 Disallow: /app/teamMessage/
 Disallow: *-f*.html
-Sitemap: https://www.docin.com/sitemap/
+Disallow: /p1-*
+Disallow: /p2-*
 
 User-agent: AhrefsBot
 Disallow: /

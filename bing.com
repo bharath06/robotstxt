@@ -79,8 +79,15 @@ Disallow: /travel/secure
 Disallow: /url
 Disallow: /videos?
 Disallow: /videos/?
+Disallow: /videos/browsing
+Disallow: /videos/explore
+Disallow: /videos/favorites
+Disallow: /videos/feed
+Disallow: /videos/feedcontent
 Disallow: /videos/search?
 Disallow: /videos/search/?
+Disallow: /videos/trending
+Disallow: /videos/trendingcontent
 Disallow: /widget/cr
 Disallow: /widget/entity/search/?
 Disallow: /widget/render

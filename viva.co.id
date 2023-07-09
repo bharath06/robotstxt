@@ -7,7 +7,6 @@ Disallow: /anindeks/*
 Disallow: /urindeks/*
 Disallow: /enindeks/*
 Disallow: /anindeks/*
-Disallow: /appaux/*
 Disallow: /ramadan2015/*
 Disallow: /amp/antv/program
 Disallow: /amp/antv/program/*

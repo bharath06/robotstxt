@@ -58,3 +58,4 @@ Sitemap: https://www.drom.ru/sitemaps/shina/generated/shina_sizes_seasons_index.
 Sitemap: https://www.drom.ru/sitemaps/compare/generated/compare_index.xml
 Sitemap: https://www.drom.ru/sitemaps/info/generated/info_firms_index.xml
 Sitemap: https://www.drom.ru/sitemaps/info/generated/info_models_index.xml
+Sitemap: https://www.drom.ru/sitemaps/spec/generated/sales_index.xml

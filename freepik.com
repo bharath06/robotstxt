@@ -26,13 +26,12 @@ Disallow: /redirect
 Disallow: /download/
 Disallow: /bmind
 Disallow: /blog-old
-Disallow: /language-switch/?currentPath
+Disallow: /language-switch?currentPath
 Disallow: /_ga
 Disallow: /photo-editor/*
 Disallow: /mockup-editor/*
 Disallow: /blog/?s=
-
-Disallow: /_next/
+Disallow: */public/fc-assets/locales
 
 # Google AdSense
 User-agent: Mediapartners-Google

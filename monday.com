@@ -12,6 +12,7 @@ Disallow: /blog/members/
 Disallow: /blog/forums/
 Disallow: /blog/blue-tracker/
 Disallow: /blog/packs/
+Disallow: *?s=*
 Allow: .js
 Allow: .css
 

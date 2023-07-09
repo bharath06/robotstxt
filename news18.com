@@ -64,5 +64,17 @@ Disallow: */page-*/news18.com/*
 Disallow: */photogallery/*/news18.com/*
 Disallow: /amp/lok-sabha-elections-2019/*
 Disallow: /news/cricketnext/*
+Disallow: /amp/topics/*/news/$
+Disallow: /amp/topics/*/videos/$
+Disallow: /amp/topics/*/photos/$
+Disallow: /topics/*%25*/$
+Disallow: /topics/*%25*/news/$
+Disallow: /topics/*%25*/videos/$
+Disallow: /topics/*%25*/photos/$
+Disallow: /amp/topics/*%25*/$
+Disallow: /amp/topics/*%25*/news/$
+Disallow: /amp/topics/*%25*/videos/$
+Disallow: /amp/topics/*%25*/photos/$
+Disallow: /lok-sabha-elections-2019/page-*/$
 
 Sitemap: https://www.news18.com/news-googlesitemap.xml

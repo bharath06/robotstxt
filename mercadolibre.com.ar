@@ -59,3 +59,4 @@ Disallow: /registration?confirmation_url*
 
 ## Block home recommendations
 Disallow: /home/recommendations
+

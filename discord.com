@@ -16,6 +16,8 @@ Disallow: /reset
 Disallow: /reset/
 Disallow: /authorize-ip
 Disallow: /authorize-ip/
+Disallow: /reject-ip
+Disallow: /reject-ip/
 Disallow: /oauth2
 Disallow: /oauth2/
 Disallow: /api
@@ -33,6 +35,8 @@ Disallow: /reset
 Disallow: /reset/
 Disallow: /authorize-ip
 Disallow: /authorize-ip/
+Disallow: /reject-ip
+Disallow: /reject-ip/
 Disallow: /oauth2
 Disallow: /oauth2/
 Disallow: /api

@@ -39,6 +39,7 @@ Disallow: /profiles/
 # Files
 Disallow: /README.txt
 Disallow: /web.config
+Disallow: /sites/default/files/pdf/*.pdf
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
@@ -60,4 +61,4 @@ Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 
-Sitemap: https://www.instructure.com/sitemap.xml 
+Sitemap: https://www.instructure.com/sitemap.xml

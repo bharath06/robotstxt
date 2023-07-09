@@ -26,6 +26,7 @@ Disallow: /cgi/
 Disallow: /chisla.html
 Disallow: /clck
 
+Disallow: /activity/
 Disallow: /collections/feed
 Disallow: /collections/search/
 Disallow: /collections/*/_followers*
@@ -96,7 +97,6 @@ Disallow: /keyboard_qwerty.html
 Disallow: /logotypes
 Disallow: /local/*?event_id
 Disallow: /more_samples
-Disallow: /maps/-/*
 Disallow: /maps/print/*
 Allow: /maps/*?lang=kk$
 Allow: /maps/*?lang=uz$
@@ -271,6 +271,7 @@ Disallow: /cgi/
 Disallow: /chisla.html
 Disallow: /clck
 
+Disallow: /activity/
 Disallow: /collections/feed
 Disallow: /collections/search/
 Disallow: /collections/*/_followers*
@@ -341,7 +342,6 @@ Disallow: /keyboard_qwerty.html
 Disallow: /logotypes
 Disallow: /local/*?event_id
 Disallow: /more_samples
-Disallow: /maps/-/*
 Disallow: /maps/print/*
 Allow: /maps/*?lang=kk$
 Allow: /maps/*?lang=uz$
@@ -487,6 +487,7 @@ Allow: /video
 Allow: /collections/picture/
 Disallow: /adult
 
+Disallow: /activity/
 Disallow: /games/*?*reqId*
 Disallow: /games/*?*pageId*
 Disallow: *maps/covid19*
@@ -524,6 +525,7 @@ Disallow: /cgi/
 Disallow: /chisla.html
 Disallow: /clck
 
+Disallow: /activity/
 Disallow: /collections/feed
 Disallow: /collections/search/
 Disallow: /collections/*/_followers*

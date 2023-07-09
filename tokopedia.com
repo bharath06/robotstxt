@@ -79,6 +79,7 @@ Disallow: /search?*
 Disallow: /search/*
 Disallow: /seller-placeholder
 Disallow: /shop-interrupt
+Disallow: /shipping-label
 Disallow: /similar-products*
 Disallow: /skema-keanggotaan-baru
 Disallow: /skema-keanggotaan-baru/*

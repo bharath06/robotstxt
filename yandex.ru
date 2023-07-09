@@ -85,7 +85,6 @@ Disallow: /local/
 Disallow: /more_samples
 Disallow: /msearch
 Disallow: /map-constructor/loader*
-Disallow: /maps/-/*
 Disallow: /maps/print/*
 Allow: /maps/*?lang=ru$
 Allow: /maps/*?lang=uk$
@@ -364,7 +363,6 @@ Disallow: /local/
 Disallow: /more_samples
 Disallow: /msearch
 Disallow: /map-constructor/loader*
-Disallow: /maps/-/*
 Disallow: /maps/print/*
 Allow: /maps/*?lang=ru$
 Allow: /maps/*?lang=uk$
@@ -630,7 +628,6 @@ Disallow: /local/
 Disallow: /more_samples
 Disallow: /msearch
 Disallow: /map-constructor/loader*
-Disallow: /maps/-/*
 Disallow: /maps/print/*
 Allow: /maps/*?lang=ru$
 Allow: /maps/*?lang=uk$
@@ -877,7 +874,6 @@ Disallow: /local/
 Disallow: /more_samples
 Disallow: /msearch
 Disallow: /map-constructor/loader*
-Disallow: /maps/-/*
 Disallow: /maps/print/*
 Allow: /maps/*?lang=ru$
 Allow: /maps/*?lang=uk$

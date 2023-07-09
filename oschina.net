@@ -5,7 +5,6 @@
 #
 
 User-agent: *
-Crawl-delay: 1
 
 Disallow: /action/
 Disallow: /admin/

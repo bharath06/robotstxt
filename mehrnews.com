@@ -5,6 +5,8 @@ Disallow: /search
 Sitemap: https://www.mehrnews.com/sitemap/news/sitemap.xml
 Sitemap: https://www.mehrnews.com/sitemap/all/sitemap.xml
 
+Sitemap: https://www.mehrnews.com/sitemap/1402/sitemap.xml
+Sitemap: https://www.mehrnews.com/sitemap/1401/sitemap.xml
 Sitemap: https://www.mehrnews.com/sitemap/1400/sitemap.xml
 Sitemap: https://www.mehrnews.com/sitemap/1399/sitemap.xml
 Sitemap: https://www.mehrnews.com/sitemap/1398/sitemap.xml

@@ -59,6 +59,15 @@ Disallow: /registration?confirmation_url*
 
 ## Block home recommendations
 Disallow: /home/recommendations
+
 ## Product Info
 User-agent: Googlebot
+Disallow: /*/p/MLB*/s
+Disallow: /*/p/MLB*/seller-info
+Disallow: /*/p/MLB*/specifications
+Disallow: /anuncie
+Disallow: /gz/
 Disallow: /blog/cg-*
+Disallow: /mais-vendidos/MLB
+Disallow: /ofertas?
+

@@ -1298,6 +1298,60 @@ Allow: /it/mailinglist/email/
 Allow: /jp/mailinglist/email/
 Allow: /pl/mailinglist/email/
 Allow: /de-en/mailinglist/email/
+Allow: /api/v3/ajax/bespoke/public/neu/specs/
+Allow: /uk/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /au/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /ca/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /dk-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /hk-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /ie/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /il-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /in-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /no-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /nz/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /se-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /sg-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /fi-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /fr/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /ca-fr/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /de/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /at/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /ch/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /nl/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /be/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /es/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /mx/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /it/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /jp/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /pl/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /de-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /api/v3/ajax/bespoke/member/neu/specs/
+Allow: /uk/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /au/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /ca/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /dk-en/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /hk-en/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /ie/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /il-en/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /in-en/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /no-en/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /nz/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /se-en/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /sg-en/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /fi-en/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /fr/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /ca-fr/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /de/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /at/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /ch/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /nl/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /be/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /es/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /mx/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /it/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /jp/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /pl/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /de-en/api/v3/ajax/bespoke/member/neu/specs/
 Sitemap: https://www.etsy.com/sitemaps.xml
 Sitemap: https://www.etsy.com/blog/sitemap.xml.gz
 Sitemap: https://www.etsy.com/sitemaps/shops/all.xml
@@ -1717,7 +1771,7 @@ Sitemap: https://www.etsy.com/at/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/be/sitemaps/blocklist.xml
 #
-# Per dindirindina!#   \
+# Hallöchen!#   \
 #
 #    -----
 #   | . . |

@@ -86,6 +86,7 @@ Disallow: /selling-plan/*
 Disallow: /buying-analysis/*
 Disallow: /hard-bid/*
 Disallow: /stingray/api/home/details/transit-stops
+Disallow: /stingray/api/region/*/floodRisk-data
 Noindex: /edit-facts/*
 Noindex: /homeowner-verification/*
 Sitemap: https://www.redfin.com/agent_sitemap.xml
@@ -239,6 +240,7 @@ Disallow: /redfinnow-questionnaire
 Disallow: /opendoor-questionnaire
 Disallow: /opendoor/confirmation
 Disallow: /stingray/api/home/details/transit-stops
+Disallow: /stingray/api/region/*/floodRisk-data
 Noindex: /edit-facts/*
 Noindex: /homeowner-verification/*
 Sitemap: https://www.redfin.com/agent_sitemap.xml
@@ -317,6 +319,7 @@ Disallow: /stingray/serviceRequest/sellerConsult/getConsultTime
 Disallow: /tools/api/agents/agentMarket
 Disallow: /stingray/api/home/details/transit-stops
 Disallow: /stingray/ask-a-question/stage/get
+Disallow: /stingray/api/region/*/floodRisk-data
 
 User-agent: google-amphtml
 disallow: */images/ghostTownMap2x

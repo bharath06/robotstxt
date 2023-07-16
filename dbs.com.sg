@@ -363,6 +363,8 @@ Disallow: /treasures/investments/ut-experimentation.page
 Disallow: https://internet-banking.dbs.com.sg/DBSObWeb/pages/ob/pweb.html?pid=
 Disallow: /personal/dbs-forms/branchconnect/
 Disallow: /personal/ps-specialdeal.page
+Disallow: /iwov-resources/media/pdf/invest/cio/fullerton-optimised-alpha-fund-23.pdf
+Disallow: /iwov-resources/media/pdf/invest/cio/fullerton-optimized-alpha-fund-public-markets-23.pdf
 
 
 # URL Masking Details

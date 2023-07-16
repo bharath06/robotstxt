@@ -86,6 +86,7 @@ disallow: */search/*sort=views
 disallow: */search/*sort=longest
 disallow: */search/*prod=
 disallow: */search/*correction=
+disallow: */search/*revert=orientation
 disallow: *?skip=
 disallow: *&skip=
 

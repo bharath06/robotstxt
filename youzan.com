@@ -20,6 +20,7 @@ Disallow: /*json*
 Disallow: /h5/retrieve-pass?*
 Disallow: /search.php?*
 Allow: /cms?*
+Allow: /intro/supportlogo?*
 
 User-agent: Googlebot
 Disallow: /*from_source*
@@ -40,7 +41,7 @@ Disallow: /*json*
 Disallow: /h5/retrieve-pass?*
 Disallow: /search.php?*
 Disallow: /intro/*?*
-Allow: /intro/supportlogo*
+Allow: /intro/supportlogo?*
 Allow: /v*
 Allow: /cms?*
 
@@ -63,7 +64,7 @@ Disallow: /*json*
 Disallow: /h5/retrieve-pass?*
 Disallow: /search.php?*
 Disallow: /intro/*?*
-Allow: /intro/supportlogo*
+Allow: /intro/supportlogo?*
 Allow: /v*
 Allow: /cms?*
 

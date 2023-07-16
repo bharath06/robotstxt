@@ -86,6 +86,7 @@ Disallow: /*?wptouch_preview_theme=
 Disallow: /*&gt;
 Disallow: /?attachment_id=
 Disallow: /affiliate/
+Disallow: /ai_log/
 Disallow: /new-york-post-instagram-feed/
 Disallow: /new-york-post-tiktok-feed/
 Disallow: /alexa-new-york-post-instagram-feed/

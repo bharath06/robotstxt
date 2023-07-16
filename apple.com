@@ -10,7 +10,6 @@ Disallow: /*shop/sign_in*
 Disallow: /*shop/sign_out*
 Disallow: /*shop/answer/vote*
 Disallow: /*shop/bag*
-Disallow: /*shop/*popup*
 Disallow: /*shop/browse/overlay/*
 Disallow: /*shop/browse/ribbon/*
 Disallow: /*shop/browse/campaigns/mobile_overlay*
@@ -58,9 +57,6 @@ Disallow: */product-red*
 Disallow: /*/retail/availability*
 Disallow: /*/retail/availabilitySearch*
 Disallow: /*/retail/pickupEligibility*
-Disallow: /*/shop/*WebObjects/*
-Disallow: /*/shop/1-800-MY-APPLE/*
-Disallow: /*/shop/2322-consumer*
 Disallow: /*/shop/account/setup*
 Disallow: /*/shop/answer/vote*
 Disallow: /*/shop/browse/campaigns/mobile_overlay*
@@ -87,7 +83,6 @@ Disallow: /*/shop/sentryx/sign_in*
 Disallow: /*/shop/signed_in_account*
 Disallow: /*/shop/sign_in*
 Disallow: /*/shop/sign_out*
-Disallow: /*/shop/socialsharing/*
 Disallow: /*/shop/storeConfig*
 Disallow: /*/shop/vieworder*
 Disallow: /today*
@@ -210,9 +205,6 @@ Disallow: */product-red/
 Disallow: /*/retail/availability*
 Disallow: /*/retail/availabilitySearch*
 Disallow: /*/retail/pickupEligibility*
-Disallow: /*/shop/*WebObjects/*
-Disallow: /*/shop/1-800-MY-APPLE/*
-Disallow: /*/shop/2322-consumer*
 Disallow: /*/shop/account/setup*
 Disallow: /*/shop/answer/vote*
 Disallow: /*/shop/browse/campaigns/mobile_overlay*
@@ -238,7 +230,6 @@ Disallow: /*/shop/sentryx/sign_in*
 Disallow: /*/shop/signed_in_account*
 Disallow: /*/shop/sign_in*
 Disallow: /*/shop/sign_out*
-Disallow: /*/shop/socialsharing/*
 Disallow: /*/shop/storeConfig*
 Disallow: /*/shop/variationSelection*
 Disallow: /*/shop/vieworder*
@@ -250,7 +241,6 @@ Disallow: /retail/availability*
 Disallow: /retail/availabilitySearch*
 Disallow: /retail/pickupEligibility*
 Disallow: /shop/bag*
-Disallow: */search/*
 Disallow: /tmall/*
 Disallow: /cn_cmb*
 Disallow: /cn_abc*

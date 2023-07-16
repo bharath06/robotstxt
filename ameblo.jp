@@ -1,5 +1,9 @@
 User-agent: Googlebot
 Disallow: /*/page-*.html
+Allow: /*/entrylist.html
+Allow: /*/entrylist-*.html
+Allow: /*/entry-*.html
+Disallow: /*/entry*-*
 Disallow: /*/day*.html
 Disallow: /*/reader.html
 Disallow: /*/reader-*.html
@@ -17,6 +21,7 @@ Disallow: /*/videolist.html
 Disallow: /*/message-board.html
 Disallow: /*/comment-*
 Disallow: /*/themetop.html
+Disallow: /*/iine_entry-*.html
 Disallow: /summary/api/
 Disallow: /accesslog/BlogAccessLog
 Disallow: /p/
@@ -24,6 +29,7 @@ Disallow: /_api$
 Disallow: /_api/
 Disallow: /_hook/*.html
 Disallow: /blog_portal/category/*/news
+Disallow: /_static/
  
 User-agent: bingbot
 Crawl-delay: 1

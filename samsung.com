@@ -2,11 +2,13 @@ User-agent: *
 User-agent: Googlebot
 User-agent: AdsBot-Google
 User-agent: Googlebot-Image
+Disallow:
 Disallow: /*/business/search/
 Disallow: /*/parking
 Disallow: /*/parking/
 Disallow: /*/search/
 Disallow: /*/system/*
+Allow: /uk/info/contactus/email-the-ceo/
 Disallow: /*/info/contactus/email-the-ceo/
 Disallow: /*/c/p/
 Disallow: /de/aboutsamsung/inner-circle-2017/
@@ -40,29 +42,18 @@ Disallow: /*/home_75/
 Disallow: /*/home_50/
 Disallow: /*/home_25/
 Disallow: /*/speedtest/*
-Disallow: /us/smartphones/all-smartphones/*
-Disallow: /us/smartphones/galaxy-s/*
-Disallow: /us/smartphones/galaxy-note/*
-Disallow: /us/smartphones/galaxy-z/*
-Disallow: /us/smartphones/galaxy-a/*
-Disallow: /us/tablets/all-tablets/*
-Disallow: /us/tablets/galaxy-book/*
-Disallow: /us/tablets/galaxy-tab-s/*
-Disallow: /us/tablets/galaxy-tab-a/*
-Disallow: /us/tablets/others/*
-Disallow: /us/watches/all-watches/*
-Disallow: /us/watches/galaxy-watch/*
-Disallow: /us/watches/galaxy-fit/*
-Disallow: /us/watches/galaxy-watch-active/*
-Disallow: /us/audio-sound/akg-headphones/*
-Disallow: /us/audio-sound/all-audio-sound/*
-Disallow: /us/audio-sound/galaxy-buds/*
 Disallow: /us/business/new/*
+Allow: /in/multistore/*
+Allow: /hu/multistore/diakkedvezmenyek/
+Disallow: /*/multistore/*
+Disallow: /ru/srr/
 
 User-agent: Yandex
 Allow: /
 Disallow: /ru/cdm/*
 Disallow: /*/search/
+Disallow: /ru/multistore/*
+Disallow: /*/c/p/
 Clean-param: utm
 Clean-param: cid
 Clean-param: bvstate
@@ -107,7 +98,6 @@ Clean-param: nw
 Clean-param: offerId
 Clean-param: oTyp
 Clean-param: page
-Clean-param: product1
 Clean-param: productId
 Clean-param: products
 Clean-param: q
@@ -139,7 +129,6 @@ Clean-param: tab
 Clean-param: type
 Clean-param: model
 Clean-param: locale
-Clean-param: product2
 Disallow: /africa_en/
 Disallow: /africa_fr/
 Disallow: /africa_pt/
@@ -215,10 +204,20 @@ Disallow: /uy/
 Disallow: /us/
 Disallow: /vn/
 Disallow: /bd/
+Disallow: /iq_ar/
+Disallow: /iq_ku/
+Disallow: /lb/
+Disallow: /mn/
+Disallow: /ru/srr/
+Disallow: /jp/
+Disallow: /ge/
 
 User-Agent: Sitereport
 Allow: /ru*
 Disallow: /
+
+User-agent: proximic
+Disallow: /in/
 
 #DaumWebMasterTool:4d08be0d0bd15c674e8ef34874ed14afbb8693a24e1a91f1cf630b03f6b02300:wLHQFbkWgWsLISzjhU4qLA==
 
@@ -311,5 +310,10 @@ Sitemap:https://www.samsung.com/us/es/sitemap.xml
 Sitemap:https://www.samsung.com/uz_uz/sitemap.xml
 Sitemap:https://www.samsung.com/uz_ru/sitemap.xml
 Sitemap:https://www.samsung.com/vn/sitemap.xml
+Sitemap:https://www.samsung.com/iq_ar/sitemap.xml
+Sitemap:https://www.samsung.com/iq_ku/sitemap.xml
+Sitemap:https://www.samsung.com/lb/sitemap.xml
+Sitemap:https://www.samsung.com/mn/sitemap.xml
+Sitemap:https://www.samsung.com/jp/sitemap.xml
+Sitemap:https://www.samsung.com/ge/sitemap.xml
 Host: www.samsung.com
-

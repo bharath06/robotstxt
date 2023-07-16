@@ -1,2 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /search
+Disallow: /timeline
+Disallow: /allbbs

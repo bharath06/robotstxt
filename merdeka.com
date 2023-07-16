@@ -16,3 +16,4 @@ Disallow: */i18n/
 Disallow: */selection/
 Disallow: */jelajah/
 Disallow: */ucnews/
+Disallow: */ajax-insertion/

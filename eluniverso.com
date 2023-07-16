@@ -90,6 +90,8 @@ Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
 Disallow: /arc/outboundfeeds/rss/*
 Disallow: /arc/outboundfeeds/pressreader/*
+Disallow: /pf/api/v3/*
+Disallow: /resizer/*
 
 User-agent: grapeshot
 Disallow:

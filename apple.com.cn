@@ -8,8 +8,6 @@ Disallow: /retail/pickupEligibility*
 Disallow: /*shop/signed_in_account*
 Disallow: /*shop/sign_in*
 Disallow: /*shop/sign_out*
-Disallow: /*shop/*WebObjects/*
-Disallow: /*shop/1-800-MY-APPLE/*
 Disallow: /*shop/answer/vote*
 Disallow: /*shop/bag*
 Disallow: /*shop/browse/overlay/*
@@ -24,14 +22,10 @@ Disallow: /*shop/np/order*
 Disallow: /*shop/np/giftorguestorder*
 Disallow: /*shop/np/sign_in*
 Disallow: /*shop/order/*
-Disallow: /*shop/question/answer/report*
-Disallow: /*shop/question/subscribe*
-Disallow: /*shop/question/unsubscribe/
 Disallow: /*shop/review/vote*
 Disallow: /*shop/reviews/report*
 Disallow: /*shop/rs-mvt/rel/*
 Disallow: /*shop/sentry*
-Disallow: /*shop/socialsharing/*
 Disallow: /*shop/store/feeds/*
 Disallow: /*shop/variationSelection
 Disallow: /*_adc_*/shop/
@@ -46,14 +40,10 @@ Disallow: /*_refurb-discounted*/shop/
 Disallow: /*/aow/*
 Disallow: /go/awards/*
 Disallow: /newsroom/notifications/*
-Disallow: */search/*
 Disallow: /tmall*
 Allow: /ac/globalnav/2.0/*/images/ac-globalnav/globalnav/search/* 
 
 User-agent: Baiduspider
-Disallow: /*shop/*WebObjects/*
-Disallow: /*shop/1-800-MY-APPLE/*
-Disallow: /*shop/2322-consumer*
 Disallow: /*shop/account/setup*
 Disallow: /*shop/answer/vote*
 Disallow: /*shop/browse/campaigns/mobile_overlay*
@@ -70,9 +60,6 @@ Disallow: /*shop/mobilex/*
 Disallow: /*shop/np/order*
 Disallow: /*shop/np/giftorguestorder*
 Disallow: /*shop/np/sign_in*
-Disallow: /*shop/question/answer/report*
-Disallow: /*shop/question/subscribe*
-Disallow: /*shop/question/unsubscribe/*
 Disallow: /*shop/review/vote*
 Disallow: /*shop/reviews/report*
 Disallow: /*shop/rs-mvt/rel/*
@@ -80,7 +67,6 @@ Disallow: /*shop/sentry*
 Disallow: /*shop/signed_in_account*
 Disallow: /*shop/sign_in*
 Disallow: /*shop/sign_out*
-Disallow: /*shop/socialsharing/*
 Disallow: /*shop/storeConfig*
 Disallow: /*shop/vieworder*
 Disallow: /*shop/store/feeds/*
@@ -106,9 +92,6 @@ Disallow: /cn/shop/buy-*
 Disallow: /cn-smb*
 
 User-agent: Sogou web spider/4.0
-Disallow: /*shop/*WebObjects/*
-Disallow: /*shop/1-800-MY-APPLE/*
-Disallow: /*shop/2322-consumer*
 Disallow: /*shop/account/setup*
 Disallow: /*shop/answer/vote*
 Disallow: /*shop/browse/campaigns/mobile_overlay*
@@ -125,9 +108,6 @@ Disallow: /*shop/mobilex/*
 Disallow: /*shop/np/order*
 Disallow: /*shop/np/giftorguestorder*
 Disallow: /*shop/np/sign_in*
-Disallow: /*shop/question/answer/report*
-Disallow: /*shop/question/subscribe*
-Disallow: /*shop/question/unsubscribe/*
 Disallow: /*shop/review/vote*
 Disallow: /*shop/reviews/report*
 Disallow: /*shop/rs-mvt/rel/*
@@ -135,7 +115,6 @@ Disallow: /*shop/sentry*
 Disallow: /*shop/signed_in_account*
 Disallow: /*shop/sign_in*
 Disallow: /*shop/sign_out*
-Disallow: /*shop/socialsharing/*
 Disallow: /*shop/storeConfig*
 Disallow: /*shop/vieworder*
 Disallow: /*shop/store/feeds/*
@@ -161,9 +140,6 @@ Disallow: /cn/shop/buy-*
 Disallow: /cn-smb*
 
 User-agent: Sogou inst spider/4.0
-Disallow: /*shop/*WebObjects/*
-Disallow: /*shop/1-800-MY-APPLE/*
-Disallow: /*shop/2322-consumer*
 Disallow: /*shop/account/setup*
 Disallow: /*shop/answer/vote*
 Disallow: /*shop/browse/campaigns/mobile_overlay*
@@ -180,9 +156,6 @@ Disallow: /*shop/mobilex/*
 Disallow: /*shop/np/order*
 Disallow: /*shop/np/giftorguestorder*
 Disallow: /*shop/np/sign_in*
-Disallow: /*shop/question/answer/report*
-Disallow: /*shop/question/subscribe*
-Disallow: /*shop/question/unsubscribe/*
 Disallow: /*shop/review/vote*
 Disallow: /*shop/reviews/report*
 Disallow: /*shop/rs-mvt/rel/*
@@ -190,7 +163,6 @@ Disallow: /*shop/sentry*
 Disallow: /*shop/signed_in_account*
 Disallow: /*shop/sign_in*
 Disallow: /*shop/sign_out*
-Disallow: /*shop/socialsharing/*
 Disallow: /*shop/storeConfig*
 Disallow: /*shop/vieworder*
 Disallow: /*shop/store/feeds/*
@@ -216,9 +188,6 @@ Disallow: /cn/shop/buy-*
 Disallow: /cn-smb*
 
 User-agent: 360Spider
-Disallow: /*shop/*WebObjects/*
-Disallow: /*shop/1-800-MY-APPLE/*
-Disallow: /*shop/2322-consumer*
 Disallow: /*shop/account/setup*
 Disallow: /*shop/answer/vote*
 Disallow: /*shop/browse/campaigns/mobile_overlay*
@@ -235,9 +204,6 @@ Disallow: /*shop/mobilex/*
 Disallow: /*shop/np/order*
 Disallow: /*shop/np/giftorguestorder*
 Disallow: /*shop/np/sign_in*
-Disallow: /*shop/question/answer/report*
-Disallow: /*shop/question/subscribe*
-Disallow: /*shop/question/unsubscribe/*
 Disallow: /*shop/review/vote*
 Disallow: /*shop/reviews/report*
 Disallow: /*shop/rs-mvt/rel/*
@@ -245,7 +211,6 @@ Disallow: /*shop/sentry*
 Disallow: /*shop/signed_in_account*
 Disallow: /*shop/sign_in*
 Disallow: /*shop/sign_out*
-Disallow: /*shop/socialsharing/*
 Disallow: /*shop/storeConfig*
 Disallow: /*shop/vieworder*
 Disallow: /*shop/store/feeds/*

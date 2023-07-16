@@ -18,6 +18,10 @@ Disallow: /
 User-agent: PiplBot
 Disallow: /
 
+User-agent: Googlebot
+User-agent: Bingbot
+Disallow: */comment/*
+
 User-Agent: *
 Disallow: /*.json
 Disallow: /*.json-compact
@@ -31,7 +35,6 @@ Disallow: /r/*/wiki/*.rss
 Disallow: /*.i
 Disallow: /*.embed
 Disallow: /*/comments/*?*sort=
-Disallow: */comment/*
 Disallow: /r/*/submit$
 Disallow: /r/*/submit/$
 Disallow: /message/compose*
@@ -45,6 +48,9 @@ Disallow: /login
 Disallow: /remove_email/t2_*
 Disallow: /r/*/user/
 Disallow: /gold?
+Disallow: /search/
+Disallow: /*/search?q=
+Disallow: /*/search/?q=
 Disallow: /static/button/button1.js
 Disallow: /static/button/button1.html
 Disallow: /static/button/button2.html

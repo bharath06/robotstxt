@@ -45,6 +45,3 @@ Allow: /search
 User-agent: Twitterbot
 
 Allow: /
-
-# Sitemaps
-Sitemap: https://www.freepik.com/sitemap-index.xml

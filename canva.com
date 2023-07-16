@@ -71,7 +71,8 @@ Disallow: *ad=
 Disallow: *__hstc=
 Disallow: *__+hsfp=
 Disallow: /_ajax/
-Allow: /design/*************
+Disallow: /design/
+Allow: /design/play*
 Disallow: /font-combinations/search/*
 Disallow: /*/followers
 Disallow: /*/followers/
@@ -131,7 +132,7 @@ Allow: /
 
 
 
-Sitemap: https://sitemap.canva.com/marketplace_templates/index.xml
 Sitemap: https://sitemap.canva.com/help_center_pages/index.xml
-Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_templates/index.xml
 Sitemap: https://sitemap.canva.com/marketplace_templates_search_pages/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml

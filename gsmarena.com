@@ -48,7 +48,7 @@ User-agent: DataForSeoBot
 Crawl-delay: 10
 
 User-agent: Dotbot
-Crawl-delay: 5
+Disallow: /
 
 User-agent: grapeshot
 Disallow:

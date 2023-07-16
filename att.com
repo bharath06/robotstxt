@@ -13,6 +13,7 @@ User-agent: dotbot
 Disallow: /
 
 User-agent: *
+Disallow: /gtm/
 # Consumer Wireless and Home
 Disallow: /support/showarticle*
 Disallow: /contactus/*
@@ -120,6 +121,7 @@ Disallow: /es-us/smallbusiness/wireless/buyFlowContainer.jsp
 Disallow: /es-us/smallbusiness/i9nvalidParamInput.jsp
 
 User-agent: Googlebot
+Disallow: /gtm/
 # Consumer Wireless and Home
 Disallow: /support/showarticle*
 Disallow: /contactus/*

@@ -78,11 +78,6 @@ Disallow: /go/menu%
 Disallow: /go/menu?
 Disallow: /go/menu/
 
-Disallow: /go/travel$
-Disallow: /go/travel%
-Disallow: /go/travel?
-Disallow: /go/travel/
-
 Disallow: /go/realty$
 Disallow: /go/realty%
 Disallow: /go/realty?

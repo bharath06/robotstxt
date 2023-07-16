@@ -197,6 +197,7 @@ Disallow: /firme/pierluigi-battista_80
 Disallow: /cook/ricette/ricerca
 Disallow: /CorriereAppNews/
 Disallow: /corrierepoint/
+Disallow: /*?app_v2
 Allow: /sitemap*.xml
 # Allow: /notizie-ultima-ora/rss_col.xml
 Allow: /rss/*.xml

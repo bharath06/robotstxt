@@ -69,4 +69,5 @@ Disallow: /smart/buttons
 Disallow: /tagmanager/containers/xo
 Disallow: /tagmanager/pptm.js
 Disallow: /xoplatform/logger/api/logger
+Disallow: /merchantapps/
 Sitemap: https://www.paypal.com/paypal-sitemap-index.xml

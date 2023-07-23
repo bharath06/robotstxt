@@ -58,7 +58,6 @@ Disallow: /autocredit/calculator
 Disallow: /ukraina_*/
 Disallow: /*/ukraina_*/
 Disallow: /unsubscribe/
-Disallow: *catalog/houses*
 Disallow: /*/vakansii/catalog/
 Sitemap: https://www.avito.ru/sitemap/index.xml
 Clean-param: cd
@@ -125,7 +124,6 @@ Disallow: /unsubscribe/
 Disallow: /*regnumber=
 Disallow: /*avito_campaign_id=
 Disallow: /*reviewsPage=
-Disallow: *catalog/houses*
 Disallow: /*/vakansii/catalog/
 Sitemap: https://www.avito.ru/sitemap/index.xml
 
@@ -193,6 +191,5 @@ Disallow: /*regnumber=
 Disallow: /*avito_campaign_id=
 Disallow: /*reviewsPage=
 Disallow: /q/*
-Disallow: *catalog/houses*
 Disallow: /*/vakansii/catalog/
 Sitemap: https://www.avito.ru/sitemap/index.xml

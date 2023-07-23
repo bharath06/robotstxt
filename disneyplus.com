@@ -13,6 +13,8 @@ Disallow: /*/account/
 Disallow: /app-settings/
 Disallow: /*/app-settings/
 Disallow: /welcome/responder
+Disallow: /*/home/
+Disallow: /home/
 
 # Announce Sitemap
 Sitemap: https://www.disneyplus.com/sitemap.xml

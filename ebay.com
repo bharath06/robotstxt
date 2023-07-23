@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v18.5_COM_May_2023
+# v18.6_COM_Jul_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -40,6 +40,7 @@ Disallow: /arama
 Disallow: /bebek-anne
 Disallow: /bilgisayar-tablet
 Disallow: /cep-telefonu-ve-aksesuar
+Disallow: /delicacy
 Disallow: /ev-bahce
 Disallow: /giyim-aksesuar
 Disallow: /muzik-plak-enstruman
@@ -302,6 +303,7 @@ Disallow: /csc/
 Disallow: /cta/
 Disallow: /ctg/
 Disallow: /ctm/
+Disallow: /delicacy
 Disallow: /dsc/
 Disallow: /e/*?
 Disallow: /ebay/cronus/
@@ -467,16 +469,7 @@ Disallow: /*src=urllib
 Disallow: /srv/
 
 
-# PRP Sitemaps
-Sitemap: https://www.ebay.com/lst/PRP-0-index.xml
-
-# VIS Sitemaps
-Sitemap: https://www.ebay.com/lst/VIS-0-index.xml
-
-# NGS Sitemaps
-Sitemap: https://www.ebay.com/lst/NGS-0-index.xml
-
-# BROWSE Sitemaps
-Sitemap: https://www.ebay.com/lst/BROWSE-0-index.xml
+# STORES Sitemaps
+Sitemap: http://www.ebay.com/lst/STORES-0-index.xml
 
 ### END FILE ###

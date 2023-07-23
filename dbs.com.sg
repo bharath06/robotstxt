@@ -136,6 +136,7 @@ Disallow: /personal/deposits/promotions/sg-aug21bday1.page
 Disallow: /personal/deposits/promotions/sg-aug21bday2.page
 Disallow: /personal/deposits/promotions/sg-aug21bday3.page
 Disallow: /personal/cards/promotions/sg-clijul21.page
+Disallow: /personal/cards/promotions/sg-grocfuel.page
 Disallow: /personal/promotion/multigen-protect
 Disallow: /treasures/promotion/multigen-protect
 Disallow: /treasures-private-client/promotion/multigen-protect
@@ -365,6 +366,10 @@ Disallow: /personal/dbs-forms/branchconnect/
 Disallow: /personal/ps-specialdeal.page
 Disallow: /iwov-resources/media/pdf/invest/cio/fullerton-optimised-alpha-fund-23.pdf
 Disallow: /iwov-resources/media/pdf/invest/cio/fullerton-optimized-alpha-fund-public-markets-23.pdf
+Disallow: /personal/bank-existing-to-dbs.page
+Disallow: /personal/birthday-specialdeal.page
+Disallow: /personal/loyalty-specialdeal.page
+Disallow: /iwov-resources/pdf/deposits/srs/staff-promo-tnc.pdf
 
 
 # URL Masking Details

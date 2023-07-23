@@ -5,6 +5,8 @@ Disallow: /temp/
 Disallow: /company1/
 Disallow: /proddetail1
 Disallow: /proddetail1/
+Disallow: /proddetail2
+Disallow: /proddetail2/
 Disallow: /mdc/
 Disallow: /company/A/
 Disallow: /company/B/

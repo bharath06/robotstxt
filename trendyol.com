@@ -151,6 +151,7 @@ Disallow: /tekrar-al
 Disallow: /topla-kazan
 Disallow: /topla-kazan-kuponlari
 Disallow: /tum--urunler
+Disallow: /ar/*
 Allow: /*gads=true
 # DE rules
 Disallow: /de/account
@@ -190,3 +191,5 @@ Disallow: /de/
 Disallow: /en/
 
 Sitemap: https://www.trendyol.com/sitemap
+
+

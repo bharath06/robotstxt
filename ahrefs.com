@@ -12,3 +12,4 @@ Disallow: /academy/*?*draft
 Disallow: /team-new
 Disallow: /team-new-a
 Disallow: /team-new-b
+Disallow: /seo-toolbar/welcome

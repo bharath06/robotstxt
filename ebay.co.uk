@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v18.4_UK_DE_May_2023
+# v18.6_UK_DE_Jul_2023
 ### DIRECTIVES ###
 
 User-agent: *
@@ -78,6 +78,7 @@ Disallow: /csc/
 Disallow: /cta/
 Disallow: /ctg/
 Disallow: /ctm/
+Disallow: /delicacy
 Disallow: /dsc/
 Disallow: /e/*?
 Disallow: /ebaylive/host
@@ -268,6 +269,7 @@ Disallow: /csc/
 Disallow: /cta/
 Disallow: /ctg/
 Disallow: /ctm/
+Disallow: /delicacy
 Disallow: /dsc/
 Disallow: /e/*?
 Disallow: /ebay/cronus/
@@ -430,17 +432,5 @@ User-agent: Twitterbot
 Disallow: /*src=urllib
 Disallow: /srv/
 
-
-# PRP Sitemaps
-Sitemap: https://www.ebay.co.uk/lst/PRP-3-index.xml
-
-# VIS Sitemaps
-Sitemap: https://www.ebay.co.uk/lst/VIS-3-index.xml
-
-# NGS Sitemaps
-Sitemap: https://www.ebay.co.uk/lst/NGS-3-index.xml
-
-# BROWSE Sitemaps
-Sitemap: https://www.ebay.co.uk/lst/BROWSE-3-index.xml
 
 ### END FILE ###

@@ -16,5 +16,4 @@ Disallow: /cgi-bin/
 Disallow: /videotutorials/
 Disallow: /*/*_question_bank/
 Disallow: //*/*/*/*/src/
-Sitemap: https://www.tutorialspoint.com/tp.xml
-Sitemap: https://www.tutorialspoint.com/tp1.xml
+Sitemap: https://www.tutorialspoint.com/sitemap_index.xml/

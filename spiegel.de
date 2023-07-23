@@ -10,3 +10,8 @@ Sitemap: https://www.spiegel.de/sitemaps/videos/sitemap.xml
 Sitemap: https://www.spiegel.de/plus/sitemap.xml
 Sitemap: https://www.spiegel.de/sitemap.xml
 Sitemap: https://www.spiegel.de/gutscheine/sitemap.xml
+
+# Legal notice: spiegel.de expressly reserves the right to use its content for commercial text and data mining (§ 44b Urheberrechtsgesetz).
+# The use of robots or other automated means to access spiegel.de or collect or mine data without the express permission of spiegel.de is strictly prohibited.
+# spiegel.de may, in its discretion, permit certain automated access to certain spiegel.de pages,
+# If you would like to apply for permission to crawl spiegel.de, collect or use data, please email syndication@spiegel.de

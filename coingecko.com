@@ -75,6 +75,8 @@ Disallow: *?time=
 Disallow: *?TRUE
 Disallow: /*/historical_data*?*end=
 Disallow: /*/historical_data*?*start=
+Disallow: *search=
+
 
 Sitemap: https://www.coingecko.com/sitemap.xml
 Sitemap: https://www.coingecko.com/sitemaps/currency/sitemap.xml

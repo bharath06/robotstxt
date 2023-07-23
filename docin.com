@@ -3,7 +3,6 @@ Disallow: /app/p
 Disallow: /app/my/
 Disallow: /players/
 Disallow: /help
-Disallow: /touch/
 Disallow: /docsearch
 Disallow: /app/teamMessage/
 Disallow: *-f*.html

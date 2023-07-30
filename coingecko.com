@@ -13,7 +13,6 @@ Disallow: /*/search/bang
 Disallow: /*/social_tab$
 Disallow: /*/widgets_tab$
 Disallow: /*/developer_tab$
-Disallow: /*/status_updates_tab$
 Disallow: /*/sentiment_votes$
 Disallow: /*/markets_tab$
 Disallow: /*/news_guides$

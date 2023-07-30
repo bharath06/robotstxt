@@ -20,107 +20,11 @@ Disallow: /*/following
 Disallow: /account/deactivated
 Disallow: /settings/deactivated
 
-# Yahoo! Search Engine Robot
-# ==========================
-User-Agent: Slurp
-Allow: /?_escaped_fragment_
-
-Allow: /*?lang=
-Allow: /hashtag/*?src=
-Allow: /search?q=%23
-Allow: /i/api/
-Disallow: /search/realtime
-Disallow: /search/users
-Disallow: /search/*/grid
-
-Disallow: /*?
-Disallow: /*/followers
-Disallow: /*/following
-
-Disallow: /account/deactivated
-Disallow: /settings/deactivated
-
-# Yandex Search Engine Robot
-# ==========================
-User-agent: Yandex
-Allow: /?_escaped_fragment_
-
-Allow: /*?lang=
-Allow: /hashtag/*?src=
-Allow: /search?q=%23
-Allow: /i/api/
-Disallow: /search/realtime
-Disallow: /search/users
-Disallow: /search/*/grid
-
-Disallow: /*?
-Disallow: /*/followers
-Disallow: /*/following
-
-Disallow: /account/deactivated
-Disallow: /settings/deactivated
-
-# Microsoft Search Engine Robot
-# =============================
-User-Agent: msnbot
-Allow: /?_escaped_fragment_
-
-Allow: /*?lang=
-Allow: /hashtag/*?src=
-Allow: /search?q=%23
-Disallow: /search/realtime
-Disallow: /search/users
-Disallow: /search/*/grid
-
-Disallow: /*?
-Disallow: /*/followers
-Disallow: /*/following
-
-Disallow: /account/deactivated
-Disallow: /settings/deactivated
-
-# Bing Search Engine Robot
-# ========================
-User-Agent: bingbot
-Allow: /?_escaped_fragment_
-
-Allow: /*?lang=
-Allow: /hashtag/*?src=
-Allow: /search?q=%23
-Disallow: /search/realtime
-Disallow: /search/users
-Disallow: /search/*/grid
-
-Disallow: /*?
-Disallow: /*/followers
-Disallow: /*/following
-
-Disallow: /account/deactivated
-Disallow: /settings/deactivated
 
 # Every bot that might possibly read and respect this file
 # ========================================================
 User-agent: *
-Allow: /*?lang=
-Allow: /hashtag/*?src=
-Allow: /search?q=%23
-Allow: /i/api/
-Disallow: /search/realtime
-Disallow: /search/users
-Disallow: /search/*/grid
-
-Disallow: /*?
-Disallow: /*/followers
-Disallow: /*/following
-
-Disallow: /account/deactivated
-Disallow: /settings/deactivated
-
-Disallow: /oauth
-Disallow: /1/oauth
-
-Disallow: /i/streams
-Disallow: /i/hello
+Disallow: /
 
 # WHAT-4882 - Block indexing of links in notification emails. This applies to all bots.
 # =====================================================================================

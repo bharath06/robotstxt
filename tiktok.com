@@ -2,6 +2,7 @@ User-agent: Baiduspider
 User-agent: 360Spider
 User-agent: Sogouspider
 User-agent: Yisouspider
+User-agent: PetalBot
 Disallow: /
 
 User-agent: *

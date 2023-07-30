@@ -29,6 +29,7 @@ Disallow: /it/api/
 Disallow: /jp/api/
 Disallow: /pl/api/
 Disallow: /de-en/api/
+Disallow: /us-es/api/
 Disallow: /your/
 Disallow: /uk/your/
 Disallow: /au/your/
@@ -56,6 +57,7 @@ Disallow: /it/your/
 Disallow: /jp/your/
 Disallow: /pl/your/
 Disallow: /de-en/your/
+Disallow: /us-es/your/
 Disallow: /transactions/
 Disallow: /uk/transactions/
 Disallow: /au/transactions/
@@ -83,6 +85,7 @@ Disallow: /it/transactions/
 Disallow: /jp/transactions/
 Disallow: /pl/transactions/
 Disallow: /de-en/transactions/
+Disallow: /us-es/transactions/
 Disallow: /treasury
 Disallow: /uk/treasury
 Disallow: /au/treasury
@@ -110,6 +113,7 @@ Disallow: /it/treasury
 Disallow: /jp/treasury
 Disallow: /pl/treasury
 Disallow: /de-en/treasury
+Disallow: /us-es/treasury
 Disallow: /teams
 Disallow: /uk/teams
 Disallow: /au/teams
@@ -137,6 +141,7 @@ Disallow: /it/teams
 Disallow: /jp/teams
 Disallow: /pl/teams
 Disallow: /de-en/teams
+Disallow: /us-es/teams
 Disallow: /cart
 Disallow: /uk/cart
 Disallow: /au/cart
@@ -164,6 +169,7 @@ Disallow: /it/cart
 Disallow: /jp/cart
 Disallow: /pl/cart
 Disallow: /de-en/cart
+Disallow: /us-es/cart
 Disallow: /conversations
 Disallow: /uk/conversations
 Disallow: /au/conversations
@@ -191,6 +197,7 @@ Disallow: /it/conversations
 Disallow: /jp/conversations
 Disallow: /pl/conversations
 Disallow: /de-en/conversations
+Disallow: /us-es/conversations
 Disallow: /conversations/
 Disallow: /uk/conversations/
 Disallow: /au/conversations/
@@ -218,6 +225,7 @@ Disallow: /it/conversations/
 Disallow: /jp/conversations/
 Disallow: /pl/conversations/
 Disallow: /de-en/conversations/
+Disallow: /us-es/conversations/
 Disallow: /locale/overlay
 Disallow: /uk/locale/overlay
 Disallow: /au/locale/overlay
@@ -245,6 +253,7 @@ Disallow: /it/locale/overlay
 Disallow: /jp/locale/overlay
 Disallow: /pl/locale/overlay
 Disallow: /de-en/locale/overlay
+Disallow: /us-es/locale/overlay
 Disallow: /locale/overlay_secure
 Disallow: /uk/locale/overlay_secure
 Disallow: /au/locale/overlay_secure
@@ -272,6 +281,7 @@ Disallow: /it/locale/overlay_secure
 Disallow: /jp/locale/overlay_secure
 Disallow: /pl/locale/overlay_secure
 Disallow: /de-en/locale/overlay_secure
+Disallow: /us-es/locale/overlay_secure
 Disallow: /guest-pass/
 Disallow: /uk/guest-pass/
 Disallow: /au/guest-pass/
@@ -299,6 +309,7 @@ Disallow: /it/guest-pass/
 Disallow: /jp/guest-pass/
 Disallow: /pl/guest-pass/
 Disallow: /de-en/guest-pass/
+Disallow: /us-es/guest-pass/
 Disallow: /mailinglist/
 Disallow: /uk/mailinglist/
 Disallow: /au/mailinglist/
@@ -326,6 +337,7 @@ Disallow: /it/mailinglist/
 Disallow: /jp/mailinglist/
 Disallow: /pl/mailinglist/
 Disallow: /de-en/mailinglist/
+Disallow: /us-es/mailinglist/
 Disallow: /mini.php
 Disallow: /uk/mini.php
 Disallow: /au/mini.php
@@ -353,6 +365,7 @@ Disallow: /it/mini.php
 Disallow: /jp/mini.php
 Disallow: /pl/mini.php
 Disallow: /de-en/mini.php
+Disallow: /us-es/mini.php
 Disallow: /invites/buy
 Disallow: /uk/invites/buy
 Disallow: /au/invites/buy
@@ -380,6 +393,7 @@ Disallow: /it/invites/buy
 Disallow: /jp/invites/buy
 Disallow: /pl/invites/buy
 Disallow: /de-en/invites/buy
+Disallow: /us-es/invites/buy
 Disallow: /share
 Disallow: /uk/share
 Disallow: /au/share
@@ -407,6 +421,7 @@ Disallow: /it/share
 Disallow: /jp/share
 Disallow: /pl/share
 Disallow: /de-en/share
+Disallow: /us-es/share
 Disallow: /bcn
 Disallow: /uk/bcn
 Disallow: /au/bcn
@@ -434,6 +449,7 @@ Disallow: /it/bcn
 Disallow: /jp/bcn
 Disallow: /pl/bcn
 Disallow: /de-en/bcn
+Disallow: /us-es/bcn
 Disallow: /listing/*/stubs/*
 Disallow: /uk/listing/*/stubs/*
 Disallow: /au/listing/*/stubs/*
@@ -461,6 +477,7 @@ Disallow: /it/listing/*/stubs/*
 Disallow: /jp/listing/*/stubs/*
 Disallow: /pl/listing/*/stubs/*
 Disallow: /de-en/listing/*/stubs/*
+Disallow: /us-es/listing/*/stubs/*
 Disallow: /market/confederate_flag
 Disallow: /uk/market/confederate_flag
 Disallow: /au/market/confederate_flag
@@ -488,6 +505,7 @@ Disallow: /it/market/confederate_flag
 Disallow: /jp/market/confederate_flag
 Disallow: /pl/market/confederate_flag
 Disallow: /de-en/market/confederate_flag
+Disallow: /us-es/market/confederate_flag
 Disallow: /market/rebel_flag
 Disallow: /uk/market/rebel_flag
 Disallow: /au/market/rebel_flag
@@ -515,6 +533,7 @@ Disallow: /it/market/rebel_flag
 Disallow: /jp/market/rebel_flag
 Disallow: /pl/market/rebel_flag
 Disallow: /de-en/market/rebel_flag
+Disallow: /us-es/market/rebel_flag
 Disallow: /market/dixie_flag
 Disallow: /uk/market/dixie_flag
 Disallow: /au/market/dixie_flag
@@ -542,6 +561,7 @@ Disallow: /it/market/dixie_flag
 Disallow: /jp/market/dixie_flag
 Disallow: /pl/market/dixie_flag
 Disallow: /de-en/market/dixie_flag
+Disallow: /us-es/market/dixie_flag
 Disallow: /help/sitemap.php
 Disallow: /uk/help/sitemap.php
 Disallow: /au/help/sitemap.php
@@ -569,6 +589,7 @@ Disallow: /it/help/sitemap.php
 Disallow: /jp/help/sitemap.php
 Disallow: /pl/help/sitemap.php
 Disallow: /de-en/help/sitemap.php
+Disallow: /us-es/help/sitemap.php
 Disallow: /help/sitemap/*
 Disallow: /uk/help/sitemap/*
 Disallow: /au/help/sitemap/*
@@ -596,6 +617,7 @@ Disallow: /it/help/sitemap/*
 Disallow: /jp/help/sitemap/*
 Disallow: /pl/help/sitemap/*
 Disallow: /de-en/help/sitemap/*
+Disallow: /us-es/help/sitemap/*
 Disallow: /*?order=*
 Disallow: /uk/*?order=*
 Disallow: /au/*?order=*
@@ -623,6 +645,7 @@ Disallow: /it/*?order=*
 Disallow: /jp/*?order=*
 Disallow: /pl/*?order=*
 Disallow: /de-en/*?order=*
+Disallow: /us-es/*?order=*
 Disallow: /*handmade/
 Disallow: /uk/*handmade/
 Disallow: /au/*handmade/
@@ -650,6 +673,7 @@ Disallow: /it/*handmade/
 Disallow: /jp/*handmade/
 Disallow: /pl/*handmade/
 Disallow: /de-en/*handmade/
+Disallow: /us-es/*handmade/
 Disallow: /*color=*
 Disallow: /uk/*color=*
 Disallow: /au/*color=*
@@ -677,6 +701,7 @@ Disallow: /it/*color=*
 Disallow: /jp/*color=*
 Disallow: /pl/*color=*
 Disallow: /de-en/*color=*
+Disallow: /us-es/*color=*
 Disallow: /*my_etsy=*
 Disallow: /uk/*my_etsy=*
 Disallow: /au/*my_etsy=*
@@ -704,6 +729,7 @@ Disallow: /it/*my_etsy=*
 Disallow: /jp/*my_etsy=*
 Disallow: /pl/*my_etsy=*
 Disallow: /de-en/*my_etsy=*
+Disallow: /us-es/*my_etsy=*
 Disallow: /*gift_card=*
 Disallow: /uk/*gift_card=*
 Disallow: /au/*gift_card=*
@@ -731,6 +757,7 @@ Disallow: /it/*gift_card=*
 Disallow: /jp/*gift_card=*
 Disallow: /pl/*gift_card=*
 Disallow: /de-en/*gift_card=*
+Disallow: /us-es/*gift_card=*
 Disallow: /*customizable=*
 Disallow: /uk/*customizable=*
 Disallow: /au/*customizable=*
@@ -758,6 +785,7 @@ Disallow: /it/*customizable=*
 Disallow: /jp/*customizable=*
 Disallow: /pl/*customizable=*
 Disallow: /de-en/*customizable=*
+Disallow: /us-es/*customizable=*
 Disallow: /*locationQuery=*
 Disallow: /uk/*locationQuery=*
 Disallow: /au/*locationQuery=*
@@ -785,6 +813,7 @@ Disallow: /it/*locationQuery=*
 Disallow: /jp/*locationQuery=*
 Disallow: /pl/*locationQuery=*
 Disallow: /de-en/*locationQuery=*
+Disallow: /us-es/*locationQuery=*
 Disallow: /*min=*
 Disallow: /uk/*min=*
 Disallow: /au/*min=*
@@ -812,6 +841,7 @@ Disallow: /it/*min=*
 Disallow: /jp/*min=*
 Disallow: /pl/*min=*
 Disallow: /de-en/*min=*
+Disallow: /us-es/*min=*
 Disallow: /*max=*
 Disallow: /uk/*max=*
 Disallow: /au/*max=*
@@ -839,6 +869,7 @@ Disallow: /it/*max=*
 Disallow: /jp/*max=*
 Disallow: /pl/*max=*
 Disallow: /de-en/*max=*
+Disallow: /us-es/*max=*
 Disallow: */people/*/circle*
 Disallow: /uk*/people/*/circle*
 Disallow: /au*/people/*/circle*
@@ -866,6 +897,7 @@ Disallow: /it*/people/*/circle*
 Disallow: /jp*/people/*/circle*
 Disallow: /pl*/people/*/circle*
 Disallow: /de-en*/people/*/circle*
+Disallow: /us-es*/people/*/circle*
 Disallow: */people/*/favorites*
 Disallow: /uk*/people/*/favorites*
 Disallow: /au*/people/*/favorites*
@@ -893,6 +925,7 @@ Disallow: /it*/people/*/favorites*
 Disallow: /jp*/people/*/favorites*
 Disallow: /pl*/people/*/favorites*
 Disallow: /de-en*/people/*/favorites*
+Disallow: /us-es*/people/*/favorites*
 Disallow: */shop/*/sold*
 Disallow: /uk*/shop/*/sold*
 Disallow: /au*/shop/*/sold*
@@ -920,6 +953,7 @@ Disallow: /it*/shop/*/sold*
 Disallow: /jp*/shop/*/sold*
 Disallow: /pl*/shop/*/sold*
 Disallow: /de-en*/shop/*/sold*
+Disallow: /us-es*/shop/*/sold*
 Disallow: */shop/*/favoriters*
 Disallow: /uk*/shop/*/favoriters*
 Disallow: /au*/shop/*/favoriters*
@@ -947,6 +981,7 @@ Disallow: /it*/shop/*/favoriters*
 Disallow: /jp*/shop/*/favoriters*
 Disallow: /pl*/shop/*/favoriters*
 Disallow: /de-en*/shop/*/favoriters*
+Disallow: /us-es*/shop/*/favoriters*
 Disallow: */listing/*/favoriters*
 Disallow: /uk*/listing/*/favoriters*
 Disallow: /au*/listing/*/favoriters*
@@ -974,6 +1009,7 @@ Disallow: /it*/listing/*/favoriters*
 Disallow: /jp*/listing/*/favoriters*
 Disallow: /pl*/listing/*/favoriters*
 Disallow: /de-en*/listing/*/favoriters*
+Disallow: /us-es*/listing/*/favoriters*
 Disallow: /search*attr_*=*
 Disallow: /uk/search*attr_*=*
 Disallow: /au/search*attr_*=*
@@ -1001,6 +1037,7 @@ Disallow: /it/search*attr_*=*
 Disallow: /jp/search*attr_*=*
 Disallow: /pl/search*attr_*=*
 Disallow: /de-en/search*attr_*=*
+Disallow: /us-es/search*attr_*=*
 Disallow: /c/*attr_*=*
 Disallow: /uk/c/*attr_*=*
 Disallow: /au/c/*attr_*=*
@@ -1028,6 +1065,7 @@ Disallow: /it/c/*attr_*=*
 Disallow: /jp/c/*attr_*=*
 Disallow: /pl/c/*attr_*=*
 Disallow: /de-en/c/*attr_*=*
+Disallow: /us-es/c/*attr_*=*
 Disallow: /search*price_bucket=*
 Disallow: /uk/search*price_bucket=*
 Disallow: /au/search*price_bucket=*
@@ -1055,6 +1093,7 @@ Disallow: /it/search*price_bucket=*
 Disallow: /jp/search*price_bucket=*
 Disallow: /pl/search*price_bucket=*
 Disallow: /de-en/search*price_bucket=*
+Disallow: /us-es/search*price_bucket=*
 Disallow: /c/*price_bucket=*
 Disallow: /uk/c/*price_bucket=*
 Disallow: /au/c/*price_bucket=*
@@ -1082,6 +1121,7 @@ Disallow: /it/c/*price_bucket=*
 Disallow: /jp/c/*price_bucket=*
 Disallow: /pl/c/*price_bucket=*
 Disallow: /de-en/c/*price_bucket=*
+Disallow: /us-es/c/*price_bucket=*
 Disallow: /search*ship_to=*
 Disallow: /uk/search*ship_to=*
 Disallow: /au/search*ship_to=*
@@ -1109,6 +1149,7 @@ Disallow: /it/search*ship_to=*
 Disallow: /jp/search*ship_to=*
 Disallow: /pl/search*ship_to=*
 Disallow: /de-en/search*ship_to=*
+Disallow: /us-es/search*ship_to=*
 Disallow: /c/*ship_to=*
 Disallow: /uk/c/*ship_to=*
 Disallow: /au/c/*ship_to=*
@@ -1136,6 +1177,7 @@ Disallow: /it/c/*ship_to=*
 Disallow: /jp/c/*ship_to=*
 Disallow: /pl/c/*ship_to=*
 Disallow: /de-en/c/*ship_to=*
+Disallow: /us-es/c/*ship_to=*
 Disallow: /search*search_type=*
 Disallow: /uk/search*search_type=*
 Disallow: /au/search*search_type=*
@@ -1163,6 +1205,7 @@ Disallow: /it/search*search_type=*
 Disallow: /jp/search*search_type=*
 Disallow: /pl/search*search_type=*
 Disallow: /de-en/search*search_type=*
+Disallow: /us-es/search*search_type=*
 Disallow: /c/*search_type=*
 Disallow: /uk/c/*search_type=*
 Disallow: /au/c/*search_type=*
@@ -1190,6 +1233,7 @@ Disallow: /it/c/*search_type=*
 Disallow: /jp/c/*search_type=*
 Disallow: /pl/c/*search_type=*
 Disallow: /de-en/c/*search_type=*
+Disallow: /us-es/c/*search_type=*
 Disallow: /shop_name_search_service
 Disallow: /uk/shop_name_search_service
 Disallow: /au/shop_name_search_service
@@ -1217,6 +1261,7 @@ Disallow: /it/shop_name_search_service
 Disallow: /jp/shop_name_search_service
 Disallow: /pl/shop_name_search_service
 Disallow: /de-en/shop_name_search_service
+Disallow: /us-es/shop_name_search_service
 Disallow: /messages
 Disallow: /uk/messages
 Disallow: /au/messages
@@ -1244,6 +1289,7 @@ Disallow: /it/messages
 Disallow: /jp/messages
 Disallow: /pl/messages
 Disallow: /de-en/messages
+Disallow: /us-es/messages
 Disallow: /apps
 Disallow: /uk/apps
 Disallow: /au/apps
@@ -1271,6 +1317,7 @@ Disallow: /it/apps
 Disallow: /jp/apps
 Disallow: /pl/apps
 Disallow: /de-en/apps
+Disallow: /us-es/apps
 Allow: /mailinglist/email/
 Allow: /uk/mailinglist/email/
 Allow: /au/mailinglist/email/
@@ -1298,6 +1345,7 @@ Allow: /it/mailinglist/email/
 Allow: /jp/mailinglist/email/
 Allow: /pl/mailinglist/email/
 Allow: /de-en/mailinglist/email/
+Allow: /us-es/mailinglist/email/
 Allow: /api/v3/ajax/bespoke/public/neu/specs/
 Allow: /uk/api/v3/ajax/bespoke/public/neu/specs/
 Allow: /au/api/v3/ajax/bespoke/public/neu/specs/
@@ -1325,6 +1373,7 @@ Allow: /it/api/v3/ajax/bespoke/public/neu/specs/
 Allow: /jp/api/v3/ajax/bespoke/public/neu/specs/
 Allow: /pl/api/v3/ajax/bespoke/public/neu/specs/
 Allow: /de-en/api/v3/ajax/bespoke/public/neu/specs/
+Allow: /us-es/api/v3/ajax/bespoke/public/neu/specs/
 Allow: /api/v3/ajax/bespoke/member/neu/specs/
 Allow: /uk/api/v3/ajax/bespoke/member/neu/specs/
 Allow: /au/api/v3/ajax/bespoke/member/neu/specs/
@@ -1352,6 +1401,7 @@ Allow: /it/api/v3/ajax/bespoke/member/neu/specs/
 Allow: /jp/api/v3/ajax/bespoke/member/neu/specs/
 Allow: /pl/api/v3/ajax/bespoke/member/neu/specs/
 Allow: /de-en/api/v3/ajax/bespoke/member/neu/specs/
+Allow: /us-es/api/v3/ajax/bespoke/member/neu/specs/
 Sitemap: https://www.etsy.com/sitemaps.xml
 Sitemap: https://www.etsy.com/blog/sitemap.xml.gz
 Sitemap: https://www.etsy.com/sitemaps/shops/all.xml
@@ -1771,7 +1821,7 @@ Sitemap: https://www.etsy.com/at/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/ch/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/be/sitemaps/blocklist.xml
 #
-# 01001001 01010011 00100000 01000011 01001111 01000100 01000101 00100000 01011001 01001111 01010101 01010010 00100000 01000011 01010010 01000001 01000110 01010100 00111111#   \
+# Bienvenue! Welcome!#   \
 #
 #    -----
 #   | . . |

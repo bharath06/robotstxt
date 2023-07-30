@@ -73,6 +73,8 @@ Disallow: *?height=*
 Disallow: *?id=*
 Disallow: *?include=*
 Disallow: *?inline=*
+Disallow: *?safe=*
+Disallow: *&safe=*
 
 Allow: /fi/image-vector/*.jpg
 Allow: /fi/image-vector/*.webp
@@ -168,6 +170,8 @@ Disallow: *?height=*
 Disallow: *?id=*
 Disallow: *?include=*
 Disallow: *?inline=*
+Disallow: *?safe=*
+Disallow: *&safe=*
 
 User-agent: Yandex # Disallow ADPs for Yandex (cannot combine with Bing)
 Allow: */image-illustration/*.jpg # Allow Images that match Image ADP paths
@@ -251,6 +255,8 @@ Disallow: *?height=*
 Disallow: *?id=*
 Disallow: *?include=*
 Disallow: *?inline=*
+Disallow: *?safe=*
+Disallow: *&safe=*
 
 # Sitemaps
 Sitemap: https://www.shutterstock.com/sitemaps/image/search-2022/sitemap-image-search-2022-index.xml

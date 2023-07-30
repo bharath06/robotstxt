@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /api/v*/store
 Allow: /api/v*/applications
+Allow: /api/v*/application-directory-static
 Allow: /api/v*/invite
 Allow: /api/v*/discovery
 Allow: /api/discovery
@@ -44,6 +45,7 @@ Disallow: /api/
 Disallow: /widget
 Disallow: /widget/
 Disallow: /profile/
+Allow: /api/v*/application-directory-static
 Allow: /invite
 Allow: /invite/
 Allow: /terms

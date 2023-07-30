@@ -47,3 +47,9 @@ User-agent: Google-Sitemaps
 Disallow: /vorprod/
 Disallow: /test_stage/
 Disallow: /test/
+
+User-agent: Google_InspectionTool
+Disallow: /community/
+Disallow: /vorprod/
+Disallow: /test_stage/
+Disallow: /test/

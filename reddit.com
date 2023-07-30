@@ -18,10 +18,6 @@ Disallow: /
 User-agent: PiplBot
 Disallow: /
 
-User-agent: Googlebot
-User-agent: Bingbot
-Disallow: */comment/*
-
 User-Agent: *
 Disallow: /*.json
 Disallow: /*.json-compact
@@ -35,6 +31,7 @@ Disallow: /r/*/wiki/*.rss
 Disallow: /*.i
 Disallow: /*.embed
 Disallow: /*/comments/*?*sort=
+Disallow: */comment/*
 Disallow: /r/*/submit$
 Disallow: /r/*/submit/$
 Disallow: /message/compose*

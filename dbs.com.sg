@@ -370,6 +370,17 @@ Disallow: /personal/bank-existing-to-dbs.page
 Disallow: /personal/birthday-specialdeal.page
 Disallow: /personal/loyalty-specialdeal.page
 Disallow: /iwov-resources/pdf/deposits/srs/staff-promo-tnc.pdf
+Disallow: /personal/insurance/protection/medical-health/singlifecareshieldstandardandsinglifecareshieldplus
+Disallow: /personal/insurance/protection/medical-health/singlifehealth
+Disallow: /personal/insurance/protection/medical-health/singlifehealthplus
+Disallow: /personal/insurance/protection/medical-health/singlifeeldershieldstandardandsinglifeeldershieldplus
+Disallow: /treasures/insurance/health-insurance/singlifeshield
+Disallow: /treasures/insurance/insurance/health-insurance/singlifecareshieldstandardandsinglifecareshieldplus
+Disallow: /treasures/insurance/health-insurance/singlifeeldershieldstandardandsinglifeeldershieldplus
+Disallow: /treasures/insurance/health-insurance/singlifehealthplus
+Disallow: /personal/cards/promotions/sg-augsmp5.page
+Disallow: /personal/cards/promotions/sg-augsmp8.page
+
 
 
 # URL Masking Details

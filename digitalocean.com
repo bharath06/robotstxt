@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /api/dynamic-content/v1/login*
 Disallow: /api/*
 
 Sitemap: https://www.digitalocean.com/sitemaps/community-tutorial-collections-0.xml.gz

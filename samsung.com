@@ -47,6 +47,7 @@ Allow: /in/multistore/*
 Allow: /hu/multistore/diakkedvezmenyek/
 Disallow: /*/multistore/*
 Disallow: /ru/srr/
+Disallow: /in/web/emi/*
 
 User-agent: Yandex
 Allow: /
@@ -317,3 +318,4 @@ Sitemap:https://www.samsung.com/mn/sitemap.xml
 Sitemap:https://www.samsung.com/jp/sitemap.xml
 Sitemap:https://www.samsung.com/ge/sitemap.xml
 Host: www.samsung.com
+

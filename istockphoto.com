@@ -63,6 +63,7 @@ Disallow: /*/*-ass$
 Disallow: /*/*assholes?
 Disallow: /*/*-asses-
 Disallow: /*/*-asses$
+Disallow: /*/*bare-chest
 Disallow: /*/*-bbw
 Disallow: /*/*breast?
 Disallow: /*/*breasts?

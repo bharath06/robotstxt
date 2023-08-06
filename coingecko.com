@@ -75,6 +75,9 @@ Disallow: *?TRUE
 Disallow: /*/historical_data*?*end=
 Disallow: /*/historical_data*?*start=
 Disallow: *search=
+Disallow: /accounts*.json$
+Allow: */historical_data/
+
 
 
 Sitemap: https://www.coingecko.com/sitemap.xml

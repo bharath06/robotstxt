@@ -19,6 +19,8 @@ Disallow: /authorize-ip
 Disallow: /authorize-ip/
 Disallow: /reject-ip
 Disallow: /reject-ip/
+Disallow: /reject-mfa
+Disallow: /reject-mfa/
 Disallow: /oauth2
 Disallow: /oauth2/
 Disallow: /api
@@ -38,6 +40,8 @@ Disallow: /authorize-ip
 Disallow: /authorize-ip/
 Disallow: /reject-ip
 Disallow: /reject-ip/
+Disallow: /reject-mfa
+Disallow: /reject-mfa/
 Disallow: /oauth2
 Disallow: /oauth2/
 Disallow: /api

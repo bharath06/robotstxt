@@ -433,4 +433,16 @@ Disallow: /*src=urllib
 Disallow: /srv/
 
 
+# PRP Sitemaps
+Sitemap: https://www.ebay.co.uk/lst/PRP-3-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.co.uk/lst/VIS-3-index.xml
+
+# NGS Sitemaps
+Sitemap: https://www.ebay.co.uk/lst/NGS-3-index.xml
+
+# BROWSE Sitemaps
+Sitemap: https://www.ebay.co.uk/lst/BROWSE-3-index.xml
+
 ### END FILE ###

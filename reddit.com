@@ -59,6 +59,8 @@ Disallow: /counters/client-screenview
 Disallow: /*?*feed=
 Disallow: /svc/shreddit/*
 Disallow: /errors$
+Disallow: /live/*
+Disallow: /mediaembed/*
 Allow: /
 Allow: /sitemaps/*.xml
 Allow: /posts/*

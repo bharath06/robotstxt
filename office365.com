@@ -3,4 +3,5 @@
 
 User-agent: *
 Allow: /$
+Allow: /office/url/
 Disallow:/  

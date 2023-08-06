@@ -92,6 +92,7 @@ Disallow: */undefined/*
 Disallow: /store/*/search
 Disallow: /c/kp/*/page/*
 Disallow: /feeds/*
+Disallow: /orders
 
 #Crawler specific settings
 User-agent: Adsbot-Google

@@ -469,7 +469,16 @@ Disallow: /*src=urllib
 Disallow: /srv/
 
 
-# STORES Sitemaps
-Sitemap: http://www.ebay.com/lst/STORES-0-index.xml
+# PRP Sitemaps
+Sitemap: https://www.ebay.com/lst/PRP-0-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.com/lst/VIS-0-index.xml
+
+# NGS Sitemaps
+Sitemap: https://www.ebay.com/lst/NGS-0-index.xml
+
+# BROWSE Sitemaps
+Sitemap: https://www.ebay.com/lst/BROWSE-0-index.xml
 
 ### END FILE ###

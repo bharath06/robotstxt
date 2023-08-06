@@ -20,6 +20,7 @@ disallow: /technical-error.html
 disallow: /content/dam/discover/en_us/credit-cards/card-acquisitions/global/js/at.js
 allow: /products/identity-theft-protection/
 disallow: /products*
+disallow: /credit-cards/browser-support/hardware-software-requirements/
 # START Home Loans
 disallow: /home-loans/404/
 disallow: /home-loans/landing/agg-LP-generic/

@@ -1,9 +1,169 @@
-User-Agent: *
 
-Disallow: /admin/
+User-agent: Applebot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
 
+User-agent: baiduspider
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Bingbot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Discordbot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: facebookexternalhit
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Googlebot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Googlebot-Image
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: ia_archiver
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: LinkedInBot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: msnbot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Naverbot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Pinterestbot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: seznambot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Slurp
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: teoma
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: TelegramBot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Twitterbot
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Yandex
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: Yeti
+Disallow: /
+Allow: /$
+Allow: /marketplace/
+Allow: /blog/
+Allow: /s/
+Allow: /[^/]+$
+
+User-agent: *
+Disallow: /      
 Sitemap: https://linktr.ee/discover/profile-directory/sitemapindex.xml
 Sitemap: https://linktr.ee/b0mWdW2jdv3phms1s8a1.sitemapindex.profiles.xml
 Sitemap: https://linktr.ee/s/sitemap-index.xml
 Sitemap: https://linktr.ee/s/sitemap-0.xml
 Sitemap: https://linktr.ee/marketplace/sitemap.xml
+  

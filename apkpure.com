@@ -24,6 +24,9 @@ Disallow: /ur/u/
 Disallow: /bn/u/
 Disallow: /*?*ajax=1*
 
+Disallow: /fa/
+Disallow: /fa/u/
+
 User-agent: Mediapartners-Google
 Allow: /
 

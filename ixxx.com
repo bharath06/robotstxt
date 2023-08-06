@@ -9,6 +9,7 @@ Disallow: /*?page=**
 Disallow: */search*
 Disallow: /*queryString=*
 Disallow: /*orientation=*
+Disallow: /*all=*
 Disallow: */set-locale*
 Disallow: /*?filter*
 Disallow: /*?pricing=*

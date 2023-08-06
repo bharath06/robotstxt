@@ -380,6 +380,10 @@ Disallow: /treasures/insurance/health-insurance/singlifeeldershieldstandardandsi
 Disallow: /treasures/insurance/health-insurance/singlifehealthplus
 Disallow: /personal/cards/promotions/sg-augsmp5.page
 Disallow: /personal/cards/promotions/sg-augsmp8.page
+Disallow: /personal/deployment/maintenance.html
+Disallow: /personal/deployment/planned-maintenance.html
+Disallow: /personal/travel-specialdeal.page
+Disallow: /personal/cards/supplementary-card.page
 
 
 

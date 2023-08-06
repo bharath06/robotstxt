@@ -9,6 +9,7 @@ Disallow: /include/
 Disallow: /includes/
 Disallow: *page*
 Disallow: /photoslider/
+Disallow: /commercial-preview/
 Disallow: /ajax/
 Disallow: */search
 Disallow: /companies/amp/ogrn/11*
@@ -23,6 +24,7 @@ Disallow: /search2/
 Disallow: /include/
 Disallow: /includes/
 Disallow: *page*
+Disallow: /commercial-preview/
 Disallow: /ajax/
 Disallow: */search
 Disallow: /companies/amp/ogrn/11*
@@ -38,6 +40,7 @@ Disallow: /include/
 Disallow: /includes/
 Disallow: *page*
 Disallow: /photoslider/
+Disallow: /commercial-preview/
 Disallow: /ajax/
 Disallow: */search
 Disallow: /companies/amp/ogrn/11*

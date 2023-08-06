@@ -249,6 +249,7 @@ Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
 Disallow: /archive
 Allow: /archive$
+Allow: /archive/project/sovsport$
 Allow: /video/search?text=video$
 Disallow: /all?
 Disallow: /games/*?*reqId*
@@ -527,6 +528,7 @@ Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
 Disallow: /archive
 Allow: /archive$
+Allow: /archive/project/sovsport$
 Allow: /video/search?text=video$
 Disallow: /all?
 Disallow: /games/*?*reqId*
@@ -778,6 +780,7 @@ Disallow: /adult
 Disallow: /addappterless
 Disallow: /archive
 Allow: /archive$
+Allow: /archive/project/sovsport$
 Allow: /video/search?text=video$
 Disallow: /all?
 Disallow: /familysearch
@@ -1038,6 +1041,7 @@ Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
 Disallow: /archive
 Allow: /archive$
+Allow: /archive/project/sovsport$
 Allow: /video/search?text=video$
 Disallow: /all?
 Disallow: /games/*?*reqId*

@@ -17,3 +17,4 @@ Disallow: */selection/
 Disallow: */jelajah/
 Disallow: */ucnews/
 Disallow: */ajax-insertion/
+Disallow: */ajax/

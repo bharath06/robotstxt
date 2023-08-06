@@ -41,5 +41,6 @@ Disallow: /pro/
 Disallow: /user/auth/
 Disallow: /redirect/away
 Disallow: /courses/section
+Disallow: /tab/applicature/transpose
 
 Sitemap: https://www.ultimate-guitar.com/sitemap.xml

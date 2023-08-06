@@ -421,4 +421,16 @@ Disallow: /*src=urllib
 Disallow: /srv/
 
 
+# PRP Sitemaps
+Sitemap: https://www.ebay.com.au/lst/PRP-15-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.com.au/lst/VIS-15-index.xml
+
+# NGS Sitemaps
+Sitemap: https://www.ebay.com.au/lst/NGS-15-index.xml
+
+# BROWSE Sitemaps
+Sitemap: https://www.ebay.com.au/lst/BROWSE-15-index.xml
+
 ### END FILE ###

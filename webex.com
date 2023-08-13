@@ -59,5 +59,11 @@ Disallow: /library/gated_form/gated_thankyou.html
 Disallow: /downloads/downloads-thank-you.html
 Disallow: /downloads/downloads-thank-you-jabber.html
 Disallow: /downloads/client.html
-Disallow: /home3.html
-sitemap:https://www.webex.com/sitemap.xml 
+Disallow: /home3.html 
+Disallow: /us/en/webexone/2023/index.html
+Disallow: /us/en/webexone/2023/venue.html
+Disallow: /us/en/webexone/2023/awards.html
+Disallow: /us/en/webexone/2023/tickets.html
+Disallow: /us/en/webexone/2023/faqs.html
+Disallow: /webexone-wire-2022.html 
+sitemap:  https://www.webex.com/sitemap.xml 

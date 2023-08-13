@@ -75,6 +75,8 @@ User-agent: voltron
 Disallow: /
 User-agent: Bytespider
 Disallow: /
+User-agent: GPTBot
+Disallow: /
 User-agent: Googlebot-Image
 Disallow: /*/ivc/*
 Disallow: /users/flair/

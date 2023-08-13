@@ -26,6 +26,9 @@ Disallow: /
 User-agent: Fetch
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 User-agent: HMSE_Robot
 Disallow: /
 

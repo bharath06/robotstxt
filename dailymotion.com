@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /a/*
 Disallow: /abuse/group/
 Disallow: /activate
 Disallow: */adfit/*
@@ -36,6 +37,7 @@ Disallow: */official+internal/
 Disallow: */official/*
 Disallow: /page/html/
 Disallow: /pageitem/
+Disallow: /password/*
 Disallow: /player/metadata/video/
 Disallow: /playlists/*/user/
 Disallow: */playlists/relevance/*
@@ -109,6 +111,7 @@ Disallow: /map-regular.xml
 Disallow: /map-videofull.xml
 
 User-agent: Googlebot
+Disallow: /a/*
 Disallow: /abuse/group/
 Disallow: /activate
 Disallow: */adfit/*
@@ -146,6 +149,7 @@ Disallow: */official+internal/
 Disallow: */official/*
 Disallow: /page/html/
 Disallow: /pageitem/
+Disallow: /password/*
 Disallow: /player/metadata/video/
 Disallow: /playlists/*/user/
 Disallow: */playlists/relevance/*
@@ -220,6 +224,7 @@ Disallow: /map-videofull.xml
 
 # Mediapartners can crawl more routes than other bots, this is as designed
 User-agent: Mediapartners-Google
+Disallow: /a/*
 Disallow: /abuse/group/
 Disallow: /activate
 Disallow: */adfit/*
@@ -255,6 +260,7 @@ Disallow: */official+internal/
 Disallow: */official/*
 Disallow: /page/html/
 Disallow: /pageitem/
+Disallow: /password/*
 Disallow: /player/metadata/video/
 Disallow: /playlists/*/user/
 Disallow: */playlists/relevance/*
@@ -319,6 +325,7 @@ Disallow: /map-regular.xml
 Disallow: /map-videofull.xml
 
 User-agent: YandexBot
+Disallow: /a/*
 Disallow: /abuse/group/
 Disallow: /activate
 Disallow: */adfit/*
@@ -355,6 +362,7 @@ Disallow: */official/*
 Disallow: */official+internal/
 Disallow: /page/html/
 Disallow: /pageitem/
+Disallow: /password/*
 Disallow: /player/metadata/video/
 Disallow: /playlists/*/user/
 Disallow: */playlists/relevance/*
@@ -428,6 +436,7 @@ Disallow: /map-regular.xml
 Disallow: /map-videofull.xml
 
 User-agent: YandexVideo
+Disallow: /a/*
 Disallow: /abuse/group/
 Disallow: /activate
 Disallow: */adfit/*
@@ -464,6 +473,7 @@ Disallow: */official/*
 Disallow: */official+internal/
 Disallow: /page/html/
 Disallow: /pageitem/
+Disallow: /password/*
 Disallow: /player/metadata/video/
 Disallow: /playlists/*/user/
 Disallow: */playlists/relevance/*
@@ -537,6 +547,7 @@ Disallow: /map-regular.xml
 Disallow: /map-videofull.xml
 
 User-agent: msnbot-media
+Disallow: /a/*
 Disallow: /abuse/group/
 Disallow: /activate
 Disallow: */adfit/*
@@ -573,6 +584,7 @@ Disallow: */official/*
 Disallow: */official+internal/
 Disallow: /page/html/
 Disallow: /pageitem/
+Disallow: /password/*
 Disallow: /player/metadata/video/
 Disallow: /playlists/*/user/
 Disallow: */playlists/relevance/*
@@ -646,6 +658,7 @@ Disallow: /map-regular.xml
 Disallow: /map-videofull.xml
 
 User-agent: Botify
+Disallow: /a/*
 Disallow: /abuse/group/
 Disallow: /activate
 Disallow: */adfit/*
@@ -683,6 +696,7 @@ Disallow: */official/*
 Disallow: */official+internal/
 Disallow: /page/html/
 Disallow: /pageitem/
+Disallow: /password/*
 Disallow: /player/metadata/video/
 Disallow: /playlists/*/user/
 Disallow: */playlists/relevance/*

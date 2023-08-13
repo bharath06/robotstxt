@@ -16,3 +16,6 @@ Disallow: /i18n/utility
 Disallow: /contactAA/viewEmailFormAccess.do?eventName=lowFare
 Disallow: /pubcontent/jba
 Disallow: /pubcontent/jbax
+
+User-agent: GPTBot
+Disallow: /

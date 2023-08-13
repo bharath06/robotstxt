@@ -45,4 +45,4 @@ Disallow: /content/dam/ieee-org/ieee/web/org/pubs/ieee-thesaurus.pdf
 Disallow: /content/dam/ieee-org/ieee/web/org/pubs/2018-thesaurus-oct2018.pdf
 Disallow: /*?refSite*
 
-#Sitemap:https://www.ieee.org/.sitemap.xml
+Sitemap: https://www.ieee.org/sitemap.xml

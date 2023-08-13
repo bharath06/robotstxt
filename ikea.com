@@ -23,6 +23,8 @@
 #
 #  https://en-global-jobs.about.ikea.com/
 
+User-agent: GPTBot
+Disallow: /
 
 User-Agent: AdsBot-Google
 Allow: /*-fragment.html

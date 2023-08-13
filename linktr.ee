@@ -1,163 +1,68 @@
 
+    
+# We allow everything from the root
+# and then set noindex on our backends for paths that we want to Disallow
+# to prevent this list from being too complex and long
+
 User-agent: Applebot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: baiduspider
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Bingbot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Discordbot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: facebookexternalhit
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Googlebot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Googlebot-Image
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: ia_archiver
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: LinkedInBot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: msnbot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Naverbot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Pinterestbot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Screaming Frog SEO Spider
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: seznambot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Slurp
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: teoma
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: TelegramBot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Twitterbot
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Yandex
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: Yeti
-Disallow: /
-Allow: /$
-Allow: /marketplace/
-Allow: /blog/
-Allow: /s/
-Allow: /[^/]+$
+Allow: /
 
 User-agent: *
 Disallow: /      

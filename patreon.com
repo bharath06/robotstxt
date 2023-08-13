@@ -4,6 +4,7 @@ Disallow: /settings
 Disallow: /logout
 Disallow: /bePatronDone
 Disallow: /productPurchaseDone
+Disallow: /mwebWindowDone
 Disallow: /file
 Disallow: /patronNext
 Disallow: /userNext

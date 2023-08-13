@@ -12,6 +12,9 @@ Disallow: /sso
 Disallow: /ad
 Disallow: /sponsored
 
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
 Disallow: /admin
 Disallow: /newfanshot

@@ -89,6 +89,10 @@ Allow: /modern-formats-eng/ucp/framework_logging/
 Allow: /modern-formats-eng/ucp/*/client/
 Allow: /modern-formats-eng/ucp/*/csr/
 Allow: /modern-formats-eng/ucp/*/dev/
+Allow: /modern-formats-eng/ucp/static/framework_logging/
+Allow: /modern-formats-eng/ucp/static/*/client/
+Allow: /modern-formats-eng/ucp/static/*/csr/
+Allow: /modern-formats-eng/ucp/static/*/dev/
 Allow: /nbubumblebee/
 Allow: /og/
 Allow: /onebox/media/sports/logos/

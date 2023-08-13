@@ -1,3 +1,6 @@
+User-agent: GPTBot
+Disallow: /
+
 User-agent: Mediapartners-Google
 Disallow: /random
 Disallow: /random/

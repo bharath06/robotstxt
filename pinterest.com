@@ -179,6 +179,7 @@ Disallow: /quiz/*
 Disallow: /recently-viewed/
 Disallow: /register/
 Disallow: /reports-and-violations/
+Disallow: /request-data/
 Disallow: /resource/
 Disallow: /safe-redirect/
 Disallow: /search/
@@ -210,22 +211,22 @@ Disallow: /welcome/
 Disallow: /your-shop/
 Disallow: /your-shop/*
 
-Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_today_article_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_expansion_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_today_article_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_image_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_interest_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/video_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/board_link_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/image_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/video_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/user_link_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_product_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/board_link_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/user_link_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/video_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_interest_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/shopping_sitemap_www.pinterest.com.xml
 
 User-agent: Googlebot
@@ -404,6 +405,7 @@ Disallow: /quiz/*
 Disallow: /recently-viewed/
 Disallow: /register/
 Disallow: /reports-and-violations/
+Disallow: /request-data/
 Disallow: /resource/
 Disallow: /safe-redirect/
 Disallow: /search/
@@ -612,6 +614,7 @@ Disallow: /quiz/*
 Disallow: /recently-viewed/
 Disallow: /register/
 Disallow: /reports-and-violations/
+Disallow: /request-data/
 Disallow: /resource/
 Disallow: /safe-redirect/
 Disallow: /search/

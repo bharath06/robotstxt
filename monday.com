@@ -4,6 +4,7 @@ Disallow: /h/
 Disallow: /fb/
 Disallow: /lp/
 Disallow: /test/
+Disallow: /reflect/
 Disallow: /google*
 Disallow: /partials/
 Disallow: /blog/cards/

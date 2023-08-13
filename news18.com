@@ -77,4 +77,29 @@ Disallow: /amp/topics/*%25*/videos/$
 Disallow: /amp/topics/*%25*/photos/$
 Disallow: /lok-sabha-elections-2019/page-*/$
 
+Disallow: /amp/assembly-elections-2022*/$
+Disallow: /assembly-elections-2022*/$
+Disallow: /amp/assembly-elections-march-2022*/$
+Disallow: /assembly-elections-march-2022*/$
+Disallow: /election_framework_next/*
+Disallow: /cricketnext/amp/cricket-live-scorecard/*
+Disallow: /sustainable-is-attainable-news18-and-tata-power-initiative/*
+Disallow: /givewingstoyoursavings/*
+Disallow: /netrasuraksha/*
+Disallow: /missionswachhtapaani/*
+Disallow: /itsnotok/*
+Disallow: /swabhimanbharat/*
+Disallow: /periodofpride/*
+Disallow: /electralhydrationforhealth/*
+Disallow: /younggenius/*
+Disallow: /studio18/*
+Disallow: /amp/studio18/*
+Disallow: /tech-reviews/*
+Disallow: /auto-reviews/*
+Disallow: /amp/tech-reviews/*
+Disallow: /amp/auto-reviews/*
+Disallow: /astrology/horoscope/todays*/$
+Disallow: /amp/astrology/horoscope/todays*/$
+Disallow: /business/cryptocurrency/trade-bitcoin/*
+
 Sitemap: https://www.news18.com/news-googlesitemap.xml

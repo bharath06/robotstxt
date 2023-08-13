@@ -14,6 +14,7 @@ Disallow: /personal-banking/insta-banking/atm-banking/newinitiatives.html
 Disallow: /rural/agritraders/loanagainstwr/document.html
 Disallow: /business-banking/smetoolkit/sme-toolkit.html
 Disallow: /personal-banking/cards/do-dont.html
+Disallow: /branch/uttar-pradesh/lucknow/icic0006281
 Disallow: /personal-banking/account-deposit/privilege-banking/titanium-privilege/eligibility.html
 Disallow: /personal-banking/account-deposit/privilege-banking/gold-privilege/documentation.html
 Disallow: /personal-banking/account-deposit/savings-account/eligibility.html

@@ -1,5 +1,6 @@
-# robots.txt file for http://sourceforge.net and https://sourceforge.net
-# please contact staff@sourceforge.net with questions or concerns
+
+User-agent: GPTBot
+Disallow: /
 
 User-agent: *
 Allow: /p/*/ci/master/tree/$

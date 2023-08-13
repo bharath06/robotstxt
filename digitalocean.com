@@ -1,3 +1,6 @@
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
 Allow: /api/dynamic-content/v1/login*
 Disallow: /api/*

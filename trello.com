@@ -11,6 +11,8 @@ Disallow: /forgot$
 Disallow: /statement/
 Disallow: /boardinvited/
 Disallow: /organizationinvited/
+Disallow: /boardInviteDeclined/
+Disallow: /organizationInviteDeclined/
 Disallow: /associate/
 Disallow: /not-supported.html
 Disallow: /static/

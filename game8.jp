@@ -13,4 +13,7 @@ Disallow: /archives/search
 User-agent: dotbot
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://game8.jp/sitemaps/sitemap.xml.gz

@@ -218,6 +218,9 @@ Disallow: /embeddable
 Disallow: /guidebooks
 
 
+User-agent: GPTBot
+Disallow: /
+
 User-Agent: *
 Allow: /calendar/ical/
 Allow: /.well-known/amphtml/apikey.pub

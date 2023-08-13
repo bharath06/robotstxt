@@ -147,3 +147,70 @@ Disallow: /developerworks/wikis/login.action
 User-agent: HTTrack
 Disallow: /
 
+
+User-agent: Acrolinx-bot
+# Disallow: //
+Disallow: /account/registration
+Disallow: /account/mypro
+Disallow: /account/myint
+Disallow: /Admin
+Disallow: /cgi-
+Disallow: /contact/employees/servlets
+Disallow: /data/
+Disallow: /db2s
+Disallow: /developerworks/*-pdf.pdf$
+Disallow: /developerworks/forums/servlet
+Disallow: /developerworks/forums/abuse
+Disallow: /developerworks/forums/post
+Disallow: /docs/api
+Disallow: /fcgi-
+Disallow: /fscripts
+# Disallow: /homepage
+Disallow: /image
+Disallow: /mashupmaker
+Disallow: /mysupport/s/forumshome
+Disallow: /mysupport/s/forumsproduct
+Disallow: /mysupport/s/forumsquestion
+Disallow: /partnerworld/portal
+Disallow: /portal/home
+Disallow: /products/finder
+Disallow: /profiles
+Disallow: /scripts
+Disallow: /Scripts
+Disallow: /search/?
+Disallow: /Search
+Disallow: /smartmarket/*/productListInitial.action?
+Disallow: /standards
+Disallow: /support/knowledgecenter/api
+Disallow: /support/knowledgecenter/v1
+Disallow: /survey
+Disallow: /testing
+Disallow: /tmp
+Disallow: /vrm/bin/sendThisPage
+Disallow: /webmaster
+Disallow: /zx
+Disallow: /zz
+Disallow: /*.ssi$
+Disallow: /account/myibm/InterestsEdit.do
+Disallow: /wcs
+Disallow: /wcsstore
+Disallow: /webapp
+Disallow: /web/portal/software/websphere
+Disallow: /common/austin-summit
+Disallow: /link
+Disallow: /links
+Disallow: /web/portal/commerce 
+Disallow: /industries/clients
+Disallow: /standards
+# Disallow: /internal
+Disallow: /test
+Disallow: /test-kick-tires
+# Added for EI-2179 on 17Apr2020
+Disallow: /test-v1-page-template
+Disallow: /product-detail
+Disallow: /watson/assets/pdfs/reg
+# Added by JLiao for SD EI-2359,EI-2360 on 23Jun2020
+Disallow: /zprod-ease
+Disallow: /zProd-ease
+#Added for EI-2216 on 06May2020 
+Disallow: /zshowcase

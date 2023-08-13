@@ -1,13 +1,7 @@
-# robots.txt file created 01/September/2015
-
-# For domain: https://www.tdcommercialbanking.com
-
-# For domain: https://www.servicesbancairescommerciauxtd.com
-
+# robots.txt file created by 21/Sept/2011
+# For domain: http://www.td.com
+#
 # For Auto submission of sitemap
-
 User-agent: *
-
-Allow:
-
-Sitemap: https://www.tdcommercialbanking.com/sitemap.xml
+Disallow: /corporate-responsibility/crr-2009/diversity/employee-diversity/women-in-leadership/index.jsp
+Sitemap: https://www.td.com/sitemap.xml

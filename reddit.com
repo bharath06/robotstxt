@@ -61,6 +61,7 @@ Disallow: /svc/shreddit/*
 Disallow: /errors$
 Disallow: /live/*
 Disallow: /mediaembed/*
+Disallow: /media
 Allow: /
 Allow: /sitemaps/*.xml
 Allow: /posts/*

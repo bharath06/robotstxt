@@ -14,3 +14,4 @@ Disallow: /sponsored/
 Disallow: /api/
 Disallow: /search/2/api/
 Disallow: /webmd_static_vue/
+Disallow: /aim/

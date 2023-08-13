@@ -73,6 +73,8 @@ Disallow: /pornstars/all*
 Disallow: /pornstars*hair=*=*
 Disallow: /pornstars*piercings=*=*
 Disallow: /pornstars*tattoos=*=*
+Disallow: /pornstar_suggestion_list*
+Disallow: /propose_pornstar*
 Disallow: /*pkey=*
 Disallow: /_xa/ads_batch*
 Disallow: /svvt*

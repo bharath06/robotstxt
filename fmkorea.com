@@ -40,6 +40,18 @@ Disallow: /
 User-Agent: SemrushBot
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Sogou inst spider
+Disallow: /
+
 User-agent: *
 Disallow: /*listStyle=
 Disallow: /*sort_index=

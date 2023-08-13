@@ -11,6 +11,7 @@ Disallow: 		/news/ired/ultimora/cronaca/rep_cronaca_n_3487677.html
 Disallow: 		/java 
 Disallow: 		/ipad/ 
 Disallow: 		/interstitial/ 
+Disallow: 		/elezioni2000/comunali/tenaglia.html 
 Disallow: 		/economia/miojob/rss 
 Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/* 

@@ -23,20 +23,6 @@ Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attraction_
 Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attraction_product_review_index.xml
 Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attractions_near_index.xml
 Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attraction_tours_and_tickets_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/sitemap_en_US_lpdltest_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/char_count_greater_than_1000_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/char_count_less_than_250_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/char_count_less_than_500_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/char_count_less_than_1000_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/has_crawls_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/has_landings_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/landing_last_10_years_page_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/page_level_1_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/page_level_2_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/page_level_3_or_more_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/published_post_2016_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/published_post_2020_sitemaps_SUR_en_US_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/2/en_US/published_pre_2015_sitemaps_SUR_en_US_index.xml
 User-Agent: PetalBot
 Disallow: /
 
@@ -156,6 +142,7 @@ Disallow: /Claim
 Disallow: /ClientLink
 Disallow: /CMSImp
 Disallow: /cmsimp
+Disallow: /Collections
 Disallow: /Commerce
 Disallow: /CommLCT
 Disallow: /CommPT
@@ -1035,6 +1022,7 @@ Disallow: /Claim
 Disallow: /ClientLink
 Disallow: /CMSImp
 Disallow: /cmsimp
+Disallow: /Collections
 Disallow: /Commerce
 Disallow: /CommLCT
 Disallow: /CommPT

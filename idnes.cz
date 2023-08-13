@@ -12,4 +12,7 @@ Disallow: /export/
 Disallow: /data.aspx
 Disallow: /*/undefined
 
+User-agent: MachineLearning
+Disallow: /
+
 Sitemap: https://www.idnes.cz/sitemap.xml

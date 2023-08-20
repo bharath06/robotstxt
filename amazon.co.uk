@@ -106,6 +106,9 @@ Disallow: /hp/video/profiles
 User-agent: EtaoSpider
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 # Sitemap files
 Sitemap: https://www.amazon.co.uk/sitemaps.e49bfbf08ac5517.SitemapIndex_0.xml.gz
 Sitemap: https://www.amazon.co.uk/sitemaps.2307ea63773dfee.SitemapIndex_0.xml.gz

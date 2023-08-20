@@ -1,2 +1,10 @@
 User-agent: *
+Disallow: /admin/
+
+User-agent: turnitinbot
+User-agent: NPBot
+User-agent: ia_archiver
+User-agent: webzip
+User-agent: OmniExplorer_Bot
+User-agent: BoardReader
 Disallow: /

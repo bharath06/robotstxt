@@ -384,7 +384,9 @@ Disallow: /personal/deployment/maintenance.html
 Disallow: /personal/deployment/planned-maintenance.html
 Disallow: /personal/travel-specialdeal.page
 Disallow: /personal/cards/supplementary-card.page
-
+Disallow: /private-banking/promotion/maid-protect
+Disallow: /Contact/dbs/loans/dbs-home-loan-repricing/default.page
+Disallow: /Contact/dbs/loans/sibor-conversion/default.page
 
 
 # URL Masking Details

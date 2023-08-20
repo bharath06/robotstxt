@@ -241,6 +241,8 @@ Disallow: /hava/*
 Disallow: /hava*
 Disallow: *maps/covid19*
 Disallow: /support2/*zout_
+Disallow: /sport/story/
+Disallow: /sport/calendar/
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*
@@ -493,6 +495,8 @@ Disallow: /hava/*
 Disallow: /hava*
 Disallow: *maps/covid19*
 Disallow: /support2/*zout_
+Disallow: /sport/story/
+Disallow: /sport/calendar/
 
 User-Agent: Twitterbot
 Allow: /images
@@ -516,6 +520,8 @@ Disallow: /hava/*
 Disallow: /hava*
 Disallow: *maps/covid19*
 Disallow: /support2/*zout_
+Disallow: /sport/story/
+Disallow: /sport/calendar/
 
 Sitemap: https://yandex.com/support/sitemap.xml
 Sitemap: https://yandex.com/blog/sitemap.xml
@@ -746,6 +752,8 @@ Disallow: /hava/*
 Disallow: /hava*
 Disallow: *maps/covid19*
 Disallow: /support2/*zout_
+Disallow: /sport/story/
+Disallow: /sport/calendar/
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*

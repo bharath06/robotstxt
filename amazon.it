@@ -108,3 +108,5 @@ Disallow: /gp/aw/shoppingAids/
 User-agent: EtaoSpider
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /

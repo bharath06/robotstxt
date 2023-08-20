@@ -41,20 +41,23 @@ Allow: /wirecutter/*?*utm_source=
 Allow: /ads/public/
 Allow: /svc/news/v3/all/pshb.rss
 
-User-agent: Twitterbot
-Allow: /*?*smid=
-
-User-Agent: omgilibot
+User-agent: CCBot
 Disallow: /
 
-User-Agent: omgili
+User-agent: GPTBot
 Disallow: /
 
 User-agent: ia_archiver
 Disallow: /
 
-User-agent: CCBot
+User-Agent: omgili
 Disallow: /
+
+User-Agent: omgilibot
+Disallow: /
+
+User-agent: Twitterbot
+Allow: /*?*smid=
 
 Sitemap: https://www.nytimes.com/sitemaps/new/news.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/sitemap.xml.gz

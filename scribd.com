@@ -96,6 +96,9 @@ Disallow: /your-account
 User-agent: AhrefsSiteAudit
 Allow: /
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://sitemaps.scribd.com/audiobooks_de_index.xml
 Sitemap: https://sitemaps.scribd.com/audiobooks_en_index.xml
 Sitemap: https://sitemaps.scribd.com/audiobooks_es_index.xml

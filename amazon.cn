@@ -174,5 +174,8 @@ Disallow: /-/
 Disallow: /gp/aw/shoppingAids/
 Disallow: /hz/contact-us/ajax/initiate-trusted-contact/
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.amazon.cn/sitemaps.02b411f7e4baecc.SitemapIndex_0.xml.gz
 Sitemap: https://www.amazon.cn/sitemaps.95918f5af3f77b0.SitemapIndex_0.xml.gz

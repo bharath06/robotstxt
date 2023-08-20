@@ -86,7 +86,13 @@ Disallow: /review/hall-of-fame
 Disallow: /reviews/top-reviewers/
 Disallow: /reviews/top-reviewers
 Disallow: /reviews/hall-of-fame
+Disallow: /hz/help/contact/*/message/$
+Disallow: /-/
+Disallow: /gp/aw/shoppingAids/
+Disallow: /hz/contact-us/ajax/initiate-trusted-contact/
 
 User-agent: EtaoSpider
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /

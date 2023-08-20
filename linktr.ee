@@ -64,6 +64,9 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
+User-agent: Pinterestbot
+Disallow: /
+
 User-agent: *
 Disallow: /      
 Sitemap: https://linktr.ee/discover/profile-directory/sitemapindex.xml

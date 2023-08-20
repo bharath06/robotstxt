@@ -88,3 +88,6 @@ Disallow: /hz/contact-us/ajax/initiate-trusted-contact/
 
 User-agent: EtaoSpider
 Disallow: /
+
+User-agent: GPTBot
+Disallow: /

@@ -97,6 +97,9 @@ Disallow: /gp/aw/shoppingAids/
 User-agent: EtaoSpider
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 # Sitemap files
 Sitemap: https://www.amazon.es/sitemaps.2307ea63773dfee.SitemapIndex_0.xml.gz
 Sitemap: https://www.amazon.es/sitemaps.d449d7f825f081e.SitemapIndex_0.xml.gz

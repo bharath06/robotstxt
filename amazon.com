@@ -150,3 +150,6 @@ Disallow: /hp/video/profiles
 
 User-agent: EtaoSpider
 Disallow: /
+
+User-agent: GPTBot
+Disallow: /

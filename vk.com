@@ -76,6 +76,7 @@ Allow: /feed?section=stayhome$
 Allow: /doctor_obninsk
 
 User-agent: Googlebot
+Disallow: /doc*_
 Disallow: /away.php
 Disallow: /im?
 Disallow: /search*&*&*&

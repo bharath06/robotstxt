@@ -25,5 +25,7 @@ Disallow: /webinar/registerevent/*
 Disallow: /meeting/register/*
 Disallow: /*oauth_signin
 Disallow: /my/*
+Disallow: /download2*
+Disallow: /*?
 
 Sitemap: https://zoom.us/sitemap.xml

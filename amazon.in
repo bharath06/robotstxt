@@ -174,3 +174,6 @@ Disallow: /minitv/st/*
 
 User-agent: AmazonAdBot
 Disallow: 
+
+User-agent: GPTBot
+Disallow: /

@@ -34,12 +34,16 @@ Disallow: /ab_tests
 Disallow: /mobile/*
 Disallow: /frontend-track/
 Disallow: /fullscreen/ReportLinker/
+Disallow: /private/
 
 User-agent: archive.org_bot
 Disallow: /w/*
 
 User-agent: Archive-It
 Disallow: /w/*
+
+User-agent: GPTBot
+Disallow: /
 
 Sitemap: https://sitemaps.slideshare.net/presentations_de_index.xml
 Sitemap: https://sitemaps.slideshare.net/presentations_fr_index.xml

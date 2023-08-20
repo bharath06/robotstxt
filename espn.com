@@ -1,5 +1,8 @@
 # robots.txt for www.espn.com
 
+User-agent: claritybot
+Disallow: /
+
 User-agent: *
 Disallow: */admin/
 Disallow: */boxscore?

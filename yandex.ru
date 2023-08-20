@@ -261,6 +261,8 @@ Disallow: *maps/covid19*
 Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
 Disallow: /activity/
+Disallow: /sport/story/
+Disallow: /sport/calendar/
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
@@ -541,6 +543,8 @@ Disallow: *maps/covid19*
 Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
 Disallow: /activity/
+Disallow: /sport/story/
+Disallow: /sport/calendar/
 
 User-agent: Yandex
 Disallow: /?
@@ -790,6 +794,8 @@ Disallow: *maps/covid19*
 Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
 Disallow: /activity/
+Disallow: /sport/story/
+Disallow: /sport/calendar/
 
 User-agent: Googlebot
 Disallow: /?
@@ -1053,6 +1059,8 @@ Disallow: *maps/covid19*
 Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
 Disallow: /activity/
+Disallow: /sport/story/
+Disallow: /sport/calendar/
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml

@@ -1,4 +1,5 @@
 User-Agent: *
+Disallow: /*?q=
 Disallow: /search/
 Disallow: /search?query=
 Disallow: /search?q=
@@ -12,9 +13,12 @@ Disallow: /photoslider/
 Disallow: /commercial-preview/
 Disallow: /ajax/
 Disallow: */search
+Disallow: */preview/
 Disallow: /companies/amp/ogrn/11*
+Disallow: /companies/amp/ogrn/10*
 
 User-agent: GoogleBot
+Disallow: /*?q=
 Disallow: /search/
 Disallow: /search?query=
 Disallow: /search?q=
@@ -27,9 +31,12 @@ Disallow: *page*
 Disallow: /commercial-preview/
 Disallow: /ajax/
 Disallow: */search
+Disallow: */preview/
 Disallow: /companies/amp/ogrn/11*
+Disallow: /companies/amp/ogrn/10*
 
 User-agent: Yandex
+Disallow: /*?q=
 Disallow: /search/
 Disallow: /search?query=
 Disallow: /search?q=
@@ -43,7 +50,9 @@ Disallow: /photoslider/
 Disallow: /commercial-preview/
 Disallow: /ajax/
 Disallow: */search
+Disallow: */preview/
 Disallow: /companies/amp/ogrn/11*
+Disallow: /companies/amp/ogrn/10*
 Clean-param: from *
 Clean-param: utm_source *
 Clean-param: google_editors_picks *

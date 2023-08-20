@@ -84,6 +84,9 @@ Allow: /city/post/
 Allow: /agency/
 Allow: /pages/
 
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
 Disallow: /
 

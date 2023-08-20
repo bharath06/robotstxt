@@ -73,6 +73,9 @@ Disallow: /hz/contact-us/ajax/initiate-trusted-contact/
 User-agent: EtaoSpider
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 # Sitemap files
 Sitemap: http://www.amazon.ca/sitemap-manual-index.xml
 Sitemap: http://www.amazon.ca/sitemaps.f3053414d236e84.SitemapIndex_0.xml.gz

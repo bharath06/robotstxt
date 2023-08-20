@@ -76,6 +76,13 @@ Disallow: /*/historical_data*?*end=
 Disallow: /*/historical_data*?*start=
 Disallow: *search=
 Disallow: /accounts*.json$
+Disallow: /premium/*?locale=
+Disallow: /account/rewards?*category=
+Disallow: /account/rewards?*order=
+Disallow: /account/rewards?*points_cost=
+Disallow: /account/rewards/*?locale=
+Disallow: *?0.
+Disallow: *?noop=
 Allow: */historical_data/
 
 

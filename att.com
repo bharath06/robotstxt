@@ -237,7 +237,12 @@ Disallow: /shop/unified/availability.html?destination_page=BYOB
 Disallow: /shop/unified/availability/results.html
 Disallow: /shop/unified/availability/calltoorder.html
 
+# AKA-6232
+Disallow: /myorders/*
+Disallow: /acctmgmt/*
+
 # Sitemap Index
 Sitemap: https://www.att.com/sitemap.xml
 
-# Last Update 6/17/2022 by ds3808
+# Last Update 8/14/2023 by ds3808
+

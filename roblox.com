@@ -20,3 +20,5 @@ disallow: /thumbnail/remove-asset-media
 disallow: /thumbnail/resolve-hash
 disallow: /thumbnail_holder/g
 disallow: /viewapp/
+disallow: /error.html
+disallow: /offline.html

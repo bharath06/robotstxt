@@ -54,3 +54,5 @@ Disallow: /find_similar_products/
 Disallow: /top_products
 Disallow: /search*searchPrefill
 Disallow: /index.html
+
+sitemap: https://shopee.co.th/blog/sitemap_index.xml

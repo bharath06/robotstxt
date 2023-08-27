@@ -1,6 +1,6 @@
 # Wattpad is hiring!
 #
-# Check out our available positions at https://wattpad.com/jobs
+# Check out our available positions at https://company.wattpad.com/jobs
 
 User-agent: *
 
@@ -67,4 +67,7 @@ Sitemap: https://www.wattpad.com/sitemap
 
 # We disallow robot from RankLite
 User-agent: RankLite
+Disallow: /
+
+User-agent: GPTBot
 Disallow: /

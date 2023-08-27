@@ -84,6 +84,10 @@ Disallow: /fi/image-vector/*
 User-agent: CCBot
 Disallow: /
 
+# Disallow public gptbot
+User-agent: GPTBot
+Disallow: /
+
 User-agent: adidxbot # Allow Bing ad bot to do it's thing
 Allow: *
 

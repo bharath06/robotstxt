@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://www.youporn.com/sitemaps.xml
+Sitemap: https://www.youporn.com/sitemap.xml
 Disallow: /watch/thumbnails/html/*
 Disallow: /events*
 Disallow: /esp*
@@ -8,6 +8,8 @@ Disallow: /studio/*
 Disallow: /logout
 Disallow: /click/
 Disallow: /change/
+Allow: /media/hls/
+Allow: /media/mp4/
 Disallow: /api/
 Disallow: /events
 Disallow: /esp/events
@@ -19,9 +21,6 @@ Disallow: /*search*duration*
 Disallow: /*search/date*
 Disallow: /*search*page*
 Disallow: /ads/iframe-mobile*
-Disallow: /*search/*query=the\+hun$
-Disallow: /*search/*query=hun$
-Disallow: /*search/*query=thehun$
 Disallow: /*hybrid*page*
 Disallow: /*views*page*
 Disallow: /*rating*page*
@@ -69,21 +68,17 @@ Disallow: /category/*/?null=*
 Disallow: /search/*al=*
 Disallow: /ajax/video/comments/
 Disallow: /newregistration/
-Disallow: /porntags/homegrownvideo_com/
 Disallow: /porntags/*___*
 Disallow: /*app.php*
-Disallow: /*<*
-Disallow: /*%3c*
-Disallow: /*>*
-Disallow: /*%3e*
 Disallow: /watch-premium/
 Disallow: /category/*?combinedCategoryId=
 Disallow: /videotimewatched*
 Disallow: /porntags/ariana-wolfer/
 Disallow: /_xa/ads_batch*
-User-agent: msnbot-media
-Allow: *
-User-agent: Yandex
-Host: www.youpornru.com
+Disallow: /*min_minutes=*
+Disallow: /*max_minutes=*
+Disallow: /*t=*
+Disallow: /*res=*
+
 User-agent: Twitterbot
 Disallow:

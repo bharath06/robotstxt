@@ -1,3 +1,8 @@
+# Production robots.txt
+
+User-agent: GPTBot
+Disallow: /
+
 User-agent: deepcrawl
 Disallow: /
 

@@ -70,4 +70,5 @@ Disallow: /tagmanager/containers/xo
 Disallow: /tagmanager/pptm.js
 Disallow: /xoplatform/logger/api/logger
 Disallow: /merchantapps/
+Disallow: /clickthru/
 Sitemap: https://www.paypal.com/paypal-sitemap-index.xml

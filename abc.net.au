@@ -77,3 +77,6 @@ Disallow: /
 
 User-agent: Nutch
 Disallow: /
+
+User-agent: GPTBot
+Disallow: /

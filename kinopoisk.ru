@@ -61,6 +61,8 @@ Disallow: /handler_*
 Disallow: /channel*
 Disallow: /user/*/movies/list/type/*
 Disallow: /user/*/stars/list/type/*
+Disallow: /lists/movies/coming-soon-digital
+Disallow: /comingsoon/digital
 
 User-agent: *
 Disallow: /tmp/
@@ -77,6 +79,8 @@ Disallow: /handler_*
 Disallow: /channel*
 Disallow: /user/*/movies/list/type/*
 Disallow: /user/*/stars/list/type/*
+Disallow: /lists/movies/coming-soon-digital
+Disallow: /comingsoon/digital
 
 Host: https://www.kinopoisk.ru
 Sitemap: https://www.kinopoisk.ru/sitemaps/sitemap.xml

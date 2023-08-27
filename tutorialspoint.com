@@ -13,6 +13,7 @@ Disallow: /logs/
 Disallow: /rate/
 Disallow: /store/
 Disallow: /cgi-bin/
+Disallow: /programming_example/
 Disallow: /videotutorials/
 Disallow: /*/*_question_bank/
 Disallow: //*/*/*/*/src/

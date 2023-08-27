@@ -4,7 +4,7 @@ User-agent: DuckDuckBot
 User-agent: Baiduspider
 User-agent: 360Spider
 User-agent: Sogouspider
-User-agent: Yisouspider
+User-agent: YisouSpider
 User-agent: ByteSpider
 User-agent: ToutiaoSpider
 User-agent: Sogou web spider
@@ -21,6 +21,7 @@ Disallow: /follow
 Disallow: /user/?enter_from=video_detail&from_gid=*
 Disallow: /topic/
 Disallow: *modal_id*
+Disallow: *extra_params=*
 
 User-agent: Baiduspider
 Allow: /topic/

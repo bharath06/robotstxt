@@ -98,8 +98,8 @@ Disallow: /tech-reviews/*
 Disallow: /auto-reviews/*
 Disallow: /amp/tech-reviews/*
 Disallow: /amp/auto-reviews/*
-Disallow: /astrology/horoscope/todays*/$
-Disallow: /amp/astrology/horoscope/todays*/$
+Disallow: /astrology/horoscope/todays*
+Disallow: /amp/astrology/horoscope/todays*
 Disallow: /business/cryptocurrency/trade-bitcoin/*
 
 Sitemap: https://www.news18.com/news-googlesitemap.xml

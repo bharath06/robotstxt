@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /admin/
 
+Sitemap: https://emojipedia.org/sitemap.xml
 User-agent: turnitinbot
 User-agent: NPBot
 User-agent: ia_archiver

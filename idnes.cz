@@ -15,4 +15,7 @@ Disallow: /*/undefined
 User-agent: MachineLearning
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.idnes.cz/sitemap.xml

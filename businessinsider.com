@@ -28,8 +28,13 @@ Disallow: /ws/
 Disallow: /.well-known/amphtml/apikey.pub
 Disallow: /business-insider
 Disallow: /*/contributor
+
 User-agent: googlebot_news
 Disallow: /sc/
+
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.businessinsider.com/sitemap/latest.xml
 Sitemap: https://www.businessinsider.com/sitemap/google-news.xml
 Sitemap: https://www.businessinsider.com/sitemap/index.xml

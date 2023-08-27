@@ -165,5 +165,4 @@ Disallow: /assets/oracle-fact-sheet-079219.pdf
 Disallow: /assets/managed-cloud-services-sd-4738082.pdf
 Disallow: /us/corporate/contracts/mcs-iaas-service-desc-3014939.pdf
 Disallow: /us/corporate/contracts/mcs-saas-service-desc-3762902.pdf
-Disallow: /industries/
 Disallow: /*?*

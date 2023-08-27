@@ -451,4 +451,7 @@ Disallow: /
 User-agent: uipbot
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.healthline.com/sitemap.xml

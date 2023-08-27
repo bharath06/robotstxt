@@ -2,5 +2,15 @@
 # robots.txt
 #
 User-agent: *
+Sitemap: https://www.uol.com.br/carros/sitemap/v2/news-01.xml
+Sitemap: https://www.uol.com.br/ecoa/sitemap/news-01.xml
+Sitemap: https://www.uol.com.br/esporte/sitemap/v2/news-01.xml
+Sitemap: https://www.uol.com.br/nossa/sitemap/news-01.xml
+Sitemap: https://www.uol.com.br/splash/sitemap/news-01.xml
+Sitemap: https://www.uol.com.br/tilt/sitemap/news-01.xml
+Sitemap: https://www.uol.com.br/universa/sitemap/v2/news-01.xml
+Sitemap: https://www.uol.com.br/vivabem/sitemap/v2/news-01.xml
 Allow: /
 Disallow: /carros/dev/
+User-agent: GPTBot
+Disallow: /

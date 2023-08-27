@@ -3,6 +3,9 @@
 User-agent: claritybot
 Disallow: /
 
+User-agent: GPTBot
+Disallow: / 
+
 User-agent: *
 Disallow: */admin/
 Disallow: */boxscore?

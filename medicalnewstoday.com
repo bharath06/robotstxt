@@ -20,5 +20,8 @@ Disallow: /articles/mnt-*
 # Infinite Scroll API
 Disallow: /api/content/
 
+User-agent: GPTBot
+Disallow: /
+
 # Sitemaps
 Sitemap: https://www.medicalnewstoday.com/sitemap.xml

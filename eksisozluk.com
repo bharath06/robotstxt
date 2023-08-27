@@ -11,3 +11,6 @@ Disallow: /
 
 User-agent: grapeshot
 Disallow:
+
+User-agent: GPTBot
+Disallow: /

@@ -14,6 +14,10 @@ Disallow: /pages/free-plan-refresh-faqs
 Disallow: /blog/*?
 Disallow: /blog/?p=
 Disallow: /blog/page/*/?p=
-Disallow: /pages/landing/number-one-connections-platform
+Disallow: /pages/*?preview[
+Disallow: /pages/*&preview[
+Disallow: /pages/*[
+Disallow: /pages/*{
+Disallow: /pages/*;
 Sitemap: https://bitly.com/pages/sitemap_index.xml
 Sitemap: https://bitly.com/blog/sitemap_index.xml

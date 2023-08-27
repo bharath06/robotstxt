@@ -10,7 +10,7 @@ Disallow: /publications/services/services-resources.html
 Disallow: /about/awards/award-recipient-form.html
 Disallow: /membership/join/mga-2016-mda.html
 Disallow: /membership/renew/reinstateCS16.html
-Disallow:  /membership/renew/renewBO16.html
+Disallow: /membership/renew/renewBO16.html
 Disallow: /membership/join/hkt-join.html
 Disallow: /membership/join/mga-2016-md2.html
 Disallow: /membership/join-renew.html
@@ -42,7 +42,7 @@ Disallow: /communities/working-groups.html
 Disallow: /membership/member-spotlight-submission-form.html
 Disallow: /content/ieee-org/en/stage-homepage-backup.html
 Disallow: /content/dam/ieee-org/ieee/web/org/pubs/ieee-thesaurus.pdf
-Disallow: /content/dam/ieee-org/ieee/web/org/pubs/2018-thesaurus-oct2018.pdf
+Disallow: /content/dam/ieee-org/ieee/web/org/pubs/2018-thesaurus-oct2018.pdf 
 Disallow: /*?refSite*
 
 Sitemap: https://www.ieee.org/sitemap.xml

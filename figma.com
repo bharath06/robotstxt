@@ -28,5 +28,9 @@ Disallow: /
 User-agent: MLBot
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.figma.com/sitemap.xml
+Sitemap: https://www.figma.com/sitemaps/figma-community-index.xml
 Sitemap: https://help.figma.com/hc/sitemap.xml

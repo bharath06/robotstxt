@@ -34,4 +34,7 @@
 
 User-agent: *
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.envato.com/sitemap_index.xml

@@ -51,3 +51,9 @@ Disallow: /
 #
 User-agent: Bytespider
 Disallow: /
+
+#
+# OpenAI GPT Crawler
+#
+User-agent: GPTBot
+Disallow: /

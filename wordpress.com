@@ -28,4 +28,4 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-# This file was generated on Sun, 20 Aug 2023 05:39:45 +0000
+# This file was generated on Sun, 27 Aug 2023 05:12:31 +0000

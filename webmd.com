@@ -1,5 +1,5 @@
 # Robots.txt file WebMD
-# Updated 7/25/2023
+# Updated 8/24/2023
 
 User-agent: *
 Disallow: */search/search_results/
@@ -15,3 +15,6 @@ Disallow: /api/
 Disallow: /search/2/api/
 Disallow: /webmd_static_vue/
 Disallow: /aim/
+
+User-agent: GPTBot
+Disallow: / 

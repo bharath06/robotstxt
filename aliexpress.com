@@ -37,6 +37,7 @@ Disallow: /*store/top-rated-products/*
 Allow: /i/api/reviews
 Disallow: /i/api/*
 Disallow: /gcp/300000414/regulatedinformation
+Disallow: /img/wsproduct/sku/*
 
 User-agent: YandexBot
 Crawl-delay: 0.5
@@ -73,12 +74,10 @@ Disallow: /store/all-wholesale-products/*
 Disallow: /*store/top-rated-products/*
 Disallow: /i/api/*
 Disallow: /gcp/300000414/regulatedinformation
+Disallow: /img/wsproduct/sku/*
 
 Host: https://aliexpress.ru
 Clean-param: initiative_id&site&spm&g&isrefine&needquery&blanktest&sorttype&cpt&aff_trace_key&ispremium&aff_platform&misspelltext&isonlyaffiliate&afref&aff_short_key&isdl&albcp&albch&albag&crea&netw&trgt&src&plac&aff_id&p4p&tracelog&useimatch&_csrf&utm_source&utm_campaign&utm_term&smsign&smtoken&utm_medium&utm_content&isafchannel&viewtype&aff_click_id&t&transabtest&callback&_csrf_token_&_&origin&rowan_id1&rowan_msg_id&ck&json&iscates
-
-Sitemap: https://www.aliexpress.com/sitemap/https-en-ugc-desktop-sitemap-index.xml
-Sitemap: https://www.aliexpress.com/siteindex/https-en-ugc-desktop-xml-sitemap-index.xml
 
 
 Sitemap: https://www.aliexpress.com/sitemap/https-en-ugc-desktop-sitemap-index.xml

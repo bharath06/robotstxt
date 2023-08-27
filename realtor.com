@@ -108,7 +108,6 @@ Disallow: /realestateandhomes-detail/2137-W-Roosevelt-Dr_Milwaukee_WI_53209_M905
 Disallow: /realestateandhomes-detail/650-Church-Rd_Flourtown_PA_19031_M35761-59786
 Disallow: /realestateandhomes-detail/1132-Jason-Dr_Lompoc_CA_93436_M11599-85143
 Disallow: /realestateandhomes-detail/M1159985143
-Disallow: /realestateandhomes-detail/*?ex=
 Disallow: /realestateandhomes-print/
 Disallow: /realestateandhomes-search/*/*/pg-
 Disallow: /realestateandhomes-search/*?from_ldp=true
@@ -259,7 +258,6 @@ Disallow: /realestateandhomes-detail/2137-W-Roosevelt-Dr_Milwaukee_WI_53209_M905
 Disallow: /realestateandhomes-detail/650-Church-Rd_Flourtown_PA_19031_M35761-59786
 Disallow: /realestateandhomes-detail/1132-Jason-Dr_Lompoc_CA_93436_M11599-85143
 Disallow: /realestateandhomes-detail/M1159985143
-Disallow: /realestateandhomes-detail/*?ex=
 Disallow: /realestateandhomes-print/
 Disallow: /realestateandhomes-search/*/*/pg-
 Disallow: /realestateandhomes-search/*?from_ldp=true

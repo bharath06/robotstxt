@@ -53,3 +53,6 @@ Disallow: /community/
 Disallow: /vorprod/
 Disallow: /test_stage/
 Disallow: /test/
+
+User-agent: GPTBot
+Disallow: /

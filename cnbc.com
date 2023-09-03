@@ -26,6 +26,9 @@ Disallow: /proplayer
 Disallow: /appchart/*
 Disallow: /search/
 
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
 Disallow: /preview/
 Disallow: /undefined/

@@ -48,6 +48,7 @@ Disallow: */component/*
 Disallow: */ext/make/ingest/*
 Disallow: */email/newsletter/*
 Disallow: */email/member/*
+Disallow: */email/editor/*
 
 Sitemap: https://www.cnet.com/sitemaps/article/index.xml
 Sitemap: https://www.cnet.com/sitemaps/best/index.xml

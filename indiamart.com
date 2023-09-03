@@ -29,6 +29,8 @@ Disallow: /TDWIM/
 Disallow: /CWSIM/
 Disallow: /eyeblaster/  # Disallow eyeblaster to avoid indexing of eyeblaster page
 Disallow: /*/search.html
+User-agent: GPTBot
+Disallow: /
 User-agent: Mediapartners-Google
 Allow: /cgi/
 Allow: /

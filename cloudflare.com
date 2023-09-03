@@ -29,9 +29,29 @@
 # OUR TREE IS A REDWOOD
 
 
+# allow TwitterBot to crawl lp
+User-agent: Twitterbot
+
+Allow: /lp
+Allow: /de-de/lp
+Allow: /en-au/lp
+Allow: /en-ca/lp
+Allow: /en-gb/lp
+Allow: /en-in/lp
+Allow: /es-es/lp
+Allow: /es-la/lp
+Allow: /fr-fr/lp
+Allow: /it-it/lp
+Allow: /ja-jp/lp
+Allow: /ko-kr/lp
+Allow: /pt-br/lp
+Allow: /zh-cn/lp
+Allow: /zh-tw/lp
 
 User-agent: *
 
+# pages testing
+Disallow: pages.www.cloudflare.com/
 
 # lp
 Disallow: /lp

@@ -113,5 +113,11 @@ User-agent: SemrushBot
 Disallow: /licensing-syndication
 Disallow: /licensing-syndication/*
 
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
 Sitemap: https://www.washingtonpost.com/arcio/sitemap/master/index/
 Sitemap: https://www.washingtonpost.com/arcio/news-sitemap/

@@ -39,7 +39,7 @@ User-agent: Bingbot
 Crawl-delay: 2
 
 User-agent: slurp
-Crawl-delay: 3
+Crawl-delay: 10
 
 User-agent: Seznambot
 Crawl-delay: 5
@@ -52,5 +52,8 @@ Disallow: /
 
 User-agent: grapeshot
 Disallow:
+
+User-agent: GPTBot
+Disallow: /
 
 Sitemap: https://www.gsmarena.com/sitemap.xml

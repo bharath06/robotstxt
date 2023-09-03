@@ -2,6 +2,7 @@ User-agent: *
 Allow: 		/ 
 Disallow: 		/ultimora/24ore/nazionale/news-dettaglio/3688417 
 Disallow: 		/ultimora/24ore/AUTO-IN-CAMBIO-DI-DROGA-13-ARRESTI-DELLA-POLIZIA-DI-PESCARA-(2)/news-dettaglio/3746479 
+Disallow: 		/ssnclude/canalrep/economia/rep_24ore_3685023.html 
 Disallow: 		/sport/calcio/serie-a/inter/2020/08/03/news/conte_juventus_zhang_allegri-263589649/ 
 Disallow: 		/sport/calcio/serie-a/inter/2020/08/03/news/conte_juventus_zhang_allegri-263589649 
 Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il_posto_e_costera_all_erario_mezzo_milione_di_euro[1]156371739/ 
@@ -90,3 +91,5 @@ Sitemap: 		https://palermo.repubblica.it/sitemap.xml
 Sitemap: 		https://parma.repubblica.it/sitemap.xml 
 Sitemap: 		https://roma.repubblica.it/sitemap.xml 
 Sitemap: 		https://torino.repubblica.it/sitemap.xml 
+User-agent: GPTBot 
+Disallow: 		/ 

@@ -33,6 +33,7 @@
 #                     '+z3p8QQ@@@@@QQQRAol>~
 
 User-agent: *
+Disallow:
 
 User-agent: GPTBot
 Disallow: /

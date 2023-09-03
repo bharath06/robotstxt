@@ -9,6 +9,7 @@ Disallow: /admin/*
 Disallow: /article/22266
 Disallow: *?*
 Disallow: /article/compliance_hotline
+Disallow: /away
 
 User-agent: YandexDirect
 Allow: *?*
@@ -25,6 +26,7 @@ Disallow: /admin/*
 Disallow: /article/22266
 Disallow: *?*
 Disallow: /article/compliance_hotline
+Disallow: /away
 
 User-agent: AdsBot-Google
 Allow: /account/signup*
@@ -50,6 +52,7 @@ Disallow: /admin/*
 Disallow: /article/22266
 Disallow: *?*
 Disallow: /article/compliance_hotline
+Disallow: /away
 
 User-agent: *
 Disallow: /auth/*
@@ -62,6 +65,7 @@ Disallow: /admin/*
 Disallow: /article/22266
 Disallow: *?*
 Disallow: /article/compliance_hotline
+Disallow: /away
 
 Host: https://hh.ru
 Sitemap: https://hh.ru/sitemap/main.xml

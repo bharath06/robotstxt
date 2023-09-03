@@ -8,6 +8,7 @@ Disallow: /app/teamMessage/
 Disallow: *-f*.html
 Disallow: /p1-*
 Disallow: /p2-*
+Disallow: /jianzhu/*
 
 User-agent: AhrefsBot
 Disallow: /

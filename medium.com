@@ -19,3 +19,5 @@ Allow: /_/api/posts/*/responses
 Allow: /_/api/posts/*/responsesStream
 Allow: /_/api/posts/*/related
 Sitemap: https://medium.com/sitemap/sitemap.xml
+User-Agent: GPTBot
+Disallow: /

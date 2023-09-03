@@ -189,3 +189,6 @@ Disallow: /bb/ispapply_change.asp*
 Disallow: /bb/ispapply_flets_change.asp*
 Disallow: /robot-advisor/jump/
 Disallow: /used/*?*
+
+User-agent: GPTBot
+Disallow: /

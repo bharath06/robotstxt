@@ -18,4 +18,4 @@ Disallow: /author/
 User-agent: Alexabot
 Disallow: /*/amp/
 
-Sitemap: https://www.idntimes.com/sitemap-post.xml
+Sitemap: https://www.idntimes.com/sitemap.xml

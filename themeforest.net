@@ -32,6 +32,9 @@ Disallow: /cdn-cgi/
 User-agent: Pinterest
 Crawl-delay: 1
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://themeforest.net/sitemap.xml.gz
 Sitemap: https://themeforest.net/lp/sitemap.xml
 Sitemap: https://themeforest.net/useful-sitemap.xml.gz

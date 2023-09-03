@@ -9,6 +9,9 @@ Disallow: /pages/interactives/sponsor-story/
 Disallow: /interactives/sponsor-story/
 Disallow: /videos/embed/
 
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
 Disallow: /errors
 Disallow: /interactive/

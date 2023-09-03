@@ -5,6 +5,9 @@ Disallow: /gutscheine/suche?
 Disallow: /gutscheine/*?code=*
 Disallow: /gutscheine/*&code=*
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.spiegel.de/sitemaps/news-de.xml
 Sitemap: https://www.spiegel.de/sitemaps/videos/sitemap.xml
 Sitemap: https://www.spiegel.de/plus/sitemap.xml

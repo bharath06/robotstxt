@@ -44,6 +44,9 @@ Disallow: /rubicon_rambler_main
 Disallow: /rnet/
 Disallow: /?query=*
 Disallow: /?clid=*
+Disallow: /location/current
+Disallow: /api/v4/weather/
+Disallow: /api/v4/rcm/*
 
 User-agent: *
 Allow: /doc/addr.shtml

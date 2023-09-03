@@ -63,3 +63,10 @@ Crawl-delay: 5
 User-agent: Yandex
 Crawl-delay: 2
 
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: CCBot
+Disallow: /
+

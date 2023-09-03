@@ -4,6 +4,7 @@ Disallow: /h/
 Disallow: /fb/
 Disallow: /lp/
 Disallow: /test/
+Disallow: /generator-system-config/
 Disallow: /reflect/
 Disallow: /google*
 Disallow: /partials/

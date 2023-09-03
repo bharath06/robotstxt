@@ -52,3 +52,5 @@ Disallow: /
 User-agent: ListRan
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /

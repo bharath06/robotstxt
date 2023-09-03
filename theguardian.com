@@ -1,4 +1,5 @@
-# this is the robots.txt file for theguardian.com
+# This is the robots.txt file for theguardian.com
+# The Guardian does not permit the unlicensed use of our content for large language models. Contact licensing@theguardian.com for assistance
 
 User-agent: *
 Disallow: /sendarticle/
@@ -58,3 +59,5 @@ Sitemap: http://www.theguardian.com/sitemaps/video.xml
 User-agent: NewsNow
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /

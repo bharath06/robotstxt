@@ -24,7 +24,6 @@ Disallow: /chat/*
 Disallow: /chatbot
 Disallow: /content/*
 Disallow: /e-pharmacy
-Disallow: /events/
 Disallow: /events/search*
 Disallow: /favorite-shop
 Disallow: /feed?sc=*

@@ -43,6 +43,7 @@ disallow: /load/*
 disallow: /additionalinfo/*
 disallow: /mag/readme
 disallow: /personalized-category
+disallow: /categories
 Allow: *?amp=1
 Allow: */mag/*.js
 Allow: */mag/*.css

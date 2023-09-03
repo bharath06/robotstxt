@@ -250,3 +250,4 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2023/7/sitema
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2023/8/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2023/8/sitemap1.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2023/8/sitemap2.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2023/9/sitemap.xml.gz

@@ -145,5 +145,6 @@ Allow: /ss/
 Allow: /*.js
 Allow: /*.css
 Allow: /*.svg
+Allow: /buyside-e2e-monitor/
 
 Disallow: /

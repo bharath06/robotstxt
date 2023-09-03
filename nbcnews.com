@@ -11,6 +11,10 @@ Disallow: /*?*canonicalCard=
 User-agent: Twitterbot
 Allow: /*?*canonicalCard=
 
+# Disallow ChatGPT
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.nbcnews.com/sitemap/nbcnews/sitemap-index
 Sitemap: https://www.nbcnews.com/sitemap/nbcnews/sitemap-news
 Sitemap: https://www.nbcnews.com/sitemap/nbcnews/sitemap-curations

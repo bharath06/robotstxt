@@ -1,3 +1,4 @@
+# robots.txt
 User-agent: *
 #Disallow: /.well-known/amphtml/apikey.pub
 Disallow: /BT/*
@@ -33,6 +34,9 @@ Disallow: /vote2018/gameapi/*
 Disallow: /UDN/FOUNDER/*
 Disallow: /UDN/UDNENGLISH/*
 Disallow: /morakot/*
+# GPT
+User-agent: GPTBot
+Disallow: /
 Sitemap: https://udn.com/sitemapxml/news/mapindex.xml
 Sitemap: https://udn.com/sitemap/gnews/2
 Sitemap: https://udn.com/sitemap/gnews/1013

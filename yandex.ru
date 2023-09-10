@@ -262,6 +262,7 @@ Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
 Disallow: /activity/
 Disallow: /sport
+Disallow: /support2/sport*
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
@@ -543,6 +544,7 @@ Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
 Disallow: /activity/
 Disallow: /sport
+Disallow: /support2/sport*
 
 User-agent: Yandex
 Disallow: /?
@@ -793,6 +795,7 @@ Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
 Disallow: /activity/
 Disallow: /sport
+Disallow: /support2/sport*
 
 User-agent: Googlebot
 Disallow: /?
@@ -1057,6 +1060,7 @@ Disallow: /promo/market/mobile/app*?from=
 Disallow: /support2/*zout_
 Disallow: /activity/
 Disallow: /sport
+Disallow: /support2/sport*
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml

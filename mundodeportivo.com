@@ -118,3 +118,13 @@ Disallow: /resultados/futbol/brasil-campeonato-carioca/*
 Disallow: /resultados/futbol/copa-de-brasil/*
 Disallow: /resultados/futbol/uruguay/*
 Disallow: /resultados/futbol/copa-africa/
+
+Disallow: /alfabeta/*/;aspect-ratio
+Disallow: /alfabeta/*/aspect-ratio
+Disallow: /alfabeta/*/{{
+Disallow: /alfabeta/*/undefined$
+
+Disallow: /urbantecno/*/;aspect-ratio
+Disallow: /urbantecno/*/aspect-ratio
+Disallow: /urbantecno/*/{{
+Disallow: /urbantecno/*/undefined$

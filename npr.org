@@ -34,6 +34,14 @@ Disallow: /*?skipCache=*
 Disallow: /*?forceCds=*
 Disallow: /*?forceXml=*
 
+# Disallowing the OpenAI web crawler
+User-agent: GPTBot
+Disallow: /
+
+# Disallowing OpenAI plugins
+User-agent: ChatGPT-User
+Disallow: /
+
 # Ensures that we're using the correct sitemap. The fact that this is legacy*.npr.org is OK because the crawler will only accept
 # URLs in this sitemap to match www*.npr.org
 Sitemap: https://legacy.npr.org/googlecrawl/sitemap_index.xml

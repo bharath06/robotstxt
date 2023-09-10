@@ -16,6 +16,7 @@ Disallow: /counters.php
 
 # Wordpress Previews
 Disallow: /articles/mnt-*
+Disallow: /program/mnt-*
 
 # Infinite Scroll API
 Disallow: /api/content/

@@ -104,6 +104,8 @@ Disallow: /online.php
 Disallow: /outclick_interstitial.php
 Disallow: /outgoing/*
 Disallow: /paidPlacements.php
+Disallow: /pci/*
+Disallow: /pcmi/*
 Disallow: /pco/*
 Disallow: /private.php
 Disallow: /profile.php

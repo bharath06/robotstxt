@@ -16,5 +16,12 @@ Disallow: /wiki/Html:
 Disallow: /wiki/ç¹æ®:
 Disallow: /wiki/ç¨æ·:
 Disallow: /wiki/æ¨¡æ¿:
+Disallow: /*?*action=
+Disallow: /*?*feed=
+Disallow: /*?*oldid=
+Disallow: /*?*printable=
+Disallow: /*?*variant=
+Disallow: /*?*useskin=
+Disallow: /*?*uselang=
 Disallow: /index.php?diff=
 Disallow: /index.php?oldid=

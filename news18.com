@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+Allow: /cricketnext/series/asia-cup-2023.html
+Allow: /cricketnext/amp/series/asia-cup-2023.html
 Disallow: /cricketnext/series/*
 Disallow: /cricketnext/amp/series/*
 Disallow: /cricketnext/photogallery/series/*
@@ -103,3 +105,20 @@ Disallow: /amp/astrology/horoscope/todays*
 Disallow: /business/cryptocurrency/trade-bitcoin/*
 
 Sitemap: https://www.news18.com/news-googlesitemap.xml
+
+User-agent: CCBot
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-Agent: omgili
+Disallow: /
+User-Agent: omgilibot
+Disallow: /
+User-agent: MAZBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: DataForSeoBot
+Disallow: /

@@ -388,7 +388,17 @@ Disallow: /personal/cards/supplementary-card.page
 Disallow: /private-banking/promotion/maid-protect
 Disallow: /Contact/dbs/loans/dbs-home-loan-repricing/default.page
 Disallow: /Contact/dbs/loans/sibor-conversion/default.page
-
+Disallow: /personal/marketplaces/listing/homeliving-mobile/homeliving-mobile-changimobile5
+Disallow: /personal/marketplaces/listing/homeliving-mobile/homeliving-mobile-changimobile6 
+Disallow: /personal/marketplaces/listing/homeliving-mobile/homeliving-mobile-changimobile7 
+Disallow: /personal/marketplaces/listing/homeliving-mobile/homeliving-mobile-changimobile8
+Disallow: /personal/marketplaces/listing/homeliving-mobile/homeliving-mobile-starhub2
+Disallow: /personal/marketplaces/listing/homeliving-mobile/homeliving-mobile-vivifi1
+Disallow: /personal/marketplaces/listing/homeliving-broadband/homeliving-broadband-myrepublic3
+Disallow: /personal/marketplaces/listing/homeliving-broadband/homeliving-broadband-myrepublic4 
+Disallow: /personal/marketplaces/listing/homeliving-broadband/homeliving-broadband-myrepublic5
+Disallow: /personal/marketplaces/listing/homeliving-broadband/homeliving-broadband-myrepublic5
+Disallow: /personal/rewards-catalog/
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

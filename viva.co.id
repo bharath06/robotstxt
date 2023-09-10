@@ -12,5 +12,6 @@ Disallow: /amp/antv/program
 Disallow: /amp/antv/program/*
 Disallow: /beta-dev/*
 Disallow: /viva20/*
+Disallow: /search*
 
 Sitemap: https://www.viva.co.id/sitemap.xml

@@ -19,6 +19,7 @@ Disallow: /corporate/
 Disallow: /health/mirgraine-headaches
 Disallow: /health/wp-*
 Disallow: /nutrition/wp-*
+Disallow: /program/wp-*
 Disallow: /health-news/wp-*
 Disallow: /health/*/wp-*
 Disallow: /nutrition/*/wp-*

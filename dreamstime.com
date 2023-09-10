@@ -48,14 +48,10 @@ Disallow: /samemodel.php?imageid=*&pg=*&sortcriteria=6
 Disallow: /uploadfile.php*
 Disallow: /tax-center
 Disallow: /*jump_to
-Disallow: /lightbox
 Disallow: /downloads.php
 Disallow: /user_modify.php
 Disallow: /chistory.php
 Disallow: /payment_requests.php
-Disallow: /uploads
-Disallow: /earnings
-Disallow: /comments
 ###################################
 Sitemap: https://www.dreamstime.com/sitemap2-en-index.xml.gz
 Sitemap: https://www.dreamstime.com/sitemap2-en-categories-index.xml.gz  

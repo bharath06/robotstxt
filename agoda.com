@@ -9,7 +9,7 @@
 #
 #
 # If you like bots this much, then why not help us rank for all the things. Email seoPros@agoda.com
-# V1
+# V1_2
 #
 User-agent: *
 Disallow: /*/hotel/all/
@@ -22,6 +22,7 @@ Disallow: /thankyou/
 Disallow: /flights/results
 Disallow: /*/flights/results
 Disallow: /activities/detail
+
 
 User-agent: Googlebot
 Disallow: /*/hotel/all/

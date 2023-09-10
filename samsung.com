@@ -23,7 +23,7 @@ Disallow: /us/business/search/
 Disallow: /us/api/
 Disallow: /us/trade-in/program-violation/
 Disallow: /sg/ab/*
-Disallow: /*/?bvstate*
+Disallow: /*/*bvstate*
 Disallow: /*/_jcr_content/*
 Disallow: /*/galaxy-s10-buy-test/*
 Disallow: /*/connected-living/content-library/*
@@ -318,4 +318,3 @@ Sitemap:https://www.samsung.com/mn/sitemap.xml
 Sitemap:https://www.samsung.com/jp/sitemap.xml
 Sitemap:https://www.samsung.com/ge/sitemap.xml
 Host: www.samsung.com
-

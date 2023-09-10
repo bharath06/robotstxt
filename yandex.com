@@ -242,6 +242,7 @@ Disallow: /hava*
 Disallow: *maps/covid19*
 Disallow: /support2/*zout_
 Disallow: /sport
+Disallow: /support2/sport*
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*
@@ -495,6 +496,7 @@ Disallow: /hava*
 Disallow: *maps/covid19*
 Disallow: /support2/*zout_
 Disallow: /sport
+Disallow: /support2/sport*
 
 User-Agent: Twitterbot
 Allow: /images
@@ -519,6 +521,7 @@ Disallow: /hava*
 Disallow: *maps/covid19*
 Disallow: /support2/*zout_
 Disallow: /sport
+Disallow: /support2/sport*
 
 Sitemap: https://yandex.com/support/sitemap.xml
 Sitemap: https://yandex.com/blog/sitemap.xml
@@ -750,6 +753,7 @@ Disallow: /hava*
 Disallow: *maps/covid19*
 Disallow: /support2/*zout_
 Disallow: /sport
+Disallow: /support2/sport*
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*

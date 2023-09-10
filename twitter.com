@@ -1,7 +1,6 @@
 # Google Search Engine Robot
 # ==========================
 User-agent: Googlebot
-Allow: /?_escaped_fragment_
 
 Allow: /*?lang=
 Allow: /hashtag/*?src=
@@ -11,8 +10,6 @@ Disallow: /search/realtime
 Disallow: /search/users
 Disallow: /search/*/grid
 
-Allow: /*?ref_src=
-Allow: /*?src=
 Disallow: /*?
 Disallow: /*/followers
 Disallow: /*/following
@@ -20,6 +17,11 @@ Disallow: /*/following
 Disallow: /account/deactivated
 Disallow: /settings/deactivated
 
+Disallow: /[_0-9a-zA-Z]+/status/[0-9]+/likes
+Disallow: /[_0-9a-zA-Z]+/status/[0-9]+/retweets
+Disallow: /[_0-9a-zA-Z]+/likes
+Disallow: /[_0-9a-zA-Z]+/media 
+Disallow: /[_0-9a-zA-Z]+/photo
 
 # Every bot that might possibly read and respect this file
 # ========================================================

@@ -192,7 +192,7 @@ Sitemap: https://www.adobe.com/acom-temp.xml
 Sitemap: https://www.adobe.com/hub/sitemap.xml
 
 # CC Express 
-Sitemap: https://www.adobe.com/express/sitemap.xml
+Sitemap: https://www.adobe.com/express/sitemap-index.xml
 
 #Naver
 Sitemap: https://www.adobe.com/naver.index.xml

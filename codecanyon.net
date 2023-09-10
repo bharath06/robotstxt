@@ -32,6 +32,9 @@ Disallow: /cdn-cgi/
 User-agent: Pinterest
 Crawl-delay: 1
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://codecanyon.net/sitemap.xml.gz
 Sitemap: https://codecanyon.net/lp/sitemap.xml
 Sitemap: https://codecanyon.net/useful-sitemap.xml.gz

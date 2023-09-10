@@ -26,6 +26,7 @@ Disallow: /studioapi/wasabi/*
 Disallow: /sstk/api/*
 Disallow: /studioapi/*
 Disallow: /napi/*
+Disallow: /api/*
 Disallow: /feed.mhtml
 Disallow: /nuance-chat.html
 Disallow: /sw/*
@@ -132,6 +133,7 @@ Disallow: /studioapi/wasabi/*
 Disallow: /sstk/api/*
 Disallow: /studioapi/*
 Disallow: /napi/*
+Disallow: /api/*
 Disallow: /feed.mhtml
 Disallow: /nuance-chat.html
 Disallow: /sw/*
@@ -217,6 +219,7 @@ Disallow: /studioapi/wasabi/*
 Disallow: /sstk/api/*
 Disallow: /studioapi/*
 Disallow: /napi/*
+Disallow: /api/*
 Disallow: /feed.mhtml
 Disallow: /nuance-chat.html
 Disallow: /sw/*

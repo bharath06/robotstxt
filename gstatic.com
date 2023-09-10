@@ -53,6 +53,7 @@ Allow: /covid19/mobility/
 Allow: /culturalinstitute/images/
 Allow: /culturalinstitute/sitemaps/
 Allow: /culturalinstitute/stella/
+Allow: /ct/log_list/
 Allow: /delight/
 Allow: /devopsconsole/images/
 Allow: /devrel-devsite/

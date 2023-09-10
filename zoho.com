@@ -7,6 +7,7 @@
 
 User-agent: *
 Allow: */crm/lp/
+Allow: /.well-known/
 
 
 # unwanted list taken from zoho search list
@@ -266,9 +267,11 @@ Disallow: /datagrid/
 Disallow: /cmstest/
 Disallow: /creativetest/
 Disallow: /hi-in/
-Disallow: /in/payroll/academy/
 Disallow: /sites/zweb/images/workplace/pdf/saas-affiliate-marketing.pdf
 Disallow: /sites/zweb/images/workplace/pdf/affiliate-marketing-guide.pdf
+Disallow: */billing/
+
+
 
 
 User-agent: Googlebot-Image

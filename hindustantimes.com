@@ -83,6 +83,9 @@ Disallow: /images/Popup/
 Disallow: /Images/popup/
 Disallow: /homenew
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.hindustantimes.com/sitemap/section.xml
 Sitemap: https://www.hindustantimes.com/sitemap/news.xml
 Sitemap: https://www.hindustantimes.com/sitemap/index.xml

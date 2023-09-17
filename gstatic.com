@@ -15,6 +15,7 @@ Allow: /_/mss/boq-bard-web/
 Allow: /_/mss/boq-chrome-cloudcast/
 Allow: /_/mss/boq-geo/
 Allow: /_/mss/boq-nbu-monetization/
+Allow: /_/mss/boq-search-engagement-post/
 Allow: /_/mss/boq-travel/
 Allow: /_/mss/boq-identity/
 Allow: /_/pantheon/

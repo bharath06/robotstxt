@@ -1,34 +1,8 @@
 ﻿#Ask SEO team before you edit this file
-#Robot Experience Management 
+#Robot Experience Management
 
 
-
-
-#community rules 
-user-agent: *
-disallow: /community/*/tag?*
-disallow: /community/*/tagged/*
-disallow: /community/*/markread?*
-disallow: /community/*/quote/*
-disallow: /community/*?reaction=*
-disallow: /community/*/post/*
-disallow: /community/*/bookmark/*
-disallow: /community/*/vanilla/*
-disallow: /community/*/comment/*
-disallow: /community/*/dashboard/*
-#disallow: /community/*/bestof/*
-#disallow: /community/*/archives/*
-disallow: /community/*/react/*
-disallow: /community/*/messages/*
-disallow: /community/*/browse?keywords*
-disallow: /community/entry/*
-Disallow: /community/profile/*
-Disallow: */feed.rss
-Disallow: /community/profile/*
-Noindex: /community/discussion/708/did-you-take-the-psychology-questionnaire-used-by-cambridge-analytica-lets-talk
-
-
-##Support site
+#Support site
 Disallow: /support/tag/*
 Disallow: /support/category/*
 Disallow: /support/custom_resource/*
@@ -57,6 +31,10 @@ noindex: /in-product/
 
 #campaign and ABM pages
 Disallow: /hidden/
+
+
+#careers staging site
+Disallow: /phenom/
 
 
 Sitemap: https://www.qualtrics.com/hreflang.xml

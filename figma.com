@@ -1,35 +1,35 @@
-# robots.txt
-# Handbook of Robotics, 56th Edition, 2058 A.D.
-
-User-agent: Fasterfox
+User-Agent: Fasterfox
 Disallow: /
 
-User-agent: Nutch
+User-Agent: Nutch
 Disallow: /
 
-User-agent: spock
+User-Agent: spock
 Disallow: /
 
-User-agent: OmniExplorer_Bot
+User-Agent: OmniExplorer_Bot
 Disallow: /
 
-User-agent: MJ12bot
+User-Agent: MJ12bot
 Disallow: /
 
-User-agent: TurnitinBot
+User-Agent: TurnitinBot
 Disallow: /
 
-User-agent: BecomeBot
+User-Agent: BecomeBot
 Disallow: /
 
-User-agent: genieBot
+User-Agent: genieBot
 Disallow: /
 
-User-agent: MLBot
+User-Agent: MLBot
 Disallow: /
 
-User-agent: GPTBot
+User-Agent: GPTBot
 Disallow: /
+
+User-Agent: *
+Disallow: /community/search*
 
 Sitemap: https://www.figma.com/sitemap.xml
 Sitemap: https://www.figma.com/sitemaps/figma-community-index.xml

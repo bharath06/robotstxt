@@ -3,7 +3,7 @@
 #
 
 #
-# Last updated by NSchingel 06/02/2021
+# Last updated by arjun.lather 08/29/2023
 #
 
 # Disallowed for PhantomJS
@@ -165,6 +165,16 @@ Disallow: /?q=user/logout/
 Disallow: /sponsored
 Disallow: /ugc
 Disallow: /sponsored-content
+
+
+#
+# Block openAI Bot
+#
+User-agent: GPTBot
+Disallow: *
+
+User-agent: ChatGPT-User
+Disallow: *
 
 Sitemap: https://weather.com/en-US/sitemaps/sitemap.xml
 Sitemap: https://weather.com/pt-PT/sitemaps/sitemap.xml

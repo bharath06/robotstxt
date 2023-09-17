@@ -7,6 +7,15 @@ Disallow: / # prohibits crawling for the entire site
 User-agent: *
 Disallow: *?RedirectUrl
 
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+ââUser-agent: anthropic-ai
+Disallow: /
+
 Disallow: /privacy.shtml 
 Disallow: /abbonati.Suspended/
 Disallow: /corcommunitynew/accesso/LogOut.do

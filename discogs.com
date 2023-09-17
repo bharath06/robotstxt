@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /ads.txt
 Allow: /*/_graphs/history
 Allow: /users/forgot_password
 Disallow: /sell/cart

@@ -111,3 +111,7 @@ Disallow: /
 # Common Crawl's cralwer
 User-agent: CCBot
 Disallow: /
+
+# SentiBot's cralwer
+User-agent: sentibot
+Disallow: /

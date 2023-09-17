@@ -12,6 +12,9 @@ Disallow: /videos/embed/
 User-agent: GPTBot
 Disallow: /
 
+User-agent: CCBot
+Disallow: /
+
 User-agent: *
 Disallow: /errors
 Disallow: /interactive/

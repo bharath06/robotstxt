@@ -269,7 +269,7 @@ Disallow: /creativetest/
 Disallow: /hi-in/
 Disallow: /sites/zweb/images/workplace/pdf/saas-affiliate-marketing.pdf
 Disallow: /sites/zweb/images/workplace/pdf/affiliate-marketing-guide.pdf
-Disallow: */billing/
+Disallow: /fr-ca/
 
 
 

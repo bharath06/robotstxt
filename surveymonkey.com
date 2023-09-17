@@ -1,3 +1,5 @@
+User-agent: GPTBot
+Disallow: /
 User-agent: *
 Allow: /user/sign-up/
 Allow: /user/sign-in/

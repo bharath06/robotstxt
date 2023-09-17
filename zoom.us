@@ -27,5 +27,7 @@ Disallow: /*oauth_signin
 Disallow: /my/*
 Disallow: /download2*
 Disallow: /*?
+Disallow: /opc*
+Disallow: /buy*
 
 Sitemap: https://zoom.us/sitemap.xml

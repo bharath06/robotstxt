@@ -5,3 +5,5 @@ Disallow: /wp-content/plugins/
 Disallow: /content-override.php
 User-agent: ChatGPT-User
 Disallow: /
+User-agent: GPTBot
+Disallow: /

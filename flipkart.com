@@ -82,8 +82,7 @@ Disallow: /*=facets*
 User-agent: *
 Disallow: /amp/
 
-Sitemap: https://www.flipkart.com/sitemap_s_store-browse.xml
-Sitemap: https://www.flipkart.com/sitemap_v_view-browse.xml
+Sitemap: https://www.flipkart.com/sitemap_v_view-browse.xml.gz
 Sitemap: https://www.flipkart.com/sitemap_p_product_index_1.xml
 Sitemap: https://www.flipkart.com/sitemap_p_product_index_2.xml
 Sitemap: https://www.flipkart.com/sitemap_p_product_index_3.xml

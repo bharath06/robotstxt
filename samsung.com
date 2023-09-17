@@ -48,6 +48,7 @@ Allow: /hu/multistore/diakkedvezmenyek/
 Disallow: /*/multistore/*
 Disallow: /ru/srr/
 Disallow: /in/web/emi/*
+Allow: /es/multistore/es_canary_islands/
 
 User-agent: Yandex
 Allow: /

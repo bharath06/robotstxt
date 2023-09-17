@@ -4,7 +4,21 @@ Sitemap: https://unsplash.com/sitemaps/sitemap.xml
 
 Allow: /blog
 
+Allow: /de/backgrounds
+
 Allow: /backgrounds
+
+Allow: /es/backgrounds
+
+Allow: /fr/backgrounds
+
+Allow: /it/backgrounds
+
+Allow: /ja/backgrounds
+
+Allow: /ko/backgrounds
+
+Allow: /pt-br/backgrounds
 
 Disallow: /photos/*/download
 

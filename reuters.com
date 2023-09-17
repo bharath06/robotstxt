@@ -1,6 +1,4 @@
 # robots.txt for www.reuters.com
-# from outboundfeeds.reuters.arcpublishing.com
-# Disallow: /*/key-developments/article/*
 
 User-agent: PiplBot
 Disallow: /
@@ -9,6 +7,15 @@ User-agent: CCbot
 Disallow: /
 
 User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
 Disallow: /
 
 User-agent: *

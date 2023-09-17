@@ -58,7 +58,6 @@ Disallow: /interstitial*
 Disallow: /information*
 Disallow: /i-frame-1*
 Disallow: /live*
-Disallow: /premiumvideos*
 Disallow: /login?redirect=*
 Disallow: */channel/?search=*
 Disallow: /*cc=*

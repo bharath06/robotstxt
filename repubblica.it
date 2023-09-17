@@ -17,6 +17,8 @@ Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/* 
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
+Disallow: 		/economia/finanza/2014/09/13/news/eni_descalzi_inchiesta_tangenti_nigeria_verbali-95641754 
+Disallow: 		/economia/2014/09/12/news/eni_le_accuse_dell_ex_ministro_una_truffa_dei_vertici_a_danno_del_gruppo_nei_guai_descalzi_e_scaroni-95577854 
 Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 

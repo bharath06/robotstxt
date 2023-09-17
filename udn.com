@@ -34,8 +34,10 @@ Disallow: /vote2018/gameapi/*
 Disallow: /UDN/FOUNDER/*
 Disallow: /UDN/UDNENGLISH/*
 Disallow: /morakot/*
-# GPT
+# chatbot
 User-agent: GPTBot
+Disallow: /
+User-agent: Amazonbot
 Disallow: /
 Sitemap: https://udn.com/sitemapxml/news/mapindex.xml
 Sitemap: https://udn.com/sitemap/gnews/2

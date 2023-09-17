@@ -1,7 +1,12 @@
 # robots.txt file created by 21/Sept/2011
-# For domain: http://www.td.com
+# robots.txt file updated by 01/Sept/2023
+# For domain: https://www.td.com
 #
 # For Auto submission of sitemap
 User-agent: *
-Disallow: /corporate-responsibility/crr-2009/diversity/employee-diversity/women-in-leadership/index.jsp
+Allow: /
+User-agent: AdsBot-Google
+Allow: /
+User-agent: Googlebot
+Allow: /
 Sitemap: https://www.td.com/sitemap.xml

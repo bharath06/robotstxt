@@ -40,19 +40,9 @@ Disallow: /pins/*/similar
 Disallow: /from/*
 Disallow: /boards/favorite/*
 Disallow: /users/favorite/*
- 
 User-agent: YandexBot
 Disallow: /
-Sitemap：https://huaban.com/sitemap/zhuanti1.xml
-Sitemap：https://huaban.com/sitemap/zhuanti2.xml
-Sitemap：https://huaban.com/sitemap/topic-material1.xml
-Sitemap：https://huaban.com/sitemap/topic-material2.xml
-Sitemap：https://huaban.com/sitemap/topic-material3.xml
-Sitemap：https://huaban.com/sitemap/topic-material4.xml
-Sitemap：https://huaban.com/sitemap/topic-material5.xml
-Sitemap：https://huaban.com/sitemap/topic-material6.xml
-Sitemap：https://huaban.com/sitemap/topic-material7.xml
-Sitemap：https://huaban.com/sitemap/topic-material8.xml
-Sitemap：https://huaban.com/sitemap/topic-material9.xml
-Sitemap：https://huaban.com/sitemap/topic-material10.xml
-Sitemap：https://huaban.com/sitemap/topic-material11.xml
+Sitemap：https://huaban.com/sitemap/topic-pin-sitemap_index.xml
+Sitemap：https://huaban.com/sitemap/topic-board-sitemap_index.xml
+Sitemap：https://huaban.com/sitemap/topic-material-sitemap_index.xml
+Sitemap：https://huaban.com/sitemap/zhuanti-sitemap_index.xml

@@ -311,6 +311,7 @@ Disallow: /Contact/posb/deposits/posbkids/default.page
 Disallow: /personal/insurance/endowment-with-protection/wealth-accumulation-plans/manulife-smartwealth-ii
 Disallow: /treasures/market-outlook
 Disallow: /treasures/investments/invest-and-save-redirect.page
+Disallow: /treasures/investments/crypto-currency-insights
 Disallow: /Contact/posb/deposits/sb-casa-joint/default.page
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffcashgiftpromo/dbs-staff-cashgift-promo-2023-tnc.pdf
 Disallow: /iwov-resources/media/pdf/deposits/promotions/dbsstaffexclusivefdpromo/dbs-staff-fd-promo-2023-faq.pdf
@@ -399,6 +400,8 @@ Disallow: /personal/marketplaces/listing/homeliving-broadband/homeliving-broadba
 Disallow: /personal/marketplaces/listing/homeliving-broadband/homeliving-broadband-myrepublic5
 Disallow: /personal/marketplaces/listing/homeliving-broadband/homeliving-broadband-myrepublic5
 Disallow: /personal/rewards-catalog/
+Disallow: /Contact/dbs/loans/home-loan-repricing-pw/default.page
+
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

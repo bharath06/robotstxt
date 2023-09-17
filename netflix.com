@@ -158,8 +158,6 @@ Disallow: /yourAccount
 Disallow: /youraccount
 Disallow: /YourAccount
 Disallow: /YourAccountPayment
-Disallow: /loginVerification
-Disallow: /loginVerification/*
 
 User-agent: AdsBot-Google
 User-agent: Twitterbot

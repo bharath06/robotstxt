@@ -85,15 +85,12 @@ Disallow: /amp/assembly-elections-march-2022*/$
 Disallow: /assembly-elections-march-2022*/$
 Disallow: /election_framework_next/*
 Disallow: /cricketnext/amp/cricket-live-scorecard/*
-Disallow: /sustainable-is-attainable-news18-and-tata-power-initiative/*
-Disallow: /givewingstoyoursavings/*
-Disallow: /netrasuraksha/*
-Disallow: /missionswachhtapaani/*
-Disallow: /itsnotok/*
-Disallow: /swabhimanbharat/*
-Disallow: /periodofpride/*
-Disallow: /electralhydrationforhealth/*
-Disallow: /younggenius/*
+
+Allow: /cricketnext/series/icc-cricket-world-cup-2023.html
+Allow: /cricketnext/amp/series/icc-cricket-world-cup-2023.html
+Allow: /cricketnext/series/icc-cricket-world-cup-2023-warm-up.html
+Allow: /cricketnext/amp/series/icc-cricket-world-cup-2023-warm-up.html
+
 Disallow: /studio18/*
 Disallow: /amp/studio18/*
 Disallow: /tech-reviews/*
@@ -104,7 +101,28 @@ Disallow: /astrology/horoscope/todays*
 Disallow: /amp/astrology/horoscope/todays*
 Disallow: /business/cryptocurrency/trade-bitcoin/*
 
-Sitemap: https://www.news18.com/news-googlesitemap.xml
+Disallow: /sustainable-is-attainable-news18-and-tata-power-initiative/*
+Disallow: /givewingstoyoursavings/*
+Disallow: /netrasuraksha/*
+Disallow: /missionswachhtapaani/*
+Disallow: /itsnotok/*
+Disallow: /swabhimanbharat/*
+Disallow: /periodofpride/*
+Disallow: /electralhydrationforhealth/*
+Disallow: /younggenius/*
+Disallow: /fit-india-hit-india/*
+Disallow: /town-hall/*
+Disallow: /solvefortomorrow/*
+Disallow: /rising-india-summit/*
+Disallow: /sustainable-is-attainable-fest/*
+Disallow: /sustainable-is-attainable-news18-and-tata-power-initiative-2021/*
+
+Disallow: /reel-awards-2023/*
+
+Disallow: /makeadent/*
+Disallow: /rising-india-she-shakti/*
+
+Sitemap: https://www.news18.com/nodeapi/v1/eng/sitemap/google-news.xml
 
 User-agent: CCBot
 Disallow: /

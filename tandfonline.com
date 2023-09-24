@@ -39,4 +39,7 @@ User-agent: LinkedInBot
 User-agent: Twitterbot
 Allow: /
 
+User-agent: GPTBot
+Disallow: /
+
 Crawl-delay: 1

@@ -61,8 +61,6 @@ Disallow: /handler_*
 Disallow: /channel*
 Disallow: /user/*/movies/list/type/*
 Disallow: /user/*/stars/list/type/*
-Disallow: /lists/movies/coming-soon-digital
-Disallow: /comingsoon/digital
 
 User-agent: *
 Disallow: /tmp/

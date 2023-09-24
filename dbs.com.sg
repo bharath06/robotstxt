@@ -401,7 +401,8 @@ Disallow: /personal/marketplaces/listing/homeliving-broadband/homeliving-broadba
 Disallow: /personal/marketplaces/listing/homeliving-broadband/homeliving-broadband-myrepublic5
 Disallow: /personal/rewards-catalog/
 Disallow: /Contact/dbs/loans/home-loan-repricing-pw/default.page
-
+Disallow: /personal/deposits/salary-credit-back.page
+Disallow: /personal/marketplaces/landing/main-home-lv
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

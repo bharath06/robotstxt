@@ -14,3 +14,4 @@ Disallow: /desktop/login
 Disallow: /desktop/mac
 Disallow: /cms-test-page
 Disallow: /recovery
+Disallow: /translate/

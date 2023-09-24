@@ -11,6 +11,7 @@ Disallow: /apartments/*/cat-friendly
 Disallow: /apartments/*/dog-friendly
 Disallow: /apartments/*/*/pg-*
 Disallow: /apartments/*/price-*
+Disallow: /apartments/near-me*
 Disallow: /content
 Disallow: /Content
 Disallow: /content/
@@ -61,6 +62,7 @@ Disallow: /myhome/M*
 Disallow: /*?ncs=
 Disallow: /network-analysis
 Disallow: /newhomesconstruction/*
+Disallow: /newhomecommunities/near-me*
 Disallow: /news/wp-content/themes/realtor/nobots/
 Disallow: /*not_found
 Disallow: /*not-found
@@ -116,6 +118,7 @@ Disallow: /realestateandhomes-detail/*?cid=
 Disallow: /realestateandhomes-search/*/pg-*/show-recently-sold
 Disallow: /realestateandhomes-search/*/price-
 Disallow: /realestateandhomes-search/*/radius-
+Disallow: /realestateandhomes-search/near-me*
 Disallow: /realestateteam/bright-birch-real-estate__mn_1639730
 Disallow: /rentals/*?view=map*
 Disallow: /rentals/api/optimizely.js
@@ -163,6 +166,7 @@ Disallow: /apartments/*/cat-friendly
 Disallow: /apartments/*/dog-friendly
 Disallow: /apartments/*/*/pg-*
 Disallow: /apartments/*/price-*
+Disallow: /apartments/near-me*
 Disallow: /content
 Disallow: /Content
 Disallow: /content/
@@ -211,6 +215,7 @@ Disallow: /myhome/M*
 Disallow: /*?ncs=
 Disallow: /network-analysis
 Disallow: /newhomesconstruction/*
+Disallow: /newhomecommunities/near-me*
 Disallow: /news/wp-content/themes/realtor/nobots/
 Disallow: /*not_found
 Disallow: /*not-found
@@ -268,6 +273,7 @@ Disallow: /realestateandhomes-search/*?cid=soc
 Disallow: /realestateandhomes-search/*/pg-*/show-recently-sold
 Disallow: /realestateandhomes-search/*/price-
 Disallow: /realestateandhomes-search/*/radius-
+Disallow: /realestateandhomes-search/near-me*
 Disallow: /realestateteam/bright-birch-real-estate__mn_1639730
 Disallow: /rentals/*?view=map*
 Disallow: /rentals/api/optimizely.js

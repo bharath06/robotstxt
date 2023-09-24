@@ -12,6 +12,7 @@ Sitemap: https://www.cnn.com/sitemap/article/opinions.xml
 Sitemap: https://www.cnn.com/sitemap/article.xml
 Sitemap: https://www.cnn.com/sitemap/section.xml
 Sitemap: https://www.cnn.com/sitemap/video.xml
+Sitemap: https://www.cnn.com/sitemap/gallery.xml
 User-agent: GPTBot
 Disallow: /
 User-agent: *

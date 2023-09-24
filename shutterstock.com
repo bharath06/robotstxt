@@ -34,7 +34,6 @@ Disallow: /base/login
 Allow: */search/collections
 Allow: */editorial/collections
 Disallow: */collections
-Disallow: */image-generated/*
 Disallow: */generate/*
 Allow: */generate/$
 
@@ -105,6 +104,7 @@ Disallow: */music/track-* # Disallow Music ADPs
 Disallow: */image-illustration/* # Disallow Image ADPs
 Disallow: */image-photo/*
 Disallow: */image-vector/*
+Disallow: */image-generated/*
 Disallow: */video/clip-* # Disallow Video ADPs
 Allow: */search/login
 Allow: */login$
@@ -141,7 +141,6 @@ Disallow: /base/login
 Allow: */search/collections
 Allow: */editorial/collections
 Disallow: */collections
-Disallow: /image-generated/*
 Disallow: */generate/*
 Allow: */generate/$
 Disallow: */search/ris/*
@@ -191,6 +190,7 @@ Disallow: */music/track-* # Disallow Music ADPs
 Disallow: */image-illustration/* # Disallow Image ADPs
 Disallow: */image-photo/*
 Disallow: */image-vector/*
+Disallow: */image-generated/*
 Disallow: */video/clip-* # Disallow Video ADPs
 Allow: */search/login
 Allow: */login$
@@ -227,7 +227,6 @@ Disallow: /base/login
 Allow: */search/collections
 Allow: */editorial/collections
 Disallow: */collections
-Disallow: /image-generated/*
 Disallow: */generate/*
 Allow: */generate/$
 Disallow: */search/ris/*

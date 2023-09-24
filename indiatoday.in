@@ -84,3 +84,25 @@ Disallow: /topic/
 
 User-agent: CCBot
 Disallow: /
+
+Disallow: /live-score/seriesLiveList/
+Disallow: /live-score/seriesRecentList/
+Disallow: /live-score/seriesUpcomingList/
+Disallow: /live-score/venueTeamListBySeriesId/
+Disallow: /live-score/series_team_venue_filter/
+Disallow: /live-score/recent/home/widget/?theme=1&header=no
+Disallow: /live-score/upcoming/home/
+Disallow: /live-score/cricket/teams_profileApiData/*
+Disallow: /live-score/cricket/head_to_headApiData/*
+Disallow: /live-score/cricket/full_scorecardApiData/*
+Disallow: /live-score/cricket/comm/
+Disallow: /live-score/cricket/commentary/
+Disallow: /live-score/home/liveApiData/*
+Disallow: /live-score/home/players_rank/*
+Disallow: /live-score/home/teams_rank/*
+Disallow: /live-score/home/mc_standingsApiData/*
+Disallow: /live-score/home/mc_statsApiData/*
+Disallow: /live-score/fixtures/live_score_flipApiData/*
+Disallow: /live-score/fixtures/live_scoreApiData/*
+Disallow: /live-score/fixtures/widget/fixtures_swapper/*
+Disallow: /live-score/cricket/auction_ajax/

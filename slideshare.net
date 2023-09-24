@@ -31,7 +31,6 @@ Disallow: /nextjs/
 Disallow: */favorites_list/*
 Disallow: */stats?id=*
 Disallow: /ab_tests
-Disallow: /mobile/*
 Disallow: /frontend-track/
 Disallow: /fullscreen/ReportLinker/
 Disallow: /private/

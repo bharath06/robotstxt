@@ -12,10 +12,16 @@
 # dynamically-generated pages please. Article pages contain our site's
 # real content.
 
+User-agent: anthropic-ai
+Disallow: /
+
 User-agent: archive.org
 Disallow: /api.php
 Disallow: /index.php
 Disallow: /Special:
+
+User-agent: CCBot
+Disallow: /
 
 User-agent: DOC
 Disallow: /

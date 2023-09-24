@@ -52,6 +52,9 @@ Allow: /en/news/thp
 User-agent: GPTBot
 Disallow: /
 
+User-agent: CCBot
+Disallow: /
+
 Sitemap: https://www.bloomberg.com/sitemap.xml
 Sitemap: https://www.bloomberg.com/feeds/sitemap_news.xml
 Sitemap: https://www.bloomberg.com/feeds/bbiz/sitemap_index.xml

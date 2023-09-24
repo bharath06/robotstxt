@@ -14,8 +14,7 @@ Disallow: /commercial-preview/
 Disallow: /ajax/
 Disallow: */search
 Disallow: */preview/
-Disallow: /companies/amp/ogrn/11*
-Disallow: /companies/amp/ogrn/10*
+Disallow: /companies/
 
 User-agent: GoogleBot
 Disallow: /*?q=
@@ -32,8 +31,7 @@ Disallow: /commercial-preview/
 Disallow: /ajax/
 Disallow: */search
 Disallow: */preview/
-Disallow: /companies/amp/ogrn/11*
-Disallow: /companies/amp/ogrn/10*
+Disallow: /companies/
 
 User-agent: Yandex
 Disallow: /*?q=
@@ -51,8 +49,7 @@ Disallow: /commercial-preview/
 Disallow: /ajax/
 Disallow: */search
 Disallow: */preview/
-Disallow: /companies/amp/ogrn/11*
-Disallow: /companies/amp/ogrn/10*
+Disallow: /companies/
 Clean-param: from *
 Clean-param: utm_source *
 Clean-param: google_editors_picks *

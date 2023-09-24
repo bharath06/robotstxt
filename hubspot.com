@@ -349,3 +349,4 @@ Disallow: *?cos=
 Disallow: /this-is-a-test
 Disallow: /_hcms/preview/
 Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/

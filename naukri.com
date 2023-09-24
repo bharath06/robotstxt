@@ -6,6 +6,10 @@
 # Edited : Apr 25, 2023 (Block ChatGPT)
 # Edited : May 15, 2023 (Add webstories sitemap)
 # Edited : Jun 7, 2023 (Added 3 recruiter url's)
+# Edited : Sept 22, 2023 (Block GPTBot)
+
+User-agent: GPTBot
+Disallow: /
 
 User-agent: ChatGPT-User
 Disallow: /

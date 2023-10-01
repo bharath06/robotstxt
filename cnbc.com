@@ -24,7 +24,7 @@ Disallow: /preview/
 Disallow: /undefined/
 Disallow: /proplayer
 Disallow: /appchart/*
-Disallow: /search/
+Disallow: /search/*
 
 User-agent: GPTBot
 Disallow: /
@@ -34,4 +34,4 @@ Disallow: /preview/
 Disallow: /undefined/
 Disallow: /proplayer
 Disallow: /appchart/*
-Disallow: /search/
+Disallow: /search/*

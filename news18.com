@@ -122,7 +122,7 @@ Disallow: /reel-awards-2023/*
 Disallow: /makeadent/*
 Disallow: /rising-india-she-shakti/*
 
-Sitemap: https://www.news18.com/nodeapi/v1/eng/sitemap/google-news.xml
+Sitemap: https://www.news18.com/commonfeeds/v1/eng/sitemap/google-news.xml
 
 User-agent: CCBot
 Disallow: /

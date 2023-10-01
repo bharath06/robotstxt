@@ -8,6 +8,7 @@ Disallow: *globeResource
 Disallow: *?kw
 Disallow: /embed?
 Disallow: /shop/
+Disallow: /authentication/
 
 User-agent: Pinterest
 Disallow:

@@ -38,6 +38,7 @@ Disallow: /phenom/
 
 
 Sitemap: https://www.qualtrics.com/hreflang.xml
+Sitemap: https://www.qualtrics.com/support/hreflang.xml
 Sitemap: https://www.qualtrics.com/uk/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/support/sitemap_index.xml 

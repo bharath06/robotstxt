@@ -14,6 +14,7 @@ Disallow: /eventos/marcador/futbol/2011_12/*
 Disallow: /encuentros/roberto-palomar/2016/03/29/*
 Disallow: /2012/11/03/en/football/spanish_football/1351965522.html
 Disallow: /2012/11/03/futbol/1adivision/1351945508.html
+Disallow: /albumes/2015/03/03/nba_malditos_muertos/*
 Disallow: /rss/google/portada_google_news.xml
 Disallow: /sitemaps/noticia_mx_historico*
 Disallow: /sitemaps/video_mx_historico*

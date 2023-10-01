@@ -28,9 +28,6 @@ Disallow: /
 User-Agent: GPTBot
 Disallow: /
 
-User-Agent: *
-Disallow: /community/search*
-
 Sitemap: https://www.figma.com/sitemap.xml
 Sitemap: https://www.figma.com/sitemaps/figma-community-index.xml
 Sitemap: https://help.figma.com/hc/sitemap.xml

@@ -116,6 +116,15 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
 User-agent: ia_archiver
 Disallow: /
 
@@ -126,5 +135,7 @@ User-Agent: omgilibot
 Disallow: /
 
 User-agent: MJ12bot
+Disallow: /
 
 User-agent: PiplBot
+Disallow: /

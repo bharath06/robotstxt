@@ -9,6 +9,7 @@ Disallow: /adtest/
 Disallow: /partner/uc_browser/
 Disallow: /apollo_admin/
 Disallow: /apollo_global_admin/
+Disallow: /search/
 
 User-agent: grapeshot
 Disallow:

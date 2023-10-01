@@ -22,6 +22,9 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
 Allow: /
 Sitemap: https://www.detik.com/sitemap.xml

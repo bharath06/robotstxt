@@ -151,7 +151,6 @@ Disallow: /tekrar-al
 Disallow: /topla-kazan
 Disallow: /topla-kazan-kuponlari
 Disallow: /tum--urunler
-Disallow: /ar/*
 Allow: /*gads=true
 # DE rules
 Disallow: /de/account
@@ -181,6 +180,21 @@ Disallow: /en/get/api/search/slicing-attributes/*
 Disallow: /en/get/api/popup/*
 Disallow: /en/get/api/review/*
 Allow: /en/*gads=true
+# AR rules
+Disallow: /ar/account
+Disallow: /ar/login
+Disallow: /ar/register
+Disallow: /ar/change-password
+Disallow: /ar/cart
+Disallow: /ar/*-p-*/product-features
+Disallow: /ar/sr?
+Disallow: /ar/sr/
+Disallow: /ar/sr$
+Disallow: /ar/get/api/search/slicing-attributes/*
+Disallow: /ar/get/api/popup/*
+Disallow: /ar/get/api/review/*
+Allow: /ar/*gads=true
+
 # UA rules
 User-agent: Googlebot-Image
 User-agent: AdsBot-Google-Mobile
@@ -189,7 +203,12 @@ Disallow:
 User-agent: ia_archiver
 Disallow: /de/
 Disallow: /en/
+Disallow: /ar/
+
+
 
 Sitemap: https://www.trendyol.com/sitemap
+
+
 
 

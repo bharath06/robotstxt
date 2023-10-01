@@ -5,7 +5,6 @@ Allow: /blog/etalase
 Allow: /blog/note
 Allow: /blog/review
 Allow: /find/*?page
-Allow: /find/*/c/*?page
 Allow: /tokopoints/intro/
 Disallow: */tokopedia-lite-production/
 Disallow: /*.pl
@@ -35,6 +34,7 @@ Disallow: /find/*?shipping=*
 Disallow: /find/*/c/*?{*
 Disallow: /find/*/c/*?goldmerchant=true
 Disallow: /find/*/c/*?official=true
+Disallow: /find/*/c/*?page
 Disallow: /find/*/c/*?shipping=*
 Disallow: /flight/search/*
 Disallow: /gopay

@@ -27,6 +27,7 @@ Disallow: /en/news/thp
 Disallow: /subscriptions/group/manage/
 Disallow: /preview/lineup
 Disallow: /preview/articles
+Disallow: /explore/
 
 User-agent: Mediapartners-Google
 Disallow: /about/careers

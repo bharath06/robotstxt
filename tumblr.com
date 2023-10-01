@@ -108,10 +108,14 @@ Crawl-delay: 1
 User-agent: GPTBot
 Disallow: /
 
-# Common Crawl's cralwer
+# Common Crawl's crawler
 User-agent: CCBot
 Disallow: /
 
-# SentiBot's cralwer
+# SentiBot's crawler
 User-agent: sentibot
+Disallow: /
+
+# Google Bard's crawler
+User-agent: Google-Extended
 Disallow: /

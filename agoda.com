@@ -1,16 +1,12 @@
-#	   (                 (          
-#	   )\    (  (        )\ )    )  
-#	((((_)(  )\))(  (   (()/( ( /(  
-#	 )\ _ )\((_))\  )\   ((_)))(_)) 
-#	 (_)_\(_)(()(_)((_)  _| |((_)_  
-#	  / _ \ / _` |/ _ \/ _` |/ _` | 
-#	 /_/ \_\\__, |\___/\__,_|\__,_| 
-#	        |___/      
-#
-#
-# If you like bots this much, then why not help us rank for all the things. Email seoPros@agoda.com
-# V1_4
-#
+#	   (                 (
+#	   )\    (  (        )\ )    )
+#	((((_)(  )\))(  (   (()/( ( /(
+#	 )\ _ )\((_))\  )\   ((_)))(_))
+#	 (_)_\(_)(()(_)((_)  _| |((_)_
+#	  / _ \ / _` |/ _ \/ _` |/ _` |
+#	 /_/ \_\\__, |\___/\__,_|\__,_|
+#	        |___/
+
 User-agent: *
 Disallow: /*/hotel/all/
 Disallow: /account/
@@ -22,7 +18,8 @@ Disallow: /thankyou/
 Disallow: /flights/results
 Disallow: /*/flights/results
 Disallow: /activities/detail
-
+Disallow: /transfers
+Disallow: /transfers/search
 
 User-agent: Googlebot
 Disallow: /*/hotel/all/

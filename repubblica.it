@@ -3,8 +3,6 @@ Allow: 		/
 Disallow: 		/ultimora/24ore/nazionale/news-dettaglio/3688417 
 Disallow: 		/ultimora/24ore/AUTO-IN-CAMBIO-DI-DROGA-13-ARRESTI-DELLA-POLIZIA-DI-PESCARA-(2)/news-dettaglio/3746479 
 Disallow: 		/ssnclude/canalrep/economia/rep_24ore_3685023.html 
-Disallow: 		/speciali/arte/gallerie/2014/11/26/foto/spazzatura_al_posto_dei_pennelli_la_street_art_di_bordalo_ii-101466239/ 
-Disallow: 		/scienze/2021/03/16/news/il_robot_sophia_diventa_artista_ecco_le_opere_che_presto_andranno_all_asta-300855027/ 
 Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il_posto_e_costera_all_erario_mezzo_milione_di_euro[1]156371739/ 
 Disallow: 		/online/cronaca/veronaecstasy/bologna/bologna.html 
 Disallow: 		/online/ 
@@ -20,6 +18,7 @@ Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
 Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
+Disallow: 		/cronaca/2023/09/29/news/serenis_repubblica_promozione_abbonati-416179220/ 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 

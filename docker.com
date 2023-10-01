@@ -7,6 +7,7 @@ Disallow: /company/contact-thank-you/
 Disallow: /thank-you-subscribing-docker-weekly/
 Disallow: /pricing/contact-sales2/
 Disallow: /cdn-cgi/
+Disallow: /static/
 Disallow: /products/telepresence-for-docker/thank-you/
 
 

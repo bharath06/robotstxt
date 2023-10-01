@@ -13,7 +13,7 @@ Allow: /
 Disallow: /*/health/search/filter
 
 User-agent: ias_crawler
-Crawl-delay: 1
+Crawl-delay: 0.75
 
 Sitemap: https://www.msn.com/sitemaps/health/health-sitemap-index.xml
 Sitemap: https://www.msn.com/sitemaps/shopping/shopping-sitemap-index.xml

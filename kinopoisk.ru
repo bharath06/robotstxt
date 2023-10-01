@@ -47,6 +47,11 @@ Clean-param: only
 Clean-param: sso
 Clean-param: link
 Clean-param: is
+Clean-param: onlyPlayer
+Clean-param: from_src	
+Clean-param: share
+Clean-param: __ref	
+Clean-param: 2x
 Disallow: /tmp/
 Disallow: /s/
 Disallow: /query/

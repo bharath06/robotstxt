@@ -1,3 +1,11 @@
 User-agent: *
 Allow: /
 Disallow: /search/*
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://www.kontan.co.id/sitemap.xml

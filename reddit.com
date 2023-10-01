@@ -58,6 +58,9 @@ Disallow: /timings/perf
 Disallow: /counters/client-screenview
 Disallow: /*?*feed=
 Disallow: /svc/shreddit/*
+Disallow: /svc/sh/*
+Disallow: /svc/web/*
+Disallow: /graphql
 Disallow: /errors$
 Disallow: /live/*
 Disallow: /mediaembed/*

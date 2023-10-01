@@ -28,6 +28,12 @@ Disallow: /
 User-agent: DataForSeoBot
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
 User-agent: *
 Allow: *.css
 Allow: *.js

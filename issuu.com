@@ -1,6 +1,42 @@
 
 
+User-agent: CheckLinks
+Disallow: /
+User-agent: FindLinks
+Disallow: /
+User-agent: getlinkinfo.com
+Disallow: /
+User-agent: linkCheck
+Disallow: /
+User-agent: LinkWalker
+Disallow: /
+User-agent: MBCrawler
+Disallow: /
+User-agent: OpenWebSpider
+Disallow: /
 User-agent: PetalBot
+Disallow: /
+User-agent: RankFlex
+Disallow: /
+User-agent: Rogerbot
+Disallow: /
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+User-agent: SearchmetricsBot
+Disallow: /
+User-agent: SemrushBot-BA
+Disallow: /
+User-agent: SeobilityBot
+Disallow: /
+User-agent: SeoSiteCheckup
+Disallow: /
+User-agent: SEOdiver Bot
+Disallow: /
+User-agent: SEOkicks-Robot
+Disallow: /
+User-agent: SEOstats
+Disallow: /
+User-agent: www.deadlinkchecker.com
 Disallow: /
 
 User-agent: *

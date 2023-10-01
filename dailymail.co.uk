@@ -1,4 +1,4 @@
-# Robots.txt for https://www.dailymail.co.uk/ updated 09/05/2023
+# Robots.txt for https://www.dailymail.co.uk/ updated 26/09/2023
 #
 #
 # All Robots
@@ -34,6 +34,10 @@ Disallow:
 #
 User-agent: CrystalSemanticsBot
 Disallow: /
+#
+User-agent: GPTBot
+Disallow: /
+#
 #
 # Sitemap Files
 Sitemap: https://www.dailymail.co.uk/google-news-sitemap.xml

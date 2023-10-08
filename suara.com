@@ -1,8 +1,21 @@
-User-agent: *
-Allow: /
+User-agent: Googlebot
 Disallow: /demo/
 Disallow: /scroll/
 Disallow: /pollvote/
 Disallow: /data/
+Disallow: /search$
+Disallow: /search?*
+Disallow: /search/
+Disallow: ?jxrecoid=*
+User-agent: *
+Allow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: OpenAI
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-Agent: GPTBot
+Disallow: /
 
 Sitemap: https://www.suara.com/static/sitemap.xml

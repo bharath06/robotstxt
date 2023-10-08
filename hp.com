@@ -69,6 +69,7 @@ Disallow: /us-en/shop/userregistrationform
 Disallow: /us-en/shop/userregistrationadd
 Disallow: /webapp/wcs/stores/servlet/OrderStatusFinalResultView
 Disallow: /us-en/shop/OrderStatusFinalResultView?*
+Disallow: /*jumpid
 
 User-agent: AdsBot-Google
 Allow: /

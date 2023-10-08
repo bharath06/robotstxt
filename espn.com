@@ -4,7 +4,10 @@ User-agent: claritybot
 Disallow: /
 
 User-agent: GPTBot
-Disallow: / 
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /  
 
 User-agent: *
 Disallow: */admin/
@@ -39,7 +42,6 @@ Disallow: */season/200
 Disallow: */split/
 Disallow: */start/
 Disallow: */swf/
-Disallow: */type/
 Disallow: */util/
 Disallow: */webslices/
 Disallow: */year/200

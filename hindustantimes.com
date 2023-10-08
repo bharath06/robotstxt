@@ -86,6 +86,9 @@ Disallow: /homenew
 User-agent: GPTBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 Sitemap: https://www.hindustantimes.com/sitemap/section.xml
 Sitemap: https://www.hindustantimes.com/sitemap/news.xml
 Sitemap: https://www.hindustantimes.com/sitemap/index.xml

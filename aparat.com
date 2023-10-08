@@ -6,7 +6,6 @@ Disallow: *bufferlength=*
 Disallow: *ei=*
 Disallow: *goto=*
 Disallow: *id=*
-Disallow: *list=*
 Disallow: *oi=*
 Disallow: *p=*
 Disallow: *page=*

@@ -53,6 +53,7 @@ Sitemap: https://www.booking.com/sitembk-fraud-index.xml
 Sitemap: https://www.booking.com/sitembk-hotel-index.xml
 Sitemap: https://www.booking.com/sitembk-hotel-review-index.xml
 Sitemap: https://www.booking.com/sitembk-landmark-index.xml
+Sitemap: https://www.booking.com/sitembk-mixed-routes-city-to-country-index.xml
 Sitemap: https://www.booking.com/sitembk-newly-opened-index.xml
 Sitemap: https://www.booking.com/sitembk-region-index.xml
 Sitemap: https://www.booking.com/sitembk-region-review-index.xml

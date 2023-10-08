@@ -178,6 +178,7 @@ Disallow: /*promoid=
 Disallow: /*trackingid=
 
 # XML sitemaps
+Sitemap: https://www.adobe.com/homepage/sitemap.xml
 Sitemap: https://www.adobe.com/gen-ai-sitemap.xml
 Sitemap: https://www.adobe.com/cc.sitemap-index.xml
 Sitemap: https://www.adobe.com/cc-creativecloud.index.xml
@@ -187,9 +188,6 @@ Sitemap: https://www.adobe.com/dc.index.xml
 Sitemap: https://www.adobe.com/dc.milo.sitemap-index.xml
 Sitemap: https://www.adobe.com/ppbu-product-sitemap.xml
 Sitemap: https://www.adobe.com/acom-temp.xml
-
-# FEDS Publishing Platform
-Sitemap: https://www.adobe.com/hub/sitemap.xml
 
 # CC Express 
 Sitemap: https://www.adobe.com/express/sitemap-index.xml

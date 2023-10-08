@@ -19,6 +19,8 @@ Disallow: /static/
 Disallow: /1/
 Disallow: /c/
 Disallow: /b/
+Disallow: /u/
+Disallow: /w/
 Allow: /
 
 Sitemap: https://trello.com/sitemap-index.xml.gz

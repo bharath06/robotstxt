@@ -50,6 +50,9 @@ Disallow: */email/newsletter/*
 Disallow: */email/member/*
 Disallow: */email/editor/*
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.cnet.com/sitemaps/article/index.xml
 Sitemap: https://www.cnet.com/sitemaps/best/index.xml
 Sitemap: https://www.cnet.com/sitemaps/gallery/index.xml

@@ -54,5 +54,10 @@ Disallow: /vorprod/
 Disallow: /test_stage/
 Disallow: /test/
 
+# OpenAI ChatGPT
 User-agent: GPTBot
+Disallow: /
+
+# Google Bard
+User-agent: Google-Extended
 Disallow: /

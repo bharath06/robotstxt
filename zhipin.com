@@ -36,3 +36,4 @@ Disallow: /web/geek/recommend*
 Disallow: /*?medium=*
 Disallow: /*?ref=*
 Disallow: /*?frozen=*
+Disallow: /web/geek/job-recommend*

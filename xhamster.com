@@ -93,6 +93,8 @@ disallow: /webcams/
 disallow: /tracking?
 disallow: *?x_platform_switch=*
 disallow: /xembed.php
+disallow: /top/*
+disallow: /*/top/*
 
 User-agent: ia_archiver
 Disallow: /

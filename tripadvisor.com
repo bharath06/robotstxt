@@ -109,7 +109,6 @@ Disallow: /BillingDetail
 Disallow: /BillingInvoiceFile
 Disallow: /BLImpRecord
 Disallow: /blog/wp-admin/
-Disallow: /BlogPageSubmit
 Disallow: /BlPromoOptOut
 Disallow: /BookingConfirmation
 Disallow: /BookingRequest
@@ -158,12 +157,8 @@ Disallow: /CountryAjax
 Disallow: /CruisesCommerce
 Disallow: /CruisesPartnerHandoff
 Disallow: /CurationTool
-Disallow: /DangDangFirstPopup
-Disallow: /DaoDaoEtpassFirstPopup
 Disallow: /DaoDaoHomePageGeoHotelsTab
 Disallow: /DaoDaoPriceQuoteAjax
-Disallow: /DaoDaoReviewTeaserFirstPopup
-Disallow: /DaoDaoStaticVelocityPage
 Disallow: /Dashboard
 Disallow: /data
 Disallow: /DelayedLoad
@@ -266,8 +261,6 @@ Disallow: /IBCommerce
 Disallow: /ImpressionRecord
 Disallow: /ImproveListing
 Disallow: /Inbox
-Disallow: /IndiaPlazaFirstPopup
-Disallow: /IndiaTimesFirstPopup
 Disallow: /InfoCenter
 Disallow: /InitializeSession
 Disallow: /InlineReviewerCta
@@ -383,7 +376,6 @@ Disallow: /MediaKit
 Disallow: /MediaVoting
 Disallow: /MemberAuditLogger
 Disallow: /MemberBenefitsPopup
-Disallow: /MemberContributionController
 Disallow: /MemberOverlay
 Disallow: /MemberPassportStamps
 Disallow: /MemberPhotos
@@ -455,7 +447,6 @@ Disallow: /MobileFlights
 Disallow: /MobileFlyingBlue
 Disallow: /MobileFooter
 Disallow: /MobileForgotPassword
-Disallow: /MobileForumHome
 Disallow: /MobileForumRedirect
 Disallow: /MobileForumSetSortCookie
 Disallow: /MobileGarudaMiles
@@ -538,7 +529,6 @@ Disallow: /MobileRoadTrip
 Disallow: /MobileS7Priority
 Disallow: /MobileSaves
 Disallow: /MobileSearch
-Disallow: /MobileShoppingCart
 Disallow: /MobileShoppingCoupon
 Disallow: /MobileShowForum
 Disallow: /MobileShowSpecialOffer
@@ -610,6 +600,7 @@ Disallow: /OwnersDM
 Disallow: /OwnersTermsAndConditions
 Disallow: /OwnerSupport
 Disallow: /OwnerVerifyLocation
+Disallow: /PacMan
 Disallow: /PageMoniker
 Disallow: /pages/rss_terms.html
 Disallow: /PageviewRecord
@@ -762,7 +753,6 @@ Disallow: /ShowUrl
 Disallow: /ShowUserReviews_Cruises_Responsive
 Disallow: /ShowUserReviewsAirlines
 Disallow: /ShowUserReviewsAttractions
-Disallow: /ShowUserReviewsByRatings
 Disallow: /ShowUserReviewsCruises
 Disallow: /ShowUserReviewsGEO
 Disallow: /ShowUserReviewsHAC
@@ -893,8 +883,6 @@ Disallow: /WatermarkPhoto
 Disallow: /WeatherAjax
 Disallow: /WeatherUnderground
 Disallow: /weimg
-Disallow: /WelboxCampaign
-Disallow: /WelboxRegistration
 Disallow: /WhatsNearby
 Disallow: /WidgetBrowserExtension
 Disallow: /WidgetEmbed
@@ -989,7 +977,6 @@ Disallow: /BillingDetail
 Disallow: /BillingInvoiceFile
 Disallow: /BLImpRecord
 Disallow: /blog/wp-admin/
-Disallow: /BlogPageSubmit
 Disallow: /BlPromoOptOut
 Disallow: /BookingConfirmation
 Disallow: /BookingRequest
@@ -1038,12 +1025,8 @@ Disallow: /CountryAjax
 Disallow: /CruisesCommerce
 Disallow: /CruisesPartnerHandoff
 Disallow: /CurationTool
-Disallow: /DangDangFirstPopup
-Disallow: /DaoDaoEtpassFirstPopup
 Disallow: /DaoDaoHomePageGeoHotelsTab
 Disallow: /DaoDaoPriceQuoteAjax
-Disallow: /DaoDaoReviewTeaserFirstPopup
-Disallow: /DaoDaoStaticVelocityPage
 Disallow: /Dashboard
 Disallow: /data
 Disallow: /DelayedLoad
@@ -1146,8 +1129,6 @@ Disallow: /IBCommerce
 Disallow: /ImpressionRecord
 Disallow: /ImproveListing
 Disallow: /Inbox
-Disallow: /IndiaPlazaFirstPopup
-Disallow: /IndiaTimesFirstPopup
 Disallow: /InfoCenter
 Disallow: /InitializeSession
 Disallow: /InlineReviewerCta
@@ -1264,7 +1245,6 @@ Disallow: /MediaKit
 Disallow: /MediaVoting
 Disallow: /MemberAuditLogger
 Disallow: /MemberBenefitsPopup
-Disallow: /MemberContributionController
 Disallow: /MemberOverlay
 Disallow: /MemberPassportStamps
 Disallow: /MemberPhotos
@@ -1336,7 +1316,6 @@ Disallow: /MobileFlights
 Disallow: /MobileFlyingBlue
 Disallow: /MobileFooter
 Disallow: /MobileForgotPassword
-Disallow: /MobileForumHome
 Disallow: /MobileForumRedirect
 Disallow: /MobileForumSetSortCookie
 Disallow: /MobileGarudaMiles
@@ -1419,7 +1398,6 @@ Disallow: /MobileRoadTrip
 Disallow: /MobileS7Priority
 Disallow: /MobileSaves
 Disallow: /MobileSearch
-Disallow: /MobileShoppingCart
 Disallow: /MobileShoppingCoupon
 Disallow: /MobileShowForum
 Disallow: /MobileShowSpecialOffer
@@ -1491,6 +1469,7 @@ Disallow: /OwnersDM
 Disallow: /OwnersTermsAndConditions
 Disallow: /OwnerSupport
 Disallow: /OwnerVerifyLocation
+Disallow: /PacMan
 Disallow: /PageMoniker
 Disallow: /pages/rss_terms.html
 Disallow: /PageviewRecord
@@ -1643,7 +1622,6 @@ Disallow: /ShowUrl
 Disallow: /ShowUserReviews_Cruises_Responsive
 Disallow: /ShowUserReviewsAirlines
 Disallow: /ShowUserReviewsAttractions
-Disallow: /ShowUserReviewsByRatings
 Disallow: /ShowUserReviewsCruises
 Disallow: /ShowUserReviewsGEO
 Disallow: /ShowUserReviewsHAC
@@ -1774,8 +1752,6 @@ Disallow: /WatermarkPhoto
 Disallow: /WeatherAjax
 Disallow: /WeatherUnderground
 Disallow: /weimg
-Disallow: /WelboxCampaign
-Disallow: /WelboxRegistration
 Disallow: /WhatsNearby
 Disallow: /WidgetBrowserExtension
 Disallow: /WidgetEmbed

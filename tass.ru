@@ -6,6 +6,7 @@ Disallow: /search
 Disallow: /preview/
 Disallow: /n/
 Disallow: /api
+Disallow: /video/
 
 User-agent: YandexBot
 Disallow: /search

@@ -1,6 +1,6 @@
 # Comcast 
 # robots.txt for https://www.xfinity.com 
-# Updated on 02/18/22 by CC SC8
+# Updated on 8/23/22 by GS
 
 User-agent: *
 Disallow: /lp/
@@ -13,6 +13,7 @@ Disallow: /support/preview/
 Disallow: /xcm/
 Disallow: /buy/
 Disallow: /Checkout/
+Disallow: /learn/tenant/*
 
 sitemap: https://www.xfinity.com/sitemap.xml
 sitemap: https://www.xfinity.com/sitemap-local.xml

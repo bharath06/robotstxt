@@ -15,6 +15,9 @@ Disallow: /sponsored
 User-agent: GPTBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: *
 Disallow: /admin
 Disallow: /newfanshot

@@ -87,6 +87,44 @@ Disallow: /*&gt;
 Disallow: /?attachment_id=
 Disallow: /affiliate/
 Disallow: /ai_log/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-Agent: omgili
+Disallow: /
+
+User-Agent: omgilibot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: *
 Disallow: /new-york-post-instagram-feed/
 Disallow: /new-york-post-tiktok-feed/
 Disallow: /alexa-new-york-post-instagram-feed/

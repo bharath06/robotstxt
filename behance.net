@@ -3,3 +3,4 @@ Sitemap: https://www.behance.net/sitemap
 User-agent: *
 Disallow: /v2/
 Disallow: /v3/
+Disallow: /log$

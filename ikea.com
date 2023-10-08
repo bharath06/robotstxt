@@ -108,8 +108,7 @@ Disallow: */electricity-app/
 Disallow: */watch-fragments/*
 Disallow: */monthlyfragments/*
 Disallow: */gcbalance/*
+Disallow: */home-design/share/*
 Allow: */ces/web/modules/*.css
 
-Clean-param: tag_id&token&storeID&state&locale&id&return_url&lang&uiPlatform&range&itm_campaign
-Clean-param: tduid&ikeacookiekokpopup&type&orderId&sub1&etext
 Sitemap: https://www.ikea.com/sitemaps/sitemap.xml

@@ -22,6 +22,15 @@ Disallow: /
 User-agent: Sogou web spider/3.0
 Disallow: /
 
+User-agent: GPTBot 
+Disallow: / 
+ 
+User-agent: ChatGPT-User 
+Disallow: / 
+ 
+User-agent: Google-Extended 
+Disallow: / 
+
 User-agent: *
 Disallow: /connect/archive
 Disallow: /about/press-releases/archive

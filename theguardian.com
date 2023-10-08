@@ -64,3 +64,12 @@ Disallow: /
 
 User-agent: CCBot
 Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: MoodleBot
+Disallow: /

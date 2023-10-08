@@ -119,3 +119,19 @@ Disallow: /
 # Google Bard's crawler
 User-agent: Google-Extended
 Disallow: /
+
+# Facebook's crawler
+User-agent: FacebookBot
+Disallow: /
+
+# webz.io's crawler
+User-agent: omgili
+Disallow: /
+
+# webz.io's crawler
+User-agent: omgilibot
+Disallow: /
+
+# Amazon's crawler
+User-agent: Amazonbot
+Disallow: /

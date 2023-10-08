@@ -12,6 +12,9 @@ Disallow: /
 User-agent: Claude-Web
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: *
 Disallow: /finance/stocks/option
 Disallow: /finance/stocks/financialHighlights

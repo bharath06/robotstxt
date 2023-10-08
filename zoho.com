@@ -266,10 +266,12 @@ Disallow: /procurement/
 Disallow: /datagrid/
 Disallow: /cmstest/
 Disallow: /creativetest/
-Disallow: /hi-in/
+Disallow: /hi-in/index1.html
 Disallow: /sites/zweb/images/workplace/pdf/saas-affiliate-marketing.pdf
 Disallow: /sites/zweb/images/workplace/pdf/affiliate-marketing-guide.pdf
 Disallow: /fr-ca/
+Disallow: /workplace/nic/
+Disallow: /campfire/
 
 
 

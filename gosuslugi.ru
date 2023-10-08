@@ -91,6 +91,7 @@ Allow: /invalidam
 Allow: /zhalobacontract
 Allow: /mp_dom
 Allow: /europrotokol
+Allow: /job
 Disallow: *?*oid_*
 
 User-agent: GoogleBot
@@ -212,6 +213,7 @@ Allow: /invalidam
 Allow: /zhalobacontract
 Allow: /mp_dom
 Allow: /europrotokol
+Allow: /job
 Disallow: *?*oid_*
 
 User-agent: *
@@ -333,6 +335,7 @@ Allow: /invalidam
 Allow: /zhalobacontract
 Allow: /mp_dom
 Allow: /europrotokol
+Allow: /job
 Disallow: *?*oid_*
 
 Clean-param: utm_campaign&utm_source&utm_term&utm_medium&utm_startpage&utm_orderpage&utm_referer&utm_content

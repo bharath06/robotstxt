@@ -5,6 +5,7 @@ Disallow: /events*
 Disallow: /esp*
 Disallow: /agecheck*
 Disallow: /studio/*
+Disallow: /login/
 Disallow: /logout
 Disallow: /click/
 Disallow: /change/

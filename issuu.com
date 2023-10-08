@@ -1,10 +1,36 @@
 
 
+User-agent: AddSearchBot
+Disallow: /
+User-agent: AwarioBot
+Disallow: /
+User-agent: AwarioRssBot
+Disallow: /
+User-agent: AwarioSmartBot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: BomboraBot
+Disallow: /
 User-agent: CheckLinks
+Disallow: /
+User-agent: Clickagy Intelligence Bot
+Disallow: /
+User-agent: cocolyzebot
+Disallow: /
+User-agent: DataForSeoBot
+Disallow: /
+User-agent: DomainStatsBot
+Disallow: /
+User-agent: DotBot
 Disallow: /
 User-agent: FindLinks
 Disallow: /
 User-agent: getlinkinfo.com
+Disallow: /
+User-agent: harsilbot
+Disallow: /
+User-agent: HubSpot Crawler
 Disallow: /
 User-agent: linkCheck
 Disallow: /
@@ -12,9 +38,21 @@ User-agent: LinkWalker
 Disallow: /
 User-agent: MBCrawler
 Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Morningscore Bot
+Disallow: /
+User-agent: nooze-bot
+Disallow: /
+User-agent: OpenindexSpider
+Disallow: /
 User-agent: OpenWebSpider
 Disallow: /
 User-agent: PetalBot
+Disallow: /
+User-agent: Qwantify
+Disallow: /
+User-agent: Qwantify-prod
 Disallow: /
 User-agent: RankFlex
 Disallow: /
@@ -24,7 +62,15 @@ User-agent: Screaming Frog SEO Spider
 Disallow: /
 User-agent: SearchmetricsBot
 Disallow: /
+User-agent: SeekportBot
+Disallow: /
+User-agent: SeekrBot
+Disallow: /
 User-agent: SemrushBot-BA
+Disallow: /
+User-agent: SemrushBot-OCOB
+Disallow: /
+User-agent: SEO-Checker-bot
 Disallow: /
 User-agent: SeobilityBot
 Disallow: /
@@ -36,7 +82,15 @@ User-agent: SEOkicks-Robot
 Disallow: /
 User-agent: SEOstats
 Disallow: /
+User-agent: SiteAuditBot
+Disallow: /
+User-agent: trendictionbot
+Disallow: /
+User-agent: webgains-bot
+Disallow: /
 User-agent: www.deadlinkchecker.com
+Disallow: /
+User-agent: YaK
 Disallow: /
 
 User-agent: *

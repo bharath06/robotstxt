@@ -23,6 +23,42 @@ Disallow: /
 User-agent: Baiduspider
 Disallow: /
 
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Yeti
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: sentibot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: SirdataBot
+Disallow: /
+
+User-agent: LCC
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
 Sitemap: https://www.spiegel.de/sitemaps/news-de.xml
 Sitemap: https://www.spiegel.de/sitemaps/videos/sitemap.xml
 Sitemap: https://www.spiegel.de/plus/sitemap.xml

@@ -1,6 +1,6 @@
 User-Agent: *
 
-Sitemap: https://unsplash.com/sitemaps/sitemap.xml
+Sitemap: https://sitemaps.unsplash.com/sitemaps/sitemap.xml
 
 Allow: /blog
 
@@ -21,6 +21,14 @@ Allow: /ko/backgrounds
 Allow: /pt-br/backgrounds
 
 Disallow: /photos/*/download
+
+Disallow: /ngetty
+
+Disallow: /napi
+
+Disallow: /nmetrics
+
+Disallow: /nautocomplete
 
 Disallow: /de/@*
 Disallow: /de/account

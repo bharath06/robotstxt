@@ -4,12 +4,10 @@ Disallow: /try
 Disallow: /settings
 Disallow: /extension
 Disallow: /native
-Disallow: /app
 Disallow: /api-access
 Disallow: /cdn-cgi/
 Disallow: /abtest
 Disallow: /privacy/old
 Disallow: /desktop/login
-Disallow: /app/mac
 Disallow: /cms-test-page
 Disallow: /recovery

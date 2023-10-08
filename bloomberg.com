@@ -56,6 +56,9 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 Sitemap: https://www.bloomberg.com/sitemap.xml
 Sitemap: https://www.bloomberg.com/feeds/sitemap_news.xml
 Sitemap: https://www.bloomberg.com/feeds/bbiz/sitemap_index.xml

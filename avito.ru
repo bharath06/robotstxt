@@ -59,6 +59,7 @@ Disallow: /ukraina_*/
 Disallow: /*/ukraina_*/
 Disallow: /unsubscribe/
 Disallow: /*/vakansii/catalog/
+Disallow: /yclients-integrate-landing
 Sitemap: https://www.avito.ru/sitemap/index.xml
 Clean-param: cd
 Clean-param: regnumber
@@ -125,6 +126,7 @@ Disallow: /*regnumber=
 Disallow: /*avito_campaign_id=
 Disallow: /*reviewsPage=
 Disallow: /*/vakansii/catalog/
+Disallow: /yclients-integrate-landing
 Sitemap: https://www.avito.ru/sitemap/index.xml
 
 
@@ -192,4 +194,5 @@ Disallow: /*avito_campaign_id=
 Disallow: /*reviewsPage=
 Disallow: /q/*
 Disallow: /*/vakansii/catalog/
+Disallow: /yclients-integrate-landing
 Sitemap: https://www.avito.ru/sitemap/index.xml

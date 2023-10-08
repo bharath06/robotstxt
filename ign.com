@@ -14,6 +14,8 @@ Disallow: /sugarfif.html
 Disallow: /wikis/*/edit
 Disallow: /wikis/*/topcontributors
 
+User-agent: GPTBot
+Disallow: /
 
 User-agent: Exabot
 Disallow: /

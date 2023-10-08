@@ -1,5 +1,5 @@
 
-# version: 6be0960cb2aa38c9bea063ca57586fae00340984
+# version: f6f959638af29cbc598b7adab27fd84e19d0d062
 
 # HTTPS www.bbc.com
 
@@ -79,4 +79,13 @@ Disallow: /ws/includes
 Disallow: /radio/imda
 
 User-agent: magpie-crawler
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
 Disallow: /

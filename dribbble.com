@@ -2,6 +2,7 @@ User-agent: *
 sitemap: https://dribbble.com/sitemap.xml
 Disallow: /*/buckets$
 Disallow: /*/click?type=*$
+Disallow: /*/click$
 Disallow: /*/tags$
 Disallow: /*/tags/*
 Disallow: /account$

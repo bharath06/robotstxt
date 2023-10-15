@@ -108,6 +108,7 @@ Disallow: /reviews/hall-of-fame
 Disallow: /hz/help/contact/*/message/$
 Disallow: /-/
 Allow: /-/en/
+Allow: /-/en$
 Disallow: /gp/aw/shoppingAids/
 Disallow: /gp/video/api
 Disallow: /hp/video/api

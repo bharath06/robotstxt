@@ -58,6 +58,8 @@ Disallow: /blog-temp-ru
 Disallow: */fullscreen-page
 Disallow: /wearepages
 Disallow: */laboratory/conductAllInScope
+Disallow: /studio/blog/*?filter=
+Disallow: /studio/blog/*&filter=
 
 Sitemap: https://www.wix.com/sitemap.xml
 

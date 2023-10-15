@@ -1089,6 +1089,6 @@ Clean-Param: &appsearch_header=1&comments=1 /news/story/
 Clean-Param: random_cgi&sign /turbo*
 Clean-Param: app-id&game-id&div-rtx-reqid&lang&platform&header&from /games/
 Clean-Param: ll&z&sll /maps/
-Clean-param: oll&rtext&pt&source&via&from&origin&um&utm_medium&utm_source&portal&panorama%5Bspan%5D&panorama%5Bpoint%5D&panorama%5Bfull%5D&panorama%5Bdirection%5D&panorama%5Bair%5D&masstransit%5BstopId%5D&ol&poi%5Bpoint%5D&whatshere%5Bpoint%5D&whatshere%5Bzoom%5D&ouri&ruri&l&mode&tab&rtt&rtm&display-text&text&indoorLevel&trfm&trfst&no-distribution&distance&slices&scale&descy&descx&mapY&mapX&mapID&sctx&lay&where&results&map&id&page&spn&sspn&rtn&ost&profile-mode /maps/
+Clean-param: oll&rtext&pt&source&via&from&origin&um&utm_medium&utm_source&portal&panorama%5Bspan%5D&panorama%5Bpoint%5D&panorama%5Bfull%5D&panorama%5Bdirection%5D&panorama%5Bair%5D&masstransit%5BstopId%5D&ol&poi%5Bpoint%5D&whatshere%5Bpoint%5D&whatshere%5Bzoom%5D&ouri&ruri&l&mode&tab&rtt&rtm&display-text&text&indoorLevel&trfm&trfst&no-distribution&distance&slices&scale&descy&descx&mapY&mapX&mapID&sctx&lay&where&results&map&id&spn&sspn&rtn&ost&profile-mode /maps/
 Clean-Param: appsearch_header /pogoda
 Clean-param: text /products/

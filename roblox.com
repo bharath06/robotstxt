@@ -22,3 +22,5 @@ disallow: /thumbnail_holder/g
 disallow: /viewapp/
 disallow: /error.html
 disallow: /offline.html
+
+Sitemap: https://www.roblox.com/sitemap.xml

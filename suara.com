@@ -6,7 +6,6 @@ Disallow: /data/
 Disallow: /search$
 Disallow: /search?*
 Disallow: /search/
-Disallow: ?jxrecoid=*
 User-agent: *
 Allow: /
 User-agent: ChatGPT-User

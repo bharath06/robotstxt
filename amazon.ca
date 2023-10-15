@@ -66,6 +66,7 @@ Disallow: /gp/ask-widget/askWidget*
 Disallow: /fr/
 Disallow: /-/
 Allow: /-/fr/
+Allow: /-/fr$
 Disallow: /hz/help/contact/*/message/$
 Disallow: /gp/aw/shoppingAids/
 Disallow: /hz/contact-us/ajax/initiate-trusted-contact/

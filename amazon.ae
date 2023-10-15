@@ -82,6 +82,7 @@ Disallow: /gp/ask-widget/
 Disallow: /gp/cerberus/
 Disallow: /-/
 Allow: /-/ar/
+Allow: /-/ar$
 Disallow: /hz/help/contact/*/message/$
 Disallow: /gp/aw/shoppingAids/
 Disallow: /hz/contact-us/ajax/initiate-trusted-contact/

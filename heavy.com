@@ -1,5 +1,7 @@
 Sitemap: http://heavy.com/news-sitemap.xml
 
+Sitemap: http://heavy.com/sitemap_index.xml
+
 User-agent: *
 Disallow: /?s=
 Disallow: /25816858/
@@ -127,6 +129,11 @@ Disallow: /*%7B%7Burl$
 User-agent: *
 Disallow: /wp-admin/
 
-# Sitemap archive
-Sitemap: https://heavy.com/sitemap.xml
 
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

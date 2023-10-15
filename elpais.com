@@ -7,7 +7,6 @@ Disallow: /publicidad/
 Disallow: /notificarelacionadas
 Disallow: /*.swf$
 Disallow: /eskupTSUpdate
-Disallow: /*=/*x*/
 
 
 # Bots bloqueados

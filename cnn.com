@@ -15,6 +15,8 @@ Sitemap: https://www.cnn.com/sitemap/video.xml
 Sitemap: https://www.cnn.com/sitemap/gallery.xml
 User-agent: GPTBot
 Disallow: /
+User-agent: Google-Extended
+Disallow: /
 User-agent: *
 Allow: /partners/ipad/live-video.json
 Disallow: /*.jsx$

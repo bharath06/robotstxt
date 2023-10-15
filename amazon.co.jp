@@ -184,6 +184,7 @@ Disallow: /hz/help/contact/*/message/$
 Disallow: /-/
 Disallow: /gp/aw/shoppingAids/
 Allow: /-/en/
+Allow: /-/en$
 Disallow: /hz/contact-us/ajax/initiate-trusted-contact/
 Disallow: /gp/video/api
 Disallow: /hp/video/api

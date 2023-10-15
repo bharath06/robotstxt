@@ -1887,7 +1887,7 @@ Sitemap: https://www.etsy.com/jp/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/pl/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/pt/sitemaps/blocklist.xml
 #
-# ¿Qué te pasa, calabaza?#   \
+# Motus et bouche cousue...#   \
 #
 #    -----
 #   | . . |

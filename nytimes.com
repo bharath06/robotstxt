@@ -44,6 +44,9 @@ Allow: /svc/news/v3/all/pshb.rss
 User-agent: CCBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: GPTBot
 Disallow: /
 

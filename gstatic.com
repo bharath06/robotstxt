@@ -75,6 +75,7 @@ Allow: /gsx/
 Allow: /gtp/stir/
 Allow: /guidebooks/
 Allow: /GoogleInternetAuthority/
+Allow: /h5games_gamecenter/images/
 Allow: /healthricherkp/illustrations/
 Allow: /healthricherkp/cropped/
 Allow: /hex/

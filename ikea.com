@@ -26,6 +26,9 @@
 User-agent: GPTBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 User-Agent: AdsBot-Google
 Allow: /*-fragment.html
 Allow: /ext/

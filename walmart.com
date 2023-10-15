@@ -33,6 +33,8 @@ Sitemap: https://www.walmart.com/sitemap_auto_dir.xml
 
 Sitemap: https://www.walmart.com/sitemap_brndshp_brand.xml
 
+Sitemap: https://www.walmart.com/sitemap_sp.xml
+
 #Disallow select URLs
 User-agent: *
 Disallow: /0/

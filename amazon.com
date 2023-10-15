@@ -124,8 +124,11 @@ Disallow: /creatorhub/*
 Disallow: /slp/s$
 Disallow: /-/
 Allow: /-/es/
+Allow: /-/en$
 Allow: /-/zh_TW/
+Allow: /-/zh_TW$
 Allow: /-/he/
+Allow: /-/he$
 Disallow: /hz/help/contact/*/message/$
 Disallow: /gp/aw/shoppingAids/
 Disallow: /rss/people/*/reviews

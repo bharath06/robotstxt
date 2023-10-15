@@ -226,6 +226,7 @@ Disallow: /rss
 Disallow: /export
 Disallow: /facebook/
 Allow:    /export/rss/
+Allow:    /export/yandex/
 Disallow: /politics/news/2015/02/05/n_6894781.shtml
 Disallow: /business/2016/10/20/10261457.shtml
 Disallow: /business/7047/

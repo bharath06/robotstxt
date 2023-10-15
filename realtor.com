@@ -148,6 +148,7 @@ Disallow: /widgets
 Disallow: /Widgets
 Disallow: /widgets/
 Disallow: /Widgets/
+Disallow: /YfcuVaVBkfnzl2j6UbEcK0Oiqkv88jx6w/
 
 User-agent: Yandex
 Disallow: /api/v1/hulk
@@ -303,6 +304,7 @@ Disallow: /widgets
 Disallow: /Widgets
 Disallow: /widgets/
 Disallow: /Widgets/
+Disallow: /YfcuVaVBkfnzl2j6UbEcK0Oiqkv88jx6w/
 
 
 Sitemap: https://www.realtor.com/mortgage/sitemap/mortgagesitemap.xml

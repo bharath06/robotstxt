@@ -1,5 +1,15 @@
 User-agent: *
 User-agent: Googlebot
+Disallow: /*-a0*-v*
+Disallow: /*-a1*-v*
+Disallow: /*-a2*-v*
+Disallow: /*-a3*-v*
+Disallow: /*-a4*-v*
+Disallow: /*-a5*-v*
+Disallow: /*-a6*-v*
+Disallow: /*-a7*-v*
+Disallow: /*-a8*-v*
+Disallow: /*-a9*-v*
 Disallow: /*?bc=
 Disallow: /*?bl=
 Disallow: /*?bu=
@@ -208,7 +218,3 @@ Disallow: /ar/
 
 
 Sitemap: https://www.trendyol.com/sitemap
-
-
-
-

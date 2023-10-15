@@ -12,7 +12,7 @@ Disallow: /*?ref
 Disallow: *utm_
 
 User-agent: Googlebot
-disallow: */health/*
+Disallow: */health/*
 
 User-agent: Twitterbot
 Allow: /*?*utm_

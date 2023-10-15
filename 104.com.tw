@@ -1,10 +1,26 @@
-User-agent: *
-Disallow: /it/
-Disallow: /education/
-Disallow: /hi/
-Disallow: /area/insurance/
-Disallow: /i/
-Disallow: /jb/104i/
-Disallow: /upload1/interview/
+User-agent:*
+Allow:/$
+Allow:/job/
+Allow:/company/
+Allow:/jobs/
+Allow:/expats/
+Allow:/mobile/
+Allow:/faq/
+Allow:/feedback/
+Allow:/csr/
+Disallow:/
+
+User-agent: GPTBot
+Allow:/$
+Allow:/jobs/
+Allow:/faq/
+Allow:/expats/
+Allow:/feedback/
+Allow:/csr/
+Disallow:/
+
+User-agent: 008
+User-agent: JobdiggerSpider
+User-agent: Cliqzbot
 User-agent: trovitBot
-Disallow: /
+Disallow:/

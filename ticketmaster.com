@@ -94,3 +94,6 @@ Disallow: /exchange/checkout
 
 User-agent: bingbot
 Disallow: *_escaped_fragment_
+
+User-agent: GPTBot
+Disallow: / 

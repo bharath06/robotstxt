@@ -13,6 +13,9 @@ Disallow: /_editorial_preview_*
 Disallow: /amp/*/more.html*
 Disallow: /?* 
 Disallow: /services/
+
+Clean-param: __twitter_impression&ues&amp
+
 Sitemap: https://ria.ru/sitemap_article_index.xml
 Sitemap: https://ria.ru/sitemap_list_index.xml
 Sitemap: https://ria.ru/sitemap_archive.xml

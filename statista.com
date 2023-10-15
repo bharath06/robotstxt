@@ -58,9 +58,7 @@ Disallow: /statistics/recent/p/
 Disallow: /statistiques/recentes/p/
 Disallow: /estadisticas/recientes/p/
 
-# Editors (04/22)
-Disallow: /aboutus/our-research-commitment/
-Disallow: /acercadenosotros/nuestro-compromiso-con-la-calidad/
+# Editors (08/23 opened for crawler)
 
 # Study search (04/22)
 Disallow: /studies-and-reports/*?q=

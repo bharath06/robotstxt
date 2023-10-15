@@ -87,6 +87,7 @@ Disallow: /hz/help/contact/*/message/$
 Disallow: /-/
 Disallow: /gp/aw/shoppingAids/
 Allow: /-/hi/
+Allow: /-/hi$
 Disallow: /hz/contact-us/ajax/initiate-trusted-contact/
 
 User-agent: EtaoSpider

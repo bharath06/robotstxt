@@ -6,3 +6,6 @@ Disallow: /recaptcha_ie
 
 User-agent: ia_archiver
 Disallow: /
+
+#Sitemap
+Sitemap: https://www.chaturbate.com/sitemap.xml

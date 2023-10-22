@@ -524,6 +524,10 @@ Disallow: */answers/
 User-agent: GPTBot
 Disallow: /
 
+
+User-agent: Google-Extended
+Disallow: /
+
 # People share a lot of sensitive material on Quora - controversial political
 # views, workplace gossip and compensation, and negative opinions held of
 # companies. Over many years, as they change jobs or change their views, it is

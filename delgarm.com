@@ -14,6 +14,8 @@ Disallow: /stools?*
 Disallow: *preview=*
 Disallow: *print=*
 Disallow: *Itemid=*
+Disallow: *loadmore?*
+Disallow: *?page=____*
 
 User-agent: bingbot
 Crawl-delay: 30

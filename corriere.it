@@ -216,6 +216,7 @@ Allow: /rss/homepage.xml
 Allow: /editorspicks/
 Allow: /oroscopo/sitemap.xml
 Allow: /elezioni/*.xml
+Disallow: /*?q=
 
 Sitemap: https://www.corriere.it/rss/homepage.xml
 Sitemap: https://www.corriere.it/salute/sitemap-dizionario-corriere-salute.xml 
@@ -246,3 +247,4 @@ Sitemap: https://www.corriere.it/cook/sitemap-index.xml
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Tecnologia.xml
 Sitemap: https://www.corriere.it/oroscopo/sitemap.xml
 Sitemap: https://www.corriere.it/elezioni/sitemap/sitemap.xml
+Sitemap: https://static-ss2.corriereobjects.it/corriere/sitemap.xml

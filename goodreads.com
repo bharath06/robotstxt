@@ -22,6 +22,7 @@ Disallow: /tooltips
 Disallow: /track
 Disallow: /trivia/answer
 Disallow: /user/updates_rss
+Disallow: /videos/
 
 Sitemap: https://www.goodreads.com/siteindex.author.xml
 Sitemap: https://www.goodreads.com/siteindex.author_community_question.xml
@@ -38,6 +39,13 @@ Sitemap: https://www.goodreads.com/siteindex.quote.xml
 Sitemap: https://www.goodreads.com/siteindex.quote_tag.xml
 Sitemap: https://www.goodreads.com/siteindex.related_work.xml
 Sitemap: https://www.goodreads.com/siteindex.topic.xml
-Sitemap: https://www.goodreads.com/siteindex.trivia.xml
 Sitemap: https://www.goodreads.com/siteindex.user.xml
-Sitemap: https://www.goodreads.com/siteindex.video.xml
+
+User-agent: EtaoSpider
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /

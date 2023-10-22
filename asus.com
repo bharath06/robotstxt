@@ -1,8 +1,5 @@
 User-agent: *
 
-Disallow: /999/
-Disallow: /*/999/
-
 Disallow: /*SearchKey
 Disallow: /*searchKey
 Disallow: /*Knowledge-Search

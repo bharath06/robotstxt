@@ -247,7 +247,7 @@ Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
-Disallow: /archive
+Disallow: /archive/api/image.jpg*
 Allow: /archive$
 Allow: /archive/project/sovsport$
 Allow: /video/search?text=video$
@@ -528,7 +528,7 @@ Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
-Disallow: /archive
+Disallow: /archive/api/image.jpg*
 Allow: /archive$
 Allow: /archive/project/sovsport$
 Allow: /video/search?text=video$
@@ -782,7 +782,7 @@ Disallow: /element/*goodbye*
 Disallow: /soft/*goodbye*
 Disallow: /adult
 Disallow: /addappterless
-Disallow: /archive
+Disallow: /archive/api/image.jpg*
 Allow: /archive$
 Allow: /archive/project/sovsport$
 Allow: /video/search?text=video$
@@ -1045,7 +1045,7 @@ Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
-Disallow: /archive
+Disallow: /archive/api/image.jpg*
 Allow: /archive$
 Allow: /archive/project/sovsport$
 Allow: /video/search?text=video$

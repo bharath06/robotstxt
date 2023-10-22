@@ -2,22 +2,26 @@ User-agent: *
 Allow: /ads.txt
 Allow: /*/_graphs/history
 Allow: /users/forgot_password
-Disallow: /sell/cart
-Disallow: /sell/post
+Disallow: */sell/cart
+Disallow: */sell/post
+Disallow: */sell/order/
+Disallow: */sell/orders
+Disallow: */sell/mplistrss
 Disallow: /submissions
 Disallow: /*/submissions
 Disallow: /submission
+Disallow: */contributions
 Disallow: /my$
 Disallow: /sell/mywants$
 Disallow: /browse/my$
 Disallow: /recent/my$
-Disallow: /messages/
+Disallow: */messages/
 Disallow: /mygroups$
 Disallow: /mywantlist$
 Disallow: /mycontributions$
 Disallow: /mycollection$
 Disallow: /marketplace/mywants$
-Disallow: /release/add
+Disallow: */release/add$
 Disallow: /release/edit
 Disallow: /release/copy
 Disallow: /update
@@ -29,6 +33,8 @@ Disallow: /redir
 Disallow: /history
 Disallow: /*/history
 Disallow: /*/images$
+Disallow: */wantlist$
+Disallow: */wantlist?user=
 Disallow: /rss
 Disallow: /groups/report
 Disallow: /artist2
@@ -40,13 +46,12 @@ Disallow: /data$
 Disallow: /pt_BR/sell/item
 Disallow: /pt_BR/sell/list?
 Disallow: /pt_BR/seller/
-Disallow: /pt_BR/wantlist?user=
-Disallow: /pt_BR/contributions?user=
 Disallow: /ko/sell/item
 Disallow: /ko/sell/list?
 Disallow: /ko/seller/
-Disallow: /ko/wantlist?user=
-Disallow: /ko/contributions?user=
+
+User-agent: AhrefsBot
+Disallow: /
 
 Sitemap: https://www.discogs.com/sitemap_artist.xml
 Sitemap: https://www.discogs.com/sitemap_release.xml

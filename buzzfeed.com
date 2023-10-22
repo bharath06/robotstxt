@@ -51,6 +51,12 @@ Disallow: /
 User-agent: dotbot
 Disallow: /
 
+User-agent: google-extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
 User-agent: Slurp
 Crawl-delay: 4
 

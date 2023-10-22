@@ -19,7 +19,6 @@ Disallow: /flights/results
 Disallow: /*/flights/results
 Disallow: /activities/detail
 Disallow: /transfers
-Disallow: /transfers/search
 
 User-agent: Googlebot
 Disallow: /*/hotel/all/

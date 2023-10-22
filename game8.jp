@@ -16,4 +16,7 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
+Use-Agent: Google-Extended
+Disallow: /
+
 Sitemap: https://game8.jp/sitemaps/sitemap.xml.gz

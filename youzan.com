@@ -71,6 +71,9 @@ Allow: /cms?*
 User-agent: SemrushBot
 Disallow: /
 
+User-agent: DataForSeoBot
+Disallow: /
+
 Sitemap: https://www.youzan.com/sitemap.xml
 Sitemap: https://www.youzan.com/cms/sitemap.xml
 Sitemap: https://www.youzan.com/cms/sitemap_article.xml

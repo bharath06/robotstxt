@@ -6,6 +6,7 @@ Disallow: /data/
 Disallow: /search$
 Disallow: /search?*
 Disallow: /search/
+Disallow: /partner/content/
 User-agent: *
 Allow: /
 User-agent: ChatGPT-User

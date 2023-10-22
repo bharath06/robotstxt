@@ -98,7 +98,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -215,7 +214,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -336,7 +334,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -454,7 +451,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -570,7 +566,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -687,7 +682,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -804,7 +798,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -921,7 +914,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -1037,7 +1029,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -1153,7 +1144,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -1269,7 +1259,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -1385,7 +1374,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -1501,7 +1489,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -1618,7 +1605,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -1735,7 +1721,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -1852,7 +1837,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -1970,7 +1954,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -2087,7 +2070,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -2203,7 +2185,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -2319,7 +2300,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -2435,7 +2415,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -2551,7 +2530,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -2667,7 +2645,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -2782,7 +2759,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /start/
 Disallow: /svpRecommendations*
 Disallow: /topic/
@@ -2897,7 +2873,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -3013,7 +2988,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -3129,7 +3103,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -3238,7 +3211,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -3347,7 +3319,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -3463,7 +3434,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -3579,7 +3549,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -3697,7 +3666,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -3819,7 +3787,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -3940,7 +3907,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -4061,7 +4027,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -4182,7 +4147,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*
@@ -4302,7 +4266,6 @@ Disallow: /secure/
 Disallow: /settings/
 Disallow: /shareArticle*
 Disallow: /signature*
-Disallow: /signup/cold-join
 Disallow: /slink*
 Disallow: /start/
 Disallow: /svpRecommendations*

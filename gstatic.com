@@ -66,6 +66,7 @@ Allow: /earth/social/
 Allow: /enterprise-partner-search/sitemaps/
 Allow: /external_hosted/
 Allow: /flights/
+Allow: /flutter-canvaskit/
 Allow: /foodordering/
 Allow: /frommers/
 Allow: /gb/images/

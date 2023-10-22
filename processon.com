@@ -32,6 +32,7 @@ Disallow:/apps/
 Disallow:/help/
 Disallow:/assets/
 Disallow:/v5_editor/
+Disallow:/u/
 
 Allow:https://pc-gray.processon.com/robots.txt
 Allow:https://app.processon.com/robots.txt

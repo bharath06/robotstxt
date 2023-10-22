@@ -110,6 +110,7 @@ Disallow: /realestateandhomes-detail/2137-W-Roosevelt-Dr_Milwaukee_WI_53209_M905
 Disallow: /realestateandhomes-detail/650-Church-Rd_Flourtown_PA_19031_M35761-59786
 Disallow: /realestateandhomes-detail/1132-Jason-Dr_Lompoc_CA_93436_M11599-85143
 Disallow: /realestateandhomes-detail/M1159985143
+Disallow: /realestateandhomes-detail/undefined
 Disallow: /realestateandhomes-print/
 Disallow: /realestateandhomes-search/*/*/pg-
 Disallow: /realestateandhomes-search/*?from_ldp=true
@@ -119,6 +120,7 @@ Disallow: /realestateandhomes-search/*/pg-*/show-recently-sold
 Disallow: /realestateandhomes-search/*/price-
 Disallow: /realestateandhomes-search/*/radius-
 Disallow: /realestateandhomes-search/near-me*
+Disallow: /realestateandhomes-search/undefined
 Disallow: /realestateteam/bright-birch-real-estate__mn_1639730
 Disallow: /rentals/*?view=map*
 Disallow: /rentals/api/optimizely.js
@@ -264,6 +266,7 @@ Disallow: /realestateandhomes-detail/2137-W-Roosevelt-Dr_Milwaukee_WI_53209_M905
 Disallow: /realestateandhomes-detail/650-Church-Rd_Flourtown_PA_19031_M35761-59786
 Disallow: /realestateandhomes-detail/1132-Jason-Dr_Lompoc_CA_93436_M11599-85143
 Disallow: /realestateandhomes-detail/M1159985143
+Disallow: /realestateandhomes-detail/undefined
 Disallow: /realestateandhomes-print/
 Disallow: /realestateandhomes-search/*/*/pg-
 Disallow: /realestateandhomes-search/*?from_ldp=true
@@ -275,6 +278,7 @@ Disallow: /realestateandhomes-search/*/pg-*/show-recently-sold
 Disallow: /realestateandhomes-search/*/price-
 Disallow: /realestateandhomes-search/*/radius-
 Disallow: /realestateandhomes-search/near-me*
+Disallow: /realestateandhomes-search/undefined
 Disallow: /realestateteam/bright-birch-real-estate__mn_1639730
 Disallow: /rentals/*?view=map*
 Disallow: /rentals/api/optimizely.js

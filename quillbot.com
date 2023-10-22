@@ -7,6 +7,7 @@ Disallow: /native
 Disallow: /api-access
 Disallow: /cdn-cgi/
 Disallow: /abtest
+Disallow: /logout
 Disallow: /privacy/old
 Disallow: /desktop/login
 Disallow: /cms-test-page

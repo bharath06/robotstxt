@@ -1,5 +1,10 @@
 # This is the robots.txt file for theguardian.com
-# The Guardian does not permit the unlicensed use of our content for large language models. Contact licensing@theguardian.com for assistance
+
+# Guardian content is made available under our terms and conditions of use.
+# Any other uses are not permitted, incl. but not limited to: for large language
+# models (LLMs), machine learning and/or artificial intelligence-related
+# purposes; with any of the aforementioned technologies; and/or for any
+# commercial purposes. Contact licensing@theguardian.com for assistance
 
 User-agent: *
 Disallow: /sendarticle/

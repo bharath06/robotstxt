@@ -23,10 +23,24 @@ Disallow: /[_0-9a-zA-Z]+/likes
 Disallow: /[_0-9a-zA-Z]+/media 
 Disallow: /[_0-9a-zA-Z]+/photo
 
+
+User-Agent: FacebookBot
+Disallow: *
+
+User-agent: facebookexternalhit
+Disallow: *
+
+User-agent: Discordbot
+Disallow: *
+
+User-agent: Bingbot
+Disallow: *
+
 # Every bot that might possibly read and respect this file
 # ========================================================
 User-agent: *
 Disallow: /
+
 
 # WHAT-4882 - Block indexing of links in notification emails. This applies to all bots.
 # =====================================================================================

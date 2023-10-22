@@ -14,6 +14,9 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
+User-agent: magpie-crawler
+Disallow: /
+
 User-agent: ia_archiver
 Disallow: /
 

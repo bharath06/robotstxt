@@ -16,6 +16,7 @@ Disallow: /quotes/list_rss
 Disallow: /reader
 Disallow: /review/list_rss
 Disallow: /review/rate
+Disallow: /search
 Disallow: /shelf/user_shelves
 Disallow: /story
 Disallow: /tooltips
@@ -23,6 +24,7 @@ Disallow: /track
 Disallow: /trivia/answer
 Disallow: /user/updates_rss
 Disallow: /videos/
+Disallow: /*reviewFilters
 
 Sitemap: https://www.goodreads.com/siteindex.author.xml
 Sitemap: https://www.goodreads.com/siteindex.author_community_question.xml

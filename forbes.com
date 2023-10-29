@@ -311,6 +311,9 @@ Disallow: /sites/braze
 Disallow: /sites/publicissapient
 Disallow: /sites/flexport
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.forbes.com/news_sitemap.xml
 Sitemap: https://www.forbes.com/video_sitemap.xml
 Sitemap: https://www.forbes.com/coupons/sitemap.xml

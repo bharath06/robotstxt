@@ -43,6 +43,7 @@ Disallow: /collections_list?srh_coll=*
 Disallow: /ajax_collection_share.php
 Disallow: /search.php*
 Disallow: /samemodel.php?imageid=*&pg=*&sortcriteria=6
+Disallow: /new/same_model.php?imageid=*&pg=*&sortcriteria=6
 
 # Disallow for private pages
 Disallow: /uploadfile.php*

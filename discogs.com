@@ -21,7 +21,7 @@ Disallow: /mywantlist$
 Disallow: /mycontributions$
 Disallow: /mycollection$
 Disallow: /marketplace/mywants$
-Disallow: */release/add$
+Disallow: */release/add
 Disallow: /release/edit
 Disallow: /release/copy
 Disallow: /update
@@ -40,6 +40,7 @@ Disallow: /groups/report
 Disallow: /artist2
 Disallow: /sell/unlist
 Disallow: /sell/audio
+Disallow: /service/catalog/api/graphql
 Disallow: /release/recs
 Disallow: /projects
 Disallow: /data$

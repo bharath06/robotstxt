@@ -9,6 +9,7 @@ Disallow: /account/email_verify/
 Disallow: /acclaimbadge/
 Disallow: /voucher/
 Disallow: /search
+Disallow: /lecture/
 Disallow: /learn-perf/
 Disallow: /specializations-perf/
 Disallow: /professional-certificates-perf/
@@ -18,7 +19,7 @@ Disallow: /professional-certificates-noperf/
 Disallow: /business/xmlrpc.php
 Disallow: /business/wp-content/uploads/ 
 Sitemap: https://www.coursera.org/sitemap.xml
-Sitemap: https://www.coursera.org/coursera-for-business-sitemap.xml
+
 
 User-agent: CCBot
 Disallow: /

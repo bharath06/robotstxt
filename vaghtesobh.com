@@ -1,8 +1,11 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
 
-Sitemap: https://www.vaghtesobh.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /fa/admin/*
+Disallow: /en/admin/*
+Disallow: /ar/admin/*
+Disallow: /admin/*
+Disallow: /admin*
+Disallow: *:id*
+
+
+Sitemap: https://www.vaghtesobh.com/sitemap.xml

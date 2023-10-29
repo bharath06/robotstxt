@@ -53,6 +53,7 @@ Disallow: /website/templates*?screen=
 Disallow: /*?sort=
 Disallow: /marketplace/hire/*?serviceIds=
 Disallow: /marketplace/hire/*&serviceIds=
+Disallow: /marketplace/brief/
 Disallow: /wix-platform
 Disallow: /blog-temp-ru
 Disallow: */fullscreen-page

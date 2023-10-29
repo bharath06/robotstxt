@@ -1,8 +1,23 @@
 User-Agent: *
-Disallow: /url/result_lien.asp
-Disallow: /banners/banner.asp
-Disallow: /translationresults.aspx
 Disallow: /2629866/
-Disallow: /mobile/
+Disallow: /vocabulary/*
+Disallow: /vocabulaire/*
+Disallow: /wortschatz/*
+Disallow: /vocabulario/*
+Disallow: /vocabolario/*
+Disallow: /vocabulÃ¡rio/*
+Disallow: /vocabular/*
+Disallow: /ÑÐ»Ð¾Ð²Ð°ÑÑ/*
+Disallow: /è©å½/*
+Disallow: /ÑÐ»Ð¾Ð²Ð½Ð¸Ðº/*
 User-Agent: Mediapartners-Google*
 Disallow:
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: claude-web
+Disallow: /

@@ -8,3 +8,4 @@ Disallow: /post/*
 
 Sitemap: https://www.nownews.com/sitemap.xml
 Sitemap: https://www.nownews.com/newsSitemap-daily.xml
+Sitemap: https://www.nownews.com/sitemap-video.xml

@@ -61,6 +61,9 @@ Disallow: /emailservice/*
 Disallow: /emailsignup/*
 Disallow: /insetsrv/v1/*
 Disallow: /user/fpd/api/*
+Disallow: /Date(*
+Disallow: /auth/sso/proxy-login*
+Disallow: /client/
 # For Buyside Search Results
 Disallow: /*?*term=德*
 Disallow: /*?*term=印*

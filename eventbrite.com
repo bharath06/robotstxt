@@ -19,6 +19,9 @@ Disallow: *&spellcheck*
 Disallow: /directory/
 Allow: /directory/sitemap/
 Disallow: /checkout-external*
+Disallow: /api/v3/promoted/events
+Disallow: /api/v3/log_engagement/
+Disallow: /api/v3/destination/search/log_requests/
 
 Sitemap: https://www.eventbrite.com/sitemap_xml/sitemap_index.xml
 Sitemap: https://www.eventbrite.com/blog/sitemap_index.xml
@@ -66,6 +69,9 @@ Disallow: *&spellcheck*
 Disallow: /directory/
 Allow: /directory/sitemap/
 Disallow: /checkout-external*
+Disallow: /api/v3/promoted/events
+Disallow: /api/v3/log_engagement/
+Disallow: /api/v3/destination/search/log_requests/
 
 User-agent: Facebot
 Crawl-delay: 0.5

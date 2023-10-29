@@ -63,6 +63,7 @@ Disallow: /cronache/speciali/2010/maturita/test-universita.shtml
 Disallow: /smallApp/tellafriend/
 Disallow: /*_print.html$
 Disallow: /*.xml
+Allow:    /salute/il-medico-risponde/sitemap.xml
 Allow: 	  /salute/sitemap-dizionario-corriere-salute.xml
 Allow:    /dynamic-sitemap/sitemap-last-100/*.xml
 Allow:    /dynamic-feed/*.xml
@@ -215,6 +216,7 @@ Allow: /rss/homepage.xml
 #richiesta da Ruggiero BG27112011
 Allow: /editorspicks/
 Allow: /oroscopo/sitemap.xml
+Allow: /sport/risultati-live/sitemap.xml
 Allow: /elezioni/*.xml
 Disallow: /*?q=
 
@@ -247,4 +249,5 @@ Sitemap: https://www.corriere.it/cook/sitemap-index.xml
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Tecnologia.xml
 Sitemap: https://www.corriere.it/oroscopo/sitemap.xml
 Sitemap: https://www.corriere.it/elezioni/sitemap/sitemap.xml
-Sitemap: https://static-ss2.corriereobjects.it/corriere/sitemap.xml
+Sitemap: https://www.corriere.it/sport/risultati-live/sitemap.xml
+Sitemap: https://www.corriere.it/salute/il-medico-risponde/sitemap.xml

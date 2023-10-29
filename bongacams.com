@@ -29,6 +29,7 @@ Disallow: /save-private-chat-rating
 Disallow: /subscribe-site-push-notifications
 Disallow: /site-push-notifications/track
 Disallow: /api/*
+Disallow: *search?=
 
 User-agent: SemrushBot
 Crawl-delay: 5

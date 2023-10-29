@@ -119,5 +119,8 @@ Disallow: /
 User-agent: ChatGPT-User
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 Sitemap: https://www.washingtonpost.com/arcio/sitemap/master/index/
 Sitemap: https://www.washingtonpost.com/arcio/news-sitemap/

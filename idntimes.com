@@ -1,10 +1,6 @@
 User-agent: Twitterbot
 Allow: *?utm_source=
 
-User-agent: Googlebot-Image
-Allow:*
-Allow: /
-
 User-agent: *
 Disallow: https://cdn.idntimes.com/content-documents/*
 Disallow: */ajax/*

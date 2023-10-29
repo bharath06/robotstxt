@@ -13,6 +13,9 @@ Disallow: /
 User-agent:  DotBot
 Disallow: /
 
+User-agent:  GPTBot
+Disallow: /
+
 User-agent: *
 Disallow: /admin
 Disallow: /log

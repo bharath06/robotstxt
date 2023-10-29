@@ -87,17 +87,17 @@ Disallow: /*&gt;
 Disallow: /?attachment_id=
 Disallow: /affiliate/
 Disallow: /ai_log/
+Disallow: /*?*pg99.asia*
+Disallow: /*&*pg99.asia*
+Disallow: /*?*gg155.cn*
+Disallow: /*&*gg155.cn*
+Disallow: /*?*To66.Asia*
+Disallow: /*&*To66.Asia*
 
 User-agent: GPTBot
 Disallow: /
 
 User-agent: CCBot
-Disallow: /
-
-User-agent: CCBot
-Disallow: /
-
-User-agent: GPTBot
 Disallow: /
 
 User-agent: ChatGPT-User

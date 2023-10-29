@@ -7,6 +7,7 @@ Disallow: /*/autos/marketplace/product/*
 Disallow: /*/cars/marketplace/product/*
 Disallow: /*?item=*:
 Disallow: /*&item=*:
+Disallow /*/channel/source/
 
 User-agent: AdsBot-Google
 Allow: /

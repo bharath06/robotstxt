@@ -7,7 +7,6 @@ Disallow: *?_gl*
 Disallow: *?p*
 Disallow: *?orderby*
 Disallow: *?amp*
-Disallow: *?s*
 Allow: /wp-admin/admin-ajax.php
 
 User-agent: Mediapartners-Google

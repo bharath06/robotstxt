@@ -60,20 +60,12 @@ User-agent: adidxbot # Allow Bing ad bot to do it's thing
 Allow: *
 
 User-agent: bingbot # Disallow ADPs for Bing
-Crawl-delay: 1
-Allow: */image-illustration/*.jpg # Allow Images that match Image ADP paths
+Allow: */image-illustration/*.jpg # Allow Images that match Image ADP paths 
 Allow: */image-illustration/*.webp
 Allow: */image-photo/*.jpg
 Allow: */image-photo/*.webp
 Allow: */image-vector/*.jpg
 Allow: */image-vector/*.webp
-Disallow: */image-editorial/* # Disallow Editorial ADPs
-Disallow: */music/track-* # Disallow Music ADPs
-Disallow: */image-illustration/* # Disallow Image ADPs
-Disallow: */image-photo/*
-Disallow: */image-vector/*
-Disallow: */image-generated/*
-Disallow: */video/clip-* # Disallow Video ADPs
 Allow: */search/login
 Allow: */login$
 Disallow: */login

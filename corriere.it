@@ -219,6 +219,7 @@ Allow: /oroscopo/sitemap.xml
 Allow: /sport/risultati-live/sitemap.xml
 Allow: /elezioni/*.xml
 Disallow: /*?q=
+Disallow: /*?f=
 
 Sitemap: https://www.corriere.it/rss/homepage.xml
 Sitemap: https://www.corriere.it/salute/sitemap-dizionario-corriere-salute.xml 
@@ -251,3 +252,5 @@ Sitemap: https://www.corriere.it/oroscopo/sitemap.xml
 Sitemap: https://www.corriere.it/elezioni/sitemap/sitemap.xml
 Sitemap: https://www.corriere.it/sport/risultati-live/sitemap.xml
 Sitemap: https://www.corriere.it/salute/il-medico-risponde/sitemap.xml
+Sitemap: https://www.corriere.it/rss/sitemap/lettere-al-direttore.xml
+Sitemap: https://www.corriere.it/rss/sitemap/lo-dico-al-corriere.xml

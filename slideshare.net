@@ -34,6 +34,7 @@ Disallow: /ab_tests
 Disallow: /frontend-track/
 Disallow: /fullscreen/ReportLinker/
 Disallow: /private/
+Disallow: /language?
 
 User-agent: archive.org_bot
 Disallow: /w/*

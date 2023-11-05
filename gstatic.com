@@ -103,6 +103,7 @@ Allow: /onebox/media/sports/logos/
 Allow: /onebox/media/sports/photos/soccer/wc2018/
 Allow: /onebox/sports/logos/
 Allow: /onebox/sports/logos/sports_types/png/
+Allow: /pagespeed/insights/ui/logo/
 Allow: /pantheon/
 Allow: /pantheon-platform/
 Allow: /patent-search/frontend/

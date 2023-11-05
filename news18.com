@@ -121,6 +121,9 @@ Disallow: /reel-awards-2023/*
 
 Disallow: /makeadent/*
 Disallow: /rising-india-she-shakti/*
+Disallow: /assembly-elections-2019/*
+Disallow: /amp/assembly-elections-2019/*
+Disallow: /lok-sabha-elections-2019/*
 
 Sitemap: https://www.news18.com/commonfeeds/v1/eng/sitemap/google-news.xml
 

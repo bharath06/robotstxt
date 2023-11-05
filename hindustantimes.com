@@ -89,6 +89,9 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
+User-agent: *
+Disallow: /brand-stories/international/*
+
 Sitemap: https://www.hindustantimes.com/sitemap/section.xml
 Sitemap: https://www.hindustantimes.com/sitemap/news.xml
 Sitemap: https://www.hindustantimes.com/sitemap/index.xml

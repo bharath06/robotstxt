@@ -21,7 +21,5 @@ Disallow: /home/
 
 # Announce Sitemap
 Sitemap: https://www.disneyplus.com/sitemap.xml
-Sitemap: https://cde-lumiere-disneyplus.bamgrid.com/static-pages.xml
-Sitemap: https://cde-lumiere-disneyplus.bamgrid.com/d-sitemap-1.xml
-Sitemap: https://cde-lumiere-disneyplus.bamgrid.com/d-sitemap-2.xml
-Sitemap: https://cde-lumiere-disneyplus.bamgrid.com/d-sitemap-3.xml
+
+# Source: static-root-proxy

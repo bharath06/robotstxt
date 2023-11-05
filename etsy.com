@@ -1886,8 +1886,35 @@ Sitemap: https://www.etsy.com/mx/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/jp/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/pl/sitemaps/blocklist.xml
 Sitemap: https://www.etsy.com/pt/sitemaps/blocklist.xml
+Sitemap: https://www.etsy.com/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/fi-en/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/au/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/ca/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/ca-fr/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/de/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/dk-en/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/hk-en/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/ie/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/il-en/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/in-en/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/nz/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/no-en/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/se-en/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/sg-en/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/uk/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/at/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/ch/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/fr/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/nl/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/be/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/it/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/es/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/mx/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/jp/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/pl/sitemaps/adhoc.xml
+Sitemap: https://www.etsy.com/pt/sitemaps/adhoc.xml
 #
-# Bienvenue! Welcome!#   \
+# Hoi!#   \
 #
 #    -----
 #   | . . |

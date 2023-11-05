@@ -14,7 +14,7 @@ Disallow: /stools?*
 Disallow: *preview=*
 Disallow: *print=*
 Disallow: *Itemid=*
-Disallow: *loadmore?*
+Disallow: /hits?pkid=*
 Disallow: *?page=____*
 
 User-agent: bingbot

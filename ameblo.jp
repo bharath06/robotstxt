@@ -49,6 +49,7 @@ Disallow: /_api/
 Disallow: /_hook/*.html
 Disallow: /blog_portal/category/*/news
 Disallow: /_static/
- 
+Disallow: /s/embed/reblog-card/
+
 User-agent: bingbot
 Crawl-delay: 1

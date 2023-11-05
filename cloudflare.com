@@ -53,30 +53,6 @@ User-agent: *
 # pages testing
 Disallow: pages.www.cloudflare.com/
 Disallow: en-us.www.cloudflare.com/
-Disallow: de-de.www.cloudflare.com/
-Disallow: ja-jp.www.cloudflare.com/
-Disallow: fr-fr.www.cloudflare.com/
-Disallow: en-gb.www.cloudflare.com/
-Disallow: en-ca.www.cloudflare.com/
-Disallow: en-au.www.cloudflare.com/
-Disallow: en-in.www.cloudflare.com/
-Disallow: es-es.www.cloudflare.com/
-Disallow: it-it.www.cloudflare.com/
-Disallow: ko-kr.www.cloudflare.com/
-Disallow: pt-br.www.cloudflare.com/
-Disallow: zh-cn.www.cloudflare.com/
-Disallow: zh-tw.www.cloudflare.com/
-Disallow: nl-nl.www.cloudflare.com/
-Disallow: id-id.www.cloudflare.com/
-Disallow: th-th.www.cloudflare.com/
-Disallow: ru-ru.www.cloudflare.com/
-Disallow: sv-se.www.cloudflare.com/
-Disallow: vi-vn.www.cloudflare.com/
-Disallow: tr-tr.www.cloudflare.com/
-Disallow: zh-hans-cn.www.cloudflare.com/
-Disallow: pl-pl.www.cloudflare.com/
-Disallow: el-gr.www.cloudflare.com/
-Disallow: nb-no.www.cloudflare.com/
 
 # lp
 Disallow: /lp

@@ -406,6 +406,7 @@ Disallow: /personal/marketplaces/landing/main-home-lv
 Disallow: /personal/cards/card-services/supplementary-cards-info
 Disallow: /personal/cards/card-services/dbs-supplementary-card-info-redirect.page
 Disallow: /personal/live-more-sg
+Disallow: /personal/fjdec23.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

@@ -16,8 +16,8 @@ Disallow: /joincall/*
 Disallow: /gifts/link/*
 Disallow: /qrCode/*
 Disallow: /groupcallembed/*
-Clean-param: st%2Ecmd&st%2Elayer%2Ecmd&st%2E_forceSetHistory&st%2E_aid&__ref&cmn&autoplay&bonus&_cp_&promo&ad_id&group_bonus&imageId&nochat&promokey&adv_id&ref&gid&h_a&gift&1&silent&shareBonusFromPlayerGuid&st%2Eerror&st%2Eemail&_ref&auto&mute&hd&ad_level&rel&ya&textId&wmode&title&etext&auto_play&muted&fromTime&linknhung&mad&brandsafety&embed&hl&mt_link_id&tv&showinfo&refplace&st%2Erefplace&mt_creative&mt_adset&mt_click_id&mt_network&mt_campaign&mt_sub1&mt_sub2&mt_sub3&mt_sub4&mt_sub5&__dp&ip&_cl%2Eid&_clickLog&_cl%2Elist&_cl%2EsID&just-logged-in
-Clean-param: st.cmd&st.layer.cmd&st._forceSetHistory&st._aid&__ref&cmn&autoplay&bonus&_cp_&promo&ad_id&group_bonus&imageId&nochat&promokey&adv_id&ref&gid&h_a&gift&1&silent&shareBonusFromPlayerGuid&st.error&st.email&_ref&auto&mute&hd&ad_level&rel&ya&textId&wmode&title&etext&auto_play&muted&fromTime&linknhung&mad&brandsafety&embed&hl&mt_link_id&tv&showinfo&refplace&st.refplace&mt_creative&mt_adset&mt_click_id&mt_network&mt_campaign&mt_sub1&mt_sub2&mt_sub3&mt_sub4&mt_sub5&__dp&ip&_cl.id&_clickLog&_cl.list&_cl.sID&just-logged-in
+Clean-param: st%2Ecmd&st%2Elayer%2Ecmd&st%2E_forceSetHistory&st%2E_aid&__ref&cmn&autoplay&bonus&_cp_&promo&ad_id&group_bonus&imageId&nochat&promokey&adv_id&ref&gid&h_a&gift&1&silent&shareBonusFromPlayerGuid&st%2Eerror&st%2Eemail&_ref&auto&mute&hd&ad_level&rel&ya&textId&wmode&title&etext&auto_play&muted&fromTime&linknhung&mad&brandsafety&embed&hl&mt_link_id&tv&showinfo&refplace&st%2Erefplace&mt_creative&mt_adset&mt_click_id&mt_network&mt_campaign&mt_sub1&mt_sub2&mt_sub3&mt_sub4&mt_sub5&__dp&ip&_cl%2Eid&_clickLog&_cl%2Elist&_cl%2EsID&just-logged-in&st%2Ecategory&1&_sm_au_
+Clean-param: st.cmd&st.layer.cmd&st._forceSetHistory&st._aid&__ref&cmn&autoplay&bonus&_cp_&promo&ad_id&group_bonus&imageId&nochat&promokey&adv_id&ref&gid&h_a&gift&1&silent&shareBonusFromPlayerGuid&st.error&st.email&_ref&auto&mute&hd&ad_level&rel&ya&textId&wmode&title&etext&auto_play&muted&fromTime&linknhung&mad&brandsafety&embed&hl&mt_link_id&tv&showinfo&refplace&st.refplace&mt_creative&mt_adset&mt_click_id&mt_network&mt_campaign&mt_sub1&mt_sub2&mt_sub3&mt_sub4&mt_sub5&__dp&ip&_cl.id&_clickLog&_cl.list&_cl.sID&just-logged-in&st.category&1&_sm_au_
 Clean-param: st._surl
 Sitemap: https://ok.ru/sitemap-index-misc.xml.gz
 Sitemap: https://ok.ru/sitemap-index-game.xml.gz
@@ -34,3 +34,4 @@ Sitemap: https://ok.ru/sitemap-index-group-topic.xml.gz
 Sitemap: https://ok.ru/sitemap-index-music-artist.xml.gz
 Sitemap: https://ok.ru/sitemap-index-music-album.xml.gz
 Sitemap: https://ok.ru/sitemap-index-video-0.xml.gz
+Sitemap: https://ok.ru/sitemap-index-hobby.xml.gz

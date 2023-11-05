@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /.well-known/
 Allow: /*/review
 Allow: /*/*/review
 Allow: /blog/etalase

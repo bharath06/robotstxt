@@ -35,6 +35,8 @@ Disallow: /thankyou/
 Disallow: /flights/results
 Disallow: /*/flights/results
 Disallow: /activities/detail
+Disallow: /*/flights/airport/*
+Disallow: /flights/airport/*
 
 User-agent: google-hoteladsverifier
 Disallow:

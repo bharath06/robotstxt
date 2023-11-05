@@ -11,6 +11,8 @@ Disallow: /r/
 Disallow: /trending
 Disallow: /search?q$
 Disallow: /search?q=
+Disallow: /*/search?q=
+Disallow: /*/search/*?q=
 Disallow: /*/*source=
 Allow: /_/
 Allow: /_/api/users/*/meta

@@ -16,6 +16,8 @@ Allow: /apply
 Allow: /conference-2021-12
 Allow: /template
 Allow: /lizard-api/templates/viewport
+Allow: /co
+Allow: /toolboxes
 
 Disallow: /a
 Disallow: /b

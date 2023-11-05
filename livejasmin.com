@@ -2,6 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /*?q=*
 Disallow: */channel/flash/channel-list/*
+Disallow: /next
 Sitemap: https://api-gateway.dditsadn.com/v1/auth/livejasmin/en/sitemap-language-index.xml
 Sitemap: https://api-gateway.dditsadn.com/v1/auth/livejasmin/es/sitemap-language-index.xml
 Sitemap: https://api-gateway.dditsadn.com/v1/auth/livejasmin/de/sitemap-language-index.xml

@@ -60,6 +60,9 @@ Disallow: */fullscreen-page
 Disallow: /wearepages
 Disallow: */laboratory/conductAllInScope
 Disallow: /studio/blog/*?filter=
+Disallow: /studio/academy/search-results
+Disallow: /studio/academy/search
+Disallow: /studio/blog/search-results?q
 Disallow: /studio/blog/*&filter=
 
 Sitemap: https://www.wix.com/sitemap.xml

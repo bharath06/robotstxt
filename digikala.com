@@ -47,5 +47,6 @@ disallow: /categories
 Allow: *?amp=1
 Allow: */mag/*.js
 Allow: */mag/*.css
+Allow: *?x-oss-process=image/*
 
 Sitemap: https://www.digikala.com/sitemap.xml

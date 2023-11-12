@@ -27,6 +27,7 @@ Sitemap: https://www.yahoo.com/lifestyle/sitemaps/lifestyles-sitemap_index_US_en
 Sitemap: https://www.yahoo.com/lifestyle/sitemaps/lifestyle-sitemap_googlenewsindex_US_en-US.xml.gz
 Sitemap: https://www.yahoo.com/subscriptions/sitemap.xml
 Sitemap: https://www.yahoo.com/news/weather/sitemap.xml
+Sitemap: https://www.yahoo.com/sitemap-uh.xml
 Sitemap: https://www.yahoo.com/news/sitemaps/news-sitemap_index_US_en-US.xml.gz
 Sitemap: https://www.yahoo.com/news/sitemaps/news-sitemap_googlenewsindex_US_en-US.xml.gz
 Sitemap: https://www.yahoo.com/now/sitemaps/now-sitemap_index_US_en-US.xml.gz

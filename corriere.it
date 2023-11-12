@@ -13,6 +13,9 @@ Disallow: /
 User-agent: anthropic-ai
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: *
 Disallow: *?RedirectUrl
 Disallow: /privacy.shtml 
@@ -254,3 +257,4 @@ Sitemap: https://www.corriere.it/sport/risultati-live/sitemap.xml
 Sitemap: https://www.corriere.it/salute/il-medico-risponde/sitemap.xml
 Sitemap: https://www.corriere.it/rss/sitemap/lettere-al-direttore.xml
 Sitemap: https://www.corriere.it/rss/sitemap/lo-dico-al-corriere.xml
+Sitemap: https://www.corriere.it/rss/sitemap/Cook-Last.xml

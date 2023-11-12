@@ -31,6 +31,7 @@ Disallow: /Browse/save_u.aspx
 Disallow: /browse/view.aspx
 Disallow: /Browse/view.aspx
 Disallow: /connect/profile/*
+Disallow: /contextux/historicalinsights/
 Disallow: /cs/bizdev/*
 Disallow: /cs/standards/*
 Disallow: /dna/insights/*
@@ -46,6 +47,7 @@ Disallow: /family-tree/person/tree/*
 Disallow: /family-tree/pt/person.aspx
 Disallow: /genealogy/records/tara-milutis_161886488
 Disallow: /hints/*
+Disallow: */historicalinsights/
 Disallow: /HomeRedirect.aspx*
 Disallow: /iexec?htx=View
 Disallow: /iexec?htx=view
@@ -87,4 +89,4 @@ Disallow: /savetoancestry*
 User-agent: sogou spider
 Disallow: /secure/
 
-## GB Updated 30 Jun 2023
+## GB Updated 8 Nov 2023

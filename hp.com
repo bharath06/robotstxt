@@ -70,6 +70,8 @@ Disallow: /us-en/shop/userregistrationadd
 Disallow: /webapp/wcs/stores/servlet/OrderStatusFinalResultView
 Disallow: /us-en/shop/OrderStatusFinalResultView?*
 Disallow: /*jumpid
+Disallow: /*-prodlive*/us-en/shop*
+Disallow: /*-prod-drlive*/us-en/shop*
 
 User-agent: AdsBot-Google
 Allow: /

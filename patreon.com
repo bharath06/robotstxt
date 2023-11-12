@@ -20,3 +20,13 @@ Disallow: /checkout/
 User-agent: PetalBot
 Disallow: /
 Sitemap: http://www.patreon.com/sitemap.xml
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: FacebookBot
+Disallow: /

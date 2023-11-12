@@ -27,6 +27,21 @@ Disallow: /health-news/*/wp-*
 Disallow: /cdn.jwplayer.com/previews/*
 Disallow: /healthy/
 
+# internal integration tests
+Disallow: /health/sponsored-article-test-do-not-edit-this-ever
+Disallow: /program/hms-test-program-page
+Disallow: /health/QA-Tabbed-ManyTabs-21
+Disallow: /health/post-block-widget-sampler
+Disallow: /health/test-reference-article-for-front-end-tests
+Disallow: /health/wp-2485828
+Disallow: /health/this-is-an-infinite-scroll-test-page-please-do-not-modify-this-page-without-checking-with-frontend-site-teams
+
+# user auth api endpoint for ab test
+Disallow: /api/auth/
+
+# Static Test Articles
+Disallow: /test/
+
 # Infinite Scroll API
 Disallow: /api/content/
 

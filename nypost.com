@@ -124,6 +124,9 @@ Disallow: /
 User-agent: PiplBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: *
 Disallow: /new-york-post-instagram-feed/
 Disallow: /new-york-post-tiktok-feed/

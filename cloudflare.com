@@ -52,7 +52,6 @@ User-agent: *
 
 # pages testing
 Disallow: pages.www.cloudflare.com/
-Disallow: en-us.www.cloudflare.com/
 
 # lp
 Disallow: /lp

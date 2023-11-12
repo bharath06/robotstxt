@@ -27,7 +27,6 @@ Disallow: /authenticate
 Disallow: /autologin
 Disallow: /clearcookies
 Disallow: /companies
-Disallow: /dvdterms
 Disallow: /editpayment
 Disallow: /emailunsubscribe
 Disallow: /error

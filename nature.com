@@ -44,3 +44,5 @@ Disallow: /nature-index/institution-research-output/export
 Disallow: /nature-index/news/archive/search/by-country
 Disallow: /nature-index/news/archive/search/by-institution
 Disallow: /nature-index/annual-tables/2021/academic-normalized
+Disallow: */platform/disqus*
+Disallow: */cas-redirect/*

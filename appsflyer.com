@@ -26,6 +26,7 @@ Allow: /benchmarks/ja/
 Allow: /benchmarks/cn/
 Allow: /benchmarks/fr/
 
+Disallow: /vi/
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 Disallow: /gatedpdfs/

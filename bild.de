@@ -61,3 +61,7 @@ Disallow: /
 # Google Bard
 User-agent: Google-Extended
 Disallow: /
+
+# Common Crawl Foundation
+User-agent: CCBot
+Disallow: /

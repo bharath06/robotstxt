@@ -247,3 +247,6 @@ Disallow: /
 
 User-agent: PiplBot
 Disallow: /
+
+User-agent: Google-Extended
+Disallow: /

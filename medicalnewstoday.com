@@ -26,3 +26,9 @@ Disallow: /
 
 # Sitemaps
 Sitemap: https://www.medicalnewstoday.com/sitemap.xml
+
+# Widget Sampler
+Disallow: /articles/widget-sampler
+
+# Static Test Articles
+Disallow: /test/

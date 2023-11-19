@@ -13,7 +13,6 @@ Allow:  /ads.txt
 Disallow: /bmajax/
 Disallow: /v2/
 Disallow: /vp/
-Disallow: /search?
 Disallow: /find-care/search?
 Disallow: /corporate/
 Disallow: /health/mirgraine-headaches
@@ -27,7 +26,7 @@ Disallow: /health-news/*/wp-*
 Disallow: /cdn.jwplayer.com/previews/*
 Disallow: /healthy/
 
-# internal integration tests
+# Internal Frontend Test Pages - Not for Public Indexing
 Disallow: /health/sponsored-article-test-do-not-edit-this-ever
 Disallow: /program/hms-test-program-page
 Disallow: /health/QA-Tabbed-ManyTabs-21
@@ -35,12 +34,22 @@ Disallow: /health/post-block-widget-sampler
 Disallow: /health/test-reference-article-for-front-end-tests
 Disallow: /health/wp-2485828
 Disallow: /health/this-is-an-infinite-scroll-test-page-please-do-not-modify-this-page-without-checking-with-frontend-site-teams
+Disallow: /health/hm-test-17-proven-tips-to-sleep-better-at-night
+Disallow: /healthy/hm-test-page-2-17-proven-tips-to-sleep-better-at-night
+Disallow: /healthy/hm-test-page-3-17-proven-tips-to-sleep-better-at-night
+Disallow: /healthy/hm-test-page-4-diabetes-and-sweets
+Disallow: /healthy/hm-test-page-5-diabetes-and-sweets
+Disallow: /health/drugs/hm-test-all-about-humira
+Disallow: /health/hm-test-feature-template-for-sponsorship
 
 # user auth api endpoint for ab test
 Disallow: /api/auth/
 
 # Static Test Articles
 Disallow: /test/
+
+# Media Revenue Test Pages
+Disallow: /*/hm-test
 
 # Infinite Scroll API
 Disallow: /api/content/
@@ -472,3 +481,4 @@ User-agent: GPTBot
 Disallow: /
 
 Sitemap: https://www.healthline.com/sitemap.xml
+Sitemap: https://www.healthline.com/hlcms-articles-99.xml

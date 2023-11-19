@@ -345,3 +345,6 @@ Disallow: /stingray/api/region/*/floodRisk-data
 
 User-agent: google-amphtml
 disallow: */images/ghostTownMap2x
+
+User-agent: AmazonAdBot
+Disallow: /

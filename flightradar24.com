@@ -3,6 +3,7 @@ Sitemap: https://www.flightradar24.com/blog/sitemap_index.xml
 
 User-agent: *
 Disallow: /mobile/
+Disallow: /auth/
 Disallow: /account/
 Disallow: /redir.php
 Disallow: /aircraft-icons/sprite*

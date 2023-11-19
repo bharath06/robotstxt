@@ -1,4 +1,4 @@
-#IEEE.org Robots Exclusion Rules - Updated October 29, 2018 
+#IEEE.org Robots Exclusion Rules - Updated October 29, 2018
 
 User-agent: *
 
@@ -41,6 +41,7 @@ Disallow: /publications/subscriptions/iel-overview-pricing.html
 Disallow: /communities/working-groups.html
 Disallow: /membership/member-spotlight-submission-form.html
 Disallow: /content/ieee-org/en/stage-homepage-backup.html
+Disallow: /stage-homepage-backup.html
 Disallow: /content/dam/ieee-org/ieee/web/org/pubs/ieee-thesaurus.pdf
 Disallow: /content/dam/ieee-org/ieee/web/org/pubs/2018-thesaurus-oct2018.pdf
 Disallow: /*?refSite*
@@ -51,7 +52,6 @@ User-agent: GPTBot
 Disallow: /
 
 # End of ChatGPT code
-
 
 
 Sitemap: https://www.ieee.org/sitemap.xml

@@ -1,4 +1,5 @@
 User-Agent: *
+Sitemap: https://www.docin.com/sitemap.xml
 Disallow: /app/p
 Disallow: /app/my/
 Disallow: /players/

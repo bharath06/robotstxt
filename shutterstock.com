@@ -44,10 +44,6 @@ Disallow: */search/models/*
 Disallow: */editor/image/*
 Allow: */editor/image/$
 
-Allow: /fi/image-vector/*.jpg
-Allow: /fi/image-vector/*.webp
-Disallow: /fi/image-vector/*
-
 # Disallow User-Agents
 User-agent: CCBot
 Disallow: /

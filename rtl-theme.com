@@ -16,8 +16,8 @@ Allow: /wp-admin/admin-ajax.php
 Allow: /wp-content/*
 Allow: /wp-content/uploads/
 Allow: /wp-content/themes/rtl-theme/upload/uploads/image/*
-Allow: /*?affid=
-Allow: /?utm
+Allow: /wp-includes/js/comment-reply.min.js?ver=*
+Allow: /wp-includes/css/dist/block-library/style-rtl.min.css?ver=*
 
 # Google Image
 User-agent: Googlebot-Image

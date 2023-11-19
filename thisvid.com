@@ -79,7 +79,15 @@ Disallow: /*piwik
 Disallow: /*x=
 Disallow: /*y=
 
+User-agent: Bingbot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
 User-agent: ia_archiver
-Disallow: /
 User-agent: ia_archiver-web.archive.org
+User-agent: MJ12bot
+User-agent: AhrefsBot
+User-agent: Seekport Crawler
 Disallow: /

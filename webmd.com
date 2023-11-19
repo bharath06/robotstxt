@@ -1,5 +1,5 @@
 # Robots.txt file WebMD
-# Updated 9/15/2023
+# Updated 11/9/2023
 
 User-agent: *
 Disallow: */search/search_results/
@@ -75,6 +75,7 @@ Disallow: /robotic-assisted-surgery
 Disallow: /straightline-cml
 Disallow: /telehealth-for-women
 Disallow: /treating-sleep-apnea
+Disallow: /understanding-c3g
 Disallow: /understanding-melanoma
 Disallow: /video/mucinex-md
 Disallow: /world-class-heart-care

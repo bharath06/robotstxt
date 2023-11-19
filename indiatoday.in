@@ -106,6 +106,6 @@ Disallow: /live-score/fixtures/live_score_flipApiData/*
 Disallow: /live-score/fixtures/live_scoreApiData/*
 Disallow: /live-score/fixtures/widget/fixtures_swapper/*
 Disallow: /live-score/cricket/auction_ajax/
-Disallow: /api/ajax/reactions/api/ajax/reactions
+Disallow: /api/ajax/reactions
 Disallow: /api/ajax/rightlatestnews
 Disallow: /api/ajax/checktheseout 

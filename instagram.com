@@ -13,6 +13,7 @@ Disallow: /qp/batch_fetch_web/
 Disallow: /client_error/
 
 User-agent: Bingbot
+Disallow: /ajax/
 Disallow: /publicapi/
 Disallow: /query/
 Disallow: /logging/

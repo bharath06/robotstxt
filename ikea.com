@@ -85,6 +85,7 @@ Disallow:  /se/sv/sok/?q=*
 Disallow:  /ms/en_US/usearch/?query=*
 Disallow: /ms/en_us/usearch/
 Disallow: /*-fragment.html
+Disallow: /*-fragment-recursive.html
 Disallow: /products/container.html
 Disallow: */rl/
 Disallow: *productId=*

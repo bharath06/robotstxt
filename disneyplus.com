@@ -1,7 +1,10 @@
 #robots.txt for www.disneyplus.com/
 
 User-agent: GPTBot
-Disallow: / 
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
 
 User-agent: *
 Disallow: /*/episode/

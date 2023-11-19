@@ -7,6 +7,8 @@ Sitemap: https://www.cnn.com/ampstories/sitemap.xml
 Sitemap: https://edition.cnn.com/sitemaps/news.xml
 Sitemap: https://www.cnn.com/sitemap/article/cnn-underscored.xml
 Sitemap: https://www.cnn.com/sitemap/section/cnn-underscored.xml
+Sitemap: https://www.cnn.com/cnn-underscored/money/sitemap.xml
+Sitemap: https://www.cnn.com/cnn-underscored/money/sitemap-news.xml
 Sitemap: https://www.cnn.com/sitemap/section/politics.xml
 Sitemap: https://www.cnn.com/sitemap/article/opinions.xml
 Sitemap: https://www.cnn.com/sitemap/article.xml

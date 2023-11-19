@@ -36,6 +36,7 @@ Disallow: /ssi/
 Disallow: /tools/
 Disallow: /linked_webroots/
 Disallow: /english/includes_methode/
+Disallow: /includes_methode/
 Disallow: /community-corriere/
 Disallow: /widget/
 Disallow: /dwc/

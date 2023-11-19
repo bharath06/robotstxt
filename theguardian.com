@@ -78,3 +78,9 @@ Disallow: /
 
 User-agent: MoodleBot
 Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /

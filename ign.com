@@ -23,8 +23,7 @@ Disallow: /
 User-agent: PiplBot
 Disallow: /
 
-Sitemap: https://www.ign.com/news/sitemap-ign-google-news-current.xml.gz
-Sitemap: https://www.ign.com/articles/sitemap-ign-article-current.xml.gz
+Sitemap: https://www.ign.com/rss/news/sitemap
 Sitemap: https://www.ign.com/rss/wikis/sitemap-ign-wiki-current
 Sitemap: https://www.ign.com/rss/videos/sitemap-index-recently-updated
 Sitemap: https://www.ign.com/rss/articles/sitemap-index-recently-updated

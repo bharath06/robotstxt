@@ -8,4 +8,5 @@ Disallow: /admin*
 Disallow: *:id*
 
 
-Sitemap: https://www.moniban.news/sitemap.xml
+
+Sitemap: https://www.moniban.ir/sitemap.xml

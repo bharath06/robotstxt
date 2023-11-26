@@ -16,6 +16,8 @@ Disallow: /joincall/*
 Disallow: /gifts/link/*
 Disallow: /qrCode/*
 Disallow: /groupcallembed/*
+Disallow: /dk?*
+Disallow: /discussions/*
 
 Clean-param: st.cmd
 Clean-param: &st.layer.cmd
@@ -148,6 +150,7 @@ Clean-param: &_cl.list
 Clean-param: &_cl.sID
 Clean-param: &just-logged-in
 Clean-param: &_sm_au_
+Clean-param: &__fd__
 
 Sitemap: https://ok.ru/sitemap-index-misc.xml.gz
 Sitemap: https://ok.ru/sitemap-index-game.xml.gz

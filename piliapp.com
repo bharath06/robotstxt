@@ -12,4 +12,3 @@ User-agent: AdsBot-Google
 User-agent: Mediapartners-Google
 Allow: /tw-railway/result/
 
-Sitemap: https://www.piliapp.com/sitemap.xml

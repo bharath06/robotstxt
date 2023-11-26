@@ -110,6 +110,7 @@ Disallow: *filters=*
 Disallow: */apply-for-finance/fragments/simulator/
 Disallow: */electricity-app/
 Disallow: */watch-fragments/*
+Disallow: */editorial-components/*
 Disallow: */monthlyfragments/*
 Disallow: */gcbalance/*
 Disallow: */home-design/share/*

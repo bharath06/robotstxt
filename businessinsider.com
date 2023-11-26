@@ -28,9 +28,8 @@ Disallow: /ws/
 Disallow: /.well-known/amphtml/apikey.pub
 Disallow: /business-insider
 Disallow: /*/contributor
-
-User-agent: googlebot_news
-Disallow: /sc/
+Disallow: /bi$
+Disallow: /news-insider$
 
 User-agent: GPTBot
 Disallow: /

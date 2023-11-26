@@ -80,7 +80,6 @@ Disallow: /*/team/
 Disallow: /*/job/
 Disallow: /*/jobs-old/
 Disallow: /*/author/
-Disallow: /*/start/
 Disallow: /*/locations/
 Disallow: /*/infogramuploader/
 Disallow: /*/request-a-demo-conf/

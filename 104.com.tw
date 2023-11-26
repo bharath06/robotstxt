@@ -8,6 +8,7 @@ Allow:/mobile/
 Allow:/faq/
 Allow:/feedback/
 Allow:/csr/
+Allow:/favicon.ico
 Disallow:/
 
 User-agent: GPTBot

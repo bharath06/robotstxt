@@ -1,5 +1,5 @@
 
-# version: f6f959638af29cbc598b7adab27fd84e19d0d062
+# version: b0b6e4c13a76f8c2e644e4af63b8da72ac42f333
 
 # HTTPS www.bbc.com
 
@@ -34,6 +34,7 @@ Sitemap: https://www.bbc.com/uzbek/sitemap.xml
 Sitemap: https://www.bbc.com/vietnamese/sitemap.xml
 Sitemap: https://www.bbc.com/zhongwen/simp/sitemap.xml
 Sitemap: https://www.bbc.com/zhongwen/trad/sitemap.xml
+Sitemap: https://www.bbc.com/bbcx/index_sitemap.xml
 
 Disallow: /bitesize/search$
 Disallow: /bitesize/search/

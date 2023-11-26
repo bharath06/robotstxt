@@ -1,7 +1,10 @@
 User-agent:  AhrefsBot
 Disallow: /
 
-User-agent:  Bytespider
+User-agent:  DataForSeoBot
+Disallow: /
+
+User-agent:  Applebot
 Disallow: /
 
 User-agent:  SemrushBot
@@ -26,6 +29,11 @@ Disallow: /search.htm
 Disallow: /api
 Disallow: /uc-assert
 Disallow: /ugc_nuxt
+Disallow: /yb/search
+Disallow: /tools-harbor/search
+Disallow: /tools-hscode/search
+Disallow: /toolbox
+Disallow: /funding
 Disallow: .jpg$
 Disallow: .css$
 Disallow: .js$

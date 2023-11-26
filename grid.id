@@ -1,4 +1,7 @@
 User-Agent: *
 Disallow: /search/?q=*
 
+User-Agent: GPTBot
+Disallow: /
+
 Sitemap: https://www.grid.id/sitemap.xml

@@ -14,4 +14,7 @@ Disallow: /author/
 User-agent: Alexabot
 Disallow: /*/amp/
 
+User-agent: grapeshot
+Disallow:
+
 Sitemap: https://www.idntimes.com/sitemap.xml

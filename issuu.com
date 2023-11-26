@@ -158,11 +158,6 @@ Disallow: /lp/thank-you-reader%
 Disallow: /lp/thank-you-reader?
 Disallow: /lp/thank-you-reader/
 
-Disallow: /offers/referral-terms-conditions$
-Disallow: /offers/referral-terms-conditions%
-Disallow: /offers/referral-terms-conditions?
-Disallow: /offers/referral-terms-conditions/
-
 Disallow: /go/menu$
 Disallow: /go/menu%
 Disallow: /go/menu?

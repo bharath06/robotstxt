@@ -15,7 +15,6 @@ Disallow: *preview=*
 Disallow: *print=*
 Disallow: *Itemid=*
 Disallow: /hits?pkid=*
-Disallow: *?page=____*
 
 User-agent: bingbot
 Crawl-delay: 30

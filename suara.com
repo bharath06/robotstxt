@@ -3,9 +3,6 @@ Disallow: /demo/
 Disallow: /scroll/
 Disallow: /pollvote/
 Disallow: /data/
-Disallow: /search$
-Disallow: /search?*
-Disallow: /search/
 User-agent: *
 Allow: /
 User-agent: ChatGPT-User
@@ -17,4 +14,4 @@ Disallow: /
 User-Agent: GPTBot
 Disallow: /
 
-Sitemap: https://www.suara.com/static/sitemap.xml
+Sitemap: https://www.suara.com/sitemap.xml

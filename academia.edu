@@ -9,11 +9,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -26,11 +25,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -43,11 +41,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -60,11 +57,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -77,11 +73,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -94,11 +89,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -111,11 +105,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -128,11 +121,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -145,11 +137,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -162,11 +153,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -179,11 +169,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -196,11 +185,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -213,11 +201,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -230,11 +217,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -247,11 +233,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -264,11 +249,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -281,11 +265,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -298,11 +281,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -315,11 +297,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -332,11 +313,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -349,11 +329,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -366,11 +345,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -383,11 +361,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -400,11 +377,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -417,11 +393,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -434,11 +409,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -451,11 +425,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 
@@ -468,11 +441,10 @@ Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
 
-Disallow: /v0/arbitrary_event
-Disallow: /v0/server_notifications
-Disallow: /v0/impressions
-Disallow: /v0/ab_test
-Disallow: /v0/onsite_pings
+Disallow: /v0/*
+
+Allow: /v0/users/*/following
+Allow: /v0/users/*/coauthors
 
 Allow: /
 

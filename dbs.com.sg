@@ -409,6 +409,7 @@ Disallow: /personal/live-more-sg
 Disallow: /personal/fjdec23.page
 Disallow: /Contact/posb/deposits/apply-myaccount-student/default.page
 Disallow: /personal/insurance-dbs-staff.page
+Disallow: /personal/deposits/foreign-currency-fixed-deposit-codes.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

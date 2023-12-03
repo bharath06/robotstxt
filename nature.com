@@ -1,7 +1,7 @@
 User-agent: *
 Sitemap: https://www.nature.com/sitemap.xml
 Sitemap: https://www.nature.com/subjects/sitemap.xml
-Sitemap: https://www.nature.com/naturecareers/sitemap.xml
+Sitemap: https://www.nature.com/naturecareers/sitemapindex.xml
 Disallow: /search
 Disallow: /*/*/*/pf/
 Disallow: /*.otmi$

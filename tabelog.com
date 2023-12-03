@@ -54,3 +54,11 @@ Disallow: /
 
 User-agent: GPTBot
 Disallow: /
+
+User-agent: grapeshot
+Disallow: /ad_mobile/
+Disallow: /rvwr/*/visitdtl/
+Disallow: /yoyaku/tabelog_booking/
+Disallow: /blog/to_blog
+Disallow: /btb/
+Crawl-delay: 5

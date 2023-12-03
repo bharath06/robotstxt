@@ -101,6 +101,8 @@ Disallow: /subscribe/preferenceapi/
 Disallow: /subscribe/subscriptionapi/
 Disallow: /subscribe/user/
 Disallow: /wpost/proxy
+Disallow: /ehf/
+Disallow: /ehf/*
 
 User-agent: Twitterbot
 Allow: /posttv-beta/
@@ -120,6 +122,9 @@ User-agent: ChatGPT-User
 Disallow: /
 
 User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
 Disallow: /
 
 Sitemap: https://www.washingtonpost.com/arcio/sitemap/master/index/

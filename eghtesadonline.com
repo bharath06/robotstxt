@@ -1,6 +1,8 @@
 User-agent: *
 
 Disallow: /search
+disallow: /feed/*
+disallow: /newsstudio/*
 
 Sitemap: https://www.eghtesadonline.com/sitemap/news/sitemap.xml
 Sitemap: https://www.eghtesadonline.com/sitemap/all/sitemap.xml

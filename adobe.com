@@ -174,11 +174,12 @@ User-agent: SearchmetricsBot
 Disallow: /
 
 User-agent: Googlebot
+Allow: /?promoid=RTQCN3LX
 Disallow: /*promoid=
 Disallow: /*trackingid=
 
 # XML sitemaps
-Sitemap: https://www.adobe.com/homepage/sitemap.xml
+Sitemap: https://www.adobe.com/home-sitemap.xml
 Sitemap: https://www.adobe.com/gen-ai-sitemap.xml
 Sitemap: https://www.adobe.com/cc.sitemap-index.xml
 Sitemap: https://www.adobe.com/cc-creativecloud.index.xml

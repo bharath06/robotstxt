@@ -19,5 +19,13 @@ Disallow: *?utm_medium
 Disallow: */?query
 User-agent: *
 Allow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: OpenAI
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: GPTBot
+Disallow: /
 
 Sitemap: https://www.cnnindonesia.com/sitemap.xml

@@ -162,6 +162,21 @@ Disallow: /topla-kazan
 Disallow: /topla-kazan-kuponlari
 Disallow: /tum--urunler
 Allow: /*gads=true
+
+Disallow: /pl/*
+Allow: /pl/*gads=true
+Disallow: /ro/*
+Allow: /ro/*gads=true
+Disallow: /el/*
+Allow: /el/*gads=true
+Disallow: /bg/*
+Allow: /bg/*gads=true
+Disallow: /hu/*
+Allow: /hu/*gads=true
+Disallow: /cs/*
+Allow: /cs/*gads=true
+Disallow: /sk/*
+Allow: /sk/*gads=true
 # DE rules
 Disallow: /de/account
 Disallow: /de/login

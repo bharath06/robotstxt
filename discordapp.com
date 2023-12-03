@@ -28,6 +28,8 @@ Disallow: /api/
 Disallow: /widget
 Disallow: /widget/
 Disallow: /profile/
+Disallow: /report-review
+Disallow: /report-review/
 
 User-agent: Twitterbot
 Disallow: /channels
@@ -42,6 +44,8 @@ Disallow: /reject-ip
 Disallow: /reject-ip/
 Disallow: /reject-mfa
 Disallow: /reject-mfa/
+Disallow: /report-review
+Disallow: /report-review/
 Disallow: /oauth2
 Disallow: /oauth2/
 Disallow: /api

@@ -114,6 +114,10 @@ Disallow: */editorial-components/*
 Disallow: */monthlyfragments/*
 Disallow: */gcbalance/*
 Disallow: */home-design/share/*
+Disallow: */returns/*?*&liteToken=
+Disallow: */returns/*?liteToken=
+Disallow: */returns/*?ref=
+Disallow: */returns/*?*&ref=
 Allow: */ces/web/modules/*.css
 
 Sitemap: https://www.ikea.com/sitemaps/sitemap.xml

@@ -2,8 +2,7 @@ User-agent: GPTBot
 Disallow: /
 
 User-agent: *
-Allow: /api/dynamic-content/v1/login*
-Disallow: /api/*
+Disallow:
 
 Sitemap: https://www.digitalocean.com/sitemaps/community-tutorial-collections-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/community-tutorials-0.xml.gz

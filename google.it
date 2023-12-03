@@ -234,6 +234,8 @@ Disallow: /shopping/seller
 Disallow: /shopping/ratings/account/metrics
 Disallow: /shopping/ratings/merchant/immersivedetails
 Disallow: /shopping/reviewer
+Disallow: /storefront
+Disallow: /storepicker
 Allow: /about/careers/applications/
 Allow: /about/careers/applications-a/
 Allow: /about/careers/applications/teams/

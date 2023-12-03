@@ -1,5 +1,5 @@
 
-# version: b0b6e4c13a76f8c2e644e4af63b8da72ac42f333
+# version: 7a466af8b6b46a67086851517892eabf94f7024b
 
 # HTTPS www.bbc.com
 
@@ -78,6 +78,7 @@ Disallow: /sounds/search/
 Disallow: /sounds/search?
 Disallow: /ws/includes
 Disallow: /radio/imda
+Disallow: /storyworks/preview/*
 
 User-agent: magpie-crawler
 Disallow: /

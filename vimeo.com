@@ -16,6 +16,7 @@ Disallow: /musicstore/download
 Disallow: /forgot_password
 Disallow: /help/forgot_login
 Disallow: /help/verify_email
+Disallow: /help/zendesk_sso
 Disallow: /user/verify
 Disallow: /search
 Disallow: /_*
@@ -41,6 +42,7 @@ Disallow: /musicstore/download
 Disallow: /forgot_password
 Disallow: /help/forgot_login
 Disallow: /help/verify_email
+Disallow: /help/zendesk_sso
 Disallow: /api/
 Disallow: /user/verify
 Disallow: /search/

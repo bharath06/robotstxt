@@ -27,6 +27,7 @@ Disallow: /*views*page*
 Disallow: /*rating*page*
 Disallow: /*duration*page*
 Allow: /browse/time/*page*
+Allow: /gay/browse/time/*page*
 Disallow: /*/time/*page*
 Disallow: /*title*page*
 Disallow: /*?ajax=*

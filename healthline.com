@@ -396,9 +396,6 @@ Disallow: /
 User-agent: Iron33/1.0.2
 Disallow: /
 
-User-agent: Bookmark search tool
-Disallow: /
-
 User-agent: GetRight/4.2
 Disallow: /
 

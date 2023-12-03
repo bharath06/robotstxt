@@ -35,6 +35,15 @@ Crawl-delay: 1
 User-agent: GPTBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
 Sitemap: https://codecanyon.net/sitemap.xml.gz
 Sitemap: https://codecanyon.net/lp/sitemap.xml
 Sitemap: https://codecanyon.net/useful-sitemap.xml.gz

@@ -1,11 +1,13 @@
 User-agent: *
 Allow: */search/login
 Allow: */login$
+Allow: /login.mhtml$
 Disallow: */login
 Disallow: */base/logout
 Allow: */search/account
 Disallow: */account
 Disallow: /subscribe_success
+Allow: /download_history.mhtml$
 Disallow: /download
 Disallow: /checkout
 Disallow: /account_purchase_history.mhtml
@@ -64,11 +66,13 @@ Allow: */image-vector/*.jpg
 Allow: */image-vector/*.webp
 Allow: */search/login
 Allow: */login$
+Allow: /login.mhtml$
 Disallow: */login
 Disallow: */base/logout
 Allow: */search/account
 Disallow: */account
 Disallow: /subscribe_success
+Allow: /download_history.mhtml$
 Disallow: /download
 Disallow: /checkout
 Disallow: /account_purchase_history.mhtml
@@ -120,11 +124,13 @@ Disallow: */image-generated/*
 Disallow: */video/clip-* # Disallow Video ADPs
 Allow: */search/login
 Allow: */login$
+Allow: /login.mhtml$
 Disallow: */login
 Disallow: */base/logout
 Allow: */search/account
 Disallow: */account
 Disallow: /subscribe_success
+Allow: /download_history.mhtml$
 Disallow: /download
 Disallow: /checkout
 Disallow: /account_purchase_history.mhtml

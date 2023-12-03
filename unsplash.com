@@ -26,7 +26,7 @@ Disallow: /ngetty
 
 Disallow: /napi
 
-Disallow: /nmetrics
+Disallow: /netrics
 
 Disallow: /nautocomplete
 

@@ -224,6 +224,8 @@ Allow: /sport/risultati-live/sitemap.xml
 Allow: /elezioni/*.xml
 Disallow: /*?q=
 Disallow: /*?f=
+Disallow: /*?s=
+Disallow: /*?searchType=
 
 Sitemap: https://www.corriere.it/rss/homepage.xml
 Sitemap: https://www.corriere.it/salute/sitemap-dizionario-corriere-salute.xml 

@@ -27,6 +27,7 @@ Disallow: *seo_cjy*
 
 User-agent: Baiduspider
 Allow: /topic/
+Allow: /aweme/
 Disallow: /zhuanti/
 
 User-agent: *

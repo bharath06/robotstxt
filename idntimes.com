@@ -15,6 +15,6 @@ User-agent: Alexabot
 Disallow: /*/amp/
 
 User-agent: grapeshot
-Disallow:
+Disallow:/
 
 Sitemap: https://www.idntimes.com/sitemap.xml

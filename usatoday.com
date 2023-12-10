@@ -15,6 +15,9 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: *
 Disallow: /errors
 Disallow: /interactive/
@@ -59,3 +62,4 @@ Sitemap: https://www.usatoday.com/money/blueprint/sitemap.xml
 Sitemap: https://www.usatoday.com/money/blueprint/sitemap-news.xml
 Sitemap: https://www.usatoday.com/betting/sitemap.xml
 Sitemap: https://www.usatoday.com/betting/news-sitemap.xml
+Sitemap: https://www.usatoday.com/money/homefront/sitemap.xml

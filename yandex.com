@@ -194,7 +194,6 @@ Disallow: /video/*/preview
 Allow: /video/$
 Allow: /video/?
 Allow: /video/sitemap
-Allow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/
 Allow: /video/dizi-izle/
 Allow: /video/dizi-izle/?
 Allow: /video/yerli-dizi-izle/
@@ -243,6 +242,8 @@ Disallow: *maps/covid19*
 Disallow: /support2/*zout_
 Disallow: /sport
 Disallow: /support2/sport*
+Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
+Disallow: /video/touch/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*
@@ -451,7 +452,6 @@ Disallow: /video/touch
 Allow: /video/$
 Allow: /video/?
 Allow: /video/sitemap
-Allow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/
 Allow: /video/dizi-izle/
 Allow: /video/dizi-izle/?
 Allow: /video/yerli-dizi-izle/
@@ -497,6 +497,8 @@ Disallow: *maps/covid19*
 Disallow: /support2/*zout_
 Disallow: /sport
 Disallow: /support2/sport*
+Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
+Disallow: /video/touch/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
 
 User-Agent: Twitterbot
 Allow: /images
@@ -522,6 +524,8 @@ Disallow: *maps/covid19*
 Disallow: /support2/*zout_
 Disallow: /sport
 Disallow: /support2/sport*
+Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
+Disallow: /video/touch/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
 
 Sitemap: https://yandex.com/support/sitemap.xml
 Sitemap: https://yandex.com/blog/sitemap.xml
@@ -714,7 +718,6 @@ Disallow: /video/*filmId=*
 Allow: /video/$
 Allow: /video/?
 Allow: /video/sitemap
-Allow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/
 Allow: /video/dizi-izle/
 Allow: /video/dizi-izle/?
 Allow: /video/yerli-dizi-izle/
@@ -754,6 +757,8 @@ Disallow: *maps/covid19*
 Disallow: /support2/*zout_
 Disallow: /sport
 Disallow: /support2/sport*
+Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
+Disallow: /video/touch/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
 
 Clean-Param: ncrnd&redircnt&clid&_&win /
 Clean-Param: random_cgi&sign /turbo*

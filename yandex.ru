@@ -263,6 +263,8 @@ Disallow: /support2/*zout_
 Disallow: /activity/
 Disallow: /sport
 Disallow: /support2/sport*
+Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
+Disallow: /video/touch/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml
@@ -545,6 +547,8 @@ Disallow: /support2/*zout_
 Disallow: /activity/
 Disallow: /sport
 Disallow: /support2/sport*
+Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
+Disallow: /video/touch/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
 
 User-agent: Yandex
 Disallow: /?
@@ -796,6 +800,8 @@ Disallow: /support2/*zout_
 Disallow: /activity/
 Disallow: /sport
 Disallow: /support2/sport*
+Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
+Disallow: /video/touch/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
 
 User-agent: Googlebot
 Disallow: /?
@@ -1061,6 +1067,8 @@ Disallow: /support2/*zout_
 Disallow: /activity/
 Disallow: /sport
 Disallow: /support2/sport*
+Disallow: /video/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
+Disallow: /video/touch/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81/*
 
 Sitemap: https://yandex.ru/pogoda/sitemap_index.xml
 Sitemap: https://yandex.ru/support/sitemap.xml

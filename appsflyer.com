@@ -91,7 +91,7 @@ Disallow: /*/blog/author/
 Disallow: /*/blog/press/
 Disallow: /special-tools/
 Disallow: /request-a-demo/thank-you/
-Disallow: /benchmarks/*/
+Disallow: /benchmarks/de/*/
 Disallow: /benchmarks/ru/*/
 Disallow: /benchmarks/es/*/
 Disallow: /benchmarks/pt/*/

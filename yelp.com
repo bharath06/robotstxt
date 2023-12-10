@@ -71,7 +71,6 @@ Disallow: /biz_share
 Disallow: /biz_update
 Disallow: /bookmark?
 Disallow: /browse/reviews/recent
-Disallow: /bunsen/api/
 Disallow: /client_errors
 Disallow: /collections/following
 Disallow: /collections/user

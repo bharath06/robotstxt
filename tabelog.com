@@ -62,3 +62,11 @@ Disallow: /yoyaku/tabelog_booking/
 Disallow: /blog/to_blog
 Disallow: /btb/
 Crawl-delay: 5
+
+User-agent: YouBot
+Disallow: /ad_mobile/
+Disallow: /rvwr/*/visitdtl/
+Disallow: /yoyaku/tabelog_booking/
+Disallow: /blog/to_blog
+Disallow: /btb/
+Crawl-delay: 5

@@ -35,6 +35,8 @@ Disallow: /search?keyword=*å¾®ä¿¡
 Disallow: /search?keyword=*.com
 Disallow: /blog/?s=
 Disallow: *utm_source
+Disallow: /search?keyword=å¬æè¯ç½ä¸è´­ä¹°
+Disallow: /search?keyword=è½¦ä¸»æ°æ®
 
 User-Agent:*
 Crawl-delay:1

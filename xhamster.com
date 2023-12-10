@@ -49,6 +49,7 @@ disallow: */creators/*/best
 disallow: */creators/*/most-commented
 disallow: */creators/*/most-viewed
 disallow: */creators/*/exclusive
+disallow: */creators/*/full-length
 disallow: */celebrities/*/newest
 disallow: */celebrities/*/best
 disallow: */celebrities/*/most-commented

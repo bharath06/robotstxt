@@ -13,6 +13,7 @@ Allow: /_/fi/
 Allow: /_/fonts/
 Allow: /_/mss/boq-bard-web/
 Allow: /_/mss/boq-chrome-cloudcast/
+Allow: /_/mss/boq-discover-labs/
 Allow: /_/mss/boq-geo/
 Allow: /_/mss/boq-nbu-monetization/
 Allow: /_/mss/boq-search-engagement-post/

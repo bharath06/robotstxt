@@ -34,6 +34,16 @@ Disallow: /search_user
 Disallow: /search?keyword=*.com
 Disallow: /blog/?s=
 Disallow: *utm_source
+Disallow: /search*.com
+Disallow: /search?keyword=ë±ì°ëí¸íì¹ì¤
+Disallow: /search?keyword=ë©ì´í¬ìì¹ì¤
+Disallow: /search?keyword=ì¬ë¡¯ ë¨¹íì¬ì´í¸
+Disallow: /search?keyword=ì ë¶ì¹ì¤
+Disallow: /search?keyword=ìë´í¨ì¤
+Disallow: /search?keyword=ìì¸íì¹ì¤
+Disallow: /search?keyword=ì ì§ì¼ë
+Disallow: /search?keyword=íì´íì¹ì¤
+Disallow: /search?keyword=íëìì
 
 User-Agent:*
 Crawl-delay:1

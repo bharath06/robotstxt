@@ -26,14 +26,13 @@ Disallow:/signup/bind/
 Disallow:/embed/mind/
 Disallow:/editor/view/
 Disallow:/user/
-Disallow:/i/
 Disallow:/topics/
 Disallow:/apps/
 Disallow:/help/
 Disallow:/assets/
 Disallow:/v5_editor/
 
-Allow:https://pc-gray.processon.com/robots.txt
-Allow:https://app.processon.com/robots.txt
 Allow:https://mp.processon.com/robots.txt
 Allow:https://txhy.processon.com/robots.txt
+Allow:https://pc-test.processon.com/robots.txt
+Allow:https://testapi.processon.com/robots.txt

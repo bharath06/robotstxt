@@ -7,6 +7,9 @@
 # Any and all permitted crawling of LinkedIn is subject to LinkedIn's Crawling Terms and Conditions.
 # See http://www.linkedin.com/legal/crawling-terms.
 
+User-agent: LinkedInBot
+Allow: /
+
 User-agent: Googlebot
 Disallow: /addContacts*
 Disallow: /addressBookExport*

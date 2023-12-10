@@ -49,6 +49,7 @@ Disallow: /*/multistore/*
 Disallow: /ru/srr/
 Disallow: /in/web/emi/*
 Allow: /es/multistore/es_canary_islands/
+Disallow: /chat/api/livechat/*
 
 User-agent: Yandex
 Allow: /
@@ -319,3 +320,4 @@ Sitemap:https://www.samsung.com/mn/sitemap.xml
 Sitemap:https://www.samsung.com/jp/sitemap.xml
 Sitemap:https://www.samsung.com/ge/sitemap.xml
 Host: www.samsung.com
+

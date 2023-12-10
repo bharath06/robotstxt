@@ -37,6 +37,7 @@ Disallow: /*/flights/results
 Disallow: /activities/detail
 Disallow: /*/flights/airport/*
 Disallow: /flights/airport/*
+Disallow: /transport/*
 
 User-agent: google-hoteladsverifier
 Disallow:

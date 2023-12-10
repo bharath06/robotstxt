@@ -181,7 +181,7 @@ Disallow: /*trackingid=
 # XML sitemaps
 Sitemap: https://www.adobe.com/home-sitemap.xml
 Sitemap: https://www.adobe.com/gen-ai-sitemap.xml
-Sitemap: https://www.adobe.com/cc.sitemap-index.xml
+Sitemap: https://www.adobe.com/creativecloud/sitemap-index.xml
 Sitemap: https://www.adobe.com/cc-creativecloud.index.xml
 Sitemap: https://www.adobe.com/cc-product.index.xml
 Sitemap: https://www.adobe.com/cc-business.index.xml

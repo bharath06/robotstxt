@@ -34,18 +34,41 @@ Disallow: *__classic__=1
 Disallow: /search_user
 Disallow: /blog/?s=
 Disallow: *utm_source
-Disallow: /search?keyword=*.com
-Disallow: /search?keyword=*Â·com
-Disallow: /search?keyword=*.tv
-Disallow: /search?keyword=*.xyz
-Disallow: /search?keyword=*ãCom
-Disallow: /search?keyword=*Â·COM
-Disallow: /search?category=*.com
-Disallow: /search?category=*Â·com
-Disallow: /search?category=*.tv
-Disallow: /search?category=*.xyz
-Disallow: /search?category=*ãCom
-Disallow: /search?category=*Â·COM
+Disallow: /search*.com
+Disallow: /search*Â·asia
+Disallow: /search*.tv
+Disallow: /search*.xyz
+Disallow: /search*ãCom
+Disallow: /search*Â·COM
+Disallow: /search*åª
+Disallow: /search*å¦¹
+Disallow: /search*å§
+Disallow: /search*å¦
+Disallow: /search*ç§
+Disallow: /search*ç
+Disallow: /search*æ
+Disallow: /search*ç®
+Disallow: /search*éåº
+Disallow: /search*å°å¦
+Disallow: /search*åå
+Disallow: /search*ä¸é¨
+Disallow: /search*éè¯·
+Disallow: /search*å¹³å°
+Disallow: /search*å¤å°
+Disallow: /search*å¼æ·
+Disallow: /search*æå­
+Disallow: /search*æ³¨å
+Disallow: /search*éè¿
+Disallow: /search*æ¸¸æ
+Disallow: /search*ä¸è½½
+Disallow: /search*ç½çº¢
+Disallow: /search*ä»£å­
+Disallow: /search*ä¸­ä»
+Disallow: /search*å¨çº¿
+Disallow: /search*ç»å½
+Disallow: /search*åè´¹
+Disallow: /search*å°å
+
 
 User-Agent:*
 Crawl-delay:1

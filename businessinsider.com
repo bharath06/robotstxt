@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /*?utm_campaign=Monitor&
 Disallow: /adframe
 Disallow: /afp$
 Disallow: /ajax/

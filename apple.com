@@ -12,12 +12,9 @@ Disallow: /*shop/bag*
 Disallow: /*shop/browse/overlay/*
 Disallow: /*shop/browse/ribbon/*
 Disallow: /*shop/browse/campaigns/mobile_overlay*
-Disallow: /*shop/button_availability*
 Disallow: /*shop/favorites*
 Disallow: /*shop/iphone/payments/overlay/*
-Disallow: /*shop/mobile/olss_error*
 Disallow: /*shop/order/*
-Disallow: /*shop/rs-mvt/rel/*
 Disallow: /*shop/store/feeds/*
 Disallow: /*_adc_*/shop/
 Disallow: /*_aoc_*/shop/

@@ -234,8 +234,8 @@ Disallow: /bin-public/060_www_fidelity_com/documents/customer-service/new-accoun
 Disallow: /bin-public/060_www_fidelity_com/documents/customer-service/transfer-assets-to-fidelity.pdf
 Disallow: /bin-public/060_www_fidelity_com/documents/applications/
 Disallow: /*.comp$
+Disallow: /bin-public/060_www_fidelity_com/documents/noindex/*
 Noindex: /bin-public/060_www_fidelity_com/documents/applications/
 Noindex: /misc/ekits/pdf/cash_offer_terms.pdf
-Noindex: /bin-public/060_www_fidelity_com/documents/noindex/*
 Sitemap: https://www.fidelity.com/sitemap.xml
 Sitemap: https://www.fidelity.com/videositemap.xml

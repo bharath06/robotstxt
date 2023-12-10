@@ -19,4 +19,5 @@ User-agent: *
 Disallow: /_/
 Disallow: */print
 Disallow: /search
+Disallow: /xid
 

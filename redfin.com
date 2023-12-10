@@ -155,6 +155,7 @@ Sitemap: https://www.redfin.com/sitemap_com_rental_dps_mf.xml
 Sitemap: https://www.redfin.com/sitemap_com_rental_dps_sf.xml
 Sitemap: https://www.redfin.com/sitemap_com_rental_dps_core.xml
 Sitemap: https://www.redfin.com/sitemap_com_rental_dps_additional.xml
+Sitemap: https://www.redfin.com/sitemap_com_rental_market_trends.xml
 
 User-agent: *
 Allow: /stingray/do/buy
@@ -320,6 +321,7 @@ Sitemap: https://www.redfin.com/sitemap_com_rental_dps_mf.xml
 Sitemap: https://www.redfin.com/sitemap_com_rental_dps_sf.xml
 Sitemap: https://www.redfin.com/sitemap_com_rental_dps_core.xml
 Sitemap: https://www.redfin.com/sitemap_com_rental_dps_additional.xml
+Sitemap: https://www.redfin.com/sitemap_com_rental_market_trends.xml
 
 User-agent: AdsBot-Google
 Allow: /corv/data/environment/

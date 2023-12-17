@@ -20,6 +20,7 @@ Disallow: /keyword/
 Disallow: /action/showPublications*ConceptID=*
 Disallow: /action/showPublications*alphabetRange=*
 Disallow: /doi/epdf/*
+Disallow: /authored-by/
 Disallow: /history/
 Allow: /action/showPublications
 Allow: /action/showXml

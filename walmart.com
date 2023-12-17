@@ -8,13 +8,9 @@ Sitemap: https://www.walmart.com/sitemap_browse_fst.xml
 Sitemap: https://www.walmart.com/sitemap_store_dept.xml
 
 Sitemap: https://www.walmart.com/sitemap_tp_legacy.xml
-Sitemap: https://www.walmart.com/sitemap_tp_100K.xml
-Sitemap: https://www.walmart.com/sitemap_tp_1M.xml
 Sitemap: https://www.walmart.com/sitemap_tp_at.xml
-Sitemap: https://www.walmart.com/sitemap_tp_at_2nd_set.xml
-Sitemap: https://www.walmart.com/sitemap_tp_at_3rd_set.xml
 Sitemap: https://www.walmart.com/sitemap_tp_br.xml
-Sitemap: https://www.walmart.com/sitemap_tp_autofwk.xml
+Sitemap: https://www.walmart.com/sitemap_tp_kp.xml
 
 Sitemap: https://www.walmart.com/sitemap_brp_02.xml
 Sitemap: https://www.walmart.com/sitemap_brp_03.xml
@@ -34,6 +30,12 @@ Sitemap: https://www.walmart.com/sitemap_auto_dir.xml
 Sitemap: https://www.walmart.com/sitemap_brndshp_brand.xml
 
 Sitemap: https://www.walmart.com/sitemap_sp.xml
+
+Sitemap: https://www.walmart.com/sitemap_hi_ip.xml
+Sitemap: https://www.walmart.com/sitemap_hi_tp.xml
+Sitemap: https://www.walmart.com/sitemap_hi_bp.xml
+Sitemap: https://www.walmart.com/sitemap_hi_mp.xml
+
 
 #Disallow select URLs
 User-agent: *

@@ -13,5 +13,6 @@ Disallow: /openid
 Disallow: /oauth
 Disallow: /careers/
 Disallow: /join/shared_invite
+Disallow: /*?*
 
 Sitemap: https://slack.com/sitemap.xml

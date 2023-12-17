@@ -84,6 +84,10 @@ Disallow: /videos/explore
 Disallow: /videos/favorites
 Disallow: /videos/feed
 Disallow: /videos/feedcontent
+Disallow: /videos/music
+Disallow: /videos/music?
+Disallow: /videos/music/
+Disallow: /videos/music/?
 Disallow: /videos/search?
 Disallow: /videos/search/?
 Disallow: /videos/trending

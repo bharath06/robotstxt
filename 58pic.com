@@ -67,4 +67,7 @@ Disallow: /d-like.html
 Disallow: /assess.html
 Disallow: /tj/
 Disallow: /piccate/*-*-*-p*.html
+Disallow: /tupian/*-creative_score-*
+Disallow: /tupian/*-0-0-0*
 Allow: /piccate/*-*-*.html
+Allow: /*?page_source=1

@@ -91,6 +91,7 @@ Disallow: /bb/jump/
 Disallow: /bb/ispapply_change.asp*
 Disallow: /bb/ispapply_flets_change.asp*
 Disallow: /robot-advisor/jump/
+Disallow: /programming-school/jump/
 
 User-agent: Mediapartners-Google
 Allow: /kuchikomi/review/history/
@@ -188,6 +189,7 @@ Disallow: /bb/jump/
 Disallow: /bb/ispapply_change.asp*
 Disallow: /bb/ispapply_flets_change.asp*
 Disallow: /robot-advisor/jump/
+Disallow: /programming-school/jump/
 Disallow: /used/*?*
 
 User-agent: GPTBot

@@ -30,6 +30,7 @@ Allow: /pro/$
 Allow: /pro/assets/
 Allow: /pro/ideas
 Allow: /pro/*/explorer/marketcap
+Allow: /pro/propicks
 
 Disallow: /news/pro/
 Allow: /news/pro/$

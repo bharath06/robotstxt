@@ -26,6 +26,10 @@ Disallow: /2015/07/04/419570939/chasing-memories-in-their-refugee-camp-40-years-
 Disallow: /transcripts/419570939*
 Disallow: /sections/parallels/2016/08/15/480128005/for-french-teens-smoking-still-has-more-allure-than-stigma
 Disallow: /transcripts/480128005*
+Disallow: /2020/04/08/830237502/episode-989-what-if-no-one-pays-rent
+Disallow: /transcripts/830237502*
+Disallow: /sections/goatsandsoda/2015/06/09/406744975/a-gender-revolution-hits-the-streets-two-wheels-at-a-time
+Disallow: /transcripts/406744975*
 Disallow: /sureroute
 Disallow: /*/partials*
 Disallow: /*?live=*

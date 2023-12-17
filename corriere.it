@@ -46,6 +46,7 @@ Disallow: /cinema/icortissimi-ended/
 Disallow: /ZCestino/
 Disallow: /prova/
 Disallow: /test/
+Disallow: /landing/wrapped-2023/
 Disallow: /test_mf/
 Disallow: /piano-511/
 Disallow: /b2b/
@@ -233,7 +234,6 @@ Sitemap: https://www.corriere.it/rss/lastvideos.xml
 Sitemap: https://www.corriere.it/rss/sitemap_v2.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Economia.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Scienze.xml
-Sitemap: https://www.corriere.it/rss/sitemap/LiberiTutti.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Moda.xml
 
 #CORRIERE-452 2018-10-08

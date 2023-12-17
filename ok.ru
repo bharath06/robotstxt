@@ -151,6 +151,11 @@ Clean-param: &_cl.sID
 Clean-param: &just-logged-in
 Clean-param: &_sm_au_
 Clean-param: &__fd__
+Clean-param: &dc_video_web_url
+Clean-param: &__hrp
+Clean-param: &__ca__chat
+Clean-param: &_sm_byp
+Clean-param: &1
 
 Sitemap: https://ok.ru/sitemap-index-misc.xml.gz
 Sitemap: https://ok.ru/sitemap-index-game.xml.gz

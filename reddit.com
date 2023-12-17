@@ -1,3 +1,5 @@
+# Our robots.txt is for search engines
+
 # 80legs
 User-agent: 008
 Disallow: /

@@ -48,6 +48,9 @@ Disallow: /location/current
 Disallow: /api/v4/weather/
 Disallow: /api/v4/rcm/*
 
+User-agent: GPTBot
+Disallow: /
+
 User-agent: *
 Allow: /doc/addr.shtml
 Allow: /doc/history.shtml

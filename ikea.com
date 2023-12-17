@@ -104,6 +104,7 @@ Disallow: */ikea-family/home-project-planner/*
 Disallow: */ramavtal/*
 Disallow: */buyback/*
 Disallow: */asisonline/*
+Disallow: */asisonline
 Disallow: */nudge/*
 Disallow: */ces/web/modules/*
 Disallow: *filters=*

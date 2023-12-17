@@ -1,13 +1,3 @@
-User-agent: Google
-User-agent: Googlebot
-User-agent: AdsBot-Google
-User-agent: AdsBot-Google-Mobile
-Disallow: /champions/*/build?*
-Disallow: /champions/*/build/
-Allow: /champions/*/build$
-Allow: /champions/*/build?hl=
-Allow: /
-
 User-agent: *
 Allow: /
 

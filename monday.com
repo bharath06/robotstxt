@@ -16,8 +16,8 @@ Disallow: /blog/blue-tracker/
 Disallow: /blog/packs/
 Disallow: *?s=*
 Disallow: /*?*
-Allow: .js
-Allow: .css
+Allow: /*.js*
+Allow: /*.css*
 
 User-agent: Skynet
 Disallow: /

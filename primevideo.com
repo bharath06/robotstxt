@@ -30,6 +30,5 @@ Disallow: /detail/0U66E49JBHPKV0MPS0XXVW3XRX
 Disallow: /detail/Case-Toh-Banta-Hai/0FTI4RC3HWOSIMNGKJUHU727EN
 Disallow: /dp/*
 
-
 User-agent: EtaoSpider
 Disallow: /

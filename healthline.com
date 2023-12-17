@@ -13,7 +13,6 @@ Allow:  /ads.txt
 Disallow: /bmajax/
 Disallow: /v2/
 Disallow: /vp/
-Disallow: /find-care/search?
 Disallow: /corporate/
 Disallow: /health/mirgraine-headaches
 Disallow: /health/wp-*
@@ -41,9 +40,6 @@ Disallow: /healthy/hm-test-page-4-diabetes-and-sweets
 Disallow: /healthy/hm-test-page-5-diabetes-and-sweets
 Disallow: /health/drugs/hm-test-all-about-humira
 Disallow: /health/hm-test-feature-template-for-sponsorship
-
-# user auth api endpoint for ab test
-Disallow: /api/auth/
 
 # Static Test Articles
 Disallow: /test/

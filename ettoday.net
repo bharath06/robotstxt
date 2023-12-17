@@ -11,6 +11,8 @@ Disallow:/changeReadType.php
 Disallow:/changeReadType_ii.php
 Disallow:/error.htm
 Disallow:/et_comments.php7
+Disallow:/news-review-list.htm
+Disallow:/social/comments/
 Disallow:/events/_cloud/
 Disallow:/events/_demo/
 Disallow:/events/_wayne/
@@ -69,8 +71,7 @@ Disallow:/2012%E5%A4%A7%E9%81%B8/
 Disallow:/%E5%AE%85%E7%94%B7%E5%A5%B3%E7%A5%9E/
 Disallow:/%E9%87%91%E8%9D%A6%E7%8D%8E/
 
-# Crawl-delay: 5
-
+# sitemap
 Sitemap: https://www.ettoday.net/news-sitemap.xml
 Sitemap: https://www.ettoday.net/sitemap.xml
 Sitemap: https://www.ettoday.net/sitemap-lemon.xml

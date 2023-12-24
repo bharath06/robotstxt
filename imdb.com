@@ -36,3 +36,6 @@ Disallow: /_json/*
 User-agent: Baiduspider
 Disallow: /list/*
 Disallow: /user/*
+
+User-agent: bingbot
+Disallow: /showtimes/location/*

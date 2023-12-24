@@ -41,6 +41,9 @@ Allow: /wirecutter/*?*utm_source=
 Allow: /ads/public/
 Allow: /svc/news/v3/all/pshb.rss
 
+User-agent: Bytespider
+Disallow: /
+
 User-agent: CCBot
 Disallow: /
 

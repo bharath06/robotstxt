@@ -7,6 +7,10 @@
 # Edited : May 15, 2023 (Add webstories sitemap)
 # Edited : Jun 7, 2023 (Added 3 recruiter url's)
 # Edited : Sept 22, 2023 (Block GPTBot)
+# Edited : Dec 22, 2023 (Block Google-Extended)
+
+User-agent: Google-Extended
+Disallow: /
 
 User-agent: GPTBot
 Disallow: /

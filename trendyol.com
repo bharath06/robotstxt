@@ -1,15 +1,5 @@
 User-agent: *
 User-agent: Googlebot
-Disallow: /*-x-a0*-v*
-Disallow: /*-x-a1*-v*
-Disallow: /*-x-a2*-v*
-Disallow: /*-x-a3*-v*
-Disallow: /*-x-a4*-v*
-Disallow: /*-x-a5*-v*
-Disallow: /*-x-a6*-v*
-Disallow: /*-x-a7*-v*
-Disallow: /*-x-a8*-v*
-Disallow: /*-x-a9*-v*
 Disallow: /*?bc=
 Disallow: /*?bl=
 Disallow: /*?bu=

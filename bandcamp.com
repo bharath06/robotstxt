@@ -8,6 +8,8 @@ Disallow: /stream
 Disallow: /api/
 # the currency data endpoint is required to render pages
 Allow: /api/currency_data/
+# required to render /discover pages
+Allow: /api/discover/1/discover_mobile_web
 # pattern matching known to work only with Google and Yahoo
 Disallow: /*_cb$
 

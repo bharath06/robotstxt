@@ -42,10 +42,6 @@ Disallow: /transport/*
 User-agent: google-hoteladsverifier
 Disallow:
 
-User-agent: AdsBot-Google
-Disallow: /zn-hk/
-Allow: /activities/detail
-
 User-agent: TurnitinBot
 Disallow: /
 

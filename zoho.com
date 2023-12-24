@@ -282,6 +282,10 @@ Disallow: /branding/images/dont-04.png
 Disallow: /branding/images/dont-03.png
 Disallow: /branding/images/dont-02.png
 Disallow: /branding/images/dont-01.png
+Disallow: /sites/zweb/images/zoho_general_pages/branding/dont-1.png
+Disallow: /sites/zweb/images/zoho_general_pages/branding/dont-2.png
+Disallow: /sites/zweb/images/zoho_general_pages/branding/dont-3.png
+Disallow: /sites/zweb/images/zoho_general_pages/branding/dont-4.png
 
 User-agent: zs-crawler
 User-agent: zoho-scrapy

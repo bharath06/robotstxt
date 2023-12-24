@@ -297,6 +297,8 @@ Disallow: /content/dam/web/ja_jp/www/assets/pdf/
 
 Disallow: /content/blogs/au/en/*
 Disallow: /content/blogs/us/en/*
+Disallow: /content/blogs/nl/nl/*
+
 
 #
 # Blocked /in/ on request from ALoon

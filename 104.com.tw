@@ -9,9 +9,24 @@ Allow:/faq/
 Allow:/feedback/
 Allow:/csr/
 Allow:/favicon.ico
+Disallow:*keyword=*.xyz*
+Disallow:*keyword=*.cn*
+Disallow:*keyword=*.top*
+Disallow:*keyword=*.pro*
+Disallow:*excludeCompanyByCustno=*
+Disallow:*excludeIndustryCat=*
+Disallow:*expansionType=*
+Disallow:*langStatus=*
+Disallow:*jobsource=*
+Disallow:*order=*
+Disallow:*page=*
+Disallow:*mode=*
+Disallow:*utm_*
+Disallow:*/students/*,,,,
 Disallow:/
 
 User-agent: GPTBot
+Crawl-delay:10
 Allow:/$
 Allow:/jobs/
 Allow:/faq/

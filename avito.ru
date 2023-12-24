@@ -61,10 +61,7 @@ Disallow: /unsubscribe/
 Disallow: /*/vakansii/catalog/
 Disallow: /yclients-integrate-landing
 Sitemap: https://www.avito.ru/sitemap/index.xml
-Clean-param: cd
-Clean-param: regnumber
-Clean-param: avito_campaign_id
-Clean-param: reviewsPage
+Clean-param: source&context&sellerId&src&localPriority&proprofile&s_trg&category_id&propertyCost&token&next&category_id&showItems&backUrl&categoryId&cd&regnumber&avito_campaign_id&reviewsPage
 
 User-agent: Mediapartners-Google
 Disallow:

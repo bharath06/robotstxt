@@ -20,14 +20,12 @@ User-agent: HaosoSpider
 Disallow: /follow
 Disallow: /user/?enter_from=video_detail&from_gid=*
 Disallow: /topic/
-Disallow: /aweme/
 Disallow: *modal_id*
 Disallow: *extra_params=*
 Disallow: *seo_cjy*
 
 User-agent: Baiduspider
 Allow: /topic/
-Allow: /aweme/
 Disallow: /zhuanti/
 
 User-agent: *

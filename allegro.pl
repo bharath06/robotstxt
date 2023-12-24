@@ -17,4 +17,4 @@ disallow: *&source=allegro.com&welcome=1&shippingCountry=US*
 disallow: /login/auth
 disallow: /auth/oauth/authorize
 disallow: /produkt/warianty/
-disallow: /uzytkownik*&*&*
+disallow: /uzytkownik*&*

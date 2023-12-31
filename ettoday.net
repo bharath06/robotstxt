@@ -58,6 +58,7 @@ Disallow:/news/hot-tag.htm
 Disallow:/news_search/
 Disallow:/player/
 Disallow:/redir/
+Disallow:/search/
 Disallow:/shop/
 Disallow:/social/
 Disallow:/showcase_offline/

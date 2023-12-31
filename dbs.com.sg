@@ -410,6 +410,8 @@ Disallow: /personal/fjdec23.page
 Disallow: /Contact/posb/deposits/apply-myaccount-student/default.page
 Disallow: /personal/insurance-dbs-staff.page
 Disallow: /personal/deposits/foreign-currency-fixed-deposit-codes.page
+Disallow: /personal/insurance/endowment/income-stream-plans/ready-lifeincome-iii
+Disallow: /treasures/banking/insure/wealth-accumulation/ready-lifeincome-iii
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

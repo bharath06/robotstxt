@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://eksisozluk1999.com/sitemap.xml
+Sitemap: https://eksisozluk111.com/sitemap.xml
 Allow: /
 Disallow: /video/*
 

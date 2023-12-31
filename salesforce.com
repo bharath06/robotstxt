@@ -298,6 +298,16 @@ Disallow: /content/dam/web/ja_jp/www/assets/pdf/
 Disallow: /content/blogs/au/en/*
 Disallow: /content/blogs/us/en/*
 Disallow: /content/blogs/nl/nl/*
+Disallow: /content/blogs/eu/en/*
+Disallow: /content/blogs/in/en/*
+Disallow: /content/blogs/fi/fi/*
+Disallow: /content/blogs/sg/en/*
+Disallow: /content/blogs/jp/ja/*
+Disallow: /content/blogs/mx/es/*
+Disallow: /content/blogs/es/es/*
+Disallow: /content/blogs/br/pt/*
+Disallow: /content/blogs/il/he/*
+Disallow: /content/blogs/it/it/*
 
 
 #

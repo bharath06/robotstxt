@@ -52,6 +52,9 @@ Disallow: /
 User-agent: Sogou inst spider
 Disallow: /
 
+User-Agent: trendictionbot
+Disallow: /
+
 User-agent: *
 Disallow: /*listStyle=
 Disallow: /*sort_index=

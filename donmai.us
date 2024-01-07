@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /
+
 Allow: /$
 
 Disallow: /*.atom
@@ -7,21 +8,51 @@ Disallow: /*.json
 Disallow: /posts?*tags=source:*
 Disallow: /posts?*tags=ordfav:*
 Disallow: /posts?*tags=approver:*
+Disallow: /posts?*show_votes=*
+Disallow: /posts?*size=*
+Disallow: /posts/*/events
 Disallow: /posts/*/favorites
 Disallow: /posts/*/show_seq*
-Disallow: /artists?search*
-Disallow: /media_assets?search*
+Disallow: /posts/random
+Disallow: /artists?*search*
+Disallow: /artists/*/edit
+Disallow: /comments?*search*
+Disallow: /forum_posts?*search*
+Disallow: /media_assets?*search*
+Disallow: /pools?*search*
+Disallow: /tags/*/edit
+Disallow: /users?*search*
+Disallow: /wiki_pages?*search*
+Disallow: /wiki_pages/*/edit
 
 Disallow: /artist_urls
 Disallow: /artist_versions
+Disallow: /artist_commentaries
 Disallow: /artist_commentary_versions
+Disallow: /comments.atom
+Disallow: /comment_votes
+Disallow: /forum_post_votes
+Disallow: /forum_topics.atom
 Disallow: /note_versions
+Disallow: /post_appeals
+Disallow: /post_flags
+Disallow: /post_approvals
+Disallow: /post_disapprovals
+Disallow: /post_replacements
+Disallow: /post_events
 Disallow: /post_versions
 Disallow: /pool_versions
+Disallow: /tag_aliases
+Disallow: /tag_implications
+Disallow: /tag_versions
+Disallow: /user_actions
+Disallow: /user_events
+Disallow: /user_feedbacks
+Disallow: /user_name_change_requests
+Disallow: /wiki_pages/new
 Disallow: /wiki_page_versions
 
 Allow: /artists
-Allow: /artist_commentaries
 Allow: /comments
 Allow: /explore/posts/popular
 Allow: /explore/posts/viewed
@@ -85,3 +116,6 @@ Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=users
 
 Sitemap: https://danbooru.donmai.us/sitemap.xml?sitemap=wiki_pages
 
+
+# Honeypot for bots that intentionally ignore robots.txt. Only dumb bots follow this link.
+Disallow: /posts/2884633?i_am_dumb=true

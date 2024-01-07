@@ -1,4 +1,4 @@
-# Robots.txt for https://www.dailymail.co.uk/ updated 30/11/2023
+# Robots.txt for https://www.dailymail.co.uk/ updated 02/01/2024
 #
 #
 # All Robots
@@ -44,9 +44,6 @@ Sitemap: https://www.dailymail.co.uk/google-news-sitemap.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-channels.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-columnist.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-topics.xml
-Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2020.xml
-Sitemap: https://www.dailymail.co.uk/sitemap-facts-year~2020.xml
-Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2020.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2021.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-facts-year~2021.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2021.xml
@@ -57,4 +54,6 @@ Sitemap: https://www.dailymail.co.uk/best-buys/sitemap.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2023.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2023.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-facts-year~2023.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-videos-year~2024.xml
+Sitemap: https://www.dailymail.co.uk/sitemap-articles-year~2024.xml
 Sitemap: https://www.dailymail.co.uk/sitemap-authors.xml

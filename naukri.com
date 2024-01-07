@@ -46,10 +46,4 @@ Disallow:/recruiters/unfollow-with-count-*
 Disallow:/recruiters/rp-follower-count-*
 
 Sitemap: https://www.naukri.com/sitemap.xml
-Sitemap: https://www.naukri.com/sitemap-latest-jd-pages.xml.gz
-Sitemap: https://www.naukri.com/sitemap-latest-jd-pages-1.xml.gz
-Sitemap: https://www.naukri.com/sitemap-latest-jd-pages-2.xml.gz
-Sitemap: https://www.naukri.com/sitemap-expired-jd-pages.xml
-Sitemap: https://www.naukri.com/sitemap/jobDescPagesDelhi-1.xml.gz
-Sitemap: https://www.naukri.com/learning/sitemap.xml
-Sitemap: https://www.naukri.com/web-stories/webstories.xml
+Sitemap: https://www.naukri.com/sitemap/webstories-1.xml

@@ -37,3 +37,10 @@ Disallow: /*?medium=*
 Disallow: /*?ref=*
 Disallow: /*?frozen=*
 Disallow: /web/geek/job-recommend*
+Disallow: *?utm_source=*
+Disallow: *?pkn=*
+Disallow: *?amp=*
+Disallow: *?category_path=*
+Disallow: *?eqid=*
+Disallow: *?key2=*
+Disallow: /*?*

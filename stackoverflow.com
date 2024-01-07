@@ -79,8 +79,6 @@ User-agent: GPTBot
 Disallow: /
 User-agent: Amazonbot
 Disallow: /
-User-agent: Google-Extended
-Disallow: /
 User-agent: Googlebot-Image
 Disallow: /*/ivc/*
 Disallow: /users/flair/

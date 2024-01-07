@@ -13,6 +13,16 @@ Disallow: *utm_
 
 User-agent: Googlebot
 Disallow: */health/*
+Disallow: */uncategorized/*
+Disallow: /wp-includes/*
+Disallow: /wp-admin/*
+Disallow: /wp-content/plugins/*
+Disallow: /assets/plugins/*
+Disallow: /search/*
+Disallow: /feedback/*
+Disallow: /*?q=*
+Disallow: /*?ref
+Disallow: *utm_
 
 User-agent: Twitterbot
 Allow: /*?*utm_

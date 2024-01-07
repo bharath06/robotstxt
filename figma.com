@@ -28,6 +28,30 @@ Disallow: /
 User-Agent: GPTBot
 Disallow: /
 
+User-Agent: ChatGPT-User
+Disallow: /
+
+User-Agent: cohere-ai
+Disallow: /
+
+User-Agent: anthropic-ai
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: FacebookBot
+Disallow: /
+
+User-Agent: Google-Extended
+Disallow: /
+
+User-Agent: omgilibot
+Disallow: /
+
+User-Agent: omgili
+Disallow: /
+
 Sitemap: https://www.figma.com/sitemap.xml
 Sitemap: https://www.figma.com/sitemaps/figma-community-index.xml
 Sitemap: https://help.figma.com/hc/sitemap.xml

@@ -7,6 +7,8 @@ Disallow: /*/business/search/
 Disallow: /*/parking
 Disallow: /*/parking/
 Disallow: /*/search/
+Disallow: /*/ai-search/
+Disallow: /*/business/ai-search/
 Disallow: /*/system/*
 Allow: /uk/info/contactus/email-the-ceo/
 Disallow: /*/info/contactus/email-the-ceo/
@@ -320,4 +322,5 @@ Sitemap:https://www.samsung.com/mn/sitemap.xml
 Sitemap:https://www.samsung.com/jp/sitemap.xml
 Sitemap:https://www.samsung.com/ge/sitemap.xml
 Host: www.samsung.com
+
 

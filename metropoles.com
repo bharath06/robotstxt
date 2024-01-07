@@ -11,6 +11,5 @@ Disallow: /wp-register.php
 Allow: /wp-admin/admin-ajax.php
 Allow: /*?amp$
 
-sitemap: https://www.metropoles.com/news-sitemap.xml
 sitemap: https://www.metropoles.com/sitemap_index.xml
 

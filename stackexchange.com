@@ -63,9 +63,3 @@ Disallow: /
 #
 User-agent: Amazonbot
 Disallow: /
-
-#
-# Google AI Crawler
-#
-User-agent: Google-Extended
-Disallow: /

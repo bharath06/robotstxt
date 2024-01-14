@@ -29,6 +29,7 @@
 User-agent: *
 Disallow: /browse/
 Disallow: /enterprise/orgs-terms
+Disallow: /package/*/v/*
 User-agent: Googlebot
 Allow: /browse/
 User-agent: Slurp

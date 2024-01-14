@@ -1,7 +1,7 @@
 User-agent: * 
 Disallow: /product
-Disallow: /t
 Disallow: /crew
 Disallow: /clip
+Disallow: /live/kelaket
 
 sitemap: https://telewebion.com/sitemap.xml

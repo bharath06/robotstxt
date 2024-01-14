@@ -38,4 +38,13 @@ Disallow:
 User-agent: GPTBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
 Sitemap: https://www.envato.com/sitemap_index.xml

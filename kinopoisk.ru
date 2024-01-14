@@ -52,6 +52,12 @@ Clean-param: from_src
 Clean-param: share
 Clean-param: __ref	
 Clean-param: 2x
+Clean-param: fb
+Clean-param: ok
+Clean-param: af_xp
+Clean-param: af_dp
+Clean-param: utm_referrer
+Clean-param: referrer
 Disallow: /tmp/
 Disallow: /s/
 Disallow: /query/
@@ -64,8 +70,12 @@ Disallow: /level/78/
 Disallow: /top/navigator/
 Disallow: /handler_*
 Disallow: /channel*
-Disallow: /user/*/movies/list/type/*
-Disallow: /user/*/stars/list/type/*
+Disallow: /user/*
+Disallow: /community/cf_user/*
+Disallow: /community/birth_year/*
+Disallow: /community/country/*
+Disallow: /community/city/*
+Disallow: /community/birth_day/*
 
 User-agent: *
 Disallow: /tmp/
@@ -80,8 +90,12 @@ Disallow: /level/78/
 Disallow: /top/navigator/
 Disallow: /handler_*
 Disallow: /channel*
-Disallow: /user/*/movies/list/type/*
-Disallow: /user/*/stars/list/type/*
+Disallow: /user/*
+Disallow: /community/cf_user/*
+Disallow: /community/birth_year/*
+Disallow: /community/country/*
+Disallow: /community/city/*
+Disallow: /community/birth_day/*
 
 Host: https://www.kinopoisk.ru
 Sitemap: https://www.kinopoisk.ru/sitemaps/sitemap.xml

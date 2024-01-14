@@ -83,6 +83,9 @@ Disallow: /browse/alphabetical/feature_films
 Disallow: /*.swf$
 Disallow: /unsubscribe_email/
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: GPTBot
 Disallow: /
 

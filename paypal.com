@@ -71,4 +71,10 @@ Disallow: /tagmanager/pptm.js
 Disallow: /xoplatform/logger/api/logger
 Disallow: /merchantapps/
 Disallow: /clickthru/
+Disallow: /invoice/payerView/*
+Disallow: /invoice/payerView/attachments/*
+Disallow: /invoice/estimate/buyerView/attachments/*
+Disallow: /invoice/est/*
+Disallow: /invoice/estimate/buyerView/*
+Disallow: /invoice/p/*
 Sitemap: https://www.paypal.com/paypal-sitemap-index.xml

@@ -34,6 +34,12 @@ Disallow: /*.i
 Disallow: /*.embed
 Disallow: /*/comments/*?*sort=
 Disallow: */comment/*
+Allow: /r/*/comments/*/*/de/*
+Allow: /r/*/comments/*/*/es/*
+Allow: /r/*/comments/*/*/fr/*
+Allow: /r/*/comments/*/*/pt/*
+Allow: /r/*/comments/*/*/it/*
+Disallow: /r/*/comments/*/*/*/*
 Disallow: /r/*/submit$
 Disallow: /r/*/submit/$
 Disallow: /message/compose*

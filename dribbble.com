@@ -3,6 +3,7 @@ sitemap: https://dribbble.com/sitemap.xml
 Disallow: /*/buckets$
 Disallow: /*/click?type=*$
 Disallow: /*/click$
+Disallow: /*/listings$
 Disallow: /*/tags$
 Disallow: /*/tags/*
 Disallow: /account$

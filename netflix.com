@@ -10,6 +10,8 @@ User-agent: Baiduspider-mobile
 User-agent: Baiduspider-video
 User-agent: Baiduspider-image
 User-agent: NaverBot
+User-agent: Y!J-WSC
+User-agent: YJ-WSC
 User-agent: Yeti
 User-agent: Yandex
 User-agent: YandexBot

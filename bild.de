@@ -65,3 +65,9 @@ Disallow: /
 # Common Crawl Foundation
 User-agent: CCBot
 Disallow: /
+
+# Sitemaps
+Sitemap: https://www.bild.de/sitemap-news.xml
+Sitemap: https://www.bild.de/sitemap-video.xml
+Sitemap: https://www.bild.de/sitemap-index.xml
+Sitemap: https://www.bild.de/sitemap-category.xml

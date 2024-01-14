@@ -42,5 +42,6 @@ Sitemap: https://www.businessinsider.com/sitemap/latest.xml
 Sitemap: https://www.businessinsider.com/sitemap/google-news.xml
 Sitemap: https://www.businessinsider.com/sitemap/index.xml
 Sitemap: https://www.businessinsider.com/sitemap/landing-pages.xml
+Sitemap: https://www.businessinsider.com/sitemap/insider/migrated.xml
 Sitemap: https://feeds.businessinsider.com/custom/tech-sj-sitemap
 Sitemap: https://feeds.businessinsider.com/custom/pfi-sitemap

@@ -28,6 +28,10 @@ Disallow: /account
 Disallow: /login
 Disallow: /chorus_auth
 Disallow: /sso
+Disallow: /2023/9/12/23862837/iphone-15-event-apple-watch-ultra-airpods-usb-c?lv=true/archives/
+Disallow: /2023/9/12/23862837/iphone-15-event-apple-watch-ultra-airpods-usb-c?ref=upstract.com/archives/
+Disallow: /2023/9/26/23890396/code-conference-2023-interviews-news?ref=allthingsai.com/archives/
+
 
 Sitemap: https://www.theverge.com/sitemaps
 Sitemap: https://www.theverge.com/sitemaps/authors

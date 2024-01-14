@@ -12,6 +12,12 @@
 # 3. A robot must protect its own existence as long as such protection does
 #    not conflict with the First or Second Law.
 
+User-Agent: Googlebot
+User-Agent: Googlebot-Image
+User-Agent: Googlebot-Mobile
+User-Agent: Googlebot-Video
+Allow: /biz_photos/*?select_video=
+
 User-Agent: AdsBot-Google
 User-Agent: BingPreview
 User-Agent: Google-InspectionTool

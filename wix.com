@@ -64,6 +64,11 @@ Disallow: /studio/academy/search-results
 Disallow: /studio/academy/search
 Disallow: /studio/blog/search-results?q
 Disallow: /studio/blog/*&filter=
+Disallow: /seo/learn/assets*?topic=
+Disallow: /seo/learn/assets*&topic=
+Disallow: /seo/learn/assets*?resource-type=
+Disallow: /seo/learn/assets*&resource-type= 
+Disallow: /studio-tech-desgin
 
 Sitemap: https://www.wix.com/sitemap.xml
 

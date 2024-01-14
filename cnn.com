@@ -15,6 +15,7 @@ Sitemap: https://www.cnn.com/sitemap/article.xml
 Sitemap: https://www.cnn.com/sitemap/section.xml
 Sitemap: https://www.cnn.com/sitemap/video.xml
 Sitemap: https://www.cnn.com/sitemap/gallery.xml
+Sitemap: https://www.cnn.com/sitemap/markets/stocks.xml
 User-agent: GPTBot
 Disallow: /
 User-agent: Google-Extended

@@ -420,7 +420,8 @@ Disallow: /personal/landing/nav/yournav/users/
 Disallow: /personal/landing/nav/yournav/topics/
 Disallow: /personal/landing/nav/yournav/categories/
 Disallow: https://dbsweb-u05-imp-www.dbs.com.sg/
-Disallow: /personal/landing/nav/yournav/conversations/
+Disallow: /personal/deployment/maintenance.html
+
 
 User-agent: ia_archiver
 Disallow: /

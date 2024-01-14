@@ -1,4 +1,5 @@
 User-agent: Googlebot
+Disallow: /esi_cache/
 Disallow: /atom/
 Disallow: /tickets-external?*
 Disallow: /rss/

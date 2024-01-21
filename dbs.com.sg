@@ -414,6 +414,10 @@ Disallow: /personal/insurance/endowment/income-stream-plans/ready-lifeincome-iii
 Disallow: /treasures/banking/insure/wealth-accumulation/ready-lifeincome-iii
 Disallow: /personal/hip.page
 Disallow: /personal/publicofficers.page
+Disallow: /treasures/invest/storing-cryptocurrency-safely.page?productId=lqqfxhe8
+Disallow: /treasures/invest/crypto-risk.page?productId=lqqfxhen
+Disallow: /treasures/MMProductDetail.page?productId=lqqfxhe8
+Disallow: /treasures/MMProductDetail.page?productId=lqqfxhen
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

@@ -21,3 +21,4 @@ Disallow: /sitemaps/video_mx_historico*
 Disallow: /sitemaps/album_mx_historico*
 Disallow: /sitemaps/cronica_mx_historico*
 Disallow: /sitemaps/opinion_mx_historico*
+Disallow: /apw.js*

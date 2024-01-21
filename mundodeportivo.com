@@ -129,5 +129,3 @@ Disallow: /urbantecno/*/aspect-ratio
 Disallow: /urbantecno/*/{{
 Disallow: /urbantecno/*/undefined$
 
-Disallow: /guias-de-juego/cuotas-deportivas*
-Disallow: /cuotas-deportivas*

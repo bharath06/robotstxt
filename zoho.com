@@ -153,7 +153,6 @@ Disallow: /journal/
 Disallow: /salesiq/help/Connect-Google-Account-with-salesIQ.html
 Disallow: /web-double-optin-confirmation.html
 Disallow: /privacy/zoho-group.html
-Disallow: /privacy/cookie-policy.html
 Disallow: /privacy-draft.html
 Disallow: /people/offers.html
 Disallow: /people/quickbook-integration.html

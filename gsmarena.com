@@ -56,4 +56,7 @@ Disallow:
 User-agent: GPTBot
 Disallow: /
 
+User-agent: MJ12bot
+Disallow: /
+
 Sitemap: https://www.gsmarena.com/sitemap.xml

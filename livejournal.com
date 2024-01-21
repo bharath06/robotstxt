@@ -24,6 +24,7 @@ Disallow: /talkread
 Disallow: /inbox
 Disallow: /misc
 Disallow: /legal
+Disallow: /checklistposts
 Disallow: /away
 Clean-param: event&add&amp&area&askname&auth&authas&auto_forwhat
 Clean-param: bookmark_off&cat&cc&change&cid&comm&country&ctc&date&del_filter&dest_name&dir
@@ -68,6 +69,7 @@ Disallow: /talkread
 Disallow: /inbox
 Disallow: /misc
 Disallow: /legal
+Disallow: /checklistposts
 Disallow: /away
 
 Sitemap: https://www.livejournal.com/sitemap.xml

@@ -28,6 +28,7 @@ Disallow: /subscriptions/group/manage/
 Disallow: /preview/lineup
 Disallow: /preview/articles
 Disallow: /explore/
+Disallow: /press-releases/
 
 User-agent: Mediapartners-Google
 Disallow: /about/careers

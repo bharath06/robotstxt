@@ -12,6 +12,7 @@ Disallow: /
 #
 User-agent: *
 Disallow: /zh/
+Disallow: /zh-hk/
 Disallow: /einterface/
 Disallow: /hotels/newAdaptiveRoomTypePhotoViewer
 Disallow: /reservation/availabilitySearch.mi

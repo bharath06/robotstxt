@@ -21,6 +21,10 @@ Disallow: /categories-selector/
 Disallow: /models-selector/
 Disallow: /captcha/*
 Disallow: /link/*
+Disallow: /get_file/*
 Disallow: /related_videos_html/*
 Disallow: /embed/*
-Disallow: /get_file/*
+Disallow: /*/related_videos_html/*
+Disallow: /*/embed/*
+Disallow: /*/get_file/*
+Sitemap: https://tktube.com/sitemap/

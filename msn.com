@@ -16,6 +16,9 @@ Disallow: /*/health/search/filter
 User-agent: ias_crawler
 Crawl-delay: 0.5
 
+User-agent: admantx-ussy04/3.2
+Allow: /
+
 Sitemap: https://www.msn.com/sitemaps/health/health-sitemap-index.xml
 Sitemap: https://www.msn.com/sitemaps/shopping/shopping-sitemap-index.xml
 Sitemap: https://www.msn.com/en-us/autos/marketplace/sitemap.xml

@@ -30,6 +30,9 @@ Disallow: /envoyer-par-email/*
 Disallow: /lmdgft/*
 Disallow: /article-offert/*
 Disallow: /*?s=43260*
+Disallow: /*?contributions
+Disallow: */reactions/
+Disallow: */mmpub/
 
 # WordPress
 Disallow: /blog/*/wp-admin/

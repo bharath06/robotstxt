@@ -63,3 +63,4 @@ Sitemap: https://www.usatoday.com/money/blueprint/sitemap-news.xml
 Sitemap: https://www.usatoday.com/betting/sitemap.xml
 Sitemap: https://www.usatoday.com/betting/news-sitemap.xml
 Sitemap: https://www.usatoday.com/money/homefront/sitemap.xml
+Sitemap: https://www.usatoday.com/tech/internet/sitemap.xml

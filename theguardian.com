@@ -54,6 +54,7 @@ Disallow: /production-monitoring/
 Disallow: *.emailjson
 Disallow: *.emailtxt
 Disallow: /headline.txt
+Disallow: *?*dcr=apps*
 
 User-agent: Mediapartners-Google
 Disallow:
@@ -84,3 +85,25 @@ Disallow: /
 
 User-agent: Bytespider
 Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: https://hada.news
+Disallow: /
+
+User-agent: https://www.imediaethics.org
+Disallow: /
+
+User-agent: Mojeek
+Disallow: /
+
+User-agent: JenkersBot
+Disallow: /
+
+User-agent: Seekr
+Disallow: /
+
+User-agent: Turnitin
+Disallow: /
+

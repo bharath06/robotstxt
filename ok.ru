@@ -18,6 +18,7 @@ Disallow: /qrCode/*
 Disallow: /groupcallembed/*
 Disallow: /dk?*
 Disallow: /discussions/*
+Disallow: /hobby-mailru
 
 Clean-param: st.cmd
 Clean-param: &st.layer.cmd
@@ -156,6 +157,7 @@ Clean-param: &__hrp
 Clean-param: &__ca__chat
 Clean-param: &_sm_byp
 Clean-param: &1
+Clean-param: &st.theme
 
 Sitemap: https://ok.ru/sitemap-index-misc.xml.gz
 Sitemap: https://ok.ru/sitemap-index-game.xml.gz

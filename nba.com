@@ -66,3 +66,29 @@ Disallow: /thunder/users/
 Disallow: /timberwolves/users/
 Disallow: /warriors/users/
 Disallow: /wizards/users/
+
+User-agent: GPTBot
+Disallow: /
+Allow: /standings
+Allow: /schedule
+Allow: /stats/help/glossary
+Allow: /stats/draft/history
+Allow: /stats/help/statminimums
+Allow: /stats/history
+Allow: /players
+Allow: /player/*profile$
+Allow: /team/*
+Disallow: /team/*/schedule$
+
+User-agent: Google-Extended
+Disallow: /
+Allow: /standings
+Allow: /schedule
+Allow: /stats/help/glossary
+Allow: /stats/draft/history
+Allow: /stats/help/statminimums
+Allow: /stats/history
+Allow: /players
+Allow: /player/*profile$
+Allow: /team/*
+Disallow: /team/*/schedule$

@@ -8,6 +8,7 @@ Disallow: /thank-you-subscribing-docker-weekly/
 Disallow: /pricing/contact-sales2/
 Disallow: /cdn-cgi/
 Disallow: /static/
+Disallow: /c/
 Disallow: /products/telepresence-for-docker/thank-you/
 
 Allow: /ja-jp/wp-admin/admin-ajax.php
@@ -19,6 +20,7 @@ Disallow: /ja-jp/thank-you-subscribing-docker-weekly/
 Disallow: /ja-jp/pricing/contact-sales2/
 Disallow: /ja-jp/cdn-cgi/
 Disallow: /ja-jp/static/
+Disallow: /ja-jp/c/
 Disallow: /ja-jp/products/telepresence-for-docker/thank-you/
 
 

@@ -13,8 +13,12 @@ Disallow: /logs/
 Disallow: /rate/
 Disallow: /store/
 Disallow: /cgi-bin/
+Disallow: /uploads/
+Disallow: /search/
 Disallow: /programming_example/
 Disallow: /videotutorials/
 Disallow: /*/*_question_bank/
+Disallow: /*/src/
 Disallow: //*/*/*/*/src/
+Disallow: /cart.jsp?*
 Sitemap: https://www.tutorialspoint.com/sitemap_index.xml/

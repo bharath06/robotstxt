@@ -174,7 +174,7 @@ User-agent: SearchmetricsBot
 Disallow: /
 
 User-agent: Googlebot
-Allow: /?promoid=TTGWL148
+Allow: /?promoid=RTQCN3LX
 Disallow: /*promoid=
 Disallow: /*trackingid=
 

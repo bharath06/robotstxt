@@ -109,7 +109,6 @@ Disallow: /hpmob
 Disallow: /HpImageArchive.aspx
 
 
-Sitemap: http://cn.bing.com/dict/sitemap-index.xml
 Sitemap: https://www.bing.com/api/maps/mapcontrol/isdk/sitemap.xml
 Sitemap: https://www.bing.com/travelguide/sitemaps/sitemap.xml
 Sitemap: https://www.bing.com/maps/sitemap.xml

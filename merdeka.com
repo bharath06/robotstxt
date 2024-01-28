@@ -2,7 +2,7 @@ User-Agent: GPTBot
 Disallow: /
 
 User-agent: *
-Disallow : /webdev
+Disallow: /webdev
 Sitemap: https://www.merdeka.com/sitemap.xml
 Disallow: */jelajah/
 Disallow: */ucnews/

@@ -92,6 +92,7 @@ Disallow: /bb/ispapply_change.asp*
 Disallow: /bb/ispapply_flets_change.asp*
 Disallow: /robot-advisor/jump/
 Disallow: /programming-school/jump/
+Disallow: /mobile_data/world-wifi/world-esim/jump/
 
 User-agent: Mediapartners-Google
 Allow: /kuchikomi/review/history/
@@ -191,6 +192,7 @@ Disallow: /bb/ispapply_flets_change.asp*
 Disallow: /robot-advisor/jump/
 Disallow: /programming-school/jump/
 Disallow: /used/*?*
+Disallow: /mobile_data/world-wifi/world-esim/jump/
 
 User-agent: GPTBot
 Disallow: /

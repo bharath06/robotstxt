@@ -1,6 +1,6 @@
 # version 0.0.1
 User-agent: *
-Disallow: /2002/07/17/
+Disallow: /2002/
 Disallow: /s/
 Disallow: /cgi-bin/
 Disallow: /perl/

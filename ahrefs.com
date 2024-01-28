@@ -7,6 +7,7 @@ Allow: /link-intersect/$
 Disallow: /link-intersect/*
 Disallow: /v4*
 Disallow: /blog/*?s=*
+Disallow: /blog/*?archive*
 Disallow: /seo/for/*?*draft
 Disallow: /academy/*?*draft
 Disallow: /team-new

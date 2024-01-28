@@ -158,6 +158,18 @@ Disallow: /YfcuVaVBkfnzl2j6UbEcK0Oiqkv88jx6w/
 User-agent: Yandex
 Disallow: /api/v1/hulk
 
+User-agent: peer39_crawler
+Disallow: /
+
+User-agent: Connatix
+Disallow: /
+
+User-agent: ias_crawler
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
 User-agent: AdsBot-Google
 Disallow:
 

@@ -173,5 +173,4 @@ Sitemap: https://ok.ru/sitemap-index-group.xml.gz
 Sitemap: https://ok.ru/sitemap-index-group-topic.xml.gz
 Sitemap: https://ok.ru/sitemap-index-music-artist.xml.gz
 Sitemap: https://ok.ru/sitemap-index-music-album.xml.gz
-Sitemap: https://ok.ru/sitemap-index-video-0.xml.gz
 Sitemap: https://ok.ru/sitemap-index-hobby.xml.gz

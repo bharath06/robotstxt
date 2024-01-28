@@ -6,8 +6,10 @@ Disallow: 		/ultimora/24ore/AUTO-IN-CAMBIO-DI-DROGA-13-ARRESTI-DELLA-POLIZIA-DI-
 Disallow: 		/ssnclude/canalrep/economia/rep_24ore_3685023.html 
 Disallow: 		/sport/ciclismo/2023/10/24/news/doping_ciclismo_virtuale_azzurro_zanasca_rischia_una_lunga_squalifica-418660589/ 
 Disallow: 		/sport/calcio/2014/10/03/news/calcioscommesse_riparte_l_inchiesta_nel_mirino_altre_partite-97279990/ 
+Disallow: 		/sport/calcio/2014/10/03/news/calcioscommesse_riparte_l_inchiesta_nel_mirino_altre_partite-97279990 
 Disallow: 		/sport/calcio/2013/07/18/news/bruno_conti_ascoltato_su_calcioscommesse-63222723/ 
 Disallow: 		/speciale/ 
+Disallow: 		/protagonisti/Diana_Bracco 
 Disallow: 		/protagonisti/andrea_nucera/ 
 Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il_posto_e_costera_all_erario_mezzo_milione_di_euro[1]156371739/ 
 Disallow: 		/online/cronaca/veronaecstasy/bologna/bologna.html 
@@ -23,11 +25,17 @@ Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/* 
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
+Disallow: 		/economia/finanza/2016/10/19/news/diana_bracco_condannata_a_due_anni_per_le_fatture_false_su-150123126 
 Disallow: 		/economia/finanza/2016/05/18/news/unicredit-140064421/ 
+Disallow: 		/economia/finanza/2015/05/29/news/diana_bracco_indagata_per_evasione_da_1_milione-115558608 
 Disallow: 		/economia/finanza/2013/06/13/news/atlantia-gemina_fusione_da_rivotare_per_la_causa_da_800_milioni_con_l_ambiente-60991831/ 
+Disallow: 		/economia/affari-e-finanza/2016/02/29/news/oltre_il_giardino-134531232 
 Disallow: 		/economia/2022/10/21/news/certares_e_farlocca_finira_tutto_in_tribunale_indagine_interna_di_ita_su_mail_e_whatsapp_dei_manager-370930865/ 
 Disallow: 		/economia/2017/11/09/news/autostrade_i_concessionari_il_sistema_80-20_sugli_appalti_una_mezza_catastrofe_-180660373/ 
 Disallow: 		/economia/2016/12/15/news/palenzona_aiscat_il_mercato_europeo_dei_trasporti_diventi_realta_-154163475/ 
+Disallow: 		/economia/2015/12/10/news/bracco_chiesto_il_giudizio_per_un_evasione_da_un_milione_di_euro-129195404/amp 
+Disallow: 		/economia/2015/12/10/news/bracco_chiesto_il_giudizio_per_un_evasione_da_un_milione_di_euro-129195404 
+Disallow: 		/economia/2015/07/02/news/fisco_frode_da_un_milione_il_pm_chiede_il_processo_per_diana_bracco-118168221 
 Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
 Disallow: 		/cronaca/2023/09/29/news/serenis_repubblica_promozione_abbonati-416179220/ 
@@ -36,6 +44,8 @@ Disallow: 		/cronaca/2014/01/08/news/ricostruzione_l_aquila_arresti_e_perquisizi
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 
+Disallow: 		/argomenti/Expo2015 
+Disallow: 		/argomenti/Bracco 
 Disallow: 		/2010/ 
 Disallow: 		/2009/ 
 Disallow: 		/2008/ 

@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v18.8_COM_Sep_2023
+# v19.0_COM_Jan_2024
 ### DIRECTIVES ###
 
 User-agent: *
@@ -24,8 +24,7 @@ Disallow: /*redirect%3Dmobile
 Disallow: /*rt%3Dnc
 Disallow: /*rt=nc
 Disallow: /*src=urllib
-Disallow: /?SSOWebDispatcher=&tg=web&ru={{ru}}
-Disallow: %2F%3FSSOWebDispatcher%3D%26tg%3Dweb%26ru%3D%7B%7Bru%7D%7D
+Disallow: /?SSOWebDispatcher&tg=web&ru=
 Disallow: /act/
 Disallow: /adchoice
 Allow: /ads.txt
@@ -381,6 +380,7 @@ Disallow: /itm/watch/
 Disallow: /itmhero/
 Disallow: /lit/
 Disallow: /logout
+Disallow: /lstng
 Disallow: /lst/ng/
 Disallow: /lux/
 Disallow: /lvx/
@@ -475,8 +475,7 @@ Disallow: /*redirect%3Dmobile
 Disallow: /*rt%3Dnc
 Disallow: /*rt=nc
 Disallow: /*src=urllib
-Disallow: /?SSOWebDispatcher=&tg=web&ru={{ru}}
-Disallow: %2F%3FSSOWebDispatcher%3D%26tg%3Dweb%26ru%3D%7B%7Bru%7D%7D
+Disallow: /?SSOWebDispatcher&tg=web&ru=
 Disallow: /act/
 Disallow: /adchoice
 Allow: /ads.txt
@@ -821,6 +820,7 @@ Disallow: /itm/watch/
 Disallow: /itmhero/
 Disallow: /lit/
 Disallow: /logout
+Disallow: /lstng
 Disallow: /lst/ng/
 Disallow: /lux/
 Disallow: /lvx/

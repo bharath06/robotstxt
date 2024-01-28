@@ -269,7 +269,11 @@ Disallow: /sites/zweb/images/workplace/pdf/saas-affiliate-marketing.pdf
 Disallow: /sites/zweb/images/workplace/pdf/affiliate-marketing-guide.pdf
 Disallow: /fr-ca/
 Disallow: /workplace/nic/
-
+Disallow: /crm/developer/docs/api/v5/
+Disallow: /crm/developer/docs/api/v4/
+Disallow: /crm/developer/docs/api/v3/
+Disallow: /crm/developer/docs/api/v2/
+Disallow: /crm/developer/docs/api/v2.1/
 
 
 

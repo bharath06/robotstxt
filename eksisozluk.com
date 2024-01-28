@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://eksisozluk111.com/sitemap.xml
+Sitemap: https://eksisozluk.com/sitemap.xml
 Allow: /
 Disallow: /video/*
 
@@ -11,6 +11,3 @@ Disallow: /
 
 User-agent: grapeshot
 Disallow:
-
-User-agent: GPTBot
-Disallow: /

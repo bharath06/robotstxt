@@ -57,7 +57,6 @@ Disallow: /
 
 User-agent: *
 Disallow: /*listStyle=
-Disallow: /*sort_index=
 Disallow: /*act=IS&
 Disallow: /*act=IS$
 Disallow: /*act=dispBoardCategory

@@ -86,6 +86,27 @@ Disallow: /cn/login-messages/
 Disallow: /tw/login-messages/
 Disallow: /th/login-messages/
 
+Disallow: /content/dam/web/pt_br/www/
+Disallow: /content/dam/web/es_mx/www/
+Disallow: /content/dam/web/de_de/www/
+Disallow: /content/dam/web/fr_fr/www/
+Disallow: /content/dam/web/nl_nl/www/
+Disallow: /content/dam/web/es_es/www/
+Disallow: /content/dam/web/it_it/www/
+Disallow: /content/dam/web/sv_se/www/
+Disallow: /content/dam/web/fr_ca/www/
+Disallow: /content/dam/web/fi_fi/www/
+Disallow: /content/dam/web/da_dk/www/
+Disallow: /content/dam/web/en_is/www/
+Disallow: /content/dam/web/en_gb/www/
+Disallow: /content/dam/web/en_ie/www/
+Disallow: /content/dam/web/en_ca/www/
+Disallow: /content/dam/web/en_dk/www/
+Disallow: /content/dam/web/no_no/www/
+Disallow: /content/dam/web/de_ch/www/
+Disallow: /content/dam/web/fr_ch/www/
+Disallow: /content/dam/web/it_ch/www/
+
 # Disallow: /ie/
 # Disallow: /marketplace/
 # Disallow: /myfuture/

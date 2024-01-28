@@ -3,6 +3,8 @@ sitemap: https://dribbble.com/sitemap.xml
 Disallow: /*/buckets$
 Disallow: /*/click?type=*$
 Disallow: /*/click$
+Disallow: /*/followers$
+Disallow: /*/following$
 Disallow: /*/listings$
 Disallow: /*/tags$
 Disallow: /*/tags/*
@@ -14,6 +16,7 @@ Disallow: /autocompletes/*
 Disallow: /buckets/*/edit
 Disallow: /blocks/*
 Disallow: /colors$
+Disallow: /colors/for_404.json
 Disallow: /highlights/*
 Disallow: /jobs/*/apply_now
 Disallow: /messages$
@@ -34,4 +37,5 @@ Disallow: /shots/year/*
 Disallow: /suggestions$
 Disallow: /talent/matches/*
 Disallow: /comments/*/likes
+Disallow: /uploads/*
 

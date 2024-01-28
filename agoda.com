@@ -39,6 +39,11 @@ Disallow: /*/flights/airport/*
 Disallow: /flights/airport/*
 Disallow: /transport/*
 
+User-agent: AdsBot-Google
+Disallow: /activities/detail
+Disallow: /*/activities/detail
+Disallow: /api/activities/graphql
+
 User-agent: google-hoteladsverifier
 Disallow:
 

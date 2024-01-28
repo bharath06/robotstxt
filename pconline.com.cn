@@ -1,6 +1,5 @@
-User-agent:baiduspider
-disallow:/3g/
 User-agent: *
+Disallow:/3g/
 Disallow:/b5/
 Disallow:/test/
 Disallow:/rbin/
@@ -15,3 +14,4 @@ Disallow:.js$
 Disallow:.css$
 Disallow:/app/
 Disallow:/jrzcz/
+Disallow:/pconline_history/

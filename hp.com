@@ -72,6 +72,26 @@ Disallow: /us-en/shop/OrderStatusFinalResultView?*
 Disallow: /*jumpid
 Disallow: /*-prodlive*/us-en/shop*
 Disallow: /*-prod-drlive*/us-en/shop*
+Disallow: *?bvstate=*
+Disallow: *bvroute*
+#Disallow: *a=1
+Disallow: *tab=vao
+Disallow: */pdp/*Offer_id
+Disallow: */us-en/shop/*matchtype
+Disallow: *urlRequestType
+Disallow: */us-en/shop/*ups-sku
+Disallow: *orderBy
+#Disallow: /*storeId=
+#Disallow: /*StoreId=
+#Disallow: /*storeID=
+#Disallow: /*StoreID=
+#Disallow: /*STOREID=
+Disallow: *=Other*
+Disallow: *rating=*
+Disallow: *availability=Out-of-Stock 
+Disallow: *newprod
+Disallow: /bundles?override
+Disallow: /ProductListingBatteryView?
 
 User-agent: AdsBot-Google
 Allow: /

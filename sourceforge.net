@@ -2,6 +2,12 @@
 User-agent: GPTBot
 Disallow: /
 
+User-agent: Sogou
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
 User-agent: *
 Allow: /p/*/ci/master/tree/$
 Allow: /p/*/ci/main/tree/$
@@ -30,6 +36,7 @@ Disallow: /*/support-requests/new/
 Disallow: /*/patches/new/
 Disallow: /*/feature-requests/new/
 Disallow: /*/tickets/new/
+Disallow: /*/attachment/
 Disallow: /projects/*/files/*/stats/timeline
 Disallow: /projects/*/files/stats/timeline
 Disallow: /projects/*/files/*/stats/map
@@ -82,9 +89,14 @@ Disallow: *&css-reload=
 Disallow: /settings/mirror_choices
 Disallow: /directory/tp
 Disallow: /software/tp
-Disallow: /directory/tp3
-Disallow: /software/tp3
 Disallow: /sd-jobs
+
+# /directory param rules: permit ?q= and ?page= on their own, but no other params
+# longest match takes precedence.  listed in length order
+Disallow: /directory/*?
+Allow: /directory/*?q
+Disallow: /directory/*?q*&
+Allow: /directory/*?page=
 
 # mailman flags
 Disallow: *?style=flat

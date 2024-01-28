@@ -3,6 +3,7 @@ Sitemap: https://www.nature.com/sitemap.xml
 Sitemap: https://www.nature.com/subjects/sitemap.xml
 Sitemap: https://www.nature.com/naturecareers/sitemapindex.xml
 Disallow: /search
+Disallow: */1000$
 Disallow: /*/*/*/pf/
 Disallow: /*.otmi$
 Disallow: /*/*/*/*/otmi/

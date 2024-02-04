@@ -107,3 +107,5 @@ Disallow: /
 User-agent: Turnitin
 Disallow: /
 
+User-agent: YouBot
+Disallow: /

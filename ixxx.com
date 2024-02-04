@@ -17,3 +17,15 @@ Disallow: /thumb/
 Disallow: /3thumbs/
 Disallow: *US_CENSUS_NAME*
 Sitemap: https://www.ixxx.com/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /

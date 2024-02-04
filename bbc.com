@@ -1,5 +1,5 @@
 
-# version: 507cbf0904b0c667e0f896b5a5764e7aa7fcd5b0
+# version: 67bd3d2ec23ece87c425b2a0f59e48241e40e053
 
 # HTTPS www.bbc.com
 
@@ -65,6 +65,7 @@ Disallow: /bitesize/my/
 Disallow: /food/recipes/*/shopping-list
 Disallow: /food/menus/*/shopping-list
 Disallow: /news/0
+Disallow: /sport/alpha/
 Disallow: /ugc$
 Disallow: /ugc/
 Disallow: /ugcsupport$
@@ -105,4 +106,7 @@ User-agent: anthropic-ai
 Disallow: /
  
 User-agent: cohere-ai
+Disallow: /
+
+User-agent: Google-Extended
 Disallow: /

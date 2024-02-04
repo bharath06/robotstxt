@@ -97,6 +97,7 @@ Disallow: /*rushdelivery=
 Disallow: /*satici=
 Disallow: /*siralama=
 Disallow: /*source=
+Disallow: /*store/profile
 Disallow: /*yasgrubu=
 Disallow: /*/butikdetay/
 Disallow: /*/*-p-*/satici-sorulari

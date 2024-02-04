@@ -29,6 +29,7 @@ Disallow: /preview/lineup
 Disallow: /preview/articles
 Disallow: /explore/
 Disallow: /press-releases/
+Disallow: /artemis/
 
 User-agent: Mediapartners-Google
 Disallow: /about/careers

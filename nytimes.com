@@ -53,9 +53,6 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
-User-agent: ia_archiver
-Disallow: /
-
 User-Agent: omgili
 Disallow: /
 

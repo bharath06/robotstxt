@@ -9,6 +9,10 @@ User-agent: Twitterbot
 Disallow: /
 Allow: /?logo=
 
+User-agent: GoogleOther
+Disallow: /
+Allow: /.well-known/privacy-sandbox-attestations.json
+
 User-Agent: *
 Allow: /$
 Allow: /all$

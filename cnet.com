@@ -62,5 +62,4 @@ Sitemap: https://www.cnet.com/sitemaps/review/index.xml
 Sitemap: https://www.cnet.com/sitemaps/static.xml
 Sitemap: https://www.cnet.com/sitemaps/updating_story/index.xml
 Sitemap: https://www.cnet.com/sitemaps/video/index.xml
-Sitemap: https://www.cnet.com/sitemaps/web-stories.xml
 Sitemap: https://www.cnet.com/personal-finance/sitemaps/index.xml

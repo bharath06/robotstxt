@@ -68,6 +68,8 @@ Disallow: /search*å¨çº¿
 Disallow: /search*ç»å½
 Disallow: /search*åè´¹
 Disallow: /search*å°å
+Disallow: /search*åºè½¨
+
 
 
 User-Agent:*

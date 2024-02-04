@@ -44,6 +44,12 @@ Disallow: /*/comments/
 Disallow: /*/c/
 Disallow: /*/liked_by/
 
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
 User-agent: ia_archiver
 Disallow: /ajax/
 Disallow: /publicapi/

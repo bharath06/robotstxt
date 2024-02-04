@@ -13,13 +13,13 @@ Sitemap: http://www.globo.com/sitemap-image.xml
 ###### 
 
 User-agent: CCBot
-Disalow: /
+Disallow: /
 
 User-agent: GPTBot
-Disalow: /
+Disallow: /
 
 User-agent: Google-Extended
-Disalow: /
+Disallow: /
 
 ######
 

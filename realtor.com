@@ -2,7 +2,6 @@ User-agent: bingbot
 Crawl-delay: 1
 
 User-agent: *
-
 Disallow: /8058/
 Disallow: /addeliverymodule/
 Disallow: /advice/wp-content/themes/realtor/nobots/

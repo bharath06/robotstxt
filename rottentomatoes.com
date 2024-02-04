@@ -24,4 +24,5 @@ Disallow: /
 
 User-agent: *
 Disallow: /search
+Disallow: /critics/self-submission/
 Sitemap: https://www.rottentomatoes.com/sitemaps/sitemap.xml

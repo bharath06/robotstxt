@@ -52,6 +52,9 @@ Disallow: /
 User-Agent: omgili
 Disallow: /
 
+User-Agent: GleanSearchCrawlerBot
+Disallow: /
+
 Sitemap: https://www.figma.com/sitemap.xml
 Sitemap: https://www.figma.com/sitemaps/figma-community-index.xml
 Sitemap: https://help.figma.com/hc/sitemap.xml

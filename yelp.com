@@ -17,6 +17,7 @@ User-Agent: Googlebot-Image
 User-Agent: Googlebot-Mobile
 User-Agent: Googlebot-Video
 Allow: /biz_photos/*?select_video=
+Allow: /biz_photos/video_url
 
 User-Agent: AdsBot-Google
 User-Agent: BingPreview

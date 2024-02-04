@@ -334,6 +334,8 @@ Disallow: /personal/investments/invest-and-save.page
 Disallow: /personal/investments/invest-and-save.page
 Disallow: /personal/cards/promotions/sg-julsmp8.page
 Disallow: /personal/cards/promotions/sg-julsmp5.page
+Disallow: /personal/cards/promotions/sg-clrpl24.page
+Disallow: /personal/cards/promotions/sg-clrpl24re.page
 Disallow: /personal/*common-disclaimer.page?url=
 Disallow: /personal/community/login
 Disallow: /personal/community/*user
@@ -418,6 +420,10 @@ Disallow: /treasures/invest/storing-cryptocurrency-safely.page?productId=lqqfxhe
 Disallow: /treasures/invest/crypto-risk.page?productId=lqqfxhen
 Disallow: /treasures/MMProductDetail.page?productId=lqqfxhe8
 Disallow: /treasures/MMProductDetail.page?productId=lqqfxhen
+Disallow: /treasures/invest/what-is-the-blockchain-trilemma.page?productId=lrpor96f
+Disallow: /treasures/MMProductDetail.page?productId=lrpor96f
+Disallow: /Contact/treasures/uncover-the-hidden-dragon-webinar-registration/default.page
+Disallow: /treasures/loans/uncover-the-hidden-dragon-webinar-registration.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/
@@ -435,12 +441,12 @@ Disallow: /
 User-agent: AdsBot-Google
 Disallow:
 
-Sitemap: https://www.dbs.com.sg/sitemap-personal-2023.xml
+Sitemap: https://www.dbs.com.sg/sitemap-personal-2024.xml
 Sitemap: https://www.dbs.com.sg/sme/sitemap.xml
 Sitemap: https://www.dbs.com.sg/corporate/sitemap.xml
-Sitemap: https://www.dbs.com.sg/sitemap-treasures-2023.xml
-Sitemap: https://www.dbs.com.sg/sitemap-treasures-private-client-2023.xml
-Sitemap: https://www.dbs.com.sg/sitemap-private-banking-2023.xml
+Sitemap: https://www.dbs.com.sg/sitemap-treasures-2024.xml
+Sitemap: https://www.dbs.com.sg/sitemap-treasures-private-client-2024.xml
+Sitemap: https://www.dbs.com.sg/sitemap-private-banking-2024.xml
 Sitemap: https://www.dbs.com.sg/treasury-and-markets/sitemap.xml
-Sitemap: https://www.dbs.com.sg/sitemap-marketplace-2023.xml
+Sitemap: https://www.dbs.com.sg/sitemap-marketplace-2024.xml
 

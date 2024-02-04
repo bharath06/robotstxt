@@ -93,6 +93,8 @@ Disallow: /search*é±¼
 Disallow: /search*ç
 Disallow: /search*å°å
 Disallow: /search*ç®
+Disallow: /search*åºè½¨
+
 
 User-Agent:*
 Crawl-delay:1

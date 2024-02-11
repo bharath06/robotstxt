@@ -41,6 +41,7 @@ Allow: */generate/$
 Disallow: /image-*chatId=*
 Disallow: /image-*tool=*
 Disallow: /image-*mode=*
+Disallow: /blog/?s=*
 
 Disallow: */search/ris/*
 Disallow: */search/models/*
@@ -113,6 +114,7 @@ Allow: */editor/image/$
 Disallow: /image-*chatId=*
 Disallow: /image-*tool=*
 Disallow: /image-*mode=*
+Disallow: /blog/?s=*
 
 User-agent: Yandex # Disallow ADPs for Yandex (cannot combine with Bing)
 Allow: */image-illustration/*.jpg # Allow Images that match Image ADP paths
@@ -174,6 +176,7 @@ Allow: */editor/image/$
 Disallow: /image-*chatId=*
 Disallow: /image-*tool=*
 Disallow: /image-*mode=*
+Disallow: /blog/?s=*
 
 # Sitemaps
 Sitemap: https://www.shutterstock.com/sitemaps/image/search-2022/sitemap-image-search-2022-index.xml

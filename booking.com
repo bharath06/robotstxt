@@ -452,6 +452,9 @@ Disallow: /c360_v1_track
 Disallow: /c360/v1/track
 Disallow: /log_rt_blocks_order
 Disallow: /hotel_rt_onview
+Allow: /index.hi.*
+Allow: /hotel/index.hi.*
+Allow: /cars/index.hi.*
 
 User-agent: Baiduspider
 Sitemap: https://www.booking.com/sitembk-zh-index-https.xml

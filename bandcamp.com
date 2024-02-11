@@ -6,6 +6,8 @@ Disallow: /cart/
 Disallow: /corpbanner/
 Disallow: /stream
 Disallow: /api/
+Disallow: /design_tokens
+
 # the currency data endpoint is required to render pages
 Allow: /api/currency_data/
 # required to render /discover pages

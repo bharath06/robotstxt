@@ -296,7 +296,6 @@ Disallow: /localservices/*
 Allow: /finance
 Allow: /js/
 Disallow: /nonprofits/account/
-Disallow: /fbx
 Disallow: /uviewer
 Disallow: /landing/cmsnext-root/
 

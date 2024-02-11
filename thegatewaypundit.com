@@ -89,9 +89,6 @@ Disallow: /
 User-agent: RavenCrawler
 Disallow: /
 
-User-agent: Yandex
-Disallow: /
-
 User-agent: Baiduspider
 Disallow: /
 

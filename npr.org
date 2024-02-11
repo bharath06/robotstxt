@@ -46,6 +46,14 @@ Disallow: /
 User-agent: ChatGPT-User
 Disallow: /
 
+# Disallowing Google Bard and Vertex AI web crawlers
+User-agent: Google-Extended
+Disallow: /
+
+# Explicitly allowing the TTD contextual crawler
+User-agent: Mozilla/5.0 (compatible; TTD-Content; +https://www.thetradedesk.com/general/ttd-content)
+Allow: /
+
 # Ensures that we're using the correct sitemap. The fact that this is legacy*.npr.org is OK because the crawler will only accept
 # URLs in this sitemap to match www*.npr.org
 Sitemap: https://legacy.npr.org/googlecrawl/sitemap_index.xml

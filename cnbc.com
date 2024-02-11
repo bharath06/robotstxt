@@ -29,6 +29,9 @@ Disallow: /search/*
 User-agent: GPTBot
 Disallow: /
 
+User-Agent: PerplexityBot
+Disallow: /
+
 User-agent: *
 Disallow: /preview/
 Disallow: /undefined/

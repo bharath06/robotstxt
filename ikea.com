@@ -115,6 +115,7 @@ Disallow: */editorial-components/*
 Disallow: */monthlyfragments/*
 Disallow: */gcbalance/*
 Disallow: */home-design/share/*
+Disallow: */ikea-family/cancel-signup/
 Disallow: */returns/*?*&liteToken=
 Disallow: */returns/*?liteToken=
 Disallow: */returns/*?ref=

@@ -62,6 +62,10 @@ Disallow: /
 User-agent: Twitterbot
 Allow: /*?*smid=
 
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+Disallow: /*?*campaignId=
+
 Sitemap: https://www.nytimes.com/sitemaps/new/news.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/sitemap.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/collections.xml.gz

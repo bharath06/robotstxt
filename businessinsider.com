@@ -26,7 +26,7 @@ Disallow: /track.gif
 Disallow: /uk$
 Disallow: /ws/
 Disallow: /.well-known/amphtml/apikey.pub
-Disallow: /business-insider
+Disallow: /business-insider$
 Disallow: /*/contributor
 Disallow: /bi$
 Disallow: /news-insider$

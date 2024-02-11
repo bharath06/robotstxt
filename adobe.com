@@ -65,6 +65,7 @@ Disallow: /content/dotcom/*.html$
 Disallow: /content/dam/www/us/en/offer/digital-trends-2020/digital-trends-2020-full-report.pdf
 Disallow: /plans-fragments/
 Disallow: /plans.modals*
+Disallow: /*/dc-shared/fragments/* 
 
 # The Omniture search engine can see everything
 User-agent: Atomz/1.0
@@ -177,6 +178,7 @@ User-agent: Googlebot
 Allow: /?promoid=RTQCN3LX
 Disallow: /*promoid=
 Disallow: /*trackingid=
+Disallow: /*/dc-shared/fragments/*
 
 # XML sitemaps
 Sitemap: https://www.adobe.com/home-sitemap.xml

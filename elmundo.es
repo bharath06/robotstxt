@@ -1,5 +1,6 @@
 # version 0.0.1
 User-agent: *
+Disallow: /1998/
 Disallow: /2002/
 Disallow: /s/
 Disallow: /cgi-bin/

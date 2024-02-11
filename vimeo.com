@@ -17,6 +17,7 @@ Disallow: /forgot_password
 Disallow: /help/forgot_login
 Disallow: /help/verify_email
 Disallow: /help/zendesk_sso
+Disallow: /help/sso
 Disallow: /user/verify
 Disallow: /search
 Disallow: /_*
@@ -43,6 +44,7 @@ Disallow: /forgot_password
 Disallow: /help/forgot_login
 Disallow: /help/verify_email
 Disallow: /help/zendesk_sso
+Disallow: /help/sso
 Disallow: /api/
 Disallow: /user/verify
 Disallow: /search/

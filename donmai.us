@@ -49,7 +49,7 @@ Disallow: /user_actions
 Disallow: /user_events
 Disallow: /user_feedbacks
 Disallow: /user_name_change_requests
-Disallow: /wiki_pages/new
+Disallow: /wiki_pages/new$
 Disallow: /wiki_page_versions
 
 Allow: /artists

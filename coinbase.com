@@ -34,6 +34,7 @@ Sitemap: https://www.coinbase.com/sitemap-bytes.xml
 Sitemap: https://www.coinbase.com/sitemap-places.xml
 Sitemap: https://www.coinbase.com/sitemap-institutional.xml
 Sitemap: https://www.coinbase.com/sitemap-ethereum-merge.xml
+Sitemap: https://www.coinbase.com/sitemap-bitcoin-halving.xml
 Sitemap: https://www.coinbase.com/blog/sitemap.xml
 Sitemap: https://www.coinbase.com/cloud/sitemap.xml
 Sitemap: https://www.coinbase.com/institutional/sitemap.xml

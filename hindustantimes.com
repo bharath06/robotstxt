@@ -83,11 +83,6 @@ Disallow: /images/Popup/
 Disallow: /Images/popup/
 Disallow: /homenew
 
-User-agent: GPTBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
 
 User-agent: *
 Disallow: /brand-stories/international/*

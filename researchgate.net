@@ -7,5 +7,5 @@ Disallow: /firststeps.
 Disallow: /publicliterature.PublicLiterature.search.html
 Disallow: /lite.publication.PublicationRequestFulltextPromo.requestFulltext.html
 Disallow: /amp/authorize
-Allow: /signup.SignUp.html
+Allow: /signup.SignUp.html$
 Disallow: /signup.

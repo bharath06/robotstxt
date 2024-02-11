@@ -69,7 +69,6 @@ Disallow: */users/*/group/
 Disallow: */users/popular-week/
 Disallow: /_v1st
 Disallow: /video/edit
-Disallow: /video/k*
 Disallow: */vids/*
 Disallow: */visited/group/
 Disallow: */visited/*/group/
@@ -180,7 +179,6 @@ Disallow: */users/group/
 Disallow: */users/*/group/
 Disallow: */users/popular-week/
 Disallow: /_v1st
-Disallow: /video/k*
 Disallow: /video/edit
 Disallow: */vids/*
 Disallow: */visited/group/
@@ -288,7 +286,6 @@ Disallow: */users/group/
 Disallow: */users/*/group/
 Disallow: */users/popular-week/
 Disallow: /video/edit
-Disallow: /video/k*
 Disallow: */vids/*
 Disallow: /widget_chunks/
 Disallow: /*?af=*
@@ -394,7 +391,6 @@ Disallow: */users/*/group/
 Disallow: */users/popular-week/
 Disallow: /_v1st
 Disallow: /video/edit
-Disallow: /video/k*
 Disallow: */vids/*
 Disallow: */visited/group/
 Disallow: */visited/*/group/
@@ -505,7 +501,6 @@ Disallow: */users/*/group/
 Disallow: */users/popular-week/
 Disallow: /_v1st
 Disallow: /video/edit
-Disallow: /video/k*
 Disallow: */vids/*
 Disallow: */visited/group/
 Disallow: */visited/*/group/
@@ -616,7 +611,6 @@ Disallow: */users/*/group/
 Disallow: */users/popular-week/
 Disallow: /_v1st
 Disallow: /video/edit
-Disallow: /video/k*
 Disallow: */vids/*
 Disallow: */visited/group/
 Disallow: */visited/*/group/
@@ -728,7 +722,6 @@ Disallow: */users/*/group/
 Disallow: */users/popular-week/
 Disallow: /_v1st
 Disallow: /video/edit
-Disallow: /video/k*
 Disallow: */vids/*
 Disallow: */visited/group/
 Disallow: */visited/*/group/

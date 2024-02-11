@@ -26,7 +26,7 @@
 # Or check out our YouTube channel for our latest
 # https://www.youtube.com/user/nvidia
 #
-# Last updated 19 Jan 2023 by LC
+# Last updated 7 Feb 2024 by LC
 
 sitemap: https://www.nvidia.com/content/dam/sitemaps/sitemap_index.xml
 
@@ -109,9 +109,6 @@ Disallow: /*&jso*
 Disallow: /*?page*
 Disallow: /*&page*
 
-Disallow: /*?search*
-Disallow: /*&search*
-
 Disallow: /*?section*
 Disallow: /*&section*
 
@@ -120,6 +117,14 @@ Disallow: /*&topicpage*
 
 Disallow: /*?utm*
 Disallow: /*&utm*
+
+# GTC Fixes
+
+Disallow: /*?regcode*
+Disallow: /*&regcode*
+
+Disallow: /*?wcmmode*
+Disallow: /*&wcmmode*
 
 User-agent: NvidiaCrawler
 Disallow: /on-demand/session/*

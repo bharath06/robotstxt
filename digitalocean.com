@@ -14,7 +14,6 @@ Sitemap: https://www.digitalocean.com/sitemaps/community-pages-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/community-tools-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/community-indexes-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/trust-0.xml.gz
-Sitemap: https://www.digitalocean.com/sitemaps/tide-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/solutions-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/resources-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/reports-0.xml.gz

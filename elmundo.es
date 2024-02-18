@@ -152,6 +152,10 @@ Disallow: */pruebas-abierto/*
 Disallow: */elmundo/hemeroteca/*/*/*/*/*
 Allow: */elmundo/hemeroteca/*/*/*/*/index*
 # Bloqueo de bots y crawlers poco utiles
+User-agent: GPTBot Disallow: /
+User-agent: CCBot Disallow: /
+User-agent: anthropic-ai Disallow: /
+User-agent: ChatGPT-User Disallow: /
 User-agent: 008 Disallow: /
 User-agent: AddThis.com Disallow: /
 User-agent: admantx Disallow: /

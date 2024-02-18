@@ -14,7 +14,6 @@ Allow: /uk/info/contactus/email-the-ceo/
 Disallow: /*/info/contactus/email-the-ceo/
 Disallow: /*/c/p/
 Disallow: /de/aboutsamsung/inner-circle-2017/
-Disallow: /ru/*search
 Disallow: /ru/cdm/*
 Disallow: /uk/*productcompare
 Disallow: /uk/wdc/*
@@ -245,7 +244,7 @@ Sitemap:https://www.samsung.com/bg/sitemap.xml
 Sitemap:https://www.samsung.com/ca/sitemap.xml
 Sitemap:https://www.samsung.com/ca_fr/sitemap.xml
 Sitemap:https://www.samsung.com/cl/sitemap.xml
-Sitemap:https://www.samsung.com/cn/sitemap.xml
+Sitemap:https://www.samsung.com.cn/sitemap.xml
 Sitemap:https://www.samsung.com/co/sitemap.xml
 Sitemap:https://www.samsung.com/hr/sitemap.xml
 Sitemap:https://www.samsung.com/cz/sitemap.xml

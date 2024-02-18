@@ -41,10 +41,26 @@ Allow: /wirecutter/*?*utm_source=
 Allow: /ads/public/
 Allow: /svc/news/v3/all/pshb.rss
 
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+Disallow: /
+
 User-agent: Bytespider
 Disallow: /
 
 User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: FacebookBot
 Disallow: /
 
 User-agent: Google-Extended
@@ -53,18 +69,20 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
-User-Agent: omgili
+User-agent: magpie-crawler
 Disallow: /
 
-User-Agent: omgilibot
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: peer39_crawler
 Disallow: /
 
 User-agent: Twitterbot
 Allow: /*?*smid=
-
-User-agent: AdsBot-Google
-User-agent: AdsBot-Google-Mobile
-Disallow: /*?*campaignId=
 
 Sitemap: https://www.nytimes.com/sitemaps/new/news.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/sitemap.xml.gz

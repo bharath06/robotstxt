@@ -424,6 +424,8 @@ Disallow: /treasures/invest/what-is-the-blockchain-trilemma.page?productId=lrpor
 Disallow: /treasures/MMProductDetail.page?productId=lrpor96f
 Disallow: /Contact/treasures/uncover-the-hidden-dragon-webinar-registration/default.page
 Disallow: /treasures/loans/uncover-the-hidden-dragon-webinar-registration.page
+Disallow: /personal/travellershield-plus-cruise.page
+Disallow: /Contact/dbs/deposits/ntb-foreigner-students-promo/default.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

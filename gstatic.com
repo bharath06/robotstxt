@@ -48,6 +48,7 @@ Allow: /bfe/apps/website/
 Allow: /boutique/sitemaps/
 Allow: /compare/
 Allow: /chrome/crlset/
+Allow: /chrome/webstore/images/
 Allow: /cloud-launcher/sitemap/
 Allow: /cloudsourcetools/images/
 Allow: /commercesearch/images/

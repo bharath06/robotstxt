@@ -41,14 +41,18 @@ Disallow: /healthy/hm-test-page-5-diabetes-and-sweets
 Disallow: /health/drugs/hm-test-all-about-humira
 Disallow: /health/hm-test-feature-template-for-sponsorship
 
+# Invalid URLs
+Disallow: */null$
+Disallow: */inline$
+
 # Static Test Articles
 Disallow: /test/
 
 # Media Revenue Test Pages
 Disallow: /*/hm-test
 
-# Infinite Scroll API
-Disallow: /api/content/
+# API Routes
+Disallow: /api/*
 
 Disallow: /hlcmsresource/*.txt$
 Disallow: /hlcmsresource/*.xml$

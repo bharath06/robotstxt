@@ -9,6 +9,9 @@ Disallow: *?kw
 Disallow: /embed?
 Disallow: /shop/
 Disallow: /authentication/
+Disallow: /newsletters/preferences/manage
+Disallow: /newsletters/preferences/unsubscribe
+Disallow: /sweepstakes/entry/
 
 User-agent: Pinterest
 Disallow:

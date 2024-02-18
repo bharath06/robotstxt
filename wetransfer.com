@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /?*
+Disallow: /*?*
 Disallow: /downloads/
 Disallow: /api/ui/
 Disallow: /api/
@@ -8,4 +8,7 @@ Disallow: /pm-optout
 Disallow: /wallpaper/
 Disallow: /wallpapers/
 Disallow: /unlisted/
+Disallow: /transfers/*
+Disallow: /accounts/*
+
 Sitemap: https://wetransfer.com/sitemap.xml

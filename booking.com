@@ -51,6 +51,7 @@ Sitemap: https://www.booking.com/sitembk-flights-to-region-index.xml
 Sitemap: https://www.booking.com/sitembk-flights-to-city-index.xml
 Sitemap: https://www.booking.com/sitembk-flights-to-airport-index.xml
 Sitemap: https://www.booking.com/sitembk-fraud-index.xml
+Sitemap: https://www.booking.com/sitembk-holidays-city-index.xml
 Sitemap: https://www.booking.com/sitembk-hotel-index.xml
 Sitemap: https://www.booking.com/sitembk-hotel-review-index.xml
 Sitemap: https://www.booking.com/sitembk-landmark-index.xml
@@ -455,6 +456,9 @@ Disallow: /hotel_rt_onview
 Allow: /index.hi.*
 Allow: /hotel/index.hi.*
 Allow: /cars/index.hi.*
+Allow: /flights/index.hi.*
+Allow: /attractions/index.hi.*
+Allow: /taxi/index.hi.*
 
 User-agent: Baiduspider
 Sitemap: https://www.booking.com/sitembk-zh-index-https.xml

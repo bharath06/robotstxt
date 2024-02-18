@@ -503,7 +503,7 @@ Clean-Param: 009&sport&auto&google_editors_picks&utm_source&utm_medium&f&n&fb_so
 Clean-Param: sort&tag&2&s&questions&action_object_map&_sbinfo_&utm_campaign&gclid
 Clean-Param: x&y&p&how&text&section&from&to&sort_order&input
 Clean-Param: updated&refresh
-Clean-Param: sort_by_sport&sort_by_date
+Clean-Param: sort_by_sport&sort_by_date&utm_follow&nw&photo_num&rcmrclid&utm_referrer&es&refresh&updated&p&id&erid&rb_clickid&_x_tr_sl&lang
 Host: https://www.gazeta.ru
 
 Sitemap: https://www.gazeta.ru/sitemap.xml

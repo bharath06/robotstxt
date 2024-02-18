@@ -18,8 +18,12 @@ Disallow: /counters.php
 Disallow: /articles/mnt-*
 Disallow: /program/mnt-*
 
-# Infinite Scroll API
-Disallow: /api/content/
+# API Routes
+Disallow: /api/*
+
+# Invalid URLs
+Disallow: */null$
+Disallow: */inline$
 
 User-agent: GPTBot
 Disallow: /

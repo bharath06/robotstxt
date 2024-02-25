@@ -8,6 +8,7 @@ Disallow: /global/
 Disallow: /api/
 Disallow: /critiques/
 Disallow: /prints/*by:*
+Disallow: /_stash/
 
 User-agent: Pinterestbot
 Disallow: /

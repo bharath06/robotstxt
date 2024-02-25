@@ -4,6 +4,7 @@ Disallow: /try
 Disallow: /settings
 Disallow: /extension
 Disallow: /native
+Disallow: /legal
 Disallow: /api-access
 Disallow: /cdn-cgi/
 Disallow: /abtest

@@ -41,3 +41,7 @@ Disallow: /products-search/hot-china-products/*
 Disallow: /manufacturers/*
 Disallow: /factory/*
 Disallow: /price/*
+
+User-agent: *
+Disallow: /video-channel/view-*
+Disallow: /video-channel/category-*

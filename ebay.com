@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v20.0_COM_Feb_2024
+# v20.1_COM_Feb_2024
 ### DIRECTIVES ###
 
 User-agent: *
@@ -335,6 +335,22 @@ Disallow: /b/*/bn_7121802176
 Disallow: /b/*/bn_7121802177
 Disallow: /b/*/bn_7121802178
 Disallow: /b/*/bn_7121802179
+Disallow: /b/*/bn_7122026161
+Disallow: /b/*/bn_7122019268
+Disallow: /b/*/bn_7122026162
+Disallow: /b/*/bn_7122021252
+Disallow: /b/*/bn_7122017234
+Disallow: /b/*/bn_7122026163
+Disallow: /b/*/bn_7122017235
+Disallow: /b/*/bn_7122025167
+Disallow: /b/*/bn_7122021253
+Disallow: /b/*/bn_7122021254
+Disallow: /b/*/bn_7122021255
+Disallow: /b/*/bn_7122025168
+Disallow: /b/*/bn_7122024172
+Disallow: /b/*/bn_7122024173
+Disallow: /b/*/bn_7122017236
+Disallow: /b/*/bn_7122017237
 Disallow: /b/Test-Category
 Disallow: /b/eBay-Use-Only
 Disallow: /b/eBay-Test-Only
@@ -433,6 +449,7 @@ Disallow: /price-guide/
 Disallow: /prp/
 Disallow: /rcm/
 Disallow: /recfb?
+Disallow: /recs/
 Disallow: /res/
 Disallow: /rewards
 Disallow: /rvh/
@@ -802,6 +819,22 @@ Disallow: /b/*/bn_7121802176
 Disallow: /b/*/bn_7121802177
 Disallow: /b/*/bn_7121802178
 Disallow: /b/*/bn_7121802179
+Disallow: /b/*/bn_7122026161
+Disallow: /b/*/bn_7122019268
+Disallow: /b/*/bn_7122026162
+Disallow: /b/*/bn_7122021252
+Disallow: /b/*/bn_7122017234
+Disallow: /b/*/bn_7122026163
+Disallow: /b/*/bn_7122017235
+Disallow: /b/*/bn_7122025167
+Disallow: /b/*/bn_7122021253
+Disallow: /b/*/bn_7122021254
+Disallow: /b/*/bn_7122021255
+Disallow: /b/*/bn_7122025168
+Disallow: /b/*/bn_7122024172
+Disallow: /b/*/bn_7122024173
+Disallow: /b/*/bn_7122017236
+Disallow: /b/*/bn_7122017237
 Disallow: /b/Test-Category
 Disallow: /b/eBay-Use-Only
 Disallow: /b/eBay-Test-Only
@@ -901,6 +934,7 @@ Disallow: /price-guide/
 Disallow: /prp/
 Disallow: /rcm/
 Disallow: /recfb?
+Disallow: /recs/
 Disallow: /res/
 Disallow: /rewards
 Disallow: /rvh/
@@ -1235,6 +1269,22 @@ Disallow: /b/*/bn_7121802176
 Disallow: /b/*/bn_7121802177
 Disallow: /b/*/bn_7121802178
 Disallow: /b/*/bn_7121802179
+Disallow: /b/*/bn_7122026161
+Disallow: /b/*/bn_7122019268
+Disallow: /b/*/bn_7122026162
+Disallow: /b/*/bn_7122021252
+Disallow: /b/*/bn_7122017234
+Disallow: /b/*/bn_7122026163
+Disallow: /b/*/bn_7122017235
+Disallow: /b/*/bn_7122025167
+Disallow: /b/*/bn_7122021253
+Disallow: /b/*/bn_7122021254
+Disallow: /b/*/bn_7122021255
+Disallow: /b/*/bn_7122025168
+Disallow: /b/*/bn_7122024172
+Disallow: /b/*/bn_7122024173
+Disallow: /b/*/bn_7122017236
+Disallow: /b/*/bn_7122017237
 
 User-agent: AdIdxBot
 Disallow: /*src=urllib
@@ -1513,6 +1563,22 @@ Disallow: /b/*/bn_7121802176
 Disallow: /b/*/bn_7121802177
 Disallow: /b/*/bn_7121802178
 Disallow: /b/*/bn_7121802179
+Disallow: /b/*/bn_7122026161
+Disallow: /b/*/bn_7122019268
+Disallow: /b/*/bn_7122026162
+Disallow: /b/*/bn_7122021252
+Disallow: /b/*/bn_7122017234
+Disallow: /b/*/bn_7122026163
+Disallow: /b/*/bn_7122017235
+Disallow: /b/*/bn_7122025167
+Disallow: /b/*/bn_7122021253
+Disallow: /b/*/bn_7122021254
+Disallow: /b/*/bn_7122021255
+Disallow: /b/*/bn_7122025168
+Disallow: /b/*/bn_7122024172
+Disallow: /b/*/bn_7122024173
+Disallow: /b/*/bn_7122017236
+Disallow: /b/*/bn_7122017237
 
 User-agent: Twitterbot
 Disallow: /*src=urllib

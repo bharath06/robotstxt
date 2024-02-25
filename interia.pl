@@ -1,3 +1,6 @@
-User-agent *
+User-agent: *
 
 Allow:/
+
+User-agent: grapeshot
+Disallow: /

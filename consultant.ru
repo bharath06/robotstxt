@@ -27,4 +27,5 @@ Disallow: /regbase/static
 Disallow: /fss/
 Disallow: /kniga/
 Clean-param: utm_campaign&utm_source&utm_medium&utm_term&utm_content&yclid&gclid&ts&frame&SEARCHPLUS&_ga&back&bx_sender_conversion_id&div&disableGlobalInfoCollect&mode&ref&last&msclkid&fl
-Clean-param: date_start&date_end&important&vc_select&from&stat&cacheid&diff&BASENODE
+Clean-param: date_start&date_end&important&vc_select&from&stat&cacheid&diff&BASENODE&SORTTYPE&query&snippets&isSearchMode&Town&Region&NoText&push_id&utm_sup_source&utm_sup_project&utm_sup_type
+Clean-param: resource&target&msclkid&tag_ids&ysclid&mbstx&dirRefFld&docaccess&b24form_user&authuser

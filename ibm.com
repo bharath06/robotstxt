@@ -68,15 +68,13 @@ Disallow: /standards
 # Disallow: /internal
 Disallow: /test
 Disallow: /test-kick-tires
-# Added for EI-2179 on 17Apr2020
 Disallow: /test-v1-page-template
 Disallow: /product-detail
 Disallow: /watson/assets/pdfs/reg
-# Added by JLiao for SD EI-2359,EI-2360 on 23Jun2020
 Disallow: /zprod-ease
 Disallow: /zProd-ease
-#Added for EI-2216 on 06May2020 
 Disallow: /zshowcase
+Disallow: /widgets-admin
 
 Allow:    /common/ssi
 Allow:    /data-responsibility

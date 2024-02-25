@@ -39,4 +39,4 @@ User-agent: *
 Allow: /
     
 # Sitemaps
-Sitemap: https://www.elsevier.com/sitemap.xml
+Sitemap: https://www.elsevier.com/sitemap-index.xml

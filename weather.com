@@ -16,8 +16,6 @@ User-agent: CriteoBot/0.1
 Disallow:
 Crawl-delay: .02
 
-# App paths
-Disallow: /wx/
 # Directories
 Disallow: /includes/
 Disallow: /life/

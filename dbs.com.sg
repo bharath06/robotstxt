@@ -426,6 +426,7 @@ Disallow: /Contact/treasures/uncover-the-hidden-dragon-webinar-registration/defa
 Disallow: /treasures/loans/uncover-the-hidden-dragon-webinar-registration.page
 Disallow: /personal/travellershield-plus-cruise.page
 Disallow: /Contact/dbs/deposits/ntb-foreigner-students-promo/default.page
+Disallow: /personal/mspo-specialdeal.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

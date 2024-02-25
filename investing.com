@@ -21,6 +21,7 @@ Disallow: /mobile/footer-redirect
 Disallow: /research/
 Disallow: /brokers2/
 Disallow: /cdn-cgi/
+Disallow: /brokers/house/guest/*
 
 Allow: /members/contributors
 Allow: /research/$

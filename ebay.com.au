@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v20.0_AU_Feb_2024
+# v20.1_AU_Feb_2024
 ### DIRECTIVES ###
 
 User-agent: *
@@ -145,6 +145,7 @@ Disallow: /personalization/
 Disallow: /pgfeapp
 Disallow: /rcm/
 Disallow: /recfb?
+Disallow: /recs/
 Disallow: /res/
 Disallow: /rewards
 Disallow: /rvh/
@@ -331,6 +332,7 @@ Disallow: /personalization/
 Disallow: /pgfeapp
 Disallow: /rcm/
 Disallow: /recfb?
+Disallow: /recs/
 Disallow: /res/
 Disallow: /rewards
 Disallow: /rvh/

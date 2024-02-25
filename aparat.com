@@ -50,6 +50,8 @@ Disallow: /video/video/report
 Disallow: /video/video/search
 Disallow: /video/video/stat
 Disallow: /video/video/upload1
+Disallow: /video/hls/manifest/visittype/site/videohash
+Disallow: *chunk.m3u8*
 Allow: /etc/api
 Allow: *nextq=*
 

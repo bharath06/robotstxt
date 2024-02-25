@@ -44,6 +44,9 @@ Disallow:/recruiters/closed-jobs-*
 Disallow:/recruiters/follow-with-count-*
 Disallow:/recruiters/unfollow-with-count-*
 Disallow:/recruiters/rp-follower-count-*
+Disallow: /code360-staging
+Disallow: /code360-staging/
+Disallow: /code360-staging/*
 
 Sitemap: https://www.naukri.com/sitemap.xml
 Sitemap: https://www.naukri.com/sitemap/webstories-1.xml

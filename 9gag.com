@@ -2,7 +2,7 @@
 # All robots will spider the domain
 
 User-agent: Mediapartners-Google
-Disallow:
+Allow: /
 
 User-agent: *
 Disallow: /gag-in-app/*

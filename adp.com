@@ -35,6 +35,7 @@ Disallow: /rc_*.asp
 Disallow: /sem totalsource/*
 Disallow: /SEM2016/Accountant/*
 Disallow: /semlps/*
+Disallow: /settings/datasources*
 Disallow: /site-search*
 Disallow: /small-business-health-insurance/index_thankyou.aspx
 Disallow: /solutions/employer-services/totalsource/success-stories/success-stories-detail.aspx*

@@ -1,3 +1,17 @@
+# New York Times content is made available for your personal, non-commercial
+# use subject to our Terms of Service here:
+# https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-Service.
+# Use of any device, tool, or process designed to data mine or scrape the content
+# using automated means is prohibited without prior written permission from
+# The New York Times Company.  Prohibited uses include but are not limited to:
+# (1) text and data mining activities under Art. 4 of the EU Directive on Copyright in
+# the Digital Single Market;
+# (2) the development of any software, machine learning, artificial intelligence (AI),
+# and/or large language models (LLMs);
+# (3) creating or providing archived or cached data sets containing our content to others; and/or
+# (4) any commercial purposes.
+# Contact https://nytlicensing.com/contact/ for assistance.
+
 User-agent: *
 Disallow: /ads/
 Disallow: /adx/bin/
@@ -79,6 +93,7 @@ User-agent: omgilibot
 Disallow: /
 
 User-agent: peer39_crawler
+User-agent: peer39_crawler/1.0
 Disallow: /
 
 User-agent: Twitterbot

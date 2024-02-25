@@ -6,30 +6,31 @@ crawl-delay: 1
 
 User-agent: *
 
-Disallow: /*/pulse
+Disallow: /*/*/pulse
+Disallow: /*/*/projects
+Disallow: /*/*/forks
+Disallow: /*/*/issues/new
+Disallow: /*/*/issues/search
+Disallow: /*/*/commits/
+Disallow: /*/*/branches
+Disallow: /*/*/contributors
+Disallow: /*/*/tags
+Disallow: /*/*/stargazers
+Disallow: /*/*/watchers
+Disallow: /*/*/network
+Disallow: /*/*/graphs
+Disallow: /*/*/compare
+
 Disallow: /*/tree/
 Disallow: /gist/
-Disallow: /*/forks
-Disallow: /*/stars
 Disallow: /*/download
 Disallow: /*/revisions
-Disallow: /*/issues/new
-Disallow: /*/issues/search
-Disallow: /*/commits/
 Disallow: /*/commits/*?author
 Disallow: /*/commits/*?path
-Disallow: /*/branches
-Disallow: /*/tags
-Disallow: /*/contributors
 Disallow: /*/comments
-Disallow: /*/stargazers
 Disallow: /*/archive/
 Disallow: /*/blame/
-Disallow: /*/watchers
-Disallow: /*/network
-Disallow: /*/graphs
 Disallow: /*/raw/
-Disallow: /*/compare/
 Disallow: /*/cache/
 Disallow: /.git/
 Disallow: */.git/

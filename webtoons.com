@@ -12,9 +12,8 @@ Disallow: /*/challenge/saveTitle
 Disallow: /member/login
 Disallow: /member/logout
 Disallow: /*/favorite
-Disallow: /account
-Disallow: /settings/social
-Disallow: /settings/account
+Disallow: /*/account
+Disallow: /*/settings/account
 Disallow: /*/search
 Disallow: /*/notice/detail?noticeNo=*&page=
 Disallow: /*/notice/list?page=

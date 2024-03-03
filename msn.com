@@ -13,6 +13,9 @@ User-agent: AdsBot-Google
 Allow: /
 Disallow: /*/health/search/filter
 
+User-agent: Verity
+Crawl-delay: 1
+
 User-agent: ias_crawler
 Crawl-delay: 0.5
 

@@ -79,6 +79,7 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2016/6/sitema
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2016/7/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2016/8/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2016/9/sitemap.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2016/9/sitemap2.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2017/1/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2017/10/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2017/11/sitemap.xml.gz
@@ -272,3 +273,4 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/1/sitema
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/2/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/2/sitemap1.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/2/sitemap2.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/3/sitemap.xml.gz

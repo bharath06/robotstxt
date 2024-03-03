@@ -23,7 +23,6 @@ Disallow: /ukinnovators/search/
 Disallow: /latam/search/
 Disallow: /faq/search/
 Disallow: /tc/search/
-Disallow: /en/news/thp
 Disallow: /subscriptions/group/manage/
 Disallow: /preview/lineup
 Disallow: /preview/articles

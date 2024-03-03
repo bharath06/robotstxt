@@ -11,6 +11,7 @@ Sitemap: https://www.digitalocean.com/sitemaps/community-questions-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/community-questions-1.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/community-questions-2.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/community-pages-0.xml.gz
+Sitemap: https://www.digitalocean.com/sitemaps/community-tags-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/community-tools-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/community-indexes-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/trust-0.xml.gz

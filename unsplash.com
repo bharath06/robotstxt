@@ -167,3 +167,7 @@ Disallow: /pt-br/s/visual/*
 
 Disallow: /en-xa
 Disallow: /en-xa/*
+
+User-Agent: ImagesiftBot
+
+Disallow: /

@@ -6,10 +6,10 @@ Disallow: /static/gla/
 Disallow: /invite/
 
 # Host
-Host: http://localhost:4000
+Host: https://www.snapchat.com
 
 # Sitemaps
-Sitemap: http://localhost:4000/sitemap.xml
+Sitemap: https://www.snapchat.com/sitemap.xml
 Sitemap: https://www.snapchat.com/spotlight/sitemap.xml
 Sitemap: https://www.snapchat.com/add/sitemap.xml
 Sitemap: https://www.snapchat.com/explore/sitemap.xml

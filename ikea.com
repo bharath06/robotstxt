@@ -86,6 +86,9 @@ Disallow:  /ms/en_US/usearch/?query=*
 Disallow: /ms/en_us/usearch/
 Disallow: /*-fragment.html
 Disallow: /*-fragment-recursive.html
+Disallow: /*-fragment-dynamic.html
+Disallow: /*-fragment/
+Disallow: /*-fragment-recursive/
 Disallow: /products/container.html
 Disallow: */rl/
 Disallow: *productId=*

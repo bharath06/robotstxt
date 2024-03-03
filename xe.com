@@ -1,43 +1,39 @@
+# *
+User-agent: *
+
+# *
 User-agent: *
 Disallow: /fxwidgets/
 Disallow: /migration/
 Disallow: /currencytransfers/
-Disallow: /tmi/
-Disallow: /themes/xeidevent.php
-Disallow: /ga.php
-Disallow: /syndication/currencychartswidget.php
-Disallow: /syndication/currencyconverterwidget.php
-Disallow: /syndication/ratestablewidget.php
 
-# New sitemap xml except for sitemap-index.xml.
-Sitemap: https://www.xe.com/sitemap-general.xml
-Sitemap: https://www.xe.com/sitemap-currencies.xml
+# Host
+Host: https://www.xe.com/
 
-Sitemap: https://www.xe.com/sitemap-converter.xml
-Sitemap: https://www.xe.com/ar/sitemap-converter.xml
-Sitemap: https://www.xe.com/de/sitemap-converter.xml
-Sitemap: https://www.xe.com/es/sitemap-converter.xml
-Sitemap: https://www.xe.com/fr/sitemap-converter.xml
-Sitemap: https://www.xe.com/it/sitemap-converter.xml
-Sitemap: https://www.xe.com/ja/sitemap-converter.xml
-Sitemap: https://www.xe.com/pt/sitemap-converter.xml
-Sitemap: https://www.xe.com/sv/sitemap-converter.xml
-Sitemap: https://www.xe.com/zh-CN/sitemap-converter.xml
-Sitemap: https://www.xe.com/zh-HK/sitemap-converter.xml
-
-Sitemap: https://www.xe.com/sitemap-charts.xml
-Sitemap: https://www.xe.com/ar/sitemap-charts.xml
-Sitemap: https://www.xe.com/de/sitemap-charts.xml
-Sitemap: https://www.xe.com/es/sitemap-charts.xml
-Sitemap: https://www.xe.com/fr/sitemap-charts.xml
-Sitemap: https://www.xe.com/it/sitemap-charts.xml
-Sitemap: https://www.xe.com/ja/sitemap-charts.xml
-Sitemap: https://www.xe.com/pt/sitemap-charts.xml
-Sitemap: https://www.xe.com/sv/sitemap-charts.xml
-Sitemap: https://www.xe.com/zh-CN/sitemap-charts.xml
-Sitemap: https://www.xe.com/zh-HK/sitemap-charts.xml
-
-Sitemap: https://www.xe.com/blog/sitemap.xml
+# Sitemaps
+Sitemap: https://www.xe.com/sitemap.xml
+Sitemap: https://www.xe.com/sitemap-0.xml
+Sitemap: https://www.xe.com/sitemap-1.xml
+Sitemap: https://www.xe.com/sitemap-2.xml
+Sitemap: https://www.xe.com/sitemap-3.xml
+Sitemap: https://www.xe.com/sitemap-4.xml
+Sitemap: https://www.xe.com/sitemap-5.xml
+Sitemap: https://www.xe.com/sitemap-6.xml
+Sitemap: https://www.xe.com/sitemap-7.xml
+Sitemap: https://www.xe.com/sitemap-8.xml
+Sitemap: https://www.xe.com/sitemap-9.xml
+Sitemap: https://www.xe.com/sitemap-10.xml
+Sitemap: https://www.xe.com/sitemap-11.xml
+Sitemap: https://www.xe.com/sitemap-12.xml
+Sitemap: https://www.xe.com/sitemap-13.xml
+Sitemap: https://www.xe.com/sitemap-14.xml
+Sitemap: https://www.xe.com/sitemap-15.xml
+Sitemap: https://www.xe.com/sitemap-16.xml
+Sitemap: https://www.xe.com/sitemap-17.xml
+Sitemap: https://www.xe.com/sitemap-18.xml
+Sitemap: https://www.xe.com/sitemap-19.xml
+Sitemap: https://www.xe.com/sitemap-send-money.xml
 Sitemap: https://www.xe.com/sitemap-business.xml
-Sitemap: https://www.xe.com/sitemap-magneto.xml
 Sitemap: https://www.xe.com/partnerships/sitemap.xml
+Sitemap: https://www.xe.com/blog/sitemap.xml
+Sitemap: https://www.xe.com/company/sitemap.xml

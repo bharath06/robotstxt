@@ -127,6 +127,12 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
 User-agent: *
 Disallow: /new-york-post-instagram-feed/
 Disallow: /new-york-post-tiktok-feed/

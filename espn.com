@@ -7,7 +7,28 @@ User-agent: GPTBot
 Disallow: /
 
 User-agent: Google-Extended
-Disallow: /  
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
 
 User-agent: *
 Disallow: */admin/

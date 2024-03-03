@@ -132,6 +132,10 @@ Disallow: /
 User-agent: Amazonbot
 Disallow: /
 
-# Bing's crawler
-User-agent: Bingbot
+# ClaudeBot's crawler
+User-agent: ClaudeBot
+Disallow: /
+
+# anthropic-ai's crawler
+User-agent: anthropic-ai
 Disallow: /

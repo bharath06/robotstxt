@@ -93,6 +93,7 @@ Disallow: /bb/ispapply_flets_change.asp*
 Disallow: /robot-advisor/jump/
 Disallow: /programming-school/jump/
 Disallow: /mobile_data/world-wifi/world-esim/jump/
+Disallow: /kuruma/kaitori_hikaku/jump/
 
 User-agent: Mediapartners-Google
 Allow: /kuchikomi/review/history/
@@ -193,6 +194,7 @@ Disallow: /robot-advisor/jump/
 Disallow: /programming-school/jump/
 Disallow: /used/*?*
 Disallow: /mobile_data/world-wifi/world-esim/jump/
+Disallow: /kuruma/kaitori_hikaku/jump/
 
 User-agent: GPTBot
 Disallow: /

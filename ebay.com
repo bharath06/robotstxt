@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v20.1_COM_Feb_2024
+# v20.3_COM_Feb_2024
 ### DIRECTIVES ###
 
 User-agent: *
@@ -351,6 +351,7 @@ Disallow: /b/*/bn_7122024172
 Disallow: /b/*/bn_7122024173
 Disallow: /b/*/bn_7122017236
 Disallow: /b/*/bn_7122017237
+Disallow: /b/*/bn_7122043158
 Disallow: /b/Test-Category
 Disallow: /b/eBay-Use-Only
 Disallow: /b/eBay-Test-Only
@@ -459,7 +460,7 @@ Allow: /sch/allcategories/
 Allow: /sch/*_ul
 Allow: /sch/*_fosrp
 Allow: /sch/*_trksid
-Allow: /sch/i.html?_nkw=
+Disallow: /sch/i.html?_nkw=
 Allow: /sch/i.html?*&mkcid=2
 Disallow: /sch/i.html?*_nkw=*&
 Disallow: /sch/
@@ -835,6 +836,7 @@ Disallow: /b/*/bn_7122024172
 Disallow: /b/*/bn_7122024173
 Disallow: /b/*/bn_7122017236
 Disallow: /b/*/bn_7122017237
+Disallow: /b/*/bn_7122043158
 Disallow: /b/Test-Category
 Disallow: /b/eBay-Use-Only
 Disallow: /b/eBay-Test-Only
@@ -1285,6 +1287,7 @@ Disallow: /b/*/bn_7122024172
 Disallow: /b/*/bn_7122024173
 Disallow: /b/*/bn_7122017236
 Disallow: /b/*/bn_7122017237
+Disallow: /b/*/bn_7122043158
 
 User-agent: AdIdxBot
 Disallow: /*src=urllib
@@ -1579,6 +1582,7 @@ Disallow: /b/*/bn_7122024172
 Disallow: /b/*/bn_7122024173
 Disallow: /b/*/bn_7122017236
 Disallow: /b/*/bn_7122017237
+Disallow: /b/*/bn_7122043158
 
 User-agent: Twitterbot
 Disallow: /*src=urllib

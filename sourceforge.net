@@ -117,3 +117,5 @@ Sitemap: https://sourceforge.net/directory_sitemap.xml
 Sitemap: https://sourceforge.net/software_sitemap.xml
 Sitemap: https://sourceforge.net/blog/sitemap_index.xml
 Sitemap: https://sourceforge.net/articles/sitemap_index.xml
+
+Crawl-delay: 1

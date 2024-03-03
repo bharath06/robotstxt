@@ -30,9 +30,6 @@ Disallow: /users/*?tab=accounts
 Disallow: /users/*?tab=activity
 Disallow: /users/rep/show
 Disallow: /users/rep/show?
-Disallow: /users/prediction-data
-Disallow: /users/prediction-data/
-Disallow: /users/prediction-data?
 Disallow: /unanswered/
 Disallow: /unanswered?
 Disallow: /u/

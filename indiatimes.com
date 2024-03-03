@@ -10,6 +10,7 @@ Disallow: /brief/*
 Disallow: /search/*
 Disallow: /user/*
 Disallow: /idtoin/*
+Disallow: */video_player/*
 
 #Sitemaps
 Sitemap:https://www.indiatimes.com/central-service/hindi/webstories/sitemap-index.xml

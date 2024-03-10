@@ -260,7 +260,9 @@ Allow: /about/careers/applications/interview-tips/
 Allow: /about/careers/applications-a/interview-tips/
 Disallow: /about/careers/applications/
 Disallow: /about/careers/applications-a/
+Disallow: /about/careers/applications/jobs/results?page=
 Disallow: /about/careers/applications/jobs/results/?page=
+Disallow: /about/careers/applications/jobs/results?*&page=
 Disallow: /about/careers/applications/jobs/results/?*&page=
 Disallow: /landing/signout.html
 Disallow: /webmasters/sitemaps/ping?

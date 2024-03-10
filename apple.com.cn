@@ -41,6 +41,7 @@ Disallow: /*/aow/*
 Disallow: /go/awards/*
 Disallow: /newsroom/notifications/*
 Disallow: /tmall*
+Disallow: /promo*
 Allow: /ac/globalnav/2.0/*/images/ac-globalnav/globalnav/search/* 
 
 User-agent: Baiduspider
@@ -90,6 +91,9 @@ Disallow: /retail/pickupEligibility*
 Disallow: /tmall/*
 Disallow: /cn/shop/buy-*
 Disallow: /cn-smb*
+Disallow: /*?cid=www$
+Disallow: /*?cid=wwa$
+Disallow: /*?cid=afid$
 
 User-agent: Sogou web spider/4.0
 Disallow: /*shop/account/setup*

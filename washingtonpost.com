@@ -170,4 +170,4 @@ Disallow: /
 
 Sitemap: https://www.washingtonpost.com/arcio/sitemap/master/index/
 Sitemap: https://www.washingtonpost.com/arcio/news-sitemap/
-Sitemap: https://www.washingtonpost.com/arcio/news-sitemap-elections/
+Sitemap: https://www.washingtonpost.com/elections/results/sitemap.xml

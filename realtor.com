@@ -12,7 +12,6 @@ Disallow: /apartments/*/*-rentals
 Disallow: /apartments/*/cat-friendly
 Disallow: /apartments/*/dog-friendly
 Disallow: /apartments/*/*/pg-*
-Disallow: /apartments/*/price-*
 Disallow: /apartments/near-me*
 Disallow: /content
 Disallow: /Content
@@ -119,7 +118,6 @@ Disallow: /realestateandhomes-search/*?from_ldp=true
 Disallow: /realestateandhomes-search/*?cid=
 Disallow: /realestateandhomes-detail/*?cid=
 Disallow: /realestateandhomes-search/*/pg-*/show-recently-sold
-Disallow: /realestateandhomes-search/*/price-
 Disallow: /realestateandhomes-search/*/radius-
 Disallow: /realestateandhomes-search/near-me*
 Disallow: /realestateandhomes-search/undefined

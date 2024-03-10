@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v20.3_COM_Feb_2024
+# v21.0_COM_March_2024
 ### DIRECTIVES ###
 
 User-agent: *
@@ -460,8 +460,8 @@ Allow: /sch/allcategories/
 Allow: /sch/*_ul
 Allow: /sch/*_fosrp
 Allow: /sch/*_trksid
-Disallow: /sch/i.html?_nkw=
 Allow: /sch/i.html?*&mkcid=2
+Disallow: /sch/i.html?_nkw=
 Disallow: /sch/i.html?*_nkw=*&
 Disallow: /sch/
 Disallow: /sch/ajax
@@ -945,10 +945,11 @@ Allow: /sch/ebayadvsearch
 Allow: /sch/allcategories/
 Allow: /sch/i.html?*&mkcid=2
 Allow: /sch/i.html*_sop=12
-Disallow: /sch/i.html*_sop=12*&
 Disallow: /sch/
 Disallow: /sch/ajax
 Disallow: /sch/ebayadvsearch?_
+Disallow: /sch/i.html?_nkw=
+Disallow: /sch/i.html*_sop=12*&
 Disallow: /sh/onboarding
 Disallow: /sh/str/fvfsavings
 Disallow: /ship/
@@ -1588,6 +1589,20 @@ User-agent: Twitterbot
 Disallow: /*src=urllib
 Disallow: /srv/
 
+
+# PRP Sitemaps
+Sitemap: https://www.ebay.com/lst/PRP-0-index.xml
+
+# VIS Sitemaps
+Sitemap: https://www.ebay.com/lst/VIS-0-index.xml
+
+# NGS Sitemaps
+Sitemap: https://www.ebay.com/lst/NGS-0-index.xml
+
+# BROWSE Sitemaps
+Sitemap: https://www.ebay.com/lst/BROWSE-0-index.xml
+
+### END FILE ###
 
 # PRP Sitemaps
 Sitemap: https://www.ebay.com/lst/PRP-0-index.xml

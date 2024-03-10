@@ -55,6 +55,9 @@ Disallow: /
 User-Agent: GleanSearchCrawlerBot
 Disallow: /
 
+User-Agent: *
+Disallow: /exit?*
+
 Sitemap: https://www.figma.com/sitemap.xml
 Sitemap: https://www.figma.com/sitemaps/figma-community-index.xml
 Sitemap: https://help.figma.com/hc/sitemap.xml

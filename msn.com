@@ -14,7 +14,7 @@ Allow: /
 Disallow: /*/health/search/filter
 
 User-agent: Verity
-Crawl-delay: 1
+Crawl-delay: 3
 
 User-agent: ias_crawler
 Crawl-delay: 0.5

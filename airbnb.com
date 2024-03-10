@@ -49,7 +49,6 @@ Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
 Disallow: /.well-known/assetlinks.json
-Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/
@@ -98,7 +97,6 @@ Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
 Disallow: /.well-known/assetlinks.json
-Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/
@@ -147,7 +145,6 @@ Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
 Disallow: /.well-known/assetlinks.json
-Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/
@@ -196,7 +193,6 @@ Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
 Disallow: /.well-known/assetlinks.json
-Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/
@@ -246,7 +242,6 @@ Disallow: /payments/book
 Disallow: /signup_modal
 Disallow: /signed_out_modal.json
 Disallow: /.well-known/assetlinks.json
-Disallow: /device_id_bev_map
 Disallow: /help/search
 Disallow: /trips/upcoming
 Disallow: /trips/v1/

@@ -1,5 +1,3 @@
-User-agent: Twitterbot
-Allow: *
 User-agent: *
 Disallow: /*/d/
 Disallow: /*/followers
@@ -92,9 +90,6 @@ Disallow: /word/document_url/
 Disallow: /word/download/
 Disallow: /word/embed/
 Disallow: /your-account
-
-User-agent: AhrefsSiteAudit
-Allow: /
 
 User-agent: GPTBot
 Disallow: /

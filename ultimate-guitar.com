@@ -1,10 +1,12 @@
 User-Agent: Bingbot
 Disallow: /search.php
 Disallow: /search.php%7Csearch.php3
+Disallow: /explore
 
 User-Agent: msnbot
 Disallow: /search.php
 Disallow: /search.php%7Csearch.php3
+Disallow: /explore
 
 User-agent: Clickagy Intelligence Bot v2
 Disallow: /search.php

@@ -1,7 +1,6 @@
 # See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
 
 User-agent: *
-Disallow:/*from=*
 Disallow:/*redirect=*
 Disallow:/album/
 Disallow:/amp/amp_news.php?news_id

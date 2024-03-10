@@ -427,6 +427,9 @@ Disallow: /treasures/loans/uncover-the-hidden-dragon-webinar-registration.page
 Disallow: /personal/travellershield-plus-cruise.page
 Disallow: /Contact/dbs/deposits/ntb-foreigner-students-promo/default.page
 Disallow: /personal/mspo-specialdeal.page
+Disallow: /personal/deposits/bank-and-earn/multiplier-risk-free.page
+Disallow: /treasures/treasures-birthday/default.page
+
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/
@@ -450,6 +453,5 @@ Sitemap: https://www.dbs.com.sg/corporate/sitemap.xml
 Sitemap: https://www.dbs.com.sg/sitemap-treasures-2024.xml
 Sitemap: https://www.dbs.com.sg/sitemap-treasures-private-client-2024.xml
 Sitemap: https://www.dbs.com.sg/sitemap-private-banking-2024.xml
-Sitemap: https://www.dbs.com.sg/treasury-and-markets/sitemap.xml
+Sitemap: https://www.dbs.com.sg/global-financial-markets/sitemap.xml
 Sitemap: https://www.dbs.com.sg/sitemap-marketplace-2024.xml
-

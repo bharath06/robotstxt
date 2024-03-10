@@ -1,9 +1,14 @@
-# Start Group: all
 User-agent: *
-Allow: /
-Disallow: /content/dam/BEA/
-# End Group: all
-# Start Group: google
-User-agent: googlebot
-Disallow: /content/dam/BEA/
-# End Group: google
+Disallow: /bin/*
+Disallow: /content/dam/BEA/*
+Disallow: /content/fixtures/*
+Disallow: /content/archive/*
+Disallow: /content/user-sandbox/*
+Disallow: /content/dam/acsorg/qa/*
+Disallow: /content/acs/en/qa/*
+Disallow: /qa/*
+Disallow: /content/acs/en/campaigns/*
+Disallow: /campaigns/*
+Disallow: /content/webhelp/*
+
+Sitemap: https://www.acs.org/sitemap.xml

@@ -5,6 +5,8 @@ Sitemap: https://wordpress.org/plugins/sitemap.xml
 Sitemap: https://wordpress.org/news/sitemap.xml
 Sitemap: https://wordpress.org/showcase/sitemap.xml
 Sitemap: https://wordpress.org/documentation/sitemap.xml
+Sitemap: https://wordpress.org/patterns/sitemap.xml
+Sitemap: https://wordpress.org/photos/sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php

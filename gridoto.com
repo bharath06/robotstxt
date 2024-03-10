@@ -1,7 +1,6 @@
 User-Agent: *
 Disallow: /search/?q=*
-Disallow: /comment/*
- 
+
 User-agent: GPTBot
 Disallow: /
 

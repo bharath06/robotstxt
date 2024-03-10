@@ -24,11 +24,11 @@ Disallow: /files/developer/
 Disallow: /*?content_ID=developer
 Disallow: /ebook/
 Disallow: /IntegrationCenter/
-Disallow: /*/limited-release
-Disallow: /*/ebook
-Disallow: /*/IntegrationCenter
-Disallow: /*/ece/
-Disallow: /*/webscr/
+Disallow: /limited-release
+Disallow: /ebook
+Disallow: /IntegrationCenter
+Disallow: /ece/
+Disallow: /webscr/
 Disallow: /*?cmd=_xclick*
 Disallow: /*?cmd=_cart*
 Disallow: /*?cmd=_gxo-upgrade/
@@ -39,9 +39,9 @@ Disallow: /*?cmd=_oe-gift-certificate*
 Disallow: /refer/
 Disallow: /cart?*
 Disallow: /signin/inject/
-Disallow: /*/_prq/
-Disallow: /*/c2/
-Disallow: /*/PWD/
+Disallow: /_prq/
+Disallow: /c2/
+Disallow: /PWD/
 Disallow: /hermes/
 Disallow: /xoonboarding/
 Disallow: /checkoutnow/
@@ -57,9 +57,9 @@ Disallow: /refer/pal
 Disallow: /pools/campaign/*
 Disallow: /invoice/p/*
 Disallow: /pools/c/*
-Disallow: /*/claim-money?*
-Disallow: /*/hub?category=*
-Disallow: /*/fundraiser/charity/*
+Disallow: /claim-money?*
+Disallow: /hub?category=*
+Disallow: /fundraiser/charity/*
 Disallow: /auth/createchallenge
 Disallow: /graphql?
 Disallow: /muse/identity/v2/identity.js
@@ -77,4 +77,13 @@ Disallow: /invoice/estimate/buyerView/attachments/*
 Disallow: /invoice/est/*
 Disallow: /invoice/estimate/buyerView/*
 Disallow: /invoice/p/*
+Disallow: /*?*payRequest=*
+Disallow: /*?*cgi-bin=*
+Disallow: /*?*onboardData=*
+Disallow: /*?*signUpRequest=*
+Disallow: /*?*guestLogin=*
+Disallow: /*?*unptid=*
+Disallow: /*?*tpcid=*
+Disallow: /*?*requestmoney=*
+
 Sitemap: https://www.paypal.com/paypal-sitemap-index.xml

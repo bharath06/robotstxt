@@ -12,7 +12,6 @@
 # ------------------------------------------------------------------------------
 
 User-agent: *
-Disallow: //
 Disallow: /account/registration
 Disallow: /account/mypro
 Disallow: /account/myint
@@ -76,9 +75,6 @@ Disallow: /zProd-ease
 Disallow: /zshowcase
 Disallow: /widgets-admin
 
-Allow:    /common/ssi
-Allow:    /data-responsibility
-Allow:    /docs/api/v1/content
 sitemap: https://www.ibm.com/homepage_sitemap.xml
 sitemap: https://www.ibm.com/downloads/cas/sitemap/sitemap.xml
 sitemap: https://www.ibm.com/common/ssi/start/sitemap.xml

@@ -55,6 +55,8 @@ Allow: /wirecutter/*?*utm_source=
 Allow: /ads/public/
 Allow: /svc/news/v3/all/pshb.rss
 
+# Disallow Rules
+
 User-agent: Amazonbot
 Disallow: /
 
@@ -80,14 +82,14 @@ Disallow: /
 User-agent: Claude-Web
 Disallow: /
 
+User-agent: cohere-ai
+Disallow: /
+
 User-agent: DataForSeoBot
 Disallow: /
 
 User-agent: FacebookBot
 Disallow: /
-
-User-agent: facebookexternalhit
-Allow: /*?*smid=
 
 User-agent: Google-Extended
 Disallow: /
@@ -110,6 +112,11 @@ Disallow: /
 
 User-agent: PerplexityBot
 Disallow: /
+
+# Other Bot Rules
+
+User-agent: facebookexternalhit
+Allow: /*?*smid=
 
 User-agent: Twitterbot
 Allow: /*?*smid=

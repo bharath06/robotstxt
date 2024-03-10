@@ -16,7 +16,7 @@ Disallow: /api
 Disallow: /glavnie-novosti$
 Disallow: */amp
 Clean-param: nw&following_ch&keepThis&mobile&disableGlobalInfoCollect&spush&utm_test&ref&_gl&post&amp&mindbox-message-key
-Clean-param: utm_&erid&mbstx&pass&following_op&s&smclient&hcb&bx_sender_conversion_id&utm_partner_id&variant
+Clean-param: utm_&erid&mbstx&pass&following_op&s&smclient&hcb&bx_sender_conversion_id&utm_partner_id&variant&zarsrc&hl&following_other&mibextid&ut
 
 User-agent: Googlebot
 Disallow: /novosti-partnerov

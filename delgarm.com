@@ -15,13 +15,7 @@ Disallow: *preview=*
 Disallow: *print=*
 Disallow: *Itemid=*
 Disallow: /hits?pkid=*
-
-User-agent: ia_archiver
-Disallow: / 
-Allow: /$
-
-User-agent: bingbot
-Crawl-delay: 30
-
+Disallow: /resize/*
+Disallow: /images/thumbnails/*
 
 Sitemap: https://www.delgarm.com/sitemap.xml

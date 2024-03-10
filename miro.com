@@ -1,5 +1,4 @@
 User-agent: *
-Allow: /
 
 Disallow: /admin/
 Disallow: /index/
@@ -23,15 +22,12 @@ Disallow: /pricing/payment/
 Disallow: /from-chrome-store/
 Disallow: /education/signup/
 Disallow: /slack-integration/get/
-Disallow: /board/
-Disallow: /app/
 Disallow: /webview/
 Disallow: /uibreakfast/
 Disallow: /ud/
 Disallow: /domain-verification/*/*/
 Disallow: /maintenance-notification/
 Disallow: /contact/general/
-Disallow: /contact/sales/
 Disallow: /contact/product/
 Disallow: /contact/education/
 Disallow: /contact/support/

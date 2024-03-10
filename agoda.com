@@ -19,6 +19,7 @@ Disallow: /flights/results
 Disallow: /*/flights/results
 Disallow: /activities/detail
 Disallow: /transfers
+Disallow: /info/china-license.html
 
 User-agent: Googlebot
 Disallow: /*/hotel/all/

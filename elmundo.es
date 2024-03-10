@@ -264,6 +264,10 @@ User-agent: Yasni Disallow: /
 User-agent: Zao Disallow: /
 User-agent: Zealbot Disallow: /
 User-agent: ZyBORG Disallow: /
-
+User-agent: GPTBot Disallow: /
+User-agent: CCBot Disallow: /
+User-agent: anthropic-ai Disallow: /
+User-agent: ChatGPT-User Disallow: /
+User-agent: Google-Extended Disallow: /
 
 

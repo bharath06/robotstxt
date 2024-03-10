@@ -69,6 +69,7 @@ Disallow: /seo/learn/assets*&topic=
 Disallow: /seo/learn/assets*?resource-type=
 Disallow: /seo/learn/assets*&resource-type= 
 Disallow: /studio-tech-desgin
+Disallow: /website/builder?storyId=
 
 Sitemap: https://www.wix.com/sitemap.xml
 

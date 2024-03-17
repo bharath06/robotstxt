@@ -10,6 +10,7 @@ Disallow: /253109699/
 Disallow: https://www.linkedin.com/
 Disallow: https://t.me/share/
 Disallow: /author/
+Disallow: /search*
 
 User-agent: Alexabot
 Disallow: /*/amp/

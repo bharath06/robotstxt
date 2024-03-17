@@ -58,7 +58,7 @@ User-agent: Googlebot-News
 Disallow: /archives/
 #
 # Robots exclus de toute indexation.
-User-agent: Meltawer
+User-agent: Meltwater
 Disallow: /
 #
 User-agent: Digimind
@@ -265,10 +265,4 @@ User-agent: CCBot
 Disallow: /
 #
 User-agent: Google-Extended
-Disallow: /
-#
-User-agent: GPTBot
-Disallow: /
-#
-User-agent: ChatGPT-User
 Disallow: /

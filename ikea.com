@@ -21,12 +21,15 @@
 #
 #  Check out our jobs at the link below:
 #
-#  https://en-global-jobs.about.ikea.com/
+#  https://jobs.ikea.com/en
 
 User-agent: GPTBot
 Disallow: /
 
 User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
 Disallow: /
 
 User-Agent: AdsBot-Google
@@ -52,8 +55,6 @@ Disallow: *&sorting=*
 Disallow: *?storeId=*
 Disallow: /catalog/packagepopup/
 Disallow: /iows/
-Disallow: /ms/en_SE/
-Disallow: /webapp/wcs/stores/servlet/*
 Disallow: *OrderItemDisplay*
 Disallow: *StockAvailSearchForm*
 Disallow: *preferedui=desktop*
@@ -82,8 +83,6 @@ Disallow: *StockAvailSearchForm=*
 Disallow: *tblang=*
 Disallow: *catalogId=*
 Disallow:  /se/sv/sok/?q=*
-Disallow:  /ms/en_US/usearch/?query=*
-Disallow: /ms/en_us/usearch/
 Disallow: /*-fragment.html
 Disallow: /*-fragment-recursive.html
 Disallow: /*-fragment-dynamic.html

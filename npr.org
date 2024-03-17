@@ -50,6 +50,16 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
+# Allow Google Search Console for sitemap crawling
+User-agent: Google-InspectionTool
+Allow: /
+User-agent: Google-Image
+Allow: /
+User-agent: Google-Video
+Allow: /
+User-agent: Googlebot
+Allow: /
+
 # Explicitly allowing the TTD contextual crawler
 User-agent: Mozilla/5.0 (compatible; TTD-Content; +https://www.thetradedesk.com/general/ttd-content)
 Allow: /

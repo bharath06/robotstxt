@@ -32,8 +32,6 @@ Disallow:
 User-agent: URX-API/*
 Disallow:
 
-User-agent: Twitterbot
-Disallow:
 
 #Baiduspider
 User-agent: Baiduspider
@@ -41,9 +39,6 @@ Disallow: /
 
 #Yandex
 User-agent: Yandex
-Disallow: /
-
-User-agent: facebookexternalhit
 Disallow: /
 
 User-agent: rogerbot

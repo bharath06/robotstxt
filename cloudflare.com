@@ -78,6 +78,9 @@ Disallow: pl-pl.www.cloudflare.com/
 Disallow: el-gr.www.cloudflare.com/
 Disallow: nb-no.www.cloudflare.com/
 
+#cdn-cgi
+Disallow: /cdn-cgi/
+
 # lp
 Disallow: /lp
 Disallow: /de-de/lp

@@ -228,6 +228,8 @@ Disallow: /mirror*?*parent-reqid*
 Disallow: /turbo*?*parent-reqid*
 Disallow: /mirror/hide
 
+Disallow: /pogoda/0/
+
 Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
@@ -405,6 +407,8 @@ Disallow: /storeclick
 Disallow: /storerequest
 Disallow: /subscribe/confirm.pl
 Disallow: /subscribe/view.pl
+
+Disallow: /pogoda/0/
 
 Disallow: /support/direct-images
 Disallow: /support/market-images

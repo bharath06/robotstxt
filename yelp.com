@@ -1,4 +1,4 @@
-# By accessing Yelp's website you agree to Yelp's Terms of Service, available at
+# By accessing Yelp's website (© 2024) you agree to Yelp's Terms of Service, available at
 # https://www.yelp.com/static?country=US&p=tos
 #
 # If you would like to inquire about crawling Yelp, please contact us at

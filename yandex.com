@@ -225,6 +225,8 @@ Disallow: /mirror*?*parent-reqid*
 Disallow: /turbo*?*parent-reqid*
 Disallow: /mirror/hide
 
+Disallow: /pogoda/0/
+
 Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
@@ -373,6 +375,9 @@ Disallow: /people*
 Disallow: /person
 Disallow: /podpiska/login.pl
 Disallow: /polling
+
+Disallow: /pogoda/0/
+
 Disallow: /promo/diskelement
 Disallow: /promo/*goodbye*
 Disallow: /promo/skype*?*

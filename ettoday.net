@@ -3,7 +3,6 @@
 User-agent: *
 Disallow:/*redirect=*
 Disallow:/album/
-Disallow:/amp/amp_news.php?news_id
 Disallow:/bob/
 Disallow:/check/
 Disallow:/companies/
@@ -59,7 +58,6 @@ Disallow:/news/20111003/1.htm
 Disallow:/news/demo/
 Disallow:/news/hot-tag.htm
 Disallow:/news-review-list.htm
-Disallow:/news_search/
 Disallow:/player/
 Disallow:/redir/
 Disallow:/search/

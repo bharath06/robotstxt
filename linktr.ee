@@ -5,73 +5,73 @@
 # to prevent this list from being too complex and long
 
 User-agent: Applebot
-Disallow: 
+Disallow: /admin
 
 User-agent: baiduspider
-Disallow: 
+Disallow: /admin
 
 User-agent: Bingbot
-Disallow: 
+Disallow: /admin
 
 User-agent: Discordbot
-Disallow: 
+Disallow: /admin
 
 User-agent: facebookexternalhit
-Disallow: 
+Disallow: /admin
 
 User-agent: Googlebot
-Disallow: 
+Disallow: /admin
 
 User-agent: Googlebot-Image
-Disallow: 
+Disallow: /admin
 
 User-agent: Google-InspectionTool
-Disallow: 
+Disallow: /admin
 
 User-agent: ia_archiver
-Disallow: 
+Disallow: /admin
 
 User-agent: LinkedInBot
-Disallow: 
+Disallow: /admin
 
 User-agent: msnbot
-Disallow: 
+Disallow: /admin
 
 User-agent: Naverbot
-Disallow: 
+Disallow: /admin
 
 User-agent: Pinterestbot
-Disallow: 
+Disallow: /admin
 
 User-agent: Screaming Frog SEO Spider
-Disallow: 
+Disallow: /admin
 
 User-agent: seznambot
-Disallow: 
+Disallow: /admin
 
 User-agent: Slurp
-Disallow: 
+Disallow: /admin
 
 User-agent: teoma
-Disallow: 
+Disallow: /admin
 
 User-agent: TelegramBot
-Disallow: 
+Disallow: /admin
 
 User-agent: Twitterbot
-Disallow: 
+Disallow: /admin
 
 User-agent: Yandex
-Disallow: 
+Disallow: /admin
 
 User-agent: Yeti
-Disallow: 
+Disallow: /admin
 
 User-agent: SnapchatAdsBot
-Disallow: 
+Disallow: /admin
 
 User-agent: SemrushBot
-Disallow: 
+Disallow: /admin
 
 User-agent: Pinterestbot
 Disallow: /

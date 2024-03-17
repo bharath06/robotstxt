@@ -1914,7 +1914,7 @@ Sitemap: https://www.etsy.com/jp/sitemaps/adhoc.xml
 Sitemap: https://www.etsy.com/pl/sitemaps/adhoc.xml
 Sitemap: https://www.etsy.com/pt/sitemaps/adhoc.xml
 #
-# 01001001 01010011 00100000 01000011 01001111 01000100 01000101 00100000 01011001 01001111 01010101 01010010 00100000 01000011 01010010 01000001 01000110 01010100 00111111#   \
+# Hoi!#   \
 #
 #    -----
 #   | . . |

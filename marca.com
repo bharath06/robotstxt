@@ -135,4 +135,3 @@ User-agent: Yasni Disallow: /
 User-agent: Zao Disallow: /
 User-agent: Zealbot Disallow: /
 User-agent: ZyBORG Disallow: /
-User-agent: Google-Extended Disallow: /

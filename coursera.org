@@ -23,7 +23,7 @@ Sitemap: https://www.coursera.org/sitemap.xml
 
 
 User-agent: CCBot
-Disallow: /
+Disallow: /lecture/
 
 User-agent: GPTBot
-Disallow: /
+Disallow: /lecture/

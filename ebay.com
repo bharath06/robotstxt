@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v21.0_COM_March_2024
+# v22.0_COM_March_2024
 ### DIRECTIVES ###
 
 User-agent: *
@@ -461,6 +461,7 @@ Allow: /sch/*_ul
 Allow: /sch/*_fosrp
 Allow: /sch/*_trksid
 Allow: /sch/i.html?*&mkcid=2
+Allow: /sch/i.html?_nkw=*&_sop=12&_kwlnd=1
 Disallow: /sch/i.html?_nkw=
 Disallow: /sch/i.html?*_nkw=*&
 Disallow: /sch/
@@ -1588,21 +1589,6 @@ Disallow: /b/*/bn_7122043158
 User-agent: Twitterbot
 Disallow: /*src=urllib
 Disallow: /srv/
-
-
-# PRP Sitemaps
-Sitemap: https://www.ebay.com/lst/PRP-0-index.xml
-
-# VIS Sitemaps
-Sitemap: https://www.ebay.com/lst/VIS-0-index.xml
-
-# NGS Sitemaps
-Sitemap: https://www.ebay.com/lst/NGS-0-index.xml
-
-# BROWSE Sitemaps
-Sitemap: https://www.ebay.com/lst/BROWSE-0-index.xml
-
-### END FILE ###
 
 # PRP Sitemaps
 Sitemap: https://www.ebay.com/lst/PRP-0-index.xml

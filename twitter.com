@@ -23,6 +23,8 @@ Disallow: /[_0-9a-zA-Z]+/likes
 Disallow: /[_0-9a-zA-Z]+/media 
 Disallow: /[_0-9a-zA-Z]+/photo
 
+User-Agent: Google-Extended
+Disallow: *
 
 User-Agent: FacebookBot
 Disallow: *

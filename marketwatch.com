@@ -57,15 +57,12 @@ Disallow: /xhtml/v/
 Disallow: /user/login/profile
 Disallow: /auth/
 Sitemap: https://www.marketwatch.com/sitemap-search-index.xml.gz
-Sitemap: https://www.marketwatch.com/sitemaps/web/mw-video/en/sitemap_mw-
-video_en_index.xml
+Sitemap: https://www.marketwatch.com/sitemaps/web/mw-video/en/sitemap_mw-video_en_index.xml
 Sitemap: https://www.marketwatch.com/mw_news_sitemap.xml
-Sitemap: https://www.marketwatch.com/api-video/sitemaps/google/sitemap-google-
-video-marketwatch.asp
+Sitemap: https://www.marketwatch.com/api-video/sitemaps/google/sitemap-google-video-marketwatch.asp
 Sitemap: https://www.marketwatch.com/mw/mw_quote_index_sitemap.xml
-Sitemap: https://www.marketwatch.com/sitemaps/web/mw-pr/en/sitemap_mw-
-pr_en_index.xml
-Sitemap: https://www.marketwatch.com/picks/guides/sitemap.xml
+Sitemap: https://www.marketwatch.com/sitemaps/web/mw-pr/en/sitemap_mw-pr_en_index.xml
+Sitemap: https://www.marketwatch.com/guides/sitemap.xml
 User-Agent: MSNPTC/1.0
 Allow: /registration/
 Allow: /tools/alerts/

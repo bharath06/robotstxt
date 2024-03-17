@@ -196,6 +196,7 @@ Disallow: /shop_pins/*
 Disallow: /signup/*
 Disallow: /socialmanager/*
 Disallow: /source/*
+Disallow: /sso/*
 Disallow: /story-pin-builder/*
 Disallow: /story-pin-invite/
 Disallow: /story_feed/
@@ -216,21 +217,21 @@ Disallow: /welcome/
 Disallow: /your-shop/
 Disallow: /your-shop/*
 
-Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_expansion_v2_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_today_article_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/video_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_image_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_today_article_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/board_link_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_interest_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_image_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/image_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/board_link_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/video_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/video_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/user_link_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/Enriched_Pin_Sitemap_202402_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/shopping_sitemap_www.pinterest.com.xml
@@ -430,6 +431,7 @@ Disallow: /shop_pins/*
 Disallow: /signup/*
 Disallow: /socialmanager/*
 Disallow: /source/*
+Disallow: /sso/*
 Disallow: /story-pin-builder/*
 Disallow: /story-pin-invite/
 Disallow: /story_feed/
@@ -644,6 +646,7 @@ Disallow: /shop_pins/*
 Disallow: /signup/*
 Disallow: /socialmanager/*
 Disallow: /source/*
+Disallow: /sso/*
 Disallow: /story-pin-builder/*
 Disallow: /story-pin-invite/
 Disallow: /story_feed/

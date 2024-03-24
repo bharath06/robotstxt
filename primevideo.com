@@ -33,6 +33,10 @@ Disallow: /auth
 Disallow: /gp/video/auth
 Disallow: /region/*/auth
 Disallow: /-/*/auth
+Disallow: /salp/i
+Disallow: /gp/video/salp/i
+Disallow: /region/*/salp/i
+Disallow: /-/*/salp/i
 
 User-agent: EtaoSpider
 Disallow: /

@@ -22,7 +22,8 @@ Disallow: /captcha/*
 Disallow: /link/*
 Disallow: /related_videos_html/*
 Disallow: /members/
-Request-rate: 1/1s
+
+
 
 
 

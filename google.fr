@@ -40,7 +40,6 @@ Disallow: /pda/search?
 Disallow: /sprint_xhtml
 Disallow: /sprint_wml
 Disallow: /pqa
-Disallow: /palm
 Disallow: /gwt/
 Disallow: /purchases
 Disallow: /local?

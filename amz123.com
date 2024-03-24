@@ -19,6 +19,12 @@ Disallow: /
 User-agent:  GPTBot
 Disallow: /
 
+User-agent:  AwarioBot
+Disallow: /
+
+User-agent:  PanguBot
+Disallow: /
+
 User-agent: *
 Disallow: /admin
 Disallow: /undefined

@@ -59,4 +59,7 @@ Disallow: /
 User-agent: MJ12bot
 Disallow: /
 
+User-agent: Amazonbot
+Disallow: /
+
 Sitemap: https://www.gsmarena.com/sitemap.xml

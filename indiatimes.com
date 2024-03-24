@@ -11,7 +11,6 @@ Disallow: /search/*
 Disallow: /user/*
 Disallow: /idtoin/*
 Disallow: */video_player/*
-Disallow: */partner/*
 
 #Sitemaps
 Sitemap:https://www.indiatimes.com/central-service/hindi/webstories/sitemap-index.xml

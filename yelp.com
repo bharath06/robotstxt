@@ -125,7 +125,7 @@ User-Agent: Yahoo! Slurp
 User-Agent: bingbot
 Disallow: /search*start=
 
-User-agent: Google-Extended
+User-Agent: Google-Extended
 Disallow: /
 
 User-Agent: *

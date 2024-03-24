@@ -1280,6 +1280,8 @@ Disallow: /nri-banking/rhstemp/customertestimonial
 Disallow: /nri-banking/ismart
 Disallow: /media-gallery/customer-first/nri-banking
 Disallow: /media-gallery/nri-banking
+Disallow: /content/dam/icicibank/india/managed-assets/docs/minor-to-major-conversion-form.pdf
+
 Disallow: /lite/*
 Disallow: /ajax/*
 Disallow: /archive/*

@@ -109,3 +109,33 @@ Disallow: /
 
 User-agent: YouBot
 Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: Arquivo-web-crawler
+Disallow: /
+
+User-agent: coccocbot-web
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-Agent: yacy
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: claudebot
+Disallow: /

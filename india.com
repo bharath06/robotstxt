@@ -74,6 +74,19 @@ Disallow: /
 User-agent: trendiction.de
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+ 
+User-agent: Google-Extended
+Disallow: /
+ 
+User-agent: CCBot
+Disallow: /
+ 
+User-agent: ChatGPT-User
+Disallow: /
+
+
 Sitemap: https://www.india.com/google-news-sitemap.xml
 Sitemap: https://www.india.com/hindi-news/sitemap.xml
 Sitemap: https://www.india.com/hindi-news-sitemap.xml 

@@ -47,6 +47,9 @@ Disallow:/recruiters/rp-follower-count-*
 Disallow: /code360-staging
 Disallow: /code360-staging/
 Disallow: /code360-staging/*
+Disallow: /code360
+Disallow: /code360/
+Disallow: /code360/*
 
 Sitemap: https://www.naukri.com/sitemap.xml
 Sitemap: https://www.naukri.com/sitemap/webstories-1.xml

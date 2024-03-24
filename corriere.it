@@ -17,6 +17,7 @@ User-agent: Google-Extended
 Disallow: /
 
 User-agent: *
+Disallow: *(none)
 Disallow: *?RedirectUrl
 Disallow: /privacy.shtml 
 Disallow: /abbonati.Suspended/
@@ -273,3 +274,5 @@ Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Facce-nuove.xm
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Ritorno-in-solferino.xml
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Oriente-occidente.xml 
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Sette.xml
+Sitemap: https://www.corriere.it/economia/chiedi-esperto/sitemap.xml
+Sitemap: https://www.corriere.it/economia/chiedi-esperto/news/sitemap.xml

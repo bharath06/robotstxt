@@ -429,6 +429,7 @@ Disallow: /Contact/dbs/deposits/ntb-foreigner-students-promo/default.page
 Disallow: /personal/mspo-specialdeal.page
 Disallow: /personal/deposits/bank-and-earn/multiplier-risk-free.page
 Disallow: /treasures/treasures-birthday/default.page
+Disallow: /treasures/contact-me.page
 
 
 # URL Masking Details

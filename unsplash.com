@@ -22,6 +22,8 @@ Allow: /pt-br/backgrounds
 
 Disallow: /photos/*/download
 
+Disallow: /illustrations/*/download
+
 Disallow: /ngetty
 
 Disallow: /napi

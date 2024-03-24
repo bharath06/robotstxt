@@ -106,7 +106,7 @@ Disallow: /pogoda/search
 Disallow: /pogoda/404
 Disallow: /pogoda/*?*lat=*&*lon=*
 Disallow: /pogoda/*?*lon=*&*lat=*
-Disallow: /pogoda/0/
+Disallow: /pogoda/0
 Disallow: /polling
 Disallow: /poll/
 Disallow: /prefetch
@@ -659,7 +659,7 @@ Disallow: /pogoda/search
 Disallow: /pogoda/404
 Disallow: /pogoda/*?*lat=*&*lon=*
 Disallow: /pogoda/*?*lon=*&*lat=*
-Disallow: /pogoda/0/
+Disallow: /pogoda/0
 Disallow: /polling
 Disallow: /poll/
 Disallow: /promo/*goodbye*

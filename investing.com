@@ -41,6 +41,9 @@ Allow: /news/pro/$
 Disallow: /news/assorted/
 Allow: /news/assorted/$
 
+Disallow: /news/press-releases/
+Allow: /news/press-releases/$
+
 User-agent: Mediapartners-Google
 Disallow:
 

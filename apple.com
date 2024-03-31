@@ -1,10 +1,7 @@
-# robots.txt for http://www.apple.com/
+# robots.txt for https://www.apple.com/
 
 User-agent: *
 Disallow: /*/includes/*
-Disallow: /*retail/availability*
-Disallow: /*retail/availabilitySearch*
-Disallow: /*retail/pickupEligibility*
 Disallow: /*shop/signed_in_account*
 Disallow: /*shop/sign_in*
 Disallow: /*shop/sign_out*

@@ -32,6 +32,8 @@ Disallow: /netrics
 
 Disallow: /nautocomplete
 
+Disallow: /nabc
+
 Disallow: /de/@*
 Disallow: /de/account
 Disallow: /de/account/*

@@ -74,6 +74,7 @@ Disallow: /zprod-ease
 Disallow: /zProd-ease
 Disallow: /zshowcase
 Disallow: /widgets-admin
+Disallow: /w3
 
 sitemap: https://www.ibm.com/homepage_sitemap.xml
 sitemap: https://www.ibm.com/downloads/cas/sitemap/sitemap.xml

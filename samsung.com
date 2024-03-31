@@ -51,6 +51,8 @@ Disallow: /ru/srr/
 Disallow: /in/web/emi/*
 Allow: /es/multistore/es_canary_islands/
 Disallow: /chat/api/livechat/*
+Allow: /co/multistore/co_epp_members/
+Allow: /co/multistore/co_epp_corp_gointegro/
 
 User-agent: Yandex
 Allow: /

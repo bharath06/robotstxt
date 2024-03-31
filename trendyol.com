@@ -221,6 +221,8 @@ User-agent: ia_archiver
 Disallow: /de/
 Disallow: /en/
 Disallow: /ar/
+User-agent: AhrefsBot
+Disallow: /*ButikDetay*/
 
 
 

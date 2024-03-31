@@ -94,6 +94,7 @@ Disallow: /cn-smb*
 Disallow: /*?cid=www$
 Disallow: /*?cid=wwa$
 Disallow: /*?cid=afid$
+Disallow: /*?cid=aos-cn-kwba*
 
 User-agent: Sogou web spider/4.0
 Disallow: /*shop/account/setup*

@@ -2,6 +2,7 @@ User-agent: *
 Sitemap: https://www.nature.com/sitemap.xml
 Sitemap: https://www.nature.com/subjects/sitemap.xml
 Sitemap: https://www.nature.com/naturecareers/sitemapindex.xml
+Sitemap: https://www.nature.com/latest-news/sitemap.xml
 Disallow: /search
 Disallow: */1000$
 Disallow: /*/*/*/pf/

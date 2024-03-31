@@ -8,6 +8,7 @@
 # Edited : Jun 7, 2023 (Added 3 recruiter url's)
 # Edited : Sept 22, 2023 (Block GPTBot)
 # Edited : Dec 22, 2023 (Block Google-Extended)
+# Edited : Mar 27, 2024 (Code360)
 
 User-agent: Google-Extended
 Disallow: /
@@ -47,9 +48,6 @@ Disallow:/recruiters/rp-follower-count-*
 Disallow: /code360-staging
 Disallow: /code360-staging/
 Disallow: /code360-staging/*
-Disallow: /code360
-Disallow: /code360/
-Disallow: /code360/*
 
-Sitemap: https://www.naukri.com/sitemap.xml
+Sitemap: https://www.naukri.com/sitemap/sitemap.xml
 Sitemap: https://www.naukri.com/sitemap/webstories-1.xml

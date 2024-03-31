@@ -4,6 +4,8 @@ Disallow: /writer_admin
 Disallow: /mypage
 Disallow: /users/edit
 Disallow: /archives/search
+Disallow: /*?page=
+Disallow: /*&page=
 
 User-agent: dotbot
 Disallow: /

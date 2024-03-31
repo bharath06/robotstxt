@@ -158,6 +158,13 @@ Clean-param: &__ca__chat
 Clean-param: &_sm_byp
 Clean-param: &1
 Clean-param: &st.theme
+Clean-param: &dc_video_name
+Clean-param: &time
+Clean-param: &scrlybrkr
+Clean-param: &_om
+Clean-param: &st.author
+Clean-param: &st.hobbySlug
+Clean-param: &st.question
 
 Sitemap: https://ok.ru/sitemap-index-misc.xml.gz
 Sitemap: https://ok.ru/sitemap-index-game.xml.gz

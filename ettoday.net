@@ -10,9 +10,6 @@ Disallow:/config/
 Disallow:/changeCharset.php
 Disallow:/changeReadType.php
 Disallow:/changeReadType_ii.php
-Disallow:/dalemon/collection/
-Disallow:/dalemon/collection-hot/
-Disallow:/dalemon/tag/
 Disallow:/error.htm
 Disallow:/et_comments.php7
 Disallow:/events/_cloud/
@@ -61,6 +58,7 @@ Disallow:/news-review-list.htm
 Disallow:/player/
 Disallow:/redir/
 Disallow:/search/
+Disallow:/news_search/
 Disallow:/shop/
 Disallow:/social/
 Disallow:/social/comments/

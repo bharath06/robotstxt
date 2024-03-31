@@ -13,7 +13,7 @@ Disallow: /*/search/bang
 Disallow: /*/social_tab$
 Disallow: /*/widgets_tab$
 Disallow: /*/developer_tab$
-Disallow: /*/sentiment_votes$
+Disallow: /*sentiment_votes
 Disallow: /*/markets_tab$
 Disallow: /*/news_guides$
 Disallow: /*/render_hashing_algorithm_selector
@@ -27,7 +27,7 @@ Disallow: /*/portfolios/
 Disallow: /*/alerts
 Disallow: *.xls$
 Disallow: *.csv$
-Disallow: /*/news/load_more
+Disallow: */news/load_more
 Disallow: /*/compare-cryptocurrencies?coins
 Disallow: /*/widget_component
 Disallow: /*/render_category_selector
@@ -81,8 +81,27 @@ Disallow: /account/rewards?*category=
 Disallow: /account/rewards?*order=
 Disallow: /account/rewards?*points_cost=
 Disallow: /account/rewards/*?locale=
+Disallow: /account/rewards/mocaverse/
+Disallow: /coins/price_percentage_change?ids=
 Disallow: *?0.
 Disallow: *?noop=
+Disallow: *?_branch_match_id=
+Disallow: *uniqifyingToken=
+Disallow: *?embed=
+Disallow: *savik=
+Disallow: *?CompareVariant=
+Disallow: *?qd4mE3DR=
+Disallow: */markets/spot
+Disallow: */markets/futures
+Disallow: */markets/perpetuals
+Disallow: /categories/market_cap_percentage_change?ids=
+Disallow: */show_more_tickers?
+Disallow: */more_guides
+Disallow: */more_news
+Disallow: */more_currency_articles
+Disallow: */show_more_articles
+Disallow: */show_more_posts
+Disallow: */show_more_nft_articles
 Allow: */historical_data/
 
 

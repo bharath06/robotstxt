@@ -53,13 +53,13 @@ User-agent: Bytespider
 Disallow: /
 
 #
-# OpenAI GPT Crawler
-#
-User-agent: GPTBot
-Disallow: /
-
-#
 # Amazonbot Crawler
 #
 User-agent: Amazonbot
+Disallow: /
+
+# 
+# perplexity.ai FOUND-3020
+#
+User-Agent: PerplexityBot
 Disallow: /

@@ -430,7 +430,11 @@ Disallow: /personal/mspo-specialdeal.page
 Disallow: /personal/deposits/bank-and-earn/multiplier-risk-free.page
 Disallow: /treasures/treasures-birthday/default.page
 Disallow: /treasures/contact-me.page
-
+Disallow: /Contact/dbs/salary-credit-promo-200/default.page
+Disallow: /Contact/dbs/salary-credit-promo-200/complete.page
+Disallow: /Contact/dbs/salary-credit-promo-3/default.page
+Disallow: /Contact/dbs/salary-credit-promo-3/complete.page
+Disallow: /personal/cards/promotions/sg-clr3rev.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

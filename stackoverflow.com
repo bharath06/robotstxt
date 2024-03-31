@@ -72,8 +72,6 @@ User-agent: voltron
 Disallow: /
 User-agent: Bytespider
 Disallow: /
-User-agent: GPTBot
-Disallow: /
 User-agent: Amazonbot
 Disallow: /
 User-Agent: PerplexityBot

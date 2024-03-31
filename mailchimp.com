@@ -6,4 +6,7 @@ Disallow: /cupid-v1/*
 Disallow: /en/*
 Disallow: /courier/*
 
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://mailchimp.com/sitemap.xml

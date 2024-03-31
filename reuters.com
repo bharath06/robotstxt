@@ -47,3 +47,4 @@ SITEMAP: https://www.reuters.com/sitemap_video_index.xml
 SITEMAP: https://www.reuters.com/plus/sitemap-index.xml
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-plj-index/?outputType=xml
 SITEMAP: https://www.reuters.com/graphics/sitemap.xml
+SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/pictures/?outputType=xml

@@ -1,5 +1,23 @@
 # robots.txt file for https://www.usatoday.com/
 
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: AmazonBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
 User-agent: Googlebot-News
 Disallow: /story/sponsor-story/
 Disallow: /picture-gallery/sponsor-story/

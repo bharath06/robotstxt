@@ -32,6 +32,7 @@ Disallow: /photo-editor/*
 Disallow: /mockup-editor/*
 Disallow: /blog/?s=
 Disallow: */public/fc-assets/locales
+Disallow: /designer/edit
 
 # Google AdSense
 User-agent: Mediapartners-Google

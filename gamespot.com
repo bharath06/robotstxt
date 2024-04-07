@@ -1,4 +1,8 @@
 # robots.txt for https://www.gamespot.com/
+User-agent: GPTBot
+User-agent: ImagesiftBot
+Disallow: /
+
 User-agent: *
 Disallow: */?comment_page=*
 Allow: /api/$

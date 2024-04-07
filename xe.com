@@ -6,6 +6,8 @@ User-agent: *
 Disallow: /fxwidgets/
 Disallow: /migration/
 Disallow: /currencytransfers/
+Disallow: /logout
+Disallow: /logout/*
 
 # Host
 Host: https://www.xe.com/

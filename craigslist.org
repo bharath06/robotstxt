@@ -7,3 +7,6 @@ Disallow: /mf
 Disallow: /mailflag
 Disallow: /eaf
 
+User-agent: claudebot
+Disallow: /
+

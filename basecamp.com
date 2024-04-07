@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /demos/
-Disallow: humans.txt
+Disallow: /humans.txt
 Sitemap: https://basecamp.com/sitemap.xml

@@ -188,6 +188,7 @@ Sitemap: https://www.adobe.com/dc.index.xml
 Sitemap: https://www.adobe.com/dc.milo.sitemap-index.xml
 Sitemap: https://www.adobe.com/ppbu-product-sitemap.xml
 Sitemap: https://www.adobe.com/acom-temp.xml
+Sitemap: https://www.adobe.com/firefly-sitemap-temp.xml
 
 # CC Express 
 Sitemap: https://www.adobe.com/express/sitemap-index.xml

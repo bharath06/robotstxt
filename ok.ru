@@ -181,3 +181,4 @@ Sitemap: https://ok.ru/sitemap-index-group-topic.xml.gz
 Sitemap: https://ok.ru/sitemap-index-music-artist.xml.gz
 Sitemap: https://ok.ru/sitemap-index-music-album.xml.gz
 Sitemap: https://ok.ru/sitemap-index-hobby.xml.gz
+Sitemap: https://ok.ru/sitemap-index-video.xml.gz

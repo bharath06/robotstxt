@@ -9,6 +9,8 @@ Disallow: /*/parking/
 Disallow: /*/search/
 Disallow: /*/ai-search/
 Disallow: /*/business/ai-search/
+Disallow: /*/aisearch/
+Disallow: /*/business/aisearch/
 Disallow: /*/system/*
 Allow: /uk/info/contactus/email-the-ceo/
 Disallow: /*/info/contactus/email-the-ceo/

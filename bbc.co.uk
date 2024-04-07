@@ -1,5 +1,5 @@
 
-# version: c35537a14daeca3cfd72b285682cfbbb1c22435f
+# version: 03e3d0d3861e30b21826aa11558f45235a4d4143
 
 # HTTPS www.bbc.co.uk
 
@@ -48,7 +48,6 @@ Disallow: /search/
 Disallow: /search$
 Disallow: /search?
 Disallow: /sport/alpha/
-Disallow: /sport/videos/*
 Disallow: /sounds/player/
 Disallow: /sounds/player$
 Disallow: /ugc$
@@ -101,4 +100,13 @@ User-agent: cohere-ai
 Disallow: /
 
 User-agent: Google-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-Agent: PerplexityBot
 Disallow: /

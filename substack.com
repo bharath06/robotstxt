@@ -21,6 +21,10 @@ Disallow: /notes/post/*
 Disallow: /embed
 
 
+User-agent: facebookexternalhit
+Allow: /
+Allow: /subscribe
+
 
 SITEMAP: https://substack.com/sitemap.xml
 SITEMAP: https://substack.com/news_sitemap.xml

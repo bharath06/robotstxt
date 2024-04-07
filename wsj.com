@@ -19,7 +19,6 @@ Sitemap: https://www.wsj.com/wsjsitemaps/wsj_pro_cyber_google_news.xml
 Sitemap: https://www.wsj.com/wsjsitemaps/wsj_pro_vc_google_news.xml
 Sitemap: https://www.wsj.com/wsjsitemaps/wsj_pro_pe_google_news.xml
 Sitemap: https://www.wsj.com/wsjsitemaps/wsj_pro_sb_google_news.xml
-Sitemap: https://www.wsj.com/coupons/sitemap.xml
 Sitemap: https://www.wsj.com/buyside/sitemaps/wsjbuyside_sitemap_index.xml
 
 Disallow: /article_email/*

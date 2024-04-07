@@ -1616,6 +1616,33 @@ Sitemap: https://www.etsy.com/mx/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/jp/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/pl/sitemaps/shops/local.xml
 Sitemap: https://www.etsy.com/pt/sitemaps/shops/local.xml
+Sitemap: https://www.etsy.com/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/fi-en/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/au/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/ca/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/ca-fr/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/de/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/dk-en/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/hk-en/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/ie/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/il-en/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/in-en/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/nz/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/no-en/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/se-en/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/sg-en/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/uk/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/at/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/ch/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/fr/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/nl/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/be/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/it/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/es/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/mx/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/jp/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/pl/sitemaps/listing/vip-seller.xml
+Sitemap: https://www.etsy.com/pt/sitemaps/listing/vip-seller.xml
 Sitemap: https://www.etsy.com/sitemaps/listing/power-seller.xml
 Sitemap: https://www.etsy.com/fi-en/sitemaps/listing/power-seller.xml
 Sitemap: https://www.etsy.com/au/sitemaps/listing/power-seller.xml
@@ -1914,7 +1941,7 @@ Sitemap: https://www.etsy.com/jp/sitemaps/adhoc.xml
 Sitemap: https://www.etsy.com/pl/sitemaps/adhoc.xml
 Sitemap: https://www.etsy.com/pt/sitemaps/adhoc.xml
 #
-# Motus et bouche cousue...#   \
+# Hallöchen!#   \
 #
 #    -----
 #   | . . |

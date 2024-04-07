@@ -1,5 +1,5 @@
 
-# version: c35537a14daeca3cfd72b285682cfbbb1c22435f
+# version: 03e3d0d3861e30b21826aa11558f45235a4d4143
 
 # HTTPS www.bbc.com
 
@@ -54,7 +54,6 @@ Disallow: /newsround
 Disallow: /search/
 Disallow: /search$
 Disallow: /search?
-Disallow: /sport/videos/*
 Disallow: /food/favourites
 Disallow: /food/search*?*
 Disallow: /food/recipes/search*?*
@@ -80,6 +79,9 @@ Disallow: /sounds/search?
 Disallow: /ws/includes
 Disallow: /radio/imda
 Disallow: /storyworks/preview/*
+Disallow: /rd/search$
+Disallow: /rd/search/
+Disallow: /rd/search?
 
 User-agent: magpie-crawler
 Disallow: /
@@ -109,4 +111,13 @@ User-agent: cohere-ai
 Disallow: /
 
 User-agent: Google-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-Agent: PerplexityBot
 Disallow: /

@@ -1,3 +1,7 @@
+# Notice: Collection of data on Instagram through automated means is
+# prohibited unless you have express written permission from Instagram
+# and may only be conducted for the limited purpose contained in said
+# permission.
 User-agent: Applebot
 Disallow: /ajax/
 Disallow: /client_error/

@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /us/rwd/
 Disallow: /*/apply/
+#Disallow: /*/get-started/
 Disallow: /en-us/business/tls/partnerships/
 Disallow: /*/logout
 

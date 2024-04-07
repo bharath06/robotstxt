@@ -40,6 +40,7 @@ Disallow: /profiles/
 Disallow: /README.txt
 Disallow: /web.config
 Disallow: /sites/default/files/pdf/*.pdf
+Disallow: /media/*/edit
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/

@@ -103,12 +103,6 @@ Disallow: */B00M3E1HJY
 Disallow: /gp/socialmedia/giveaways
 Disallow: /gp/b2b-rd
 Disallow: /gp/aw/so.html
-Disallow: /gp/rentallist
-Disallow: /gp/video/dvd-rental/settings
-Disallow: /gp/rl/settings
-Disallow: /gp/video/settings
-Disallow: /gp/video/library
-Disallow: /gp/video/watchlist
 Disallow: /reviews/iframe
 Disallow: /gp/switch-language
 Disallow: /ga/p/
@@ -144,12 +138,16 @@ Disallow: /gp/pdp/profile/
 Disallow: /gp/help/customer/express/c2c/
 Disallow: /slp/*/b$
 Disallow: /hz/contact-us/ajax/initiate-trusted-contact/
+Disallow: /hp/video/
 Disallow: /gp/video/api
-Disallow: /hp/video/api
+Disallow: /gp/video/settings
+Disallow: /gp/video/library
+Disallow: /gp/video/watchlist
 Disallow: /gp/video/mystuff
-Disallow: /hp/video/mystuff
 Disallow: /gp/video/profiles
-Disallow: /hp/video/profiles
+Disallow: /gp/video/search
+Disallow: /gp/video/auth
+Disallow: /gp/video/salp/i
 
 User-agent: EtaoSpider
 Disallow: /

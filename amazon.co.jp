@@ -74,12 +74,6 @@ Allow: /gp/wishlist/ipad-install
 Disallow: /registry/wishlist/
 Disallow: /local/ajax/
 Disallow: /gp/rate-it
-Disallow: /gp/rentallist
-Disallow: /gp/video/dvd-rental/settings
-Disallow: /gp/rl/settings
-Disallow: /gp/video/settings
-Disallow: /gp/video/watchlist
-Disallow: /gp/video/library
 Disallow: /o/di
 Disallow: /o/dt
 Disallow: /gp/profile/
@@ -186,12 +180,16 @@ Disallow: /gp/aw/shoppingAids/
 Allow: /-/en/
 Allow: /-/en$
 Disallow: /hz/contact-us/ajax/initiate-trusted-contact/
+Disallow: /hp/video/
 Disallow: /gp/video/api
-Disallow: /hp/video/api
+Disallow: /gp/video/settings
+Disallow: /gp/video/library
+Disallow: /gp/video/watchlist
 Disallow: /gp/video/mystuff
-Disallow: /hp/video/mystuff
 Disallow: /gp/video/profiles
-Disallow: /hp/video/profiles
+Disallow: /gp/video/search
+Disallow: /gp/video/auth
+Disallow: /gp/video/salp/i
 
 User-agent: EtaoSpider
 Disallow: /

@@ -71,6 +71,7 @@ User-agent: HubSpot
 User-agent: MJ12bot
 User-agent: rogerbot
 User-agent: SemrushBot
+User-agent: GPTBot
 Disallow: /
 
 User-agent: YisouSpider

@@ -2,7 +2,7 @@ User-Agent: googlebot
 Allow: /
 Allow: /js/
 Allow: /css/
-Allow: /assets/
+Disallow: /assets/
 Disallow: /converter/
 Disallow: /files/
 
@@ -10,7 +10,7 @@ User-Agent: *
 Allow: /
 Allow: /js/
 Allow: /css/
-Allow: /assets/
+Disallow: /assets/
 Disallow: /converter/
 Disallow: /files/
 

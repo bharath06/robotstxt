@@ -3,6 +3,7 @@ User-agent: 360Spider
 User-agent: Sogouspider
 User-agent: Yisouspider
 User-agent: PetalBot
+User-agent:  Bytespider
 Disallow: /
 
 User-agent: *

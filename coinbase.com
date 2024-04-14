@@ -28,6 +28,7 @@ Sitemap: https://www.coinbase.com/sitemap-index-1.xml
 Sitemap: https://www.coinbase.com/sitemap-index-2.xml
 Sitemap: https://www.coinbase.com/sitemap-index-3.xml
 Sitemap: https://www.coinbase.com/sitemap-index-4.xml
+Sitemap: https://www.coinbase.com/sitemap-index-5.xml
 Sitemap: https://www.coinbase.com/sitemap-careers.xml
 Sitemap: https://www.coinbase.com/sitemap-cms.xml
 Sitemap: https://www.coinbase.com/sitemap-bytes.xml

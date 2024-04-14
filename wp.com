@@ -16,8 +16,10 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 Disallow: /typo/
 Disallow: /read/
-Allow: /log-in$
-Disallow: /log-in?
+Disallow: /log-in*?redirect_to=
+Disallow: /abuse/?*
+Disallow: /plugins/?s=
+Disallow: /*/plugins/?s=
 Disallow: /wp-login.php
 Disallow: /wp-signup.php
 Disallow: /press-this.php
@@ -28,4 +30,4 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-# This file was generated on Sun, 07 Apr 2024 04:04:17 +0000
+# This file was generated on Sun, 14 Apr 2024 06:13:18 +0000

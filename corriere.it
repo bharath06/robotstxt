@@ -238,7 +238,8 @@ Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/video/Corriere
 Sitemap: https://www.corriere.it/rss/sitemap_v2.xml
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Economia.xml
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Salute.xml
-Sitemap: https://www.corriere.it/rss/sitemap/Scienze.xml
+Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Scienze.xml
+Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Interni.xml
 
 #CORRIERE-452 2018-10-08
 
@@ -249,7 +250,7 @@ Sitemap: https://www.corriere.it/rss/sitemap/DataRoom.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Motori.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Esteri.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Politica.xml
-Sitemap: https://www.corriere.it/rss/sitemap/Spettacoli.xml
+Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Spettacoli.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Cultura.xml
 Sitemap: https://www.corriere.it/rss/sitemap/Sport.xml
 Sitemap: https://vivimilano.corriere.it/sitemap_index.xml
@@ -280,3 +281,7 @@ Sitemap: https://www.corriere.it/economia/chiedi-esperto/news/sitemap.xml
 Sitemap: https://www.corriere.it/studio/sitemap-studio.xml
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/Moda.xml
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/BuoneNotizie.xml
+
+
+
+

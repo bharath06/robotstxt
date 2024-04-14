@@ -27,5 +27,11 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: ia_archiver
 Disallow: /

@@ -17,6 +17,7 @@ Disallow: /learn-noperf/
 Disallow: /specializations-noperf/
 Disallow: /professional-certificates-noperf/
 Disallow: /account/
+Disallow: /career-academy/programs/
 Disallow: /business/xmlrpc.php
 Disallow: /business/wp-content/uploads/ 
 Sitemap: https://www.coursera.org/sitemap.xml

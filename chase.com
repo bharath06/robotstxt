@@ -127,6 +127,7 @@ Disallow: /content/chase-canada/fr/terms-of-use/
 Disallow: /fr/terms-of-use/
 Disallow: /content/chase-canada/fr/why-chase/
 Disallow: /fr/why-chase/
+Disallow: /content/dam/camp/map-oaa/
 Allow: /content/chase-ux/en/structured/module/learninginsights/learning-insights/_jcr_content/module.html
 Allow: /online/Credit-Cards/disney.htm
 Allow: /online/Home-Lending/mortgages.htm

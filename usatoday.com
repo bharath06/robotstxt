@@ -72,6 +72,8 @@ Disallow: /story/2014/03/20/ge-cfo-challenge-david-bartlett-amway/6653003/
 Disallow: /story/sports/ncaab/2014/03/20/ge-cfo-challenge-art-mccarthy-neulion/6655521/
 Disallow: /story/sports/ncaab/2014/03/20/ge-cfo-challenge-david-gross-major-league-lacrosse/6646987/
 Disallow: /money/lookup/stocks/
+Disallow: /money/blueprint/archive/
+Disallow: /money/blueprint/transfer?pname=
 
 Sitemap: https://www.usatoday.com/news-sitemap.xml
 Sitemap: https://www.usatoday.com/web-sitemap-index.xml

@@ -2,17 +2,12 @@
 
 User-agent: *
 Disallow: /*/includes/*
-Disallow: /*shop/signed_in_account*
-Disallow: /*shop/sign_in*
-Disallow: /*shop/sign_out*
 Disallow: /*shop/bag*
 Disallow: /*shop/browse/overlay/*
 Disallow: /*shop/browse/ribbon/*
 Disallow: /*shop/browse/campaigns/mobile_overlay*
 Disallow: /*shop/favorites*
 Disallow: /*shop/iphone/payments/overlay/*
-Disallow: /*shop/order/*
-Disallow: /*shop/store/feeds/*
 Disallow: /*_adc_*/shop/
 Disallow: /*_aoc_*/shop/
 Disallow: /*_enterprise*/shop/

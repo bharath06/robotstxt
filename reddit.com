@@ -27,6 +27,7 @@ Disallow: /*.json-html
 Disallow: /*.xml
 Disallow: /*.rss
 Allow: /r/*.rss
+Disallow: /r/*/search.rss
 Disallow: /r/*/comments/*.rss
 Disallow: /r/*/config/*.rss
 Disallow: /r/*/wiki/*.rss
@@ -53,9 +54,17 @@ Disallow: /login
 Disallow: /remove_email/t2_*
 Disallow: /r/*/user/
 Disallow: /gold?
+Disallow: /search$
+Disallow: /search?q=
 Disallow: /search/
-Disallow: /*/search?q=
-Disallow: /*/search/?q=
+Disallow: /*/search?
+Disallow: /*/search/?
+Disallow: /*/search$
+Disallow: /*/search/$
+Disallow: /search.compact$
+Disallow: /*/search.compact$
+Allow: /r/*/comments/*/search/$
+Allow: /r/*/comments/*/search$
 Disallow: /static/button/button1.js
 Disallow: /static/button/button1.html
 Disallow: /static/button/button2.html

@@ -30,6 +30,9 @@ Disallow: /explore/
 Disallow: /press-releases/
 Disallow: /artemis/
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: Mediapartners-Google
 Disallow: /about/careers
 Disallow: /about/careers/

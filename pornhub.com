@@ -103,6 +103,14 @@ Disallow: /video/search*p=*o=*
 #
 #
 # Major Site Area Blocks
+Disallow: /shorties/
+Disallow: /shorties?cat=*
+Disallow: /gay/shorties/
+Disallow: /trans/shorties/
+Disallow: /lesbian/shorties/
+Disallow: /gay/shorties?cat=*
+Disallow: /lesbian/shorties?cat=*
+Disallow: /trans/shorties?cat=*
 Disallow: */incategories/*
 Disallow: /svvt*
 Disallow: /user/

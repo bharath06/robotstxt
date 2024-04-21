@@ -6,6 +6,9 @@ Disallow: /users/edit
 Disallow: /archives/search
 Disallow: /*?page=
 Disallow: /*&page=
+Disallow: /*?c_page=
+Disallow: /*&c_page=
+Disallow: /*/forums/
 
 User-agent: dotbot
 Disallow: /

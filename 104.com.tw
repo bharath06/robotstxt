@@ -9,10 +9,24 @@ Allow:/faq/
 Allow:/feedback/
 Allow:/csr/
 Allow:/favicon.ico
-Disallow:*keyword=*.xyz*
-Disallow:*keyword=*.cn*
-Disallow:*keyword=*.top*
-Disallow:*keyword=*.pro*
+
+Disallow:*keyword=*xyz*
+Disallow:*keyword=*@*
+Disallow:*keyword=*TG*
+Disallow:*keyword=*telegram*
+Disallow:*keyword=*.*
+Disallow:*keyword=*,*
+Disallow:*keyword=*:*
+Disallow:*keyword=*;*
+Disallow:*keyword=*(*
+Disallow:*keyword=*+*
+Disallow:*keyword=*|*
+Disallow:*keyword=*/*
+Disallow:*keyword=*~*
+Disallow:*keyword=*<*
+Disallow:*keyword=*@*
+Disallow:*keyword=*[*
+
 Disallow:*excludeCompanyByCustno=*
 Disallow:*excludeIndustryCat=*
 Disallow:*expansionType=*
@@ -31,7 +45,7 @@ Disallow:*irsTag=*
 Disallow:*isnew=*
 Disallow:*ro=*
 Disallow:*utm_*
-Disallow:*/students/*,,,,
+Disallow:*&/students/=*null&*
 Disallow:/
 
 User-agent: GPTBot

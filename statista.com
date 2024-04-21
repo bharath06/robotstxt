@@ -87,6 +87,11 @@ Disallow: /statistik/suche/
 Disallow: /buscar/
 Disallow: /recherche/
 
+# Research AI (04/24)
+Disallow: /research-ai/
+Disallow: /research-ai$
+Disallow: /research/
+
 # Sitemaps all languages
 Sitemap: https://www.statista.com/sitemap/
 Sitemap: https://de.statista.com/sitemap/

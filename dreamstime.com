@@ -987,6 +987,8 @@ Disallow: /*/*cunt.html
 Disallow: /*/*private-parts.html
 Disallow: /*/*masterbat.html
 Disallow: /*/*masterbate.html
+Disallow: /*/xnxx.html
+Disallow: /*/*xnxx*.html
 
 ###################################
 Sitemap: https://www.dreamstime.com/sitemap2-en-index.xml.gz

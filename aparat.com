@@ -52,6 +52,7 @@ Disallow: /video/video/stat
 Disallow: /video/video/upload1
 Disallow: /video/hls/manifest/visittype/site/videohash
 Disallow: *chunk.m3u8*
+Disallow: /user/profile/form_csrf
 Allow: /etc/api
 Allow: *nextq=*
 

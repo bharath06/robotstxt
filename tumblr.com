@@ -139,3 +139,7 @@ Disallow: /
 # anthropic-ai's crawler
 User-agent: anthropic-ai
 Disallow: /
+
+# ImageSift's AI crawler
+User-agent: ImagesiftBot
+Disallow: /

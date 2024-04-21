@@ -11,7 +11,6 @@ Disallow: /shop/
 Disallow: /authentication/
 Disallow: /newsletters/preferences/manage
 Disallow: /newsletters/preferences/unsubscribe
-Disallow: /sweepstakes/entry/
 Disallow: /search
 
 User-agent: Pinterest

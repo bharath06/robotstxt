@@ -13,7 +13,6 @@ Disallow:  /shop/hanuman-badminton-shop/
 Disallow:  /shop/health-and-beauty/
 Disallow:  /brother-mfc-j2720-/
 Disallow: /shop/the-powermall/
-Disallow: /*/*--*
 Disallow: *ref=*
 Disallow: /searchbox/
 Disallow: /all-products/

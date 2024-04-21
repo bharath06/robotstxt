@@ -733,6 +733,7 @@ Disallow: /themes
 Disallow: /toggle-experiment
 Disallow: /touchsearch
 Disallow: /tune*retpath=
+Disallow: /8bit-fest/parents
 Allow: /tutor
 Disallow: /tutor/admin
 Sitemap: https://yandex.ru/tutor/sitemap/?sitemap=sitemap.xml

@@ -8,15 +8,13 @@ Disallow: 		/sport/ciclismo/2023/10/24/news/doping_ciclismo_virtuale_azzurro_zan
 Disallow: 		/spettacoli/people/2023/09/07/news/kanye_west_e_bianca_censori_in_italia_la_lunga_estate_calda_degli_scandali-413629176/&lt; 
 Disallow: 		/spettacoli/people/2023/09/04/news/venezia_kanye_west_e_bianca_censori_banditi_per_atti_osceni_da_una_societa_di_noleggio_motoscafi-413301274/ 
 Disallow: 		/speciale/ 
-Disallow: 		/protagonisti/carlo_russo 
 Disallow: 		/protagonisti/andrea_nucera/ 
-Disallow: 		/politica/2017/03/06/news/consip_interrogatorio_alfredo_romeo-159865690/ 
-Disallow: 		/politica/2017/03/05/news/quegli_spifferi_agli_indagati_e_le_certezze_di_romeo_sull_appalto_c_e_l_accordo_-159787589/ 
-Disallow: 		/politica/2017/03/03/news/consip_renzi-159673411/ 
 Disallow: 		/politica/2017/01/19/news/il_fratello_del_ministro_alfano_rischia_il_posto_e_costera_all_erario_mezzo_milione_di_euro[1]156371739/ 
 Disallow: 		/online/cronaca/veronaecstasy/bologna/bologna.html 
 Disallow: 		/online/ 
 Disallow: 		/news/ired/ultimora/cronaca/rep_cronaca_n_3487677.html 
+Disallow: 		/moda-e-beauty/2024/04/14/news/infedeli_storie_tradimento_franco-422464982/ 
+Disallow: 		/moda-e-beauty/2024/04/13/news/cabana_di_marina_mondadori_compie_dieci_anni-422471862/ 
 Disallow: 		/java 
 Disallow: 		/ipad/ 
 Disallow: 		/interstitial/ 
@@ -30,8 +28,6 @@ Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 5161547
 Disallow: 		/dal-quotidiano/ 
 Disallow: 		/cronaca/2023/09/29/news/serenis_repubblica_promozione_abbonati-416179220/ 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
-Disallow: 		/cronaca/2018/03/29/news/consip_marroni_lotti_cimici_saltalamacchia-192551663/ 
-Disallow: 		/cronaca/2017/03/22/news/consip_le_accuse_di_romeo_le_gare_sono_tutte_truccate_-161100422/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 

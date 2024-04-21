@@ -122,6 +122,7 @@ Disallow: */returns/*?*&liteToken=
 Disallow: */returns/*?liteToken=
 Disallow: */returns/*?ref=
 Disallow: */returns/*?*&ref=
+Disallow: */hri-fragments/*
 Allow: */ces/web/modules/*.css
 
 Sitemap: https://www.ikea.com/sitemaps/sitemap.xml

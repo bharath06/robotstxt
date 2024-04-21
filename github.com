@@ -36,8 +36,7 @@ Disallow: /.git/
 Disallow: */.git/
 Disallow: /*.git$
 Disallow: /search/advanced
-Disallow: /search
-Disallow: */search
+Disallow: /search$
 Disallow: /*q=
 Disallow: /*.atom$
 

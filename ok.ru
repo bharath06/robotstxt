@@ -165,6 +165,8 @@ Clean-param: &_om
 Clean-param: &st.author
 Clean-param: &st.hobbySlug
 Clean-param: &st.question
+Clean-param: &twoseven-iframe
+Clean-param: &mibextid
 
 Sitemap: https://ok.ru/sitemap-index-misc.xml.gz
 Sitemap: https://ok.ru/sitemap-index-game.xml.gz

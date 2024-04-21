@@ -125,6 +125,7 @@ Disallow: /invited/
 Disallow: /join/?next=*
 Disallow: /join/signup/?next=*
 Disallow: /kwanzaa-spotlight/
+Disallow: /lens-search/*
 Disallow: /linked/*
 Disallow: /live-session/*
 Disallow: /login/?next=*
@@ -209,6 +210,7 @@ Disallow: /theme/*
 Disallow: /tv/*
 Disallow: /unauth-profile/
 Disallow: /unlink/
+Disallow: /upload-lens-image
 Disallow: /v1/urls/count.json
 Disallow: /v3/pidgets/log/
 Disallow: /website/confirm/
@@ -217,22 +219,22 @@ Disallow: /welcome/
 Disallow: /your-shop/
 Disallow: /your-shop/*
 
-Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_interest_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_expansion_v2_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_today_article_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/user_link_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_image_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/video_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/board_link_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/video_product_pin_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_sitemap_www.pinterest.com.xml
-Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/promoted_idea_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/image_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/today_article_interest_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_image_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/video_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/ideas_hub_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/video_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/user_link_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/board_link_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/product_pin_sitemap_www.pinterest.com.xml
+Sitemap: https://www.pinterest.com/v3_sitemaps/high_score_video_pin_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/shopping_sitemap_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/Enriched_Pin_Sitemap_202402_www.pinterest.com.xml
 Sitemap: https://www.pinterest.com/v3_sitemaps/Enriched_Pin_Sitemap_202401_www.pinterest.com.xml
@@ -359,6 +361,7 @@ Disallow: /invited/
 Disallow: /join/?next=*
 Disallow: /join/signup/?next=*
 Disallow: /kwanzaa-spotlight/
+Disallow: /lens-search/*
 Disallow: /linked/*
 Disallow: /live-session/*
 Disallow: /login/?next=*
@@ -443,6 +446,7 @@ Disallow: /theme/*
 Disallow: /tv/*
 Disallow: /unauth-profile/
 Disallow: /unlink/
+Disallow: /upload-lens-image
 Disallow: /v1/urls/count.json
 Disallow: /v3/pidgets/log/
 Disallow: /website/confirm/
@@ -575,6 +579,7 @@ Disallow: /invited/
 Disallow: /join/?next=*
 Disallow: /join/signup/?next=*
 Disallow: /kwanzaa-spotlight/
+Disallow: /lens-search/*
 Disallow: /linked/*
 Disallow: /live-session/*
 Disallow: /login/?next=*
@@ -658,6 +663,7 @@ Disallow: /theme/*
 Disallow: /tv/*
 Disallow: /unauth-profile/
 Disallow: /unlink/
+Disallow: /upload-lens-image
 Disallow: /v1/urls/count.json
 Disallow: /v3/pidgets/log/
 Disallow: /website/confirm/

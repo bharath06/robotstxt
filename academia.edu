@@ -8,6 +8,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -24,6 +25,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -40,6 +42,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -56,6 +59,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -72,6 +76,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -88,6 +93,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -104,6 +110,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -120,6 +127,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -136,6 +144,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -152,6 +161,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -168,6 +178,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -184,6 +195,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -200,6 +212,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -216,6 +229,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -232,6 +246,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -248,6 +263,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -264,6 +280,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -280,6 +297,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -296,6 +314,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -312,6 +331,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -328,6 +348,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -344,6 +365,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -360,6 +382,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -376,6 +399,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -392,6 +416,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -408,6 +433,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -424,6 +450,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 
@@ -440,6 +467,7 @@ Disallow: /ac_search
 Disallow: /users/search
 Disallow: /ac_universities
 Disallow: /ac_university_departments
+Disallow: /document_viewer/build_vu_embeds/
 
 Disallow: /v0/*
 

@@ -15,7 +15,6 @@ Disallow: /*gclid=
 Disallow: /*noimg
 Disallow: /*swf$
 Disallow: /*price=
-Disallow: /*p=
 Disallow: /*/edit$
 Disallow: /*/edit/finish$
 Disallow: /*/delete$
@@ -109,7 +108,6 @@ Disallow: /k8s/
 Disallow: /rpc/
 Disallow: /performance/stats/1/load
 Disallow: /stories
-Disallow: /*p=
 Disallow: /events/add/
 Disallow: /clickstream/
 Disallow: /api/
@@ -142,7 +140,6 @@ Disallow: /*i=
 Disallow: /*noimg
 Disallow: /*swf$
 Disallow: /*price=
-Disallow: /*p=
 Disallow: /*/edit$
 Disallow: /*/edit/finish$
 Disallow: /*/delete$

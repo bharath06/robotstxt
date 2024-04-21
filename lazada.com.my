@@ -28,7 +28,6 @@ Disallow:  /runtime
 Disallow:  /assets/
 Disallow:  /compiler
 Disallow:  index$
-Disallow: /*/*--*
 Disallow: /searchbox/
 Disallow: /all-products/
 Allow: /catalog/

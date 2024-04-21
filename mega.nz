@@ -76,6 +76,7 @@ Allow: /sdkterms
 Allow: /objectstorage
 Allow: /Mega_Transparency_Report*
 Allow: /*sitemap*
+Allow: /ads.txt
 Allow: /lang_*
 Allow: /?ar
 Allow: /?br

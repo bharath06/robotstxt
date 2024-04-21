@@ -23,6 +23,7 @@
 User-Agent: *
 Disallow: /oauth/
 Disallow: /join/
+Disallow: /advanced-trade/spot/*
 
 Sitemap: https://www.coinbase.com/sitemap-index-1.xml
 Sitemap: https://www.coinbase.com/sitemap-index-2.xml
@@ -41,3 +42,4 @@ Sitemap: https://www.coinbase.com/cloud/sitemap.xml
 Sitemap: https://www.coinbase.com/institutional/sitemap.xml
 Sitemap: https://www.coinbase.com/sitemap-cms-marketing.xml
 Sitemap: https://www.coinbase.com/sitemap-web3.xml
+Sitemap: https://www.coinbase.com/sitemap-advanced.xml

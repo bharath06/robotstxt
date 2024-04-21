@@ -10,6 +10,7 @@ Disallow: /aircraft-icons/sprite*
 Disallow: /assets/aircraft/*
 Disallow: /multiview/
 Disallow: /cdn-cgi/*
+Disallow: /user/delete-account
 
 User-agent: CCBot
 Disallow: /
@@ -20,4 +21,4 @@ Disallow: /
 User-agent: ChatGPT
 Disallow: /
 User-agent: Google-Extended
-Disallow: / 
+Disallow: /

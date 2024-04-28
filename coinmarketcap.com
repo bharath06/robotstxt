@@ -1,5 +1,5 @@
 User-agent: Twitterbot
-Allow: /community/share/post/*
+Allow: /
 
 User-agent: *
 Allow: /

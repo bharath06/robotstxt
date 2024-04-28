@@ -4,6 +4,7 @@ Disallow: /*/about-us/contact/contact-spotify-account/
 Disallow: /*/get-spotify/*
 Disallow: /*/xhr/*
 Disallow: /*/external/*
+Disallow: /*/legal/*?ets=
 Disallow: /*/legal/advertiser-terms-and-conditions/
 Disallow: /*/account/cls/*
 Disallow: /*/starbuckspartners

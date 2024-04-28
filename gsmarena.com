@@ -62,4 +62,7 @@ Disallow: /
 User-agent: Amazonbot
 Disallow: /
 
+User-agent: ClaudeBot
+Disallow: /
+
 Sitemap: https://www.gsmarena.com/sitemap.xml

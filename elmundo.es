@@ -8,7 +8,6 @@ Disallow: /perl/
 Disallow: /foros/
 Disallow: /yodona/hemeroteca/
 Disallow: /metropoli/hemeroteca/
-Disallow: /elecciones/*.xml
 Disallow: /eventos/en-directo/*.json
 Disallow: /eventos/en-directo/resources.html*
 Disallow: /noticias/envia_noticia.html

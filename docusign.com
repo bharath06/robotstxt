@@ -69,3 +69,4 @@ Disallow: /blog?*page=*
 Disallow: /customer-stories?*page=*
 Allow: /blog?*page=0
 Allow: /customer-stories?*page=0
+Sitemap: https://www.docusign.com/sitemap.xml

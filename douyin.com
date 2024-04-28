@@ -20,7 +20,6 @@ User-agent: HaosoSpider
 Disallow: /follow
 Disallow: /user/?enter_from=video_detail&from_gid=*
 Disallow: /topic/
-Disallow: *modal_id*
 
 User-agent: Baiduspider
 Allow: /topic/

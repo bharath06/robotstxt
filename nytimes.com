@@ -23,6 +23,7 @@ Allow: /svc/letter-boxed
 Allow: /svc/spelling-bee
 Allow: /svc/vertex
 Allow: /svc/wordle
+Disallow: /athletic/
 Disallow: /video/embedded/*
 Disallow: /search
 Disallow: /multiproduct/

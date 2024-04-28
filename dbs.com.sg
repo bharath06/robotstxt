@@ -437,6 +437,7 @@ Disallow: /Contact/dbs/salary-credit-promo-3/complete.page
 Disallow: /personal/cards/promotions/sg-clr3rev.page
 Disallow: /treasures/treasures-birthday
 Disallow: /treasures/treasures-birthday/default.page
+Disallow: /personal/tsp-rewards.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

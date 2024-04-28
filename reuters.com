@@ -48,3 +48,4 @@ SITEMAP: https://www.reuters.com/plus/sitemap-index.xml
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-plj-index/?outputType=xml
 SITEMAP: https://www.reuters.com/graphics/sitemap.xml
 SITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/pictures/?outputType=xml
+SITEMAP: https://www.reuters.com/static/video-sitemap/us/sitemap_video_index.xml

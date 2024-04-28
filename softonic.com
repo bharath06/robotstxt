@@ -238,4 +238,5 @@ User-agent: WebAlta Crawler
 User-agent: Mail.Ru
 User-agent: Mail.RU_Bot
 User-agent: Rambler
+User-agent: GPTbot
 Crawl-delay: 1

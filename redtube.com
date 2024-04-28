@@ -79,3 +79,6 @@ Disallow: /_xa/ads_batch*
 Disallow: /svvt*
 Disallow: /load/fail
 Disallow: /gallery/*
+Disallow: *?setlang=*
+Disallow: /_xa/*
+Disallow: /?redirect=*

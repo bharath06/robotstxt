@@ -51,6 +51,9 @@ Disallow: /api/v4/rcm/*
 User-agent: GPTBot
 Disallow: /
 
+User-agent: Shodan
+Disallow: /
+
 User-agent: *
 Allow: /doc/addr.shtml
 Allow: /doc/history.shtml

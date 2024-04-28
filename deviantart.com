@@ -9,6 +9,7 @@ Disallow: /api/
 Disallow: /critiques/
 Disallow: /prints/*by:*
 Disallow: /_stash/
+Crawl-delay: 1
 
 User-agent: Pinterestbot
 Disallow: /

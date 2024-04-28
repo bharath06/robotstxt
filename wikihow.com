@@ -29,6 +29,9 @@ Disallow: /
 User-agent: Download Ninja
 Disallow: /
 
+User-agent: FacebookBot
+Disallow: /
+
 User-agent: Fetch
 Disallow: /
 
@@ -65,6 +68,12 @@ User-agent: NPBot
 Disallow: /
 
 User-agent: Offline Explorer
+Disallow: /
+
+User-agent: OmigiliBot
+Disallow: /
+
+User-agent: PerplexityBot
 Disallow: /
 
 # Some bots are known to be trouble, particularly those designed to copy

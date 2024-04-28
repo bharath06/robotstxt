@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /
-Allow : /$ 
+Allow : /$
+Allow : /.well-known/privacy-sandbox-attestations.json

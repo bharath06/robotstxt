@@ -20,7 +20,8 @@ User-agent: Xenu
 User-agent: larbin
 User-agent: libwww
 User-agent: ZyBORG
-User-agent: Download Ninja 
+User-agent: Download Ninja
+User-agent: ClaudeBot 
 Disallow: /
 
 User-agent: *

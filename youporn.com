@@ -81,6 +81,16 @@ Disallow: /*min_minutes=*
 Disallow: /*max_minutes=*
 Disallow: /*t=*
 Disallow: /*res=*
+Disallow: /video/player_related_datas*
+Disallow: /comments?id*
+Disallow: /oauth2/
+Disallow: /gay/oauth2/
+Disallow: /_xa/
+Disallow: /gay/_xa/
+Disallow: /phsvvt/
+Disallow: /load/fail
+Disallow: /gay/videotimewatched/
+Disallow: /gay/watch/
 
 User-agent: Twitterbot
 Disallow:

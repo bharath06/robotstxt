@@ -26,6 +26,7 @@ Disallow: /misc
 Disallow: /legal
 Disallow: /checklistposts
 Disallow: /away
+Disallow: /rsearch
 Clean-param: event&add&amp&area&askname&auth&authas&auto_forwhat
 Clean-param: bookmark_off&cat&cc&change&cid&comm&country&ctc&date&del_filter&dest_name&dir
 Clean-param: ELEMENT_ID&errmsg&expand&f116&f16&faqid&fb&filter&for&form&format&fp&fromuser&fs&g
@@ -71,6 +72,7 @@ Disallow: /misc
 Disallow: /legal
 Disallow: /checklistposts
 Disallow: /away
+Disallow: /rsearch
 
 Sitemap: https://www.livejournal.com/sitemap.xml
 

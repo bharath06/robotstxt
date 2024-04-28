@@ -20,10 +20,31 @@
 #         https://www.coinbase.com/careers
 #
 
+User-Agent: facebookexternalhit
+Allow: /
+
+User-Agent: Twitterbot
+Allow: /
+
+User-Agent: LinkedInBot
+Allow: /
+
+User-Agent: WhatsApp
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
 User-Agent: *
 Disallow: /oauth/
 Disallow: /join/
 Disallow: /advanced-trade/spot/*
+Disallow: /converter/*/*?currencyPage*
+Disallow: /price/*?locale*
+Disallow: /partner/*
 
 Sitemap: https://www.coinbase.com/sitemap-index-1.xml
 Sitemap: https://www.coinbase.com/sitemap-index-2.xml

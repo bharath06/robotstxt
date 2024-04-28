@@ -1,12 +1,10 @@
 User-agent: *
 Sitemap: https://cc.boyfriendtv.com/sitemaps/boyfriendtv.com/sitemaps.xml
 Disallow: /*ajax-
-Disallow: /search/
 Disallow: /search-img/
 Disallow: /adv-search.php
 Disallow: /adv-search/
 Disallow: /login.php
-Disallow: /models/?
 Disallow: /*cgi-bin/
 Disallow: /best-galleries
 Disallow: /best-videos

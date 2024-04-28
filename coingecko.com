@@ -77,10 +77,9 @@ Disallow: /*/historical_data*?*start=
 Disallow: *search=
 Disallow: /accounts*.json$
 Disallow: /premium/*?locale=
-Disallow: /account/rewards?*category=
-Disallow: /account/rewards?*order=
-Disallow: /account/rewards?*points_cost=
-Disallow: /account/rewards/*?locale=
+Disallow: */candy?*category=
+Disallow: */candy?*order=
+Disallow: */show_more_rewards
 Disallow: /account/rewards/mocaverse/
 Disallow: /coins/price_percentage_change?ids=
 Disallow: *?0.

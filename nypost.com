@@ -94,6 +94,18 @@ Disallow: /*&*gg155.cn*
 Disallow: /*?*To66.Asia*
 Disallow: /*&*To66.Asia*
 
+Disallow: /tag/credible/
+Disallow: /personal-finance/
+Disallow: /banking/
+Disallow: /credit-cards/
+Disallow: /loans/
+Disallow: /personal-loans/
+Disallow: /refinance-student-loans/
+Disallow: /student-loans/
+Disallow: /mortgages/
+Disallow: /home-equity/
+Disallow: /mortgage-refinance/
+
 User-agent: GPTBot
 Disallow: /
 

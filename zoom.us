@@ -27,4 +27,7 @@ Disallow: /my/*
 Disallow: /download2*
 Disallow: /*?
 
+User-agent: LinkedInBot
+Allow: /webinar/register/*
+
 Sitemap: https://zoom.us/sitemap.xml

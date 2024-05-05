@@ -276,6 +276,7 @@ Disallow: /crm/developer/docs/api/v2.1/
 Disallow: /creator/payroll/
 Disallow: /sites/zweb/images/jp/partners/partner-policy.pdf
 Disallow: /mail/images/mail-pricing-inr.pdf
+Disallow: /sites/zweb/images/crm/sales-cadence.pdf
 
 
 

@@ -1,3 +1,6 @@
+User-agent: FacebookBot
+Disallow: /world/*
+
 User-agent: *
 Disallow: /search-results/
 Disallow: /video-search/

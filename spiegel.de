@@ -65,6 +65,9 @@ Disallow: /
 User-agent: dotbot
 Disallow: /
 
+User-Agent: ImagesiftBot
+Disallow: /
+
 Sitemap: https://www.spiegel.de/sitemaps/news-de.xml
 Sitemap: https://www.spiegel.de/sitemaps/videos/sitemap.xml
 Sitemap: https://www.spiegel.de/plus/sitemap.xml

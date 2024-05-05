@@ -31,6 +31,7 @@ Disallow:/fbapp/
 Disallow:/game/
 Disallow:/news/demo/
 Disallow:/news/hot-tag.htm
+Disallow:/news_search/
 Disallow:/player/
 Disallow:/redir/
 Disallow:/source/

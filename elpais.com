@@ -1,5 +1,4 @@
 User-Agent: *
-Disallow: /buscador/
 Disallow: /pruebas/
 #Disallow: /.well-known/amphtml/
 Disallow: /t/

@@ -47,7 +47,8 @@ User-agent: LumtelBot
 User-agent: magpie-crawler
 User-agent: Magus bot
 User-agent: Megaindex.ru
-User-agent: SiteimproveBot-Crawler
+User-agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) LinkCheck by Siteimprove.com
+User-agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) SiteCheck-sitecrawl by Siteimprove.com
 User-agent: NL-Crawler
 User-agent: OnPageBot
 User-agent: Riddler

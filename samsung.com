@@ -48,6 +48,7 @@ Disallow: /*/speedtest/*
 Disallow: /us/business/new/*
 Allow: /in/multistore/*
 Allow: /hu/multistore/diakkedvezmenyek/
+Allow: /es/multistore/es_samsungdeals/
 Disallow: /*/multistore/*
 Disallow: /ru/srr/
 Disallow: /in/web/emi/*

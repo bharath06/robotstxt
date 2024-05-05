@@ -279,3 +279,4 @@ Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/3/sitema
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/4/sitemap.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/4/sitemap1.xml.gz
 Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/4/sitemap2.xml.gz
+Sitemap: https://public-files.gumroad.com/sitemap/products/monthly/2024/5/sitemap.xml.gz

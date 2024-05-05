@@ -35,3 +35,7 @@ Sitemap:https://www.indiatimes.com/hindi/central-service/sitemap/images/sitemap-
 Sitemap:https://www.indiatimes.com/hindi/central-service/sitemap/google-news.xml
 Sitemap:https://www.indiatimes.com/hindi/central-service/sitemap/topics/sitemap-index.xml
 Sitemap:https://www.indiatimes.com/hindi/central-service/sitemap/deleted/sitemap-index.xml
+Sitemap:https://www.indiatimes.com/sitemap.xml
+Sitemap:https://www.indiatimes.com/sitemap-news.xml
+Sitemap:https://www.indiatimes.com/sitemap-posts-index-2024.xml
+Sitemap:https://www.indiatimes.com/hindi/sitemap-ampstories-2024.xml

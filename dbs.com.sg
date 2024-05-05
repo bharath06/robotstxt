@@ -438,6 +438,7 @@ Disallow: /personal/cards/promotions/sg-clr3rev.page
 Disallow: /treasures/treasures-birthday
 Disallow: /treasures/treasures-birthday/default.page
 Disallow: /personal/tsp-rewards.page
+Disallow: /personal/downtime.page
 
 # URL Masking Details
 Disallow: /personal/landing/nav/yournav/users/

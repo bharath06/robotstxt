@@ -1,9 +1,3 @@
-# Good Robots
-User-agent: Googlebot
-Disallow:
-
-User-agent: Googlebot-image
-Disallow: 
 
 # Bad Robots!
 User-agent: DotBot
@@ -13,6 +7,18 @@ User-agent: dotbot
 Disallow: /
 
 User-agent: *
+# jl022q edits 05.01.24 - start
+Disallow: /search/
+Disallow: /cfd/
+Disallow: *bvstate=pg*
+Disallow: */rest/clicktrack?*
+Disallow: */rest/getlist?*
+Disallow: /buy/postpaid/line-selection
+Disallow: /ssaf/ssafc/
+Disallow: */msapi/*
+Disallow: */sdattservicesinc/*
+# jl022q edits 05.01.24 - end
+
 Disallow: /gtm/
 # Consumer Wireless and Home
 Disallow: /support/showarticle*
@@ -122,6 +128,19 @@ Disallow: /es-us/smallbusiness/i9nvalidParamInput.jsp
 
 User-agent: Googlebot
 Disallow: /gtm/
+
+# jl022q edits 05.01.24 - start
+Disallow: /search/
+Disallow: /cfd/
+Disallow: *bvstate=pg*
+Disallow: */rest/clicktrack?*
+Disallow: */rest/getlist?*
+Disallow: /buy/postpaid/line-selection
+Disallow: /ssaf/ssafc/
+Disallow: */msapi/*
+Disallow: */sdattservicesinc/*
+# jl022q edits 05.01.24 - end
+
 # Consumer Wireless and Home
 Disallow: /support/showarticle*
 Disallow: /contactus/*
@@ -244,5 +263,6 @@ Disallow: /acctmgmt/*
 # Sitemap Index
 Sitemap: https://www.att.com/sitemap.xml
 
-# Last Update 8/14/2023 by ds3808
+# Previous Update 8/14/2023 by ds3808
+# Last Update 5.1.2024 by jl022q
 

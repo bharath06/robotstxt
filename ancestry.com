@@ -8,6 +8,7 @@
 
 User-agent: *
 Allow: /secure/Subscribe/Gift
+Disallow: /account/signin*
 Disallow: /account/signin
 Disallow: /account/signin/
 Disallow: /boards/localities.*/rss.xml
@@ -75,6 +76,7 @@ Disallow: /secure/register/*
 Disallow: /secure/register/guestregistration.aspx
 Disallow: /secure/security/forgotpassword.aspx
 Disallow: /secure/subscribe/controls/thawte.html
+Disallow: /secure/login
 Disallow: /security/*
 Disallow: /wiz
 Disallow: *birth_f*
@@ -89,4 +91,4 @@ Disallow: /savetoancestry*
 User-agent: sogou spider
 Disallow: /secure/
 
-## GB Updated 8 Nov 2023
+## GB Updated 2 May 2024

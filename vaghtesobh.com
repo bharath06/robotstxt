@@ -8,4 +8,4 @@ Disallow: /admin*
 Disallow: *:id*
 
 
-Sitemap: https://www.vaghtesobh.com/sitemap.xml
+Sitemap: https://www.vaghtesobh.ir/sitemap.xml

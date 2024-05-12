@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://cc.boyfriendtv.com/sitemaps/boyfriendtv.com/sitemaps.xml
+Sitemap: https://www.boyfriendtv.com/sitemaps.xml
 Disallow: /*ajax-
 Disallow: /search-img/
 Disallow: /adv-search.php

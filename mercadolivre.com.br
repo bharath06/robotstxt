@@ -1,7 +1,3 @@
-User-agent: GPTBot
-User-agent: ChatGPT-User
-Disallow: /
-
 User-agent: *
 Disallow: /HOME/
 Disallow: /gz/merch/

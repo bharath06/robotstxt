@@ -29,13 +29,10 @@ Disallow: /pt/
 Disallow: /kuruma/jumpkuruma.asp*
 Disallow: /waterserver/ajax/
 Disallow: /ref/rd_kused.asp
-Disallow: /script/article/search/tv_item/pickup.js
 Disallow: /card/compare/compare.asp*
 Disallow: /kuchikomi/review/results/
 Disallow: /smartphonerd/
 Disallow: /waterserver/jump.asp*
-Disallow: /energy/servicejump/
-Disallow: /gas/servicejump/
 Disallow: /mobile_data/sim/jump.asp*
 Disallow: /altitem/
 Disallow: /error/
@@ -43,7 +40,6 @@ Disallow: /se.asp
 Disallow: /prdnews/newssearch/
 Disallow: /err/
 Disallow: /groupitem/
-Disallow: /kuruma/used/getUCShopMap.asp*
 Disallow: /*/jump/
 
 User-agent: Mediapartners-Google
@@ -80,13 +76,10 @@ Disallow: /pt/
 Disallow: /kuruma/jumpkuruma.asp*
 Disallow: /waterserver/ajax/
 Disallow: /ref/rd_kused.asp
-Disallow: /script/article/search/tv_item/pickup.js
 Disallow: /card/compare/compare.asp*
 Disallow: /kuchikomi/review/results/
 Disallow: /smartphonerd/
 Disallow: /waterserver/jump.asp*
-Disallow: /energy/servicejump/
-Disallow: /gas/servicejump/
 Disallow: /mobile_data/sim/jump.asp*
 Disallow: /altitem/
 Disallow: /error/
@@ -94,7 +87,6 @@ Disallow: /se.asp
 Disallow: /prdnews/newssearch/
 Disallow: /err/
 Disallow: /groupitem/
-Disallow: /kuruma/used/getUCShopMap.asp*
 Disallow: /used/*?*
 Disallow: /*/jump/
 

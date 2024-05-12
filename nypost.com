@@ -108,13 +108,43 @@ Disallow: /mortgages/
 Disallow: /home-equity/
 Disallow: /mortgage-refinance/
 
-User-agent: GPTBot
+User-agent: Bytespider
 Disallow: /
 
 User-agent: CCBot
 Disallow: /
 
 User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: Perplexity-ai
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: PiplBot
 Disallow: /
 
 User-agent: anthropic-ai
@@ -126,25 +156,16 @@ Disallow: /
 User-agent: ia_archiver
 Disallow: /
 
-User-Agent: omgili
+User-agent: magpie-crawler
 Disallow: /
 
-User-Agent: omgilibot
+User-agent: news-please
 Disallow: /
 
-User-agent: MJ12bot
+User-agent: omgili
 Disallow: /
 
-User-agent: PiplBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: FacebookBot
-Disallow: /
-
-User-agent: Bytespider
+User-agent: omgilibot
 Disallow: /
 
 User-agent: *

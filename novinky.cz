@@ -1,22 +1,32 @@
-User-Agent: *
-Disallow: /hledej
-Disallow: /emailem
-Disallow: /dynamicke-bannery
-Disallow: /sessionCheck
-# dont crawl pagination on article pages
-Disallow: /clanek/*timeline--pageItem==
-
-User-agent: SeznamBot
-Disallow: /hledej
-Disallow: /emailem
-Disallow: /dynamicke-bannery
-Disallow: /sessionCheck
+User-agent: *
 # dont crawl pagination on article pages
 Disallow: /clanek/*timeline--pageItem=
-# dont crawl the same page with opened menu
-Disallow: /*menu--open
 # dont crawl the same page with opened gallery
 Disallow: /*mol-gallery--expanded=
+# from gallery in newsfeed
+Disallow: /*mol-gallery--selected=
+# category of photo contests
+Disallow: /*fts--order=alphabetical-desc
+Disallow: /*fts--order=accept-time-desc
+Disallow: /*fts--order=accept-time-asc
+Disallow: /*fts--order=ranking-asc
+Disallow: /*fts--order=ranking-desc
+Disallow: /*fts--order=random
+Disallow: /fts--search
+Disallow: /*expandRelatedDocuments
+# legacy parameters
+Disallow: /*ribbon--menu=
+Disallow: /*ribbon--search=
+# historical parameters
+Disallow: /diskuse
+Disallow: /*menu--open
+# article preview
+Disallow: /*previewToken=
+Disallow: /*bankid=
+
+# social profile preview tab
+User-Agent: SeznamSocialBot
+Allow: /
 
 
 Sitemap: https://www.novinky.cz/sitemaps/sitemap_articles.xml

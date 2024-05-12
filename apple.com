@@ -1,12 +1,10 @@
 # robots.txt for https://www.apple.com/
 
 User-agent: *
-Disallow: /*/includes/*
 Disallow: /*shop/bag*
 Disallow: /*shop/browse/overlay/*
 Disallow: /*shop/browse/ribbon/*
 Disallow: /*shop/browse/campaigns/mobile_overlay*
-Disallow: /*shop/favorites*
 Disallow: /*shop/iphone/payments/overlay/*
 Disallow: /*_adc_*/shop/
 Disallow: /*_aoc_*/shop/
@@ -56,4 +54,4 @@ Sitemap: https://www.apple.com/shop/sitemap.xml
 Sitemap: https://www.apple.com/autopush/sitemap/sitemap-index.xml
 Sitemap: https://www.apple.com/newsroom/sitemap.xml
 Sitemap: https://www.apple.com/retail/sitemap/sitemap.xml
-Sitemap: https://www.apple.com/today/sitemap.xml
+Sitemap: https://www.apple.com/today/sitemap-index.xml

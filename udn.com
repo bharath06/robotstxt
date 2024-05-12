@@ -13,14 +13,17 @@ Allow: /page/topic/184
 Allow: /page/topic/495
 Allow: /page/topic/496 
 Disallow: /page/topic/*
-# chatbot
+Sitemap: https://udn.com/sitemapxml/news/mapindex.xml
+Sitemap: https://udn.com/sitemap/gnews/2
+Sitemap: https://udn.com/sitemap/gnews/1013
+Sitemap: https://udn.com/sitemap/gnews/1015
+# chat bot
 User-agent: GPTBot
 Disallow: /
 User-agent: Applebot
 Disallow: /
 User-agent: Amazonbot
 Disallow: /
-Sitemap: https://udn.com/sitemapxml/news/mapindex.xml
-Sitemap: https://udn.com/sitemap/gnews/2
-Sitemap: https://udn.com/sitemap/gnews/1013
-Sitemap: https://udn.com/sitemap/gnews/1015
+# another bot
+User-agent: trendictionbot
+Disallow: /

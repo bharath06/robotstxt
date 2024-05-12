@@ -138,4 +138,3 @@ Sitemap: https://sitemaps.scribd.com/snapshots_index.xml
 Sitemap: https://sitemaps.scribd.com/magazines_index.xml
 
 Sitemap: https://sitemaps.scribd.com/users_index.xml
-Sitemap: https://sitemaps.scribd.com/search_index.xml

@@ -22,8 +22,6 @@ Disallow:
 User-agent: CCBot
 Disallow: /
 
-User-agent: GPTBot
-Disallow: /
 
 Sitemap: https://www.investopedia.com/sitemap.xml
 

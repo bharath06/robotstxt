@@ -249,3 +249,30 @@ Disallow: /
 
 User-agent: Google-Extended
 Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: news-please
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-ai
+Disallow: /

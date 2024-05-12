@@ -19,6 +19,7 @@ Disallow: /icomtopnew/*
 Disallow: /*/wp-ajax-live-score.php?matchId=*
 Disallow: /*/loadmore
 Disallow: /*&*/feed/
+Disallow: /brand-solution/
 
 
 Allow: /wp-admin/admin-ajax.php

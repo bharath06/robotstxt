@@ -40,3 +40,29 @@ Disallow: /
 
 User-agent: BUbiNG
 Disallow: /
+
+# unwanted AI bots
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot 
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: omgili
+Disallow: /

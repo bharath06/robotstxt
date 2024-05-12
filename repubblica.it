@@ -24,7 +24,6 @@ Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/*
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/mobile/offerte/lavoro/cerca/*-*/*-*/* 
 Disallow: 		/economia/miojob/mobile/alert/crea/ 
-Disallow: 		/economia/finanza/2013/10/03/news/crac_cit_18_anni_per_gandolfi_in_tutto_nove_condannati-67830263/ 
 Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
 Disallow: 		/cronaca/2023/09/29/news/serenis_repubblica_promozione_abbonati-416179220/ 
@@ -32,6 +31,7 @@ Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 
+Disallow: 		/argomenti/ambiente,_verde/15/ 
 Disallow: 		/2010/ 
 Disallow: 		/2009/ 
 Disallow: 		/2008/ 

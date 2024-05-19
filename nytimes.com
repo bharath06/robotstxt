@@ -13,8 +13,54 @@
 # Contact https://nytlicensing.com/contact/ for assistance.
 
 User-agent: *
+User-agent: Googlebot
 Disallow: /ads/
 Disallow: /adx/bin/
+Disallow: /athletic/wp/wp-admin/
+Allow: /athletic/wp/wp-admin/admin-ajax.php
+Disallow: /athletic/athletic/async-*
+Disallow: /athletic/search/*
+Allow: /athletic/search/$
+Disallow: /athletic/checkout/
+Disallow: /athletic/checkout?plan_id*
+Allow: /athletic/checkout/$
+Disallow: /athletic/checkout2*
+Disallow: /athletic/login/
+Disallow: /athletic/login?login_source*
+Disallow: /athletic/login?ref_page*
+Allow: /athletic/login/$
+Disallow: /athletic/login2/
+Disallow: /athletic/login2?login_source*
+Disallow: /athletic/login2?ref_page*
+Allow: /athletic/login2/$
+Disallow: /athletic/report/
+Disallow: /athletic/*/discuss/*
+Disallow: /athletic/register/
+Disallow: /athletic/register?welcome_redirect*
+Disallow: /athletic/register2/
+Disallow: /athletic/register2?welcome_redirect*
+Disallow: /athletic/betmgm-redirect*
+Disallow: /athletic/cdn-cgi/
+Disallow: /athletic/verizon/*
+Disallow: /athletic/forgot-password/*
+Allow: /athletic/forgot-password/$
+Disallow: /athletic/forgot-password2/*
+Allow: /athletic/forgot-password2/$
+Disallow: /athletic/amp-social-login*
+Disallow: /athletic/track-analytics/
+Disallow: /athletic/amp-auth/
+Disallow: /athletic/rss-feed/
+Disallow: /athletic/global-color-test.php
+Disallow: /athletic/global-font-test.php
+Disallow: /athletic/graphql*
+Disallow: /athletic/api*
+Disallow: /athletic/ip*
+Disallow: /athletic/call-set-cookie-with-context/*
+Disallow: /athletic/get-current-user/
+Disallow: /athletic/pv.json
+Disallow: /athletic/following-feed-test/*
+Disallow: /athletic*/boxscore/*
+Disallow: /athletic/feed-test/
 Disallow: /puzzles/leaderboards/invite/*
 Disallow: /svc
 Allow: /svc/crosswords
@@ -23,7 +69,6 @@ Allow: /svc/letter-boxed
 Allow: /svc/spelling-bee
 Allow: /svc/vertex
 Allow: /svc/wordle
-Disallow: /athletic/
 Disallow: /video/embedded/*
 Disallow: /search
 Disallow: /multiproduct/
@@ -55,6 +100,19 @@ Disallow: /*?*utm_source=
 Allow: /wirecutter/*?*utm_source=
 Allow: /ads/public/
 Allow: /svc/news/v3/all/pshb.rss
+
+
+# Googlebot Specific Rules
+
+User-agent: Googlebot
+Disallow: /athletic*adgroupid*
+Disallow: /athletic*campaignid*
+Disallow: /athletic*ad_id*
+Disallow: /athletic*access_token*
+Disallow: /athletic*amp_reader_id*
+Disallow: /athletic*/?source=*
+Disallow: /athletic/live-blogs/*embed=1*
+
 
 # Disallow Rules
 
@@ -129,6 +187,7 @@ Disallow: /
 User-agent: TurnitinBot
 Disallow: /
 
+
 # Other Bot Rules
 
 User-agent: facebookexternalhit
@@ -136,6 +195,9 @@ Allow: /*?*smid=
 
 User-agent: Twitterbot
 Allow: /*?*smid=
+
+
+# Sitemaps
 
 Sitemap: https://www.nytimes.com/sitemaps/new/news.xml.gz
 Sitemap: https://www.nytimes.com/sitemaps/new/sitemap.xml.gz
@@ -148,3 +210,10 @@ Sitemap: https://www.nytimes.com/sitemaps/new/best-sellers.xml
 Sitemap: https://www.nytimes.com/sitemaps/www.nytimes.com/2016_election_sitemap.xml.gz
 Sitemap: https://www.nytimes.com/elections/2018/sitemap
 Sitemap: https://www.nytimes.com/wirecutter/sitemapindex.xml
+Sitemap: https://www.nytimes.com/athletic/sitemap-live-blogs.xml
+Sitemap: https://www.nytimes.com/athletic/sitemap-authors.xml
+Sitemap: https://www.nytimes.com/athletic/sitemap-verticals.xml
+Sitemap: https://www.nytimes.com/athletic/sitemap-teams.xml
+Sitemap: https://www.nytimes.com/athletic/sitemap-cities.xml
+Sitemap: https://www.nytimes.com/athletic/sitemap.xml
+

@@ -182,6 +182,8 @@ Disallow: /de/sr$
 Disallow: /de/get/api/search/slicing-attributes/*
 Disallow: /de/get/api/popup/*
 Disallow: /de/get/api/review/*
+Disallow: /de/store/
+
 Allow: /de/*gads=true
 # EN rules
 Disallow: /en/account
@@ -196,6 +198,7 @@ Disallow: /en/sr$
 Disallow: /en/get/api/search/slicing-attributes/*
 Disallow: /en/get/api/popup/*
 Disallow: /en/get/api/review/*
+Disallow: /en/store/
 Allow: /en/*gads=true
 # AR rules
 Disallow: /ar/account
@@ -210,6 +213,7 @@ Disallow: /ar/sr$
 Disallow: /ar/get/api/search/slicing-attributes/*
 Disallow: /ar/get/api/popup/*
 Disallow: /ar/get/api/review/*
+Disallow: /ar/store/
 Allow: /ar/*gads=true
 
 # UA rules

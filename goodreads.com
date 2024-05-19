@@ -1,5 +1,7 @@
 # See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
 User-agent: *
+Allow: /work/editions
+Allow: /work/quotes
 Disallow: /about/team_member/
 Disallow: /admin
 Disallow: /api
@@ -9,13 +11,17 @@ Disallow: /book_link/follow/
 Disallow: /buy_buttons/
 Disallow: /ebooks
 Disallow: /event/show/
+Disallow: /friend/add_as_friend
 Disallow: /home/index_rss
 Disallow: /oggiPlayerLoader.htm
 Disallow: /photo/group/
 Disallow: /quotes/list_rss
+Disallow: /quotes/tag
 Disallow: /reader
+Disallow: /review/list
 Disallow: /review/list_rss
 Disallow: /review/rate
+Disallow: /review/show
 Disallow: /search
 Disallow: /shelf/user_shelves
 Disallow: /story
@@ -24,6 +30,7 @@ Disallow: /track
 Disallow: /trivia/answer
 Disallow: /user/updates_rss
 Disallow: /videos/
+Disallow: /work
 Disallow: /*reviewFilters
 
 Sitemap: https://www.goodreads.com/siteindex.author.xml

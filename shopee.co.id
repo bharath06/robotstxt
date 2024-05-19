@@ -33,6 +33,7 @@ Disallow: *?sp_atk=
 Disallow: *__classic__=1
 Disallow: /search_user
 Disallow: /inspirasi-shopee/?s=
+Disallow: *utm_source
 Disallow: /search*.com
 Disallow: /search*Â·asia
 Disallow: /search*.tv

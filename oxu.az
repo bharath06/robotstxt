@@ -1,3 +1,10 @@
 User-agent: *
-Allow: /
-Sitemap: https://www2.oxu.az/sitemaps/sitemap.xml
+Allow: *.css
+Allow: *.js
+Disallow: /admin/*
+Disallow: /*?
+Disallow: /search/
+Host: https://oxu.az
+
+Sitemap: https://oxu.az/sitemap.xml
+Sitemap: https://oxu.az/news-sitemap.xml

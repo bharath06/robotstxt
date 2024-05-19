@@ -25,7 +25,7 @@ Sitemap: https://www.digitalocean.com/sitemaps/landing-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/legal-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/customers-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/currents-0.xml.gz
-Sitemap: https://www.digitalocean.com/sitemaps/contact-0.xml.gz
+Sitemap: https://www.digitalocean.com/sitemaps/companyContact-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/careers-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/blog-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/blog-authors-0.xml.gz

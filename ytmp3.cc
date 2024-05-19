@@ -1,1 +1,4 @@
-Sitemap: https://ytmp3.cx/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://ytmp3.cc/sitemap.xml

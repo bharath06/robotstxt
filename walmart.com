@@ -98,6 +98,8 @@ Disallow: /c/kp/*/page/*
 Disallow: /feeds/*
 Disallow: /orders
 Disallow: /es/
+Disallow: /swag/*
+Disallow: /dad/trk
 
 #Crawler specific settings
 User-agent: Adsbot-Google

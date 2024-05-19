@@ -29,7 +29,6 @@ Disallow: /*?
 
 User-agent: Googlebot
 Allow: /join
-Allow: /support/down4j*
 
 User-agent: LinkedInBot
 Allow: /webinar/register/*

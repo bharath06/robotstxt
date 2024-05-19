@@ -170,6 +170,18 @@ Disallow: /
 User-agent: AdsBot-Google
 Disallow:
 
+User-agent: facebookexternalhit
+Allow: /realestateandhomes-detail/*?cid=
+Allow: /realestateandhomes-search/*?cid=
+
+User-agent: Twitterbot
+Allow: /realestateandhomes-detail/*?cid=
+Allow: /realestateandhomes-search/*?cid=
+
+User-agent: Pinterestbot
+Allow: /realestateandhomes-detail/*?cid=
+Allow: /realestateandhomes-search/*?cid=
+
 Sitemap: https://www.realtor.com/mortgage/sitemap/mortgagesitemap.xml
 Sitemap: https://www.realtor.com/realestateandhomes-detail/sitemap-rss-new/rss-new-index.xml
 Sitemap: https://www.realtor.com/realestateandhomes-detail/sitemap-rss-open-house/rss-open-house-index.xml

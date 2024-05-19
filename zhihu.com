@@ -96,5 +96,19 @@ Disallow: /inbox
 Disallow: /admin_inbox
 Disallow: /*?guide*
 
+User-agent: Sogou web spider
+Disallow: /appview/
+Disallow: /login
+Disallow: /logout
+Disallow: /resetpassword
+Disallow: /terms
+Disallow: /search
+Allow: /tardis/sogou/
+Disallow: /notifications
+Disallow: /settings
+Disallow: /inbox
+Disallow: /admin_inbox
+Disallow: /*?guide*
+
 User-Agent: *
 Disallow: /

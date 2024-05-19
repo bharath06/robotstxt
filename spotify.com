@@ -6,6 +6,7 @@ Disallow: /*/xhr/*
 Disallow: /*/external/*
 Disallow: /*/legal/*?ets=
 Disallow: /*/legal/advertiser-terms-and-conditions/
+Disallow: /*/legal/gdpr-article-15-information/
 Disallow: /*/account/cls/*
 Disallow: /*/starbuckspartners
 Disallow: /starbuckspartners

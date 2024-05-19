@@ -60,4 +60,5 @@ Disallow: /exit?*
 
 Sitemap: https://www.figma.com/sitemap.xml
 Sitemap: https://www.figma.com/sitemaps/figma-community-index.xml
+Sitemap: https://www.figma.com/auto-sitemaps/figma-community-index.xml
 Sitemap: https://help.figma.com/hc/sitemap.xml

@@ -40,7 +40,6 @@ Disallow: /refer/
 Disallow: /cart?*
 Disallow: /signin/inject/
 Disallow: /_prq/
-Disallow: /c2/
 Disallow: /PWD/
 Disallow: /hermes/
 Disallow: /xoonboarding/

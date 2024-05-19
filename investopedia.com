@@ -11,7 +11,6 @@ Disallow: /shop/
 Disallow: /authentication/
 Disallow: /newsletters/preferences/manage
 Disallow: /newsletters/preferences/unsubscribe
-Disallow: /search
 
 User-agent: Pinterest
 Disallow:
@@ -21,6 +20,9 @@ Disallow:
 
 User-agent: CCBot
 Disallow: /
+
+User-agent: GPTBot
+Disallow: /thmb/
 
 
 Sitemap: https://www.investopedia.com/sitemap.xml

@@ -53,7 +53,7 @@ Sitemap: https://www.qualtrics.com/marketplace/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/partnerships/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/pt-br/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/es-la/sitemap_index.xml
-Sitemap: https://www.qualtrics.com/kr/sitemap_index.xml
+Sitemap: https://www.qualtrics.com/ko/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/nl/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/hk/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/th/sitemap_index.xml

@@ -60,12 +60,6 @@ Disallow: /salute/dizionario/dizionarioSearch.jsp
 Disallow: /sportello-cancro/dizionario/
 Disallow: /dilatua/proRecensione.do
 Disallow: /newsletter/nl_economia.html
-# video embed
-Disallow: /embed-video.corriere.it
-Disallow: /embed-video.corrieredelveneto.corriere.it
-Disallow: /embed-video.corrieredelmezzogiorno.corriere.it
-Disallow: /embed-video.corrierefiorentino.corriere.it
-Allow: /video-embed/
 # vecchia ultima ora
 Disallow: /ultima_ora/
 #Dizionario della Salute 

@@ -3,8 +3,10 @@ Allow: 		/
 Disallow: 		/viaggi/2014/07/02/foto/sudafrica_il_treno_vintage_diventa_hotel_con_vista-90509532/ 
 Disallow: 		/ultimora/24ore/nazionale/news-dettaglio/3688417 
 Disallow: 		/ultimora/24ore/AUTO-IN-CAMBIO-DI-DROGA-13-ARRESTI-DELLA-POLIZIA-DI-PESCARA-(2)/news-dettaglio/3746479 
+Disallow: 		/static/speciale/2016/elezioni/comunali/grosseto.html 
 Disallow: 		/ssnclude/canalrep/economia/rep_24ore_3685023.html 
 Disallow: 		/sport/ciclismo/2023/10/24/news/doping_ciclismo_virtuale_azzurro_zanasca_rischia_una_lunga_squalifica-418660589/ 
+Disallow: 		/sport/calcio/legapro/2020/09/29/news/caos_trapani-268919157/ 
 Disallow: 		/spettacoli/people/2023/09/07/news/kanye_west_e_bianca_censori_in_italia_la_lunga_estate_calda_degli_scandali-413629176/&lt; 
 Disallow: 		/spettacoli/people/2023/09/04/news/venezia_kanye_west_e_bianca_censori_banditi_per_atti_osceni_da_una_societa_di_noleggio_motoscafi-413301274/ 
 Disallow: 		/speciale/ 
@@ -31,7 +33,6 @@ Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 
-Disallow: 		/argomenti/ambiente,_verde/15/ 
 Disallow: 		/2010/ 
 Disallow: 		/2009/ 
 Disallow: 		/2008/ 

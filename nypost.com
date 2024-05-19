@@ -1,7 +1,5 @@
 Sitemap: https://nypost.com/news-sitemap.xml
 
-Sitemap: https://nypost.com/news-sitemap.xml
-
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php

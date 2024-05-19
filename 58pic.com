@@ -70,5 +70,6 @@ Disallow: /piccate/*-*-*-p*.html
 Disallow: /tupian/*-creative_score-*
 Disallow: /tupian/*-0-0-0*
 Disallow: /tupian/*-*-*-*.html
+Disallow: /psearch/
 Allow: /piccate/*-*-*.html
 Allow: /*?page_source=1

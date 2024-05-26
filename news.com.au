@@ -22,46 +22,35 @@ Sitemap: https://www.news.com.au/sitemap.xml
 Sitemap: https://www.news.com.au/news-sitemap.xml
 Sitemap: https://www.news.com.au/coupons/sitemap.xml
 Sitemap: https://www.news.com.au/video-sitemap.xml
-Sitemap: https://www.news.com.au/compare-money/sitemap.xml
 
 #Agent Specific Disallowed Sections
 
 User-agent: NewsNow
-
 Disallow: /
 
 User-agent: CCBot
-
 Disallow: / 
 
 User-agent: GPTBot
-
-Disallow: /
+Allow: /
 
 User-agent: ChatGPT-User 
-
-Disallow: /
+Allow: /
 
 User-agent: anthropic-ai 
-
 Disallow: /
 
 User-agent: cohere-ai
-
 Disallow: / 
 
 User-agent: ia_archiver 
-
 Disallow: / 
 
 User-agent: MJ12bot 
-
 Disallow: / 
 
 User-agent: PiplBot
-
 Disallow: / 
 
 User-agent: Google-Extended
-
 Disallow: /

@@ -6,6 +6,7 @@ User-agent: Mediapartners-Google*
 Disallow:
 
 User-agent: *
+Disallow: /api/
 Disallow: /comment
 Disallow: /feeds/videos.xml
 Disallow: /get_video
@@ -23,6 +24,7 @@ Disallow: /watch_ajax
 Disallow: /watch_fragments_ajax
 Disallow: /watch_popup
 Disallow: /watch_queue_ajax
+Disallow: /youtubei/
 
 Sitemap: https://www.youtube.com/sitemaps/sitemap.xml
 Sitemap: https://www.youtube.com/product/sitemap.xml

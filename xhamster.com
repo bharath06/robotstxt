@@ -91,6 +91,32 @@ disallow: */search/*revert=
 disallow: */search/*sort=date
 disallow: */search/*sort=longest
 disallow: */search/*sort=views
+
+# Disallow all pagination
+Disallow: */search/*page=
+
+# Allow search pages from 2 to 10
+Allow: */search/*?page=2$
+Allow: */search/*?page=3$
+Allow: */search/*?page=4$
+Allow: */search/*?page=5$
+Allow: */search/*?page=6$
+Allow: */search/*?page=7$
+Allow: */search/*?page=8$
+Allow: */search/*?page=9$
+Allow: */search/*?page=10$
+
+# Allow best search pages from 2 to 10
+Allow: */search/*?sort=best&page=2$
+Allow: */search/*?sort=best&page=3$
+Allow: */search/*?sort=best&page=4$
+Allow: */search/*?sort=best&page=5$
+Allow: */search/*?sort=best&page=6$
+Allow: */search/*?sort=best&page=7$
+Allow: */search/*?sort=best&page=8$
+Allow: */search/*?sort=best&page=9$
+Allow: */search/*?sort=best&page=10$
+
 disallow: *?skip=
 disallow: *&skip=
 disallow: /webcams/

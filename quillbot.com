@@ -14,3 +14,4 @@ Disallow: /desktop/login
 Disallow: /cms-test-page
 Disallow: /extension-success
 Disallow: /recovery
+Disallow: /welcome

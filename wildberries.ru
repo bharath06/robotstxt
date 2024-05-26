@@ -10,6 +10,7 @@ Allow: /*detail.aspx*&wb_bnd=
 Disallow: /*?*
 Disallow: /lk
 Disallow: /security
+Disallow: /gorod
 Disallow: /cabinet/
 Disallow: /users/
 Disallow: /profile/
@@ -49,6 +50,7 @@ Allow: /*detail.aspx*&wb_bnd=
 Disallow: /*?*
 Disallow: /lk
 Disallow: /security
+Disallow: /gorod
 Disallow: /cabinet/
 Disallow: /users/
 Disallow: /profile/

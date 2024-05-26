@@ -112,9 +112,6 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-User-agent: ChatGPT-User
-Disallow: /
-
 User-agent: Claude-Web
 Disallow: /
 
@@ -122,9 +119,6 @@ User-agent: ClaudeBot
 Disallow: /
 
 User-agent: FacebookBot
-Disallow: /
-
-User-agent: GPTBot
 Disallow: /
 
 User-agent: Google-Extended

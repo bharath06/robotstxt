@@ -54,6 +54,7 @@ Allow: /cloud-launcher/sitemap/
 Allow: /cloudsourcetools/images/
 Allow: /commercesearch/images/
 Allow: /communities/sitemap/
+Allow: /copy-conductor/crawled/
 Allow: /covid19/mobility/
 Allow: /culturalinstitute/images/
 Allow: /culturalinstitute/sitemaps/

@@ -990,6 +990,15 @@ Disallow: /*/*masterbate.html
 Disallow: /*/xnxx.html
 Disallow: /*/*xnxx*.html
 
+Disallow: /*/spankbang.html
+Disallow: /*/big-tits.html
+Disallow: /*/spank-bang.html
+Disallow: /*/imagefap.html
+Disallow: /*/videos-xxx.html
+Disallow: /*/cam4.html
+Disallow: /*/big-boobs.html
+Disallow: /*/xxx-video.html
+
 ###################################
 Sitemap: https://www.dreamstime.com/sitemap2-en-index.xml.gz
 Sitemap: https://www.dreamstime.com/sitemap2-en-categories-index.xml.gz  

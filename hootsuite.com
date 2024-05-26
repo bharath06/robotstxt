@@ -17,5 +17,6 @@ Disallow: /*.pdf$
 Disallow: /billing/
 Disallow: /create-free-account*
 Disallow: /academy-free-account*
+Disallow: /content-generator-embed*
 Sitemap: https://www.hootsuite.com/sitemap.xml
 Host: https://www.hootsuite.com

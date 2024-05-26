@@ -191,3 +191,7 @@ Disallow: /en-xa/*
 User-Agent: ImagesiftBot
 
 Disallow: /
+
+User-Agent: ClaudeBot
+
+Disallow: /

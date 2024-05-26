@@ -220,12 +220,6 @@ Disallow: /amp/*
 User-agent: CCBot
 Disallow: /
 
-User-agent: GPTBot
-Disallow: /
-
-User-agent: ChatGPT-User
-Disallow: /
-
 User-agent: anthropic-ai
 Disallow: /
 

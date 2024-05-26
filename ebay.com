@@ -12,7 +12,7 @@
 # forth at <https://www.robotstxt.org/orig.html> is strictly
 # prohibited.
 #
-# v22.0_COM_March_2024
+# v23.0_COM_May_2024
 ### DIRECTIVES ###
 
 User-agent: *
@@ -470,6 +470,7 @@ Disallow: /sch/ebayadvsearch?_
 Disallow: /sh/onboarding
 Disallow: /sh/str/fvfsavings
 Disallow: /ship/
+Disallow: /shop/*&
 Allow: /signin/$
 Disallow: /signin/
 Disallow: /sio/
@@ -954,6 +955,7 @@ Disallow: /sch/i.html*_sop=12*&
 Disallow: /sh/onboarding
 Disallow: /sh/str/fvfsavings
 Disallow: /ship/
+Disallow: /shop/*&
 Allow: /signin/$
 Disallow: /signin/
 Disallow: /sio/

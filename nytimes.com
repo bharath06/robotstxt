@@ -18,7 +18,7 @@ Disallow: /ads/
 Disallow: /adx/bin/
 Disallow: /athletic/wp/wp-admin/
 Allow: /athletic/wp/wp-admin/admin-ajax.php
-Disallow: /athletic/athletic/async-*
+Disallow: /athletic/async-*
 Disallow: /athletic/search/*
 Allow: /athletic/search/$
 Disallow: /athletic/checkout/

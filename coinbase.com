@@ -45,6 +45,7 @@ Disallow: /advanced-trade/spot/*
 Disallow: /converter/*/*?currencyPage*
 Disallow: /price/*?locale*
 Disallow: /partner/*
+Disallow: /lp/*
 
 Sitemap: https://www.coinbase.com/sitemap-index-1.xml
 Sitemap: https://www.coinbase.com/sitemap-index-2.xml

@@ -1,6 +1,11 @@
 User-agent: Twitterbot
 Disallow:
 
+User-agent: facebookexternalhit
+Allow: /s/
+Allow: /sh/
+Allow: /scl/
+
 User-agent: *
 Allow: /static/css/
 Allow: /static/images/

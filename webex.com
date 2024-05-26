@@ -66,5 +66,11 @@ Disallow: /us/en/webexone/2023/awards.html
 Disallow: /us/en/webexone/2023/tickets.html
 Disallow: /us/en/webexone/2023/faqs.html
 Disallow: /webexone-wire-2022.html 
+Disallow: /us/en/webexone/2024/index.html
+Disallow: /us/en/webexone/2024/awards.html
+Disallow: /us/en/webexone/2024/speaker-information-form.html
+Disallow: /us/en/webexone/2024/speaker-information-form/thank-you.html
+Disallow: /us/en/webexone/2024/faqs.html
+Disallow: /us/en/webexone/2024/venue.html
 Disallow: /whats-new/2023/summer-release.html
 sitemap:  https://www.webex.com/sitemap.xml

@@ -36,6 +36,45 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: news-please
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: peer39_crawler
+Disallow: /
+
+User-agent: peer39_crawler/1.0
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
 User-agent: *
 Disallow: /errors
 Disallow: /interactive/

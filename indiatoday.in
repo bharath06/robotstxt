@@ -110,6 +110,6 @@ Disallow: /live-score/cricket/auction_ajax/
 Disallow: /api/ajax/reactions
 Disallow: /api/ajax/rightlatestnews
 Disallow: /api/ajax/checktheseout 
-Disallow: /api/ajax/reactions?.*
-Disallow: /api/ajax/rightlatestnews?.*
-Disallow: /api/ajax/checktheseout?.*
+
+
+

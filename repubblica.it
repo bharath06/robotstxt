@@ -3,10 +3,8 @@ Allow: 		/
 Disallow: 		/viaggi/2014/07/02/foto/sudafrica_il_treno_vintage_diventa_hotel_con_vista-90509532/ 
 Disallow: 		/ultimora/24ore/nazionale/news-dettaglio/3688417 
 Disallow: 		/ultimora/24ore/AUTO-IN-CAMBIO-DI-DROGA-13-ARRESTI-DELLA-POLIZIA-DI-PESCARA-(2)/news-dettaglio/3746479 
-Disallow: 		/static/speciale/2016/elezioni/comunali/grosseto.html 
 Disallow: 		/ssnclude/canalrep/economia/rep_24ore_3685023.html 
 Disallow: 		/sport/ciclismo/2023/10/24/news/doping_ciclismo_virtuale_azzurro_zanasca_rischia_una_lunga_squalifica-418660589/ 
-Disallow: 		/sport/calcio/legapro/2020/09/29/news/caos_trapani-268919157/ 
 Disallow: 		/spettacoli/people/2023/09/07/news/kanye_west_e_bianca_censori_in_italia_la_lunga_estate_calda_degli_scandali-413629176/&lt; 
 Disallow: 		/spettacoli/people/2023/09/04/news/venezia_kanye_west_e_bianca_censori_banditi_per_atti_osceni_da_una_societa_di_noleggio_motoscafi-413301274/ 
 Disallow: 		/speciale/ 
@@ -29,6 +27,10 @@ Disallow: 		/economia/miojob/mobile/alert/crea/
 Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
 Disallow: 		/cronaca/2023/09/29/news/serenis_repubblica_promozione_abbonati-416179220/ 
+Disallow: 		/cronaca/2020/11/13/news/bergamo_l_intervento_dei_carabinieri_nel_nido_dove_le_maestre_contagiate_lavorano_con_i_bambini-274220055 
+Disallow: 		/cronaca/2020/11/12/news/le_maestre_contagiate_coi_bimbi_all_asilo-274166671 
+Disallow: 		/cronaca/2020/02/04/news/il_metoo_del_carnevale_ivrea_si_interroga_prima_della_festa-301113190/ 
+Disallow: 		/cronaca/2020/02/04/news/il_metoo_del_carnevale_ivrea_si_interroga_prima_della_festa-301113190 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 

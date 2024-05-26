@@ -109,10 +109,6 @@ User-agent: grapeshot
 Disallow:
 User-agent: CCBot
 Disallow: /
-User-agent: GPTBot
-Disallow: /
-User-agent: ChatGPT-User
-Disallow: /
 User-agent: anthropic-ai
 Disallow: /
 User-agent: cohere-ai

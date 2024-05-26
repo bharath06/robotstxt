@@ -181,6 +181,7 @@ Disallow: /themes
 Disallow: /toggle-experiment
 Disallow: /touchsearch
 Disallow: /tune*retpath=
+Disallow: /turbo
 Allow: /ugcpub/
 Disallow: /ugcpub/cabinet
 Disallow: /v$
@@ -242,9 +243,7 @@ Disallow: /soft/*goodbye*
 Disallow: /adult
 Disallow: /sport*?*parent-reqid*
 Disallow: /mirror*?*parent-reqid*
-Disallow: /turbo*?*parent-reqid*
 Disallow: /mirror/hide
-Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
@@ -478,6 +477,7 @@ Disallow: /uslugi/*/category/doctors/
 Allow: /tutor
 Disallow: /tutor/admin
 Disallow: /tutor/search/problems
+Disallow: /turbo
 Disallow: /versions
 Disallow: /video/*
 Disallow: /video/*filmId=*
@@ -525,9 +525,7 @@ Disallow: /soft/*goodbye*
 Disallow: /adult
 Disallow: /sport*?*parent-reqid*
 Disallow: /mirror*?*parent-reqid*
-Disallow: /turbo*?*parent-reqid*
 Disallow: /mirror/hide
-Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
@@ -736,6 +734,7 @@ Disallow: /tune*retpath=
 Disallow: /8bit-fest/parents
 Allow: /tutor
 Disallow: /tutor/admin
+Disallow: /turbo
 Sitemap: https://yandex.ru/tutor/sitemap/?sitemap=sitemap.xml
 Allow: /ugcpub/
 Disallow: /ugcpub/cabinet
@@ -987,6 +986,7 @@ Disallow: /themes
 Disallow: /toggle-experiment
 Disallow: /touchsearch
 Disallow: /tune*retpath=
+Disallow: /turbo
 Allow: /ugcpub/
 Disallow: /ugcpub/cabinet
 Disallow: /v$
@@ -1048,9 +1048,7 @@ Disallow: /soft/*goodbye*
 Disallow: /adult
 Disallow: /sport*?*parent-reqid*
 Disallow: /mirror*?*parent-reqid*
-Disallow: /turbo*?*parent-reqid*
 Disallow: /mirror/hide
-Disallow: /turbo*?*ajax=1*
 Disallow: /sport*?*ajax=1*
 Disallow: /mirror*?*ajax=1*
 Disallow: /addappterless
@@ -1097,7 +1095,6 @@ Clean-Param: index&is_copy_url&utm_med&is_from_webapp&ncrnd&rpt&smartleads_src&u
 Clean-Param: print=1 /tutor/
 Clean-Param: w&w_question_id /q/question/*
 Clean-Param: &appsearch_header=1&comments=1 /news/story/
-Clean-Param: random_cgi&sign /turbo*
 Clean-Param: app-id&game-id&div-rtx-reqid&lang&platform&header&from /games/
 Clean-Param: ll&z&sll /maps/
 Clean-param: oll&rtext&pt&source&via&from&origin&um&utm_medium&utm_source&portal&panorama%5Bspan%5D&panorama%5Bpoint%5D&panorama%5Bfull%5D&panorama%5Bdirection%5D&panorama%5Bair%5D&masstransit%5BstopId%5D&ol&poi%5Bpoint%5D&whatshere%5Bpoint%5D&whatshere%5Bzoom%5D&ouri&ruri&l&mode&tab&rtt&rtm&display-text&text&indoorLevel&trfm&trfst&no-distribution&distance&slices&scale&descy&descx&mapY&mapX&mapID&sctx&lay&where&results&map&id&spn&sspn&rtn&ost&profile-mode /maps/

@@ -25,6 +25,7 @@ Disallow: /enterpriseform/
 Disallow: /ilink/
 Disallow: /ucmf/groups/
 Disallow: /mediafiles/*
+Disallow: /by/
 Disallow: /us/
 Disallow: /en/events/huaweiconnect/livestream-for-tvs$
 Disallow: /cn/events/huaweiconnect/livestream-for-tvs$

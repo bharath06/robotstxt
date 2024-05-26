@@ -25,7 +25,6 @@ Disallow: /email
 Disallow: /search-classic
 Disallow: */account
 Disallow: */activate
-Disallow: */profile/activation
 Disallow: */watchlist
 Disallow: */history
 Disallow: */crunchylists

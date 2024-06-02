@@ -6,15 +6,6 @@ Disallow: /*shop/browse/overlay/*
 Disallow: /*shop/browse/ribbon/*
 Disallow: /*shop/browse/campaigns/mobile_overlay*
 Disallow: /*shop/iphone/payments/overlay/*
-Disallow: /*_adc_*/shop/
-Disallow: /*_aoc_*/shop/
-Disallow: /*_enterprise*/shop/
-Disallow: /*_internal-epp-discounted*/shop/
-Disallow: /*_k12nonbts*/shop/
-Disallow: /*_kiosk*/shop/
-Disallow: /*_nonbts*/shop/
-Disallow: /*_qpromo*/shop/
-Disallow: /*_refurb-discounted*/shop/
 Disallow: /cn/*/aow/*
 Disallow: /go/awards/*
 Disallow: /newsroom/notifications/*

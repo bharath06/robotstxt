@@ -242,6 +242,8 @@ Disallow: /science/2012/03/05_a_4026261.shtml
 Disallow: /dynamic/
 Disallow: /subscribe/
 Disallow: /core
+Disallow: /www.shtml
+Disallow: *page=
 Allow:    /nm2015/i/logo_gazeta.svg
 Allow:    /nm2015/i/389x60.png
 Allow:    /nm2015/i/logo_G_250.png
@@ -493,6 +495,7 @@ Disallow: /science/2012/03/05_a_4026261.shtml
 Disallow: /dynamic/
 Disallow: /subscribe/
 Disallow: /core
+Disallow: /www.shtml
 Allow:    /nm2015/i/logo_gazeta.svg
 Allow:    /nm2015/i/389x60.png
 Allow:    /nm2015/i/logo_G_250.png

@@ -27,6 +27,8 @@ Disallow: /search
 Disallow: /*/search
 Allow: /graphql/search
 Allow: /*/graphql/search
+Allow: /flights/airport
+Allow: /*/flights/airport
 Disallow: /account/
 Disallow: /*/account/
 Disallow: /*/book/
@@ -36,8 +38,6 @@ Disallow: /thankyou/
 Disallow: /flights/results
 Disallow: /*/flights/results
 Disallow: /activities/detail
-Disallow: /*/flights/airport/*
-Disallow: /flights/airport/*
 Disallow: /transport/*
 
 User-agent: google-hoteladsverifier

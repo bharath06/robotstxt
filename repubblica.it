@@ -18,6 +18,8 @@ Disallow: 		/moda-e-beauty/2024/04/13/news/cabana_di_marina_mondadori_compie_die
 Disallow: 		/java 
 Disallow: 		/ipad/ 
 Disallow: 		/interstitial/ 
+Disallow: 		/esteri/2018/03/26/news/campus_link_i_contatti_con_mosca_e_con_gli_007_negli_affari_dell_universita_a_5_stelle-300957066/ 
+Disallow: 		/esteri/2018/03/25/news/campus_link_l_universita_dei_ministri_5s_tra_malta_il_cepu_e_la_dc-300956701/ 
 Disallow: 		/economia/miojob/rss 
 Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/* 
@@ -27,11 +29,8 @@ Disallow: 		/economia/miojob/mobile/alert/crea/
 Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 51615470/ 
 Disallow: 		/dal-quotidiano/ 
 Disallow: 		/cronaca/2023/09/29/news/serenis_repubblica_promozione_abbonati-416179220/ 
-Disallow: 		/cronaca/2020/11/13/news/bergamo_l_intervento_dei_carabinieri_nel_nido_dove_le_maestre_contagiate_lavorano_con_i_bambini-274220055 
-Disallow: 		/cronaca/2020/11/12/news/le_maestre_contagiate_coi_bimbi_all_asilo-274166671 
-Disallow: 		/cronaca/2020/02/04/news/il_metoo_del_carnevale_ivrea_si_interroga_prima_della_festa-301113190/ 
-Disallow: 		/cronaca/2020/02/04/news/il_metoo_del_carnevale_ivrea_si_interroga_prima_della_festa-301113190 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
+Disallow: 		/cronaca/2019/11/13/news/audio_mifsud-241030873/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 

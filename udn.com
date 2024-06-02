@@ -1,5 +1,6 @@
-# robots.txt
+# KB13270 robots.txt
 User-agent: *
+Disallow: /srank/*
 #Disallow: /.well-known/amphtml/apikey.pub
 Disallow: /BT/*
 Disallow: /fcm/*
@@ -17,13 +18,9 @@ Sitemap: https://udn.com/sitemapxml/news/mapindex.xml
 Sitemap: https://udn.com/sitemap/gnews/2
 Sitemap: https://udn.com/sitemap/gnews/1013
 Sitemap: https://udn.com/sitemap/gnews/1015
-# chat bot
 User-agent: GPTBot
 Disallow: /
-User-agent: Applebot
+User-agent: Claude
 Disallow: /
-User-agent: Amazonbot
-Disallow: /
-# another bot
-User-agent: trendictionbot
+User-agent: ClaudeBot
 Disallow: /

@@ -1,7 +1,6 @@
 
 User-agent: Yandex
 Allow: /
-Disallow: /directory.bml
 Disallow: /allpics.bml
 Disallow: /update.bml
 Disallow: /identity
@@ -48,7 +47,6 @@ Disallow: /
 
 User-Agent: *
 Allow: /
-Disallow: /directory.bml
 Disallow: /allpics.bml
 Disallow: /update.bml
 Disallow: /identity

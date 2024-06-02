@@ -1,22 +1,21 @@
 User-agent: *
-
 # Allow CSS, JS, Images
-Allow: /wp-content/*.css$
-Allow: /wp-includes/*.css$
-Allow: /wp-content/*.js$
-Allow: /wp-includes/*.js$
-Allow: /wp-content/*.css$
-Allow: /wp-includes/*.css$
-Allow: /wp-content/*.css?
-Allow: /wp-includes/*.css?
-Allow: /wp-content/*.js?
-Allow: /wp-includes/*.js?
-Allow: /wp-content/*.gif$
-Allow: /wp-content/*.jpg$
-Allow: /wp-content/*.jpeg$
-Allow: /wp-content/*.png$
-Allow: /wp-content/*.svg$
-Allow: /wp-content/*.pdf$
+Allow: /wp-content/themes/*.css
+Allow: /wp-content/uploads/*.css
+Allow: /wp-content/uploads/*.js
+Allow: /wp-includes/*.js
+Allow: /wp-content/uploads/*.css
+Allow: /wp-includes/*.css
+Allow: /wp-content/uploads/*.css
+Allow: /wp-includes/*.css
+Allow: /wp-content/*.js
+Allow: /wp-includes/*.js
+Allow: /wp-content/uploads/*.gif
+Allow: /wp-content/uploads/*.jpg
+Allow: /wp-content/uploads/*.jpeg
+Allow: /wp-content/uploads/*.png
+Allow: /wp-content/uploads/*.svg
+Allow: /wp-content/uploads/*.pdf
 Allow: /benchmarks/
 Allow: /benchmarks/ru/
 Allow: /benchmarks/es/
@@ -25,13 +24,13 @@ Allow: /benchmarks/ko/
 Allow: /benchmarks/ja/
 Allow: /benchmarks/cn/
 Allow: /benchmarks/fr/
-
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 Disallow: /gatedpdfs/
 Disallow: /wp-content/
 Disallow: /expired-link/
 Disallow: /signup-error/
+Disallow: /wp-content/uploads/
 Disallow: */cta/
 Disallow: */blog/login-content-countries/
 Disallow: */blog/outlets/
@@ -47,15 +46,11 @@ Disallow: */protected-pages/
 Disallow: */countries/
 Disallow: */blog/page/
 Disallow: */Infogramuploader/
-Disallow: /wp-content/uploads/
 Disallow: /blog/topic/*/feed/
 Disallow: /*?s=*
 Disallow: /page/
 Disallow: */?=glossary*
 Disallow: */?ref=*
-
-
-
 # Disallow existing pages based on localized websites
 Disallow: /sp/
 Disallow: /jp/
@@ -99,8 +94,6 @@ Disallow: /benchmarks/ko/*/
 Disallow: /benchmarks/ja/*/
 Disallow: /benchmarks/cn/*/
 Disallow: /benchmarks/fr/*/
-
-
 # Sitemaps: EN + languages + images
 Sitemap: https://www.appsflyer.com/sitemap-en.xml
 Sitemap: https://www.appsflyer.com/sitemap-ru.xml
@@ -110,5 +103,4 @@ Sitemap: https://www.appsflyer.com/sitemap-pt.xml
 Sitemap: https://www.appsflyer.com/sitemap-ja.xml
 Sitemap: https://www.appsflyer.com/sitemap-ko.xml
 Sitemap: https://www.appsflyer.com/sitemap-fr.xml
-Sitemap: https://www.appsflyer.com/image-sitemap.xml
-Sitemap: https://www.appsflyer.com/cn/sitemap_index.xml
+Sitemap: https://www.appsflyer.com/sitemap-images.xml

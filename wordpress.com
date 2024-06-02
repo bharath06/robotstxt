@@ -4,22 +4,24 @@
 Sitemap: https://wordpress.com/sitemap.xml
 Sitemap: https://wordpress.com/news-sitemap.xml
 
-Sitemap: https://wordpress.com/learn/sitemap.xml
-Sitemap: https://wordpress.com/dailypost/sitemap.xml
-Sitemap: https://wordpress.com/discover-wordpress/sitemap.xml
+Sitemap: https://wordpress.com/go/sitemap.xml
 Sitemap: https://wordpress.com/blog/sitemap.xml
 Sitemap: https://wordpress.com/support/sitemap.xml
-Sitemap: https://wordpress.com/forums/sitemap.xml
 
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 Disallow: /typo/
 Disallow: /read/
+Disallow: /*/read/
 Disallow: /log-in*?redirect_to=
 Disallow: /abuse/?*
+Disallow: /abuse?*
 Disallow: /plugins/?s=
 Disallow: /*/plugins/?s=
+Disallow: /*?aff=
+Disallow: /*&aff=
+Disallow: /*/?like_comment=
 Disallow: /wp-login.php
 Disallow: /wp-signup.php
 Disallow: /press-this.php
@@ -30,4 +32,4 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-# This file was generated on Sun, 26 May 2024 04:49:26 +0000
+# This file was generated on Sun, 02 Jun 2024 05:07:18 +0000

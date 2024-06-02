@@ -55,7 +55,6 @@ Sitemap: https://www.coinbase.com/sitemap-index-5.xml
 Sitemap: https://www.coinbase.com/sitemap-careers.xml
 Sitemap: https://www.coinbase.com/sitemap-cms.xml
 Sitemap: https://www.coinbase.com/sitemap-bytes.xml
-Sitemap: https://www.coinbase.com/sitemap-places.xml
 Sitemap: https://www.coinbase.com/sitemap-institutional.xml
 Sitemap: https://www.coinbase.com/sitemap-ethereum-merge.xml
 Sitemap: https://www.coinbase.com/sitemap-bitcoin-halving.xml

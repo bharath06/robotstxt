@@ -14,7 +14,7 @@ Allow: /.well-known/
 
 Disallow: /unsubscribe-thankyou.html
 Disallow: /jumpstart/
-Disallow: /creative/test.html
+Disallow: */t/
 Disallow: /test.html
 Disallow: /docs/comparison-old.html
 Disallow: /desk/crm-integration-bkp.html

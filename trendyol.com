@@ -101,6 +101,7 @@ Disallow: /*store/profile
 Disallow: /*yasgrubu=
 Disallow: /*/butikdetay/
 Disallow: /*/*-p-*/satici-sorulari
+Disallow: /*/*-p-*/merchant-questions
 Disallow: /*/*-p-*/saticilar
 Disallow: /*/*-p-*/saticiya-sor
 Disallow: /*/*-p-*/yorum-yap

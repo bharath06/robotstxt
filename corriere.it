@@ -220,7 +220,8 @@ Allow: /sitemap*.xml
 Allow: /rss/*.xml
 Allow: /salute/sitemap-dizionario.xml
 Allow: /rss/ultimora.xml
-Allow: /rss/homepage.xml
+# Allow: /rss/homepage.xml
+Allow: /feed-hp/homepage.xml
 # Allow: /notizie-ultima-ora/sitemap-news.xml
 #richiesta da Ruggiero BG27112011
 Allow: /editorspicks/
@@ -232,7 +233,8 @@ Disallow: /*?f=
 Disallow: /*?s=
 Disallow: /*?searchType=
 
-Sitemap: https://www.corriere.it/rss/homepage.xml
+# Sitemap: https://www.corriere.it/rss/homepage.xml
+Sitemap: https://www.corriere.it/feed-hp/homepage.xml
 Sitemap: https://www.corriere.it/salute/sitemap-dizionario-corriere-salute.xml 
 Sitemap: https://www.corriere.it/dynamic-sitemap/sitemap-last-100/video/Corriere.xml
 Sitemap: https://www.corriere.it/rss/sitemap_v2.xml

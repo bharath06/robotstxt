@@ -32,5 +32,57 @@ Allow: /join
 
 User-agent: LinkedInBot
 Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: facebookexternalhit
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: Twitterbot
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: PinterestBot
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: InstagramBot
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: Slackbot
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: WhatsApp
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: redditbot
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: Tumblr
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: TikTokBot
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
+
+User-agent: Snapchat
+Allow: /webinar/register/*
+Allow: /webinar/registerevent/*
+Allow: /meeting/register/*
 
 Sitemap: https://zoom.us/sitemap.xml

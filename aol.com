@@ -11,7 +11,6 @@ Disallow: /login
 Disallow: /logout
 Disallow: /config
 Disallow: /_/authenticate/
-Disallow: /m/
 Disallow: /video/play/
 
 Sitemap: https://www.aol.com/sitemap_index.xml

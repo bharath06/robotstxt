@@ -30,6 +30,8 @@ Disallow: /business-insider$
 Disallow: /*/contributor
 Disallow: /bi$
 Disallow: /news-insider$
+Disallow: /*/rss
+Disallow: /*.rss
 
 User-agent: GPTBot
 Disallow: /

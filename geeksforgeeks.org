@@ -1,9 +1,12 @@
 User-agent: *
 Disallow: /wp-admin/
 Disallow: /community/
+Disallow: /search/
 Disallow: /wp-content/plugins/
 Disallow: /content-override.php
 User-agent: ChatGPT-User
 Disallow: /
 User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
 Disallow: /

@@ -982,7 +982,7 @@ Disallow: /*&phrase=*.html
 Disallow: /*/*fagg.html
 Disallow: /*/*nigga.html
 Disallow: /*/*nigge.html
-Disallow: /*/*cum-*.html
+Disallow: /*/cum-*.html
 Disallow: /*/*cunt.html
 Disallow: /*/*private-parts.html
 Disallow: /*/*masterbat.html

@@ -55,6 +55,9 @@ Disallow: /
 User-Agent: GleanSearchCrawlerBot
 Disallow: /
 
+User-Agent: amazon-kendra
+Disallow: /
+
 User-Agent: *
 Disallow: /exit?*
 

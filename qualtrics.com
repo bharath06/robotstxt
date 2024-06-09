@@ -1,39 +1,39 @@
 ﻿#Ask SEO team before you edit this file
-#Robot Experience Management
+# Robot Experience Management
 
 
-#Support site
-Disallow: /support/tag/*
-Disallow: /support/category/*
-Disallow: /support/custom_resource/*
-Disallow: /custom_banner/*
-Noindex: /support/search/*
+User-agent: *
 
 
-#WP rules
-disallow: */feed/
-disallow: */rss2/
-disallow: /blog/search/ 
-disallow: /blog/topic/
+# Support Site
+Disallow: /support/tag/
+Disallow: /support/category/
+Disallow: /support/custom_resource/
+Disallow: /custom_banner/
+Disallow: /support/search/
 
 
-#content rules per crawley 
+# WP Rules
+Disallow: */feed/*
+Disallow: */rss2/*
+Disallow: /blog/search/ 
+Disallow: /blog/topic/
+
+
+# Content Rules Per Crawley 
 Disallow: /docs/
-Noindex: /docs/
 
 
-#in product frames
-disallow: /in-product/
-disallow: /total-leadership/
-noindex: /total-leadership/
-noindex: /in-product/
+# In Product Frames
+Disallow: /in-product/
+Disallow: /total-leadership/
 
 
-#campaign and ABM pages
+# Campaign and ABM Pages
 Disallow: /hidden/
 
 
-#careers staging site
+# Careers Staging Site
 Disallow: /phenom/
 
 
@@ -41,7 +41,7 @@ Sitemap: https://www.qualtrics.com/hreflang.xml
 Sitemap: https://www.qualtrics.com/support/hreflang.xml
 Sitemap: https://www.qualtrics.com/uk/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/sitemap_index.xml
-Sitemap: https://www.qualtrics.com/support/sitemap_index.xml 
+Sitemap: https://www.qualtrics.com/support/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/blog/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/jp/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/fr/sitemap_index.xml

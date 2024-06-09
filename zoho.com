@@ -274,6 +274,8 @@ Disallow: /crm/developer/docs/api/v3/
 Disallow: /crm/developer/docs/api/v2/
 Disallow: /crm/developer/docs/api/v2.1/
 Disallow: /creator/payroll/
+Disallow: /spend/
+Disallow: /communityspaces/
 Disallow: /sites/zweb/images/jp/partners/partner-policy.pdf
 Disallow: /mail/images/mail-pricing-inr.pdf
 Disallow: /sites/zweb/images/crm/sales-cadence.pdf

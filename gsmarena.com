@@ -35,8 +35,9 @@ Disallow: /
 User-agent: AhrefsBot
 Crawl-delay: 5
 
-User-agent: Bingbot
-Crawl-delay: 2
+User-agent: bingbot
+Crawl-delay: 10
+Disallow: /res.php3
 
 User-agent: slurp
 Crawl-delay: 10

@@ -1,2 +1,60 @@
-User-agent: *
-Disallow: /
+User-agent: * 
+Disallow: /top/index.htm
+Disallow: /index/
+Disallow: /ny/
+Disallow: /cg/newspaper/
+Disallow: /cg/2015-07/08/
+Disallow: /content/
+Disallow: /wenhui/
+Disallow: /sixiang/2015-06/13/
+Disallow: /sixiang/2015-06/14/
+Disallow: /sixiang/2015-07/01/
+Disallow: /sixiang/2015-07/11/
+Disallow: /sixiang/2015-07/25/
+Disallow: /sixiang/2015-07/30/
+Disallow: /download/yszc.html
+Allow: /1
+Sitemap:http://www.gmw.cn/google.xml
+Sitemap:http://www.gmw.cn/bing.xml
+Sitemap:http://www.gmw.cn/sogou.xml
+Sitemap:http://www.gmw.cn/special.xml
+Sitemap:https://world.gmw.cn/baidu_world.xml
+Sitemap:https://economy.gmw.cn/baidu_economy.xml
+Sitemap:https://legal.gmw.cn/baidu_legal.xml
+Sitemap:https://politics.gmw.cn/baidu_politics.xml
+Sitemap:https://culture.gmw.cn/baidu_culture.xml
+Sitemap:https://edu.gmw.cn/baidu_edu.xml
+Sitemap:https://mil.gmw.cn/baidu_mil.xml
+Sitemap:https://tech.gmw.cn/baidu_tech.xml
+Sitemap:https://photo.gmw.cn/baidu_photo.xml
+Sitemap:https://topics.gmw.cn/baidu_topics.xml
+Sitemap:https://dangjian.gmw.cn/baidu_dangjian.xml
+Sitemap:https://v.gmw.cn/baidu_v.xml
+Sitemap:https://reader.gmw.cn/baidu_reader.xml
+Sitemap:https://guancha.gmw.cn/baidu_guancha.xml
+Sitemap:https://theory.gmw.cn/baidu_theory.xml
+Sitemap:https://travel.gmw.cn/baidu_travel.xml
+Sitemap:https://life.gmw.cn/baidu_life.xml
+Sitemap:https://shuhua.gmw.cn/baidu_shuhua.xml
+Sitemap:https://sports.gmw.cn/baidu_sports.xml
+Sitemap:https://interview.gmw.cn/baidu_interview.xml
+Sitemap:https://health.gmw.cn/baidu_health.xml
+Sitemap:https://e.gmw.cn/baidu_e.xml
+Sitemap:https://news.gmw.cn/baidu_news.xml
+Sitemap:https://en.gmw.cn/baidu_en.xml
+Sitemap:https://meiwen.gmw.cn/baidu_meiwen.xml
+Sitemap:https://it.gmw.cn/baidu_it.xml
+Sitemap:https://shipin.gmw.cn/baidu_shipin.xml
+Sitemap:https://difang.gmw.cn/baidu_difang.xml
+Sitemap:https://m.gmw.cn/baidu_m.xml
+Sitemap:https://lady.gmw.cn/baidu_lady.xml
+Sitemap:https://gongyi.gmw.cn/baidu_gongyi.xml
+Sitemap:https://liuxue.gmw.cn/baidu_liuxue.xml
+Sitemap:https://yp.gmw.cn/baidu_yp.xml
+Sitemap:https://finance.gmw.cn/baidu_finance.xml
+Sitemap:https://yangsheng.gmw.cn/baidu_yangsheng.xml
+Sitemap:https://wenyi.gmw.cn/baidu_wenyi.xml
+Sitemap:https://www.gmw.cn/guoxue/baidu_guoxue.xml
+Sitemap:https://kepu.gmw.cn/baidu_kepu.xml
+Sitemap:https://vote.gmw.cn/baidu_vote.xml
+Sitemap:https://gmsn.gmw.cn/baidu_gmsn.xml

@@ -11,21 +11,16 @@ Allow:/csr/
 Allow:/favicon.ico
 
 Disallow:*keyword=*xyz*
-Disallow:*keyword=*@*
-Disallow:*keyword=*TG*
 Disallow:*keyword=*telegram*
+Disallow:*keyword=*tg:*
 Disallow:*keyword=*.*
-Disallow:*keyword=*,*
 Disallow:*keyword=*:*
 Disallow:*keyword=*;*
 Disallow:*keyword=*(*
-Disallow:*keyword=*+*
 Disallow:*keyword=*|*
 Disallow:*keyword=*/*
 Disallow:*keyword=*~*
-Disallow:*keyword=*<*
 Disallow:*keyword=*@*
-Disallow:*keyword=*[*
 
 Disallow:*excludeCompanyByCustno=*
 Disallow:*excludeIndustryCat=*
@@ -63,3 +58,8 @@ User-agent: JobdiggerSpider
 User-agent: Cliqzbot
 User-agent: trovitBot
 Disallow:/
+
+User-agent: LinkedInBot
+Disallow:/job/
+Disallow:/company/
+Disallow:/jobs/

@@ -316,4 +316,6 @@ Disallow: /
 
 Sitemap: https://www.forbes.com/news_sitemap.xml
 Sitemap: https://www.forbes.com/video_sitemap.xml
-Sitemap: https://www.forbes.com/coupons/sitemap.xml
+Sitemap: https://www.forbes.com/companies_sitemap.xml
+Sitemap: https://www.forbes.com/health/sitemap.xml
+Sitemap: https://www.forbes.com/connect/events-sitemap.xml

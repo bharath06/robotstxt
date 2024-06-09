@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /draft/
 Allow: /
 Sitemap: https://razorpay.com/sitemap.xml
 Crawl-delay: 1

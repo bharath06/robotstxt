@@ -7,6 +7,7 @@ Disallow: /landing?PFFSRCID*
 Disallow: /not-supported.html
 Disallow: /maintenance-catchall.html
 Disallow: /error
+Disallow: /search/?
 
 User-agent: DuckDuckBot
 Disallow: /assets/bank/media/beneficiary-form.pdf
@@ -16,6 +17,7 @@ Disallow: /landing?PFFSRCID*
 Disallow: /not-supported.html
 Disallow: /maintenance-catchall.html
 Disallow: /error
+Disallow: /search/?
 
 User-agent: Mediapartners-Google
 User-agent: Adsbot-Google
@@ -29,6 +31,7 @@ Disallow: /landing?PFFSRCID*
 Disallow: /not-supported.html
 Disallow: /maintenance-catchall.html
 Disallow: /error
+Disallow: /search/?
 
 User-agent: ia_archiver
 Disallow: /assets/bank/media/beneficiary-form.pdf
@@ -38,6 +41,7 @@ Disallow: /landing?PFFSRCID*
 Disallow: /not-supported.html
 Disallow: /maintenance-catchall.html
 Disallow: /error
+Disallow: /search/?
 
 User-agent: SpeedySpider
 Disallow: /assets/bank/media/beneficiary-form.pdf
@@ -47,6 +51,7 @@ Disallow: /landing?PFFSRCID*
 Disallow: /not-supported.html
 Disallow: /maintenance-catchall.html
 Disallow: /error
+Disallow: /search/?
 
 User-agent: TwitterBot
 Disallow: /assets/bank/media/beneficiary-form.pdf
@@ -56,6 +61,7 @@ Disallow: /landing?PFFSRCID*
 Disallow: /not-supported.html
 Disallow: /maintenance-catchall.html
 Disallow: /error
+Disallow: /search/?
 
 User-agent: YandexAntivirus/2.0
 User-agent: YandexBot/3.0
@@ -72,6 +78,7 @@ Disallow: /landing?PFFSRCID*
 Disallow: /not-supported.html
 Disallow: /maintenance-catchall.html
 Disallow: /error
+Disallow: /search/?
 
 
 sitemap: https://www.capitalone.com/sitemap.xml

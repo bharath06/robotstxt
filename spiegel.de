@@ -5,6 +5,9 @@ Disallow: /gutscheine/suche?
 Disallow: /gutscheine/*?code=*
 Disallow: /gutscheine/*&code=*
 
+User-agent: Mozilla/5.0 (compatible; OGDWCtxCrawler)
+Allow: /
+
 User-agent: GPTBot
 Disallow: /
 

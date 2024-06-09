@@ -56,7 +56,7 @@ Disallow: /wsj/
 Disallow: /xhtml/v/
 Disallow: /user/login/profile
 Disallow: /auth/
-Sitemap: https://www.marketwatch.com/sitemap-search-index.xml.gz
+Sitemap: https://www.marketwatch.com/sitemaps/web/mw/en/sitemap_mw_en_index.xml
 Sitemap: https://www.marketwatch.com/sitemaps/web/mw-video/en/sitemap_mw-video_en_index.xml
 Sitemap: https://www.marketwatch.com/mw_news_sitemap.xml
 Sitemap: https://www.marketwatch.com/api-video/sitemaps/google/sitemap-google-video-marketwatch.asp

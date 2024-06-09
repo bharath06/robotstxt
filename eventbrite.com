@@ -46,6 +46,7 @@ Disallow: /blog/search/
 Disallow: /blog/wp-admin/
 Disallow: /blog/xmlrpc.php
 Disallow: /blog/wp-includes/*.xml
+Disallow: /feedback-service/
 Allow: /blog/wp-admin/admin-ajax.php
 
 

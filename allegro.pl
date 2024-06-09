@@ -21,6 +21,7 @@ disallow: /uzytkownik*&*
 disallow: /opinie-produktowe/
 disallow: /zglos-naruszenie/
 disallow: /uzytkownik/SHOP-TAG
+disallow: /magazyn-allegro/
 allow: /uzytkownik/notfound?string*
 allow: /uzytkownik/bi_s=archiwum_allegro
 

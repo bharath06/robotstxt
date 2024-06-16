@@ -122,8 +122,6 @@ Disallow: /ziggo
 
 Disallow: /accountaccess
 Disallow: /AccountAccess
-Disallow: /activate
-Disallow: /Activate
 Disallow: /BillingActivity
 Disallow: /browse
 Disallow: /browse/*

@@ -37,6 +37,10 @@ Disallow: /salp/i
 Disallow: /gp/video/salp/i
 Disallow: /region/*/salp/i
 Disallow: /-/*/salp/i
+Disallow: /detail/Login
+Disallow: /gp/video/detail/Login
+Disallow: /region/*/detail/Login
+Disallow: /-/*/detail/Login
 
 User-agent: EtaoSpider
 Disallow: /

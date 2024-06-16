@@ -61,6 +61,7 @@ Disallow: /athletic/pv.json
 Disallow: /athletic/following-feed-test/*
 Disallow: /athletic*/boxscore/*
 Disallow: /athletic/feed-test/
+Disallow: /card/panel/
 Disallow: /puzzles/leaderboards/invite/*
 Disallow: /svc
 Allow: /svc/crosswords

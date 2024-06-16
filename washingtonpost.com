@@ -103,6 +103,9 @@ Disallow: /subscribe/user/
 Disallow: /wpost/proxy
 Disallow: /ehf/
 Disallow: /ehf/*
+Disallow: /subscribe/logging/*
+Disallow: /blogs/*
+Disallow: /archive/*
 
 User-agent: Twitterbot
 Allow: /posttv-beta/

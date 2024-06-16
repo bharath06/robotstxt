@@ -5,11 +5,10 @@ Disallow: /api/
 Disallow: /maestro/
 Disallow: /ui/
 Disallow: /signature/voucher/
-Disallow: /account/email_verify/
+Disallow: /account/
 Disallow: /acclaimbadge/
 Disallow: /voucher/
 Disallow: /search
-Disallow: /lecture/
 Disallow: /learn-perf/
 Disallow: /specializations-perf/
 Disallow: /professional-certificates-perf/
@@ -27,3 +26,9 @@ Disallow: /lecture/
 
 User-agent: GPTBot
 Disallow: /lecture/
+
+User-agent: LinkedInBot
+Allow: /account/accomplishments/
+
+User-agent: Twitterbot
+Allow: /account/accomplishments/

@@ -13,6 +13,10 @@ Disallow: /sign-in
 Disallow: /sugarfif.html
 Disallow: /wikis/*/edit
 Disallow: /wikis/*/topcontributors
+Disallow: /events/4-up-test
+Disallow: /events/deck-test
+Disallow: /events/livestream-test
+Disallow: /events/one-up-test
 
 User-agent: GPTBot
 Disallow: /

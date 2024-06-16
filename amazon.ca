@@ -80,9 +80,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-# Sitemap files
-Sitemap: http://www.amazon.ca/sitemap-manual-index.xml
-Sitemap: http://www.amazon.ca/sitemaps.f3053414d236e84.SitemapIndex_0.xml.gz
-Sitemap: http://www.amazon.ca/sitemaps.1946f6b8171de60.SitemapIndex_0.xml.gz
-Sitemap: http://www.amazon.ca/sitemaps.c21f969b5f03d33.SitemapIndex_0.xml.gz
 

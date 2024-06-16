@@ -103,10 +103,3 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-# Sitemap files
-Sitemap: https://www.amazon.es/sitemaps.2307ea63773dfee.SitemapIndex_0.xml.gz
-Sitemap: https://www.amazon.es/sitemaps.d449d7f825f081e.SitemapIndex_0.xml.gz
-Sitemap: https://www.amazon.es/sitemaps.e49bfbf08ac5517.SitemapIndex_0.xml.gz
-Sitemap: https://www.amazon.es/sitemaps.95918f5af3f77b0.SitemapIndex_0.xml.gz
-Sitemap: https://www.amazon.es/sitemaps.02b411f7e4baecc.SitemapIndex_0.xml.gz
-

@@ -1,4 +1,4 @@
-# Robots.txt for https://www.dailymail.co.uk/ updated 02/01/2024
+# Robots.txt for https://www.dailymail.co.uk/ updated 11/06/2024
 #
 #
 # All Robots
@@ -22,6 +22,7 @@ Disallow: /best-buys/m/clickout/*
 Disallow: /weather.html?latitude=*
 Disallow: /weather.html?old=*
 Disallow: /home/search.html*
+Disallow: /best-buys/mercury/out*
 #
 # Disallow Money for Google News
 User-agent: Googlebot-News

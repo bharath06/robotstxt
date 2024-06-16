@@ -94,6 +94,7 @@ Allow: /europrotokol
 Allow: /job
 Allow: /fzo
 Allow: /military
+Allow: /universal_benefits
 Disallow: *?*oid_*
 
 User-agent: GoogleBot
@@ -218,6 +219,7 @@ Allow: /europrotokol
 Allow: /job
 Allow: /fzo
 Allow: /military
+Allow: /universal_benefits
 Disallow: *?*oid_*
 
 User-agent: *
@@ -342,6 +344,7 @@ Allow: /europrotokol
 Allow: /job
 Allow: /fzo
 Allow: /military
+Allow: /universal_benefits
 Disallow: *?*oid_*
 
 Clean-param: utm_campaign&utm_source&utm_term&utm_medium&utm_startpage&utm_orderpage&utm_referer&utm_content

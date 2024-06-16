@@ -28,8 +28,6 @@ Disallow: /ngetty
 
 Disallow: /napi
 
-Disallow: /netrics
-
 Disallow: /nautocomplete
 
 Disallow: /nabc

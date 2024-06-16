@@ -314,6 +314,9 @@ Disallow: /sites/flexport
 User-agent: GPTBot
 Disallow: /
 
+User-Agent: PerplexityBot
+Disallow: /
+
 Sitemap: https://www.forbes.com/news_sitemap.xml
 Sitemap: https://www.forbes.com/video_sitemap.xml
 Sitemap: https://www.forbes.com/companies_sitemap.xml

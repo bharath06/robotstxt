@@ -3,7 +3,7 @@ Disallow: /likeit/*
 Disallow: /unlikeit/*
 Disallow: /jclike/*
 Disallow: /jcunlike/*
-Disallow: /loadmore?page=*
+Disallow: /loadmore?*
 Disallow: /pageroll?v=*
 Disallow: /weatheri/
 Disallow: /cpnw?*

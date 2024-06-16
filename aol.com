@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /author/
 Disallow: /forward
 Disallow: /traffic
 Disallow: /mm_track
@@ -12,6 +13,7 @@ Disallow: /logout
 Disallow: /config
 Disallow: /_/authenticate/
 Disallow: /video/play/
+Disallow: /m/
 
 Sitemap: https://www.aol.com/sitemap_index.xml
 Sitemap: https://www.aol.com/sitemaps/aolnews-sitemap_index_US_en-US.xml.gz

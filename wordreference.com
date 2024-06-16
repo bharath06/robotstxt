@@ -1,6 +1,10 @@
 User-agent: Mediapartners-Google
 User-agent: Googlebot-Mobile
 User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+Allow: /ads.txt
+Allow: /app-ads.txt
 Disallow: /*src
 Disallow: /2012/collins/
 Disallow: /*/collins/
@@ -307,6 +311,9 @@ Disallow: /zhsv/
 Disallow: /zhtr/
 
 
-# now disallowing all other bots, No AI allowed, permission: https://forum.wordreference.com/misc/contact
+# now disallowing all other bots, No AI allowed, for permission, write us: https://forum.wordreference.com/misc/contact
+User-agent: Google-Extended
 User-agent: *
+Allow: /ads.txt
+Allow: /app-ads.txt
 Disallow: /

@@ -62,6 +62,8 @@ Disallow: *?act=
 Disallow: /call/join*
 Disallow: /calls*
 Disallow: /429.html
+Disallow: %?slogin%
+Disallow: %?ysclid%
 Allow: /apps?act=search_page&tags=
 Allow: /games?act=search_page&tags=
 Allow: /apps*&tags=

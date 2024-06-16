@@ -19,6 +19,7 @@ Disallow: /*/filter/viewport
 Disallow: /amp-iframe
 Disallow: /*/Unknown/Unknown-Unknown/
 Disallow: /*/amp$
+Disallow: /stingray/do/tourlist/
 Allow: /stingray/do/buy
 Allow: /stingray/do/home
 Allow: /stingray/do/js

@@ -5,6 +5,13 @@ Disallow: /*&page=
 Disallow: /*?c_page=
 Disallow: /*&c_page=
 Disallow: /*/forums/
+Disallow: /*?markerid=
+Disallow: /*?darkschemeovr=
+Disallow: /*?p=
+Disallow: /*/comments
+Disallow: /*/search
+Disallow: /users/*
+Disallow: /*/preview
 
 User-agent: dotbot
 Disallow: /

@@ -50,6 +50,7 @@ Disallow: */shop/app/api/*
 Disallow: /us-en/shop/*?*p*toreID=*
 Disallow: /us-en/shop/*orderstatusfinalresultview*?*
 Disallow: /us-en/shop/SearchDisplay*
+Disallow: /us-en/shop/sitesearch*
 Disallow: /us-en/shop/MyAccountOrderStatusView*
 Disallow: /us-en/shop/PDPStdView*
 Disallow: /us-en/shop/*/OrderShippingBillingView*

@@ -7,6 +7,7 @@ Disallow: /core
 Disallow: */2020/02/13/money/
 Disallow: */?rcmclid=
 Disallow: /?
+Disallow: /comments
 Clean-param: url
 Host: https://lenta.ru
 
@@ -19,6 +20,7 @@ Disallow: /core
 Disallow: */2020/02/13/money/
 Disallow: */?rcmclid=
 Disallow: /?
+Disallow: /comments
 
 User-agent: *
 Disallow: /search

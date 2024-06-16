@@ -106,8 +106,3 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-# Sitemap files
-Sitemap: https://www.amazon.fr/sitemaps.2307ea63773dfee.SitemapIndex_0.xml.gz
-Sitemap: https://www.amazon.fr/sitemaps.e49bfbf08ac5517.SitemapIndex_0.xml.gz 
-Sitemap: https://www.amazon.fr/sitemaps.d449d7f825f081e.SitemapIndex_0.xml.gz
-

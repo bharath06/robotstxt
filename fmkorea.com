@@ -43,6 +43,9 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
+User-agent: ClaudeBot
+Disallow: /
+
 User-agent: Bytespider
 Disallow: /
 

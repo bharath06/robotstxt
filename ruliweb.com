@@ -10,5 +10,3 @@ Disallow: /*orderby=
 Disallow: /*range=
 Disallow: /*best_tab=
 Disallow: /*custom_list=
-Disallow: /*m=
-Disallow: /*t=

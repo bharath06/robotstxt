@@ -131,59 +131,6 @@ Allow: /
 User-agent: Applebot-Extended
 User-agent: GPTBot
 User-agent: Google-Extended
-Disallow: 
-Disallow: /media/*
-Disallow: /template/*
-Disallow: /_ok
-Disallow: /_blank
-Disallow: *v=
-Disallow: *utm_expid=
-Disallow: *source=
-Disallow: *utm_source=
-Disallow: *utm_campaign=
-Disallow: *utm_content=
-Disallow: *__hstc=
-Disallow: *reviews_page=
-Disallow: *gclid=
-Disallow: *magazineName=
-Disallow: *_ga=
-Disallow: *like=
-Disallow: *sp_url=
-Disallow: *loginRedirect=
-Disallow: *fbclid=
-Disallow: *country=
-Disallow: *company_size=
-Disallow: *_hsenc=
-Disallow: *zd_source=
-Disallow: *wt.mc_id=
-Disallow: *via=
-Disallow: *utm_medium=
-Disallow: *spc-source=
-Disallow: *sp=
-Disallow: *sort=
-Disallow: *sf11500465=
-Disallow: *sa=
-Disallow: *ref=
-Disallow: *preview=
-Disallow: *pr=
-Disallow: *o=
-Disallow: *NoCode=
-Disallow: *mod=
-Disallow: *kui=
-Disallow: *industry=
-Disallow: *iframe=
-Disallow: *hsLang=
-Disallow: *hsCtaTracking=
-Disallow: *hash=
-Disallow: *gh_jid=
-Disallow: *filterTags=
-Disallow: *clickId=
-Disallow: *ca_referer=
-Disallow: *author=
-Disallow: *ak_action=
-Disallow: *ad=
-Disallow: *__hstc=
-Disallow: *__+hsfp=
 Disallow: /
 
 User-agent: Twitterbot
@@ -191,6 +138,6 @@ Allow: /
 
 
 
-Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
 Sitemap: https://sitemap.canva.com/marketplace_templates_search_pages/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
 Sitemap: https://sitemap.canva.com/help_center_pages/index.xml

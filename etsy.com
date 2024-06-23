@@ -1941,7 +1941,7 @@ Sitemap: https://www.etsy.com/jp/sitemaps/adhoc.xml
 Sitemap: https://www.etsy.com/pl/sitemaps/adhoc.xml
 Sitemap: https://www.etsy.com/pt/sitemaps/adhoc.xml
 #
-# ¿Qué te pasa, calabaza?#   \
+# Per dindirindina!#   \
 #
 #    -----
 #   | . . |

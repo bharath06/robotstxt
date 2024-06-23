@@ -2,6 +2,7 @@ User-agent: *
 Disallow:/3g/
 Disallow:/b5/
 Disallow:/test/
+Disallow:/*/test/*
 Disallow:/rbin/
 Disallow:/tech/
 Disallow:/zhizuotest/

@@ -126,6 +126,7 @@ disallow: /xembed.php
 disallow: /top/*
 disallow: /*/top/*
 disallow: /livevideoamp/
+disallow: /info/list-of-processors
 
 User-agent: ia_archiver
 Disallow: /

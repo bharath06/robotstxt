@@ -22,7 +22,6 @@ Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attractions
 Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attraction_review_index.xml
 Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attraction_product_review_index.xml
 Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attractions_near_index.xml
-Sitemap: https://www.tripadvisor.com/sitemap/att/en_US/sitemap_en_US_attraction_tours_and_tickets_index.xml
 Sitemap: https://www.tripadvisor.com/business/sitemap.xml
 User-Agent: PetalBot
 Disallow: /

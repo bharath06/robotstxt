@@ -42,7 +42,7 @@ Disallow: /signin/inject/
 Disallow: /_prq/
 Disallow: /PWD/
 Disallow: /hermes/
-Disallow: /xoonboarding/
+Disallow: /webapps/xoonboarding/*
 Disallow: /checkoutnow/
 Disallow: /helios/
 Disallow: /xorouter/

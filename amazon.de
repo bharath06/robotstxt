@@ -79,10 +79,6 @@ Disallow: /local/ajax/
 Disallow: /gp/rate-it
 Disallow: /o/di
 Disallow: /o/dt
-Disallow: /soleil-de-venise-Bekleidung/s?ie=UTF8&page=1&rh=n%3A77028031%2Ck%3Asoleil%20de%20venise
-Disallow: */b?ie=UTF8&node=1619732031
-Disallow: /*stressless*fernsehsessel*
-Disallow: /*stressless*sessel*
 Disallow: /gp/help/customer/display.html?nodeId=200393390
 Disallow: /forum/kindle
 Disallow: /gp/profile

@@ -20,5 +20,3 @@ User-agent: ChatGPT-User
 Disallow: /
 User-agent: ChatGPT
 Disallow: /
-User-agent: Google-Extended
-Disallow: /

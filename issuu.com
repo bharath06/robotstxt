@@ -152,6 +152,24 @@ Disallow: /prices/
 Disallow: /query%
 Disallow: /query?
 Disallow: /query/
+Disallow: /signup/payment
+Disallow: /signup/payment%
+Disallow: /signup/payment?
+Disallow: /signup/payment/
+Disallow: /signup/onboarding
+Disallow: /signup/onboarding%
+Disallow: /signup/onboarding?
+Disallow: /signup/onboarding/
+Disallow: /signup?
+Disallow: /signin?
+Disallow: /forgotpassword?
+Disallow: /sso-signin?
+Disallow: /logout
+Disallow: /preview/result
+Disallow: /preview/result?
+Disallow: /preview/result%
+Disallow: /preview/result?
+Disallow: /preview/result/
 
 Disallow: /lp/thank-you-reader$
 Disallow: /lp/thank-you-reader%

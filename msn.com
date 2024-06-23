@@ -63,4 +63,4 @@ Sitemap: https://www.msn.com/sitemaps/health/health-sitemap-index.xml
 Sitemap: https://www.msn.com/sitemaps/shopping/shopping-sitemap-index.xml
 Sitemap: https://www.msn.com/en-us/autos/marketplace/sitemap.xml
 Sitemap: https://www.msn.com/staticsb/statics/latest/0/casualgames/sitemaps/sitemap-index.xml
-Sitemap: https://www.msn.com/sitemaps/finance/finance-sitemap-index.xml
+Sitemap: https://www.msn.com/staticsb/statics/latest/0/finance/sitemaps/sitemap-index.xml

@@ -48,9 +48,13 @@ Disallow: */blog/page/
 Disallow: */Infogramuploader/
 Disallow: /blog/topic/*/feed/
 Disallow: /*?s=*
+Disallow: /pdfs/
 Disallow: /page/
 Disallow: */?=glossary*
 Disallow: */?ref=*
+Disallow: */uploads/2023/07/Rozetka.pdf
+Disallow: */uploads/2024/02/About-You-App-Engagment-Report-2.0-English-template-AER-output.pdf
+Disallow: */uploads/2024/02/GetYourGuide-App-Engagment-Report-2.0-English-template-AER-output.pdf
 # Disallow existing pages based on localized websites
 Disallow: /sp/
 Disallow: /jp/

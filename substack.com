@@ -11,6 +11,7 @@ Disallow: /action/
 Disallow: /publish
 Disallow: /sign-in
 Disallow: /channel-frame
+Disallow: /visited-surface-frame
 Disallow: /feed/private
 Disallow: /feed/podcast/*/private/*.rss
 Disallow: /subscribe

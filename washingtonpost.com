@@ -106,6 +106,7 @@ Disallow: /ehf/*
 Disallow: /subscribe/logging/*
 Disallow: /blogs/*
 Disallow: /archive/*
+Disallow: /gog/*
 
 User-agent: Twitterbot
 Allow: /posttv-beta/
@@ -131,6 +132,12 @@ User-agent: CCBot
 Disallow: /
 
 User-agent: Amazonbot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: PerplexityBot
 Disallow: /
 
 User-agent: anthropic-ai

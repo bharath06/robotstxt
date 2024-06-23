@@ -24,6 +24,8 @@ Disallow: /api/v3/promoted/events
 Disallow: /api/v3/log_engagement/
 Disallow: /api/v3/destination/search/log_requests/
 Disallow: /api/v3/creator-quality-signal/organizer/*
+Disallow: /api/v3/feedback-service/
+Disallow: /logout/*
 
 Sitemap: https://www.eventbrite.com/sitemap_xml/sitemap_index.xml
 Sitemap: https://www.eventbrite.com/blog/sitemap_index.xml
@@ -76,6 +78,8 @@ Disallow: /api/v3/promoted/events
 Disallow: /api/v3/log_engagement/
 Disallow: /api/v3/destination/search/log_requests/
 Disallow: /api/v3/creator-quality-signal/organizer/*
+Disallow: /api/v3/feedback-service/
+Disallow: /logout/*
 
 User-agent: Facebot
 Crawl-delay: 0.5

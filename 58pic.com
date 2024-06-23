@@ -71,5 +71,7 @@ Disallow: /tupian/*-creative_score-*
 Disallow: /tupian/*-0-0-0*
 Disallow: /tupian/*-*-*-*.html
 Disallow: /psearch/
+Disallow: /story/
+Disallow: /index.php*
 Allow: /piccate/*-*-*.html
 Allow: /*?page_source=1

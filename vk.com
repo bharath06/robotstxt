@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /doc*_
+Disallow: /doc-*
 Disallow: /away.php
 Disallow: /im?
 Disallow: /search*&*&*&
@@ -62,8 +62,8 @@ Disallow: *?act=
 Disallow: /call/join*
 Disallow: /calls*
 Disallow: /429.html
-Disallow: %?slogin%
-Disallow: %?ysclid%
+Disallow: *?slogin*
+Disallow: *?ysclid*
 Allow: /apps?act=search_page&tags=
 Allow: /games?act=search_page&tags=
 Allow: /apps*&tags=
@@ -75,10 +75,9 @@ Allow: /page-2158488_50129817$
 Allow: /search*offset=
 Allow: /feed?section=coronavirus$
 Allow: /feed?section=stayhome$
-Allow: /doctor_obninsk
 
 User-agent: Googlebot
-Disallow: /doc*_
+Disallow: /doc-*
 Disallow: /away.php
 Disallow: /im?
 Disallow: /search*&*&*&
@@ -136,6 +135,8 @@ Disallow: /feed?section=search&q=
 Disallow: /wall*?with=
 Disallow: *?act=
 Disallow: /call/join*
+Disallow: *?slogin*
+Disallow: *?ysclid*
 Allow: /apps?act=search_page&tags=
 Allow: /games?act=search_page&tags=
 Allow: /apps*&tags=
@@ -147,10 +148,9 @@ Allow: /page-2158488_50129817$
 Allow: /search*offset=
 Allow: /feed?section=coronavirus$
 Allow: /feed?section=stayhome
-Allow: /doctor_obninsk
 
 User-agent: Yandex
-Disallow: /doc*_
+Disallow: /doc-*
 Disallow: /away.php
 Disallow: /im?
 Disallow: /search*&*&*&
@@ -211,6 +211,8 @@ Disallow: /feed?section=search&q=
 Disallow: /wall*?with=
 Disallow: *?act=
 Disallow: /call/join*
+Disallow: *?slogin*
+Disallow: *?ysclid*
 Allow: /apps?act=search_page&tags=
 Allow: /games?act=search_page&tags=
 Allow: /apps*&tags=
@@ -222,5 +224,4 @@ Allow: /page-2158488_50129817$
 Allow: /search*offset=
 Allow: /feed?section=coronavirus$
 Allow: /feed?section=stayhome$
-Allow: /doctor_obninsk
 Clean-param: ref&list&from&rev&anchor&utm_source&utm_medium&utm_campaign

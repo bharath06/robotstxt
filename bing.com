@@ -26,6 +26,7 @@ Disallow: /history
 Disallow: /hotels/search
 Disallow: /images?
 Disallow: /images/search%3F
+Disallow: /images/search%5C
 Disallow: /images/search?
 Disallow: /images/search/?
 Disallow: /images/searchbyimage

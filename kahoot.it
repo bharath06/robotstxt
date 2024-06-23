@@ -7,3 +7,24 @@ Disallow: /
 User-agent: *
 Allow: /$
 Disallow: /
+
+User-agent: facebookexternalhit
+Allow: /
+User-agent: slackbot-linkexpanding
+Allow: /
+User-agent: slack-imgproxy
+Allow: /
+User-agent: twitterbot
+Allow: /
+User-agent: whatsapp
+Allow: /
+User-agent: skypeuripreview
+Allow: /
+User-agent: bf-directline
+Allow: /
+User-agent: linkedinbot
+Allow: /
+User-agent: snippet
+Allow: /
+User-agent: wakeletlinkexpander
+Allow: /

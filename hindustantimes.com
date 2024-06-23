@@ -1,74 +1,6 @@
-User-agent: *
+ï»¿User-agent: *
 Allow: /
-Disallow: /what-now/card-details/*
-Disallow: /*/url
-Disallow: /*/imageURL
-Disallow: /fragment/
-Disallow: /Fragment/
-Disallow: /Error/
-Disallow: /error/
-Disallow: /Images/HTEditImages
-Disallow: /images/HTPopups/
-Disallow: /Images/Popup/
-Disallow: /images/Popup/
-Disallow: /Images/popup/
-Disallow: /homenew
-
-
-User-agent: Mediapartners-Google
-Allow: /
-Disallow: /what-now/card-details/*
-Disallow: /*/url
-Disallow: /*/imageURL
-Disallow: /fragment/
-Disallow: /Fragment/
-Disallow: /Error/
-Disallow: /error/
-Disallow: /Images/HTEditImages
-Disallow: /images/HTPopups/
-Disallow: /Images/Popup/
-Disallow: /images/Popup/
-Disallow: /Images/popup/
-Disallow: /homenew
-
-
-User-agent: Googlebot-News
-Allow: /
-Disallow: /what-now/card-details/*
-Disallow: /*/url
-Disallow: /*/imageURL
-Disallow: /fragment/
-Disallow: /Fragment/
-Disallow: /Error/
-Disallow: /error/
-Disallow: /Images/HTEditImages
-Disallow: /images/HTPopups/
-Disallow: /Images/Popup/
-Disallow: /images/Popup/
-Disallow: /Images/popup/
-Disallow: /homenew
-
-
-User-agent: Googlebot
-Allow: /
-Disallow: /what-now/card-details/*
-Disallow: /*/url
-Disallow: /*/imageURL
-Disallow: /fragment/
-Disallow: /Fragment/
-Disallow: /Error/
-Disallow: /error/
-Disallow: /Images/HTEditImages
-Disallow: /images/HTPopups/
-Disallow: /Images/Popup/
-Disallow: /images/Popup/
-Disallow: /Images/popup/
-Disallow: /homenew
-
-
-User-agent: Bingbot
-Allow: /
-Disallow: /what-now/card-details/*
+Disallow: /what-now/card-details/
 Disallow: /*/url
 Disallow: /*/imageURL
 Disallow: /fragment/
@@ -80,12 +12,14 @@ Disallow: /Images/HTEditImages
 Disallow: /images/HTPopups/
 Disallow: /Images/Popup/
 Disallow: /images/Popup/
-Disallow: /Images/popup/
 Disallow: /homenew
-
-
-User-agent: *
+Disallow: /dummytestpage/*
 Disallow: /brand-stories/international/*
+Disallow: /origin-pre-prod/*
+Disallow: /sponsored-stories/*
+Disallow: /brand-stories/*
+Disallow: /brand-post/*
+
 
 Sitemap: https://www.hindustantimes.com/sitemap/section.xml
 Sitemap: https://www.hindustantimes.com/sitemap/news.xml

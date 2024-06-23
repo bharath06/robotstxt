@@ -38,6 +38,16 @@ Disallow: /*?skipCache=*
 Disallow: /*?forceCds=*
 Disallow: /*?forceXml=*
 
+# Disallowing non-canonical URLs that contain query strings
+User-agent: *
+Disallow: /*?*
+
+# Disallowing non-audience-facing URLs
+User-agent: *
+Disallow: /proxy/*
+Disallow: /player/*
+Disallow: /get/*
+
 # Disallowing the OpenAI web crawler
 User-agent: GPTBot
 Disallow: /

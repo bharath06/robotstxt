@@ -56,8 +56,46 @@ Disallow: /
 User-agent: ChatGPT-User
 Disallow: /
 
+# Disallowing Common Crawl
+User-agent: CCBot
+Disallow: /
+
 # Disallowing Google Bard and Vertex AI web crawlers
 User-agent: Google-Extended
+Disallow: /
+
+# Disallowing various bots
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: PerplexityBot
 Disallow: /
 
 # Allow Google Search Console for sitemap crawling

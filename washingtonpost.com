@@ -137,9 +137,6 @@ Disallow: /
 User-agent: YandexBot
 Disallow: /
 
-User-agent: PerplexityBot
-Disallow: /
-
 User-agent: anthropic-ai
 Disallow: /
 

@@ -24,16 +24,13 @@ Disallow: /chorus_auth
 Disallow: /sso
 Disallow: */archives/*/archives*
 
-User-agent: GPTBot
-Disallow: /
-
 User-agent: Google-Extended
 Disallow: /
 
 User-agent: Amazonbot
 Disallow: /
 
-User-agent: Applebot
+User-agent: Applebot-Extended
 Disallow: /
 
 User-agent: anthropic-ai

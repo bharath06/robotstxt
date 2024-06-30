@@ -69,6 +69,8 @@ Disallow: /cronache/speciali/2010/maturita/test-universita.shtml
 Disallow: /smallApp/tellafriend/
 Disallow: /*_print.html$
 Disallow: /*.xml
+Disallow: /account/
+Allow: /account/login
 Allow:    /salute/il-medico-risponde/sitemap.xml
 Allow: 	  /salute/sitemap-dizionario-corriere-salute.xml
 Allow:    /dynamic-sitemap/sitemap-last-100/*.xml

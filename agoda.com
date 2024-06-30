@@ -18,6 +18,8 @@ Disallow: /thankyou/
 Disallow: /flights/results
 Disallow: /*/flights/results
 Disallow: /activities/detail
+Disallow: /*/activities/detail/
+Disallow: /activities/detail/*
 Disallow: /transfers
 Disallow: /info/china-license.html
 
@@ -29,6 +31,11 @@ Allow: /graphql/search
 Allow: /*/graphql/search
 Allow: /flights/airport
 Allow: /*/flights/airport
+Allow: /activities/detail/*/*/*
+Disallow: /*/activities/detail/*/*/*
+Disallow: /activities/detail
+Disallow: /activities/detail?*
+Disallow: /*/activities/detail?*
 Disallow: /account/
 Disallow: /*/account/
 Disallow: /*/book/
@@ -37,8 +44,11 @@ Disallow: /book/
 Disallow: /thankyou/
 Disallow: /flights/results
 Disallow: /*/flights/results
-Disallow: /activities/detail
 Disallow: /transport/*
+
+User-agent: AdsBot-Google
+Allow: /activities/detail/*
+Disallow: /*/activities/detail/
 
 User-agent: google-hoteladsverifier
 Disallow:

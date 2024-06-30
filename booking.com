@@ -43,9 +43,8 @@ Sitemap: https://www.booking.com/sitembk-communities-index.xml
 Sitemap: https://www.booking.com/sitembk-country-index.xml
 Sitemap: https://www.booking.com/sitembk-country-review-index.xml
 Sitemap: https://www.booking.com/sitembk-district-index.xml
-Sitemap: https://www.booking.com/sitembk-flights-index.xml
-Sitemap: https://www.booking.com/sitembk-flights-priority-index.xml
 Sitemap: https://www.booking.com/sitembk-flights-city-to-country-index.xml
+Sitemap: https://www.booking.com/sitembk-flights-city-to-city-index.xml
 Sitemap: https://www.booking.com/sitembk-flights-country-index.xml
 Sitemap: https://www.booking.com/sitembk-flights-to-region-index.xml
 Sitemap: https://www.booking.com/sitembk-flights-to-city-index.xml

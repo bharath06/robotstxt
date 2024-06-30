@@ -33,8 +33,9 @@ Disallow: /total-leadership/
 Disallow: /hidden/
 
 
-# Careers Staging Site
+# Careers Site
 Disallow: /phenom/
+Disallow: /careers/us/en/chatbot?*
 
 
 Sitemap: https://www.qualtrics.com/hreflang.xml
@@ -43,7 +44,7 @@ Sitemap: https://www.qualtrics.com/en-gb/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/support/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/blog/sitemap_index.xml
-Sitemap: https://www.qualtrics.com/jp/sitemap_index.xml
+Sitemap: https://www.qualtrics.com/ja/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/fr/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/de/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/au/sitemap_index.xml

@@ -17,6 +17,7 @@ Disallow: */feed$
 Disallow: /*/coupons/visit/*
 Disallow: /app-route/
 Disallow: /app/
+Disallow: /finance/business/stockhead/news/*/news-story/*
 
 Sitemap: https://www.news.com.au/sitemap.xml
 Sitemap: https://www.news.com.au/news-sitemap.xml

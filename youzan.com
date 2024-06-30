@@ -19,6 +19,7 @@ Disallow: /yzscrm/
 Disallow: /jihuo/
 Disallow: /ma/
 Disallow: /dashboard/
+Disallow: /landing/
 Disallow: /api/
 Disallow: /*/api/*
 Disallow: /*_next*

@@ -133,3 +133,24 @@ Disallow: /
 
 User-agent: bingbot
 Disallow: /
+
+User-agent: Awario
+Disallow: /
+
+User-agent: Netvibes
+Disallow: /
+
+User-agent: SentiOne
+Disallow: /
+
+User-agent: UptimeRobot
+Disallow: /
+
+User-agent: ImageSift
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /

@@ -112,6 +112,13 @@ Disallow: /settings/mirror_choices
 Disallow: /directory/tp
 Disallow: /software/tp
 Disallow: /sd-jobs
+Disallow: /p/*/wiki/*/history
+Disallow: /p/*/*/milestone/
+Disallow: /p/*/activity/
+Disallow: /u/*/wiki/*
+Disallow: /u/*/activity/
+Allow: /u/*/profile/
+Disallow: /u/*/*/
 
 # /directory param rules: permit ?q= and ?page= on their own, but no other params
 # longest match takes precedence.  listed in length order

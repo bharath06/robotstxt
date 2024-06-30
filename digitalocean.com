@@ -31,6 +31,7 @@ Sitemap: https://www.digitalocean.com/sitemaps/careers-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/blog-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/blog-authors-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/blog-tags-0.xml.gz
+Sitemap: https://www.digitalocean.com/sitemaps/impact-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/indexes-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/diversity-0.xml.gz
 Sitemap: https://www.digitalocean.com/sitemaps/hatch-0.xml.gz

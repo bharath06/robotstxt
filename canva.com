@@ -139,5 +139,5 @@ Allow: /
 
 
 Sitemap: https://sitemap.canva.com/marketplace_templates_search_pages/index.xml
-Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml
 Sitemap: https://sitemap.canva.com/help_center_pages/index.xml
+Sitemap: https://sitemap.canva.com/marketplace_product_pages/index.xml

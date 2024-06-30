@@ -7,3 +7,6 @@ Disallow: /messages/
 Disallow: */filter/*
 Disallow: /model-agreement/
 Disallow: /studio-agreement/
+
+User-agent: facebookexternalhit 
+Crawl-delay: 60

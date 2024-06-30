@@ -16,6 +16,7 @@ Disallow: */rest/getlist?*
 Disallow: /buy/postpaid/line-selection
 Disallow: /ssaf/ssafc/
 Disallow: */msapi/*
+Disallow: /att-dgt-checkin-e/api/*
 Disallow: */sdattservicesinc/*
 # jl022q edits 05.01.24 - end
 

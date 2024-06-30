@@ -127,6 +127,8 @@ Disallow: /playlist/rate*
 Disallow: /chat/index*
 Disallow: /uploading/gifgenerator*
 Disallow: /watch_stream/*
+Disallow: /clip/
+Disallow: /clips?*
 #
 #
 # specific variable and file blocks
@@ -156,6 +158,7 @@ Disallow: /*redirect=*
 Disallow: /*showDuration=*
 Disallow: /*token=*
 Disallow: /wall_player_v2.php
+Disallow: /_i?type=*
 #
 #
 # DEPRECATED terminology search for deletion

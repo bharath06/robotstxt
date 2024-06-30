@@ -93,6 +93,7 @@ Disallow: *availability=Out-of-Stock
 Disallow: *newprod
 Disallow: /bundles?override
 Disallow: /ProductListingBatteryView?
+Disallow: */proxydirectory*
 
 User-agent: AdsBot-Google
 Allow: /

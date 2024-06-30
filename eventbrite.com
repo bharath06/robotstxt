@@ -26,6 +26,13 @@ Disallow: /api/v3/destination/search/log_requests/
 Disallow: /api/v3/creator-quality-signal/organizer/*
 Disallow: /api/v3/feedback-service/
 Disallow: /logout/*
+Disallow: /login/*
+Disallow: /signin/*
+Disallow: *ak6767com*
+Disallow: *ak6759.com*
+Disallow: *okxbet.com*
+Disallow: *mh255com*
+Disallow: *wwwhkotc.cc*
 
 Sitemap: https://www.eventbrite.com/sitemap_xml/sitemap_index.xml
 Sitemap: https://www.eventbrite.com/blog/sitemap_index.xml
@@ -49,6 +56,11 @@ Disallow: /blog/wp-admin/
 Disallow: /blog/xmlrpc.php
 Disallow: /blog/wp-includes/*.xml
 Disallow: /feedback-service/
+Disallow: *ak6767com*
+Disallow: *ak6759.com*
+Disallow: *okxbet.com*
+Disallow: *mh255com*
+Disallow: *wwwhkotc.cc*
 Allow: /blog/wp-admin/admin-ajax.php
 
 
@@ -80,6 +92,13 @@ Disallow: /api/v3/destination/search/log_requests/
 Disallow: /api/v3/creator-quality-signal/organizer/*
 Disallow: /api/v3/feedback-service/
 Disallow: /logout/*
+Disallow: /login/*
+Disallow: /signin/*
+Disallow: *ak6767com*
+Disallow: *ak6759.com*
+Disallow: *okxbet.com*
+Disallow: *mh255com*
+Disallow: *wwwhkotc.cc*
 
 User-agent: Facebot
 Crawl-delay: 0.5

@@ -55,6 +55,54 @@ Disallow: /uk/*
 User-agent: GPTBot
 Disallow: /
 
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Anthropic-ai
+Disallow: /
+
+User-agent: AwarioRssBot
+Disallow: /
+
+User-agent: AwarioSmartBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Cohere-ai
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Magpie-crawler
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Peer39_crawler/1.0
+Disallow: /
+
 Sitemap: https://www.cnet.com/sitemaps/article/index.xml
 Sitemap: https://www.cnet.com/sitemaps/best/index.xml
 Sitemap: https://www.cnet.com/sitemaps/gallery/index.xml

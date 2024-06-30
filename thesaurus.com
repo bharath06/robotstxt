@@ -9,6 +9,9 @@ Disallow: /
 User-agent: seerbot/1.0
 Disallow: /
 
+User-agent: Applebot-Extended
+Disallow: /
+
 User-agent: *
 Disallow: /5480.iac.
 Disallow: /go/

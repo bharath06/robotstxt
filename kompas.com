@@ -6,7 +6,22 @@ Disallow: *?jxrecoid=*
 Disallow: *?utm_source=*
 Disallow: *?source=*
 
-User-Agent: GPTBot
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OpenAI
+Disallow: /
+
+‍User-agent: ChatGPT-User
+Disallow: /
+
+‍User-agent: CCBot
+Disallow: /
+
+‍User-agent: anthropic-ai
+Disallow: /
+
+‍User-agent: Claude-Web
 Disallow: /
 
 User-Agent: PerplexityBot

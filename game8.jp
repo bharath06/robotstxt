@@ -8,6 +8,7 @@ Disallow: /*/forums/
 Disallow: /*?markerid=
 Disallow: /*?darkschemeovr=
 Disallow: /*?p=
+Disallow: /*?noads_preregistration_id=
 Disallow: /*/comments
 Disallow: /*/search
 Disallow: /users/*

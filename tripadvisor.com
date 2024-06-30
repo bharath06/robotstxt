@@ -558,6 +558,8 @@ Disallow: /OwnerNotificationSetting
 Disallow: /OwnerResponse
 Disallow: /Owners-
 Disallow: /OwnersDM
+Disallow: /OwnersNew
+Disallow: /OwnersOld
 Disallow: /OwnersTermsAndConditions
 Disallow: /OwnerSupport
 Disallow: /OwnerVerifyLocation
@@ -828,6 +830,7 @@ Disallow: /VideoHome?
 Disallow: /ViewAchAuthorization
 Disallow: /ViewAttachment
 Disallow: /ViewMandate
+Disallow: /virtualsupportassistant
 Disallow: /VKRegistration
 Disallow: /VolunteerTranslations
 Disallow: /VRACSearch
@@ -1382,6 +1385,8 @@ Disallow: /OwnerNotificationSetting
 Disallow: /OwnerResponse
 Disallow: /Owners-
 Disallow: /OwnersDM
+Disallow: /OwnersNew
+Disallow: /OwnersOld
 Disallow: /OwnersTermsAndConditions
 Disallow: /OwnerSupport
 Disallow: /OwnerVerifyLocation
@@ -1652,6 +1657,7 @@ Disallow: /VideoHome?
 Disallow: /ViewAchAuthorization
 Disallow: /ViewAttachment
 Disallow: /ViewMandate
+Disallow: /virtualsupportassistant
 Disallow: /VKRegistration
 Disallow: /VolunteerTranslations
 Disallow: /VRACSearch

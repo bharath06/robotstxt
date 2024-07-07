@@ -11,6 +11,15 @@ Disallow: /search/*
 Disallow: /user/*
 Disallow: /idtoin/*
 Disallow: */video_player/*
+Disallow: *?cmpid*
+Disallow: *?no_*
+Disallow: *?fb*
+Disallow: *?utm*
+Disallow: /blog/*
+Disallow: /content/*
+Disallow: /trends/audios/*
+Disallow: /trends/videos/*
+Disallow: *?media*
 
 #Sitemaps
 Sitemap:https://www.indiatimes.com/sitemap.xml

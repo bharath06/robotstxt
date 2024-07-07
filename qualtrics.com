@@ -1,11 +1,11 @@
 ﻿#Ask SEO team before you edit this file
-# Robot Experience Management
+#Robot Experience Management
 
 
 User-agent: *
 
 
-# Support Site
+#Support Site
 Disallow: /support/tag/
 Disallow: /support/category/
 Disallow: /support/custom_resource/
@@ -13,27 +13,32 @@ Disallow: /custom_banner/
 Disallow: /support/search/
 
 
-# WP Rules
+#Community
+Disallow: /community/
+Disallow: https://community.qualtrics.com/iq-suite-52/text-iq-is-pretty-lame-but-other-than-that-qualtrics-is-great-part-1-16990
+
+
+#WP Rules
 Disallow: */feed/*
 Disallow: */rss2/*
 Disallow: /blog/search/ 
 Disallow: /blog/topic/
 
 
-# Content Rules Per Crawley 
+#Content Rules Per Crawley 
 Disallow: /docs/
 
 
-# In Product Frames
+#In Product Frames
 Disallow: /in-product/
 Disallow: /total-leadership/
 
 
-# Campaign and ABM Pages
+#Campaign and ABM Pages
 Disallow: /hidden/
 
 
-# Careers Site
+#Careers Site
 Disallow: /phenom/
 Disallow: /careers/us/en/chatbot?*
 

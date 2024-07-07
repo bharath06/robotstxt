@@ -19,6 +19,7 @@ Disallow: /origin-pre-prod/*
 Disallow: /sponsored-stories/*
 Disallow: /brand-stories/*
 Disallow: /brand-post/*
+Disallow: /cdp/*
 
 
 Sitemap: https://www.hindustantimes.com/sitemap/section.xml

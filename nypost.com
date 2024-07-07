@@ -6,6 +6,7 @@ Allow: /wp-admin/admin-ajax.php
 Disallow: /account/
 Allow: /account/subscribe
 Disallow: /5850/
+
 User-agent: *
 Disallow: /search/
 Disallow: /horoscope/
@@ -94,6 +95,7 @@ Disallow: /*&*gg155.cn*
 Disallow: /*?*To66.Asia*
 Disallow: /*&*To66.Asia*
 
+User-agent: *
 Disallow: /tag/credible/
 Disallow: /personal-finance/
 Disallow: /banking/
@@ -105,6 +107,10 @@ Disallow: /student-loans/
 Disallow: /mortgages/
 Disallow: /home-equity/
 Disallow: /mortgage-refinance/
+Disallow: /new-york-post-instagram-feed/
+Disallow: /new-york-post-tiktok-feed/
+Disallow: /alexa-new-york-post-instagram-feed/
+Disallow: /alexa-new-york-post-tiktok-feed/
 
 User-agent: Bytespider
 Disallow: /
@@ -160,11 +166,6 @@ Disallow: /
 User-agent: omgilibot
 Disallow: /
 
-User-agent: *
-Disallow: /new-york-post-instagram-feed/
-Disallow: /new-york-post-tiktok-feed/
-Disallow: /alexa-new-york-post-instagram-feed/
-Disallow: /alexa-new-york-post-tiktok-feed/
 # Sitemap archive
 Sitemap: https://nypost.com/sitemap-502.xml
 Sitemap: https://nypost.com/sitemap-1865.xml

@@ -44,3 +44,4 @@ Disallow: *?category_path=*
 Disallow: *?eqid=*
 Disallow: *?key2=*
 Disallow: /*?*
+Disallow: *?seoRefer=*

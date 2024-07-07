@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://www.manyvids.com/sitemap/sitemap.xml
+Sitemap: https://sitemap.manyvids.com/sitemap/sitemap.xml
 Disallow: /admin
 Disallow: /bower_components
 Disallow: /ffmpeg

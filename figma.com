@@ -60,6 +60,9 @@ Disallow: /
 
 User-Agent: *
 Disallow: /exit?*
+Disallow: /community/search?*
+Disallow: /file/new?try-plugin-id=*
+Disallow: /api/search/community_resources?*
 
 Sitemap: https://www.figma.com/sitemap.xml
 Sitemap: https://www.figma.com/sitemaps/figma-community-index.xml

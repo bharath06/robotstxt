@@ -71,6 +71,7 @@ Disallow: /seo/learn/assets*&resource-type=
 Disallow: /studio-tech-desgin
 Disallow: /_api/dealer-offer-events-service/proxy/v1/dealer-offer-events
 Disallow: /website/builder?storyId=
+Disallow: /marketplace/templates?
 
 Sitemap: https://www.wix.com/sitemap.xml
 

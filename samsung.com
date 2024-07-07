@@ -57,6 +57,8 @@ Disallow: /chat/api/livechat/*
 Allow: /co/multistore/co_epp_members/
 Allow: /co/multistore/co_epp_corp_gointegro/
 Allow: /co/multistore/co_epp_outlet/
+Allow: /co/multistore/co_epp_secret/
+Allow: /co/multistore/gobierno_co/
 
 User-agent: Yandex
 Allow: /

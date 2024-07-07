@@ -106,7 +106,7 @@ Disallow: /*/butikdetay/
 Disallow: /*/*-p-*/satici-sorulari
 Disallow: /*/*/*-p-*/merchant-questions
 Disallow: /*/*-p-*/saticilar
-Disallow: /*/*-p-*/baticiya-sor
+Disallow: /*/*-p-*/saticiya-sor
 Disallow: /*/*-p-*/yorum-yap
 Disallow: /*/*/*-p-*/add-review
 Disallow: /*/*-p-*/yorumlar

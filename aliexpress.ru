@@ -27,7 +27,6 @@ Disallow: /ajax*.do$
 Disallow: /seo/*
 Disallow: /cross-domain/*
 Disallow: /categories/*
-Disallow: /promotions/sl/*
 Disallow: /item-reviews/*
 
 User-agent: AdsBot-Google
@@ -48,7 +47,6 @@ Disallow: /product/*
 Disallow: /p4p*list.html
 Disallow: /orderList.html
 Disallow: /categories/*
-Disallow: /promotions/sl/*
 Disallow: /item-reviews/*
 Allow: /*aff_fcid*
 
@@ -89,7 +87,6 @@ Disallow: /*aff_fcid*
 Disallow: /store/feedback-score/
 Disallow: /popular/rank_
 Disallow: /categories/*
-Disallow: /promotions/sl/*
 Disallow: /item-reviews/*
 
 User-agent: Yandex
@@ -138,7 +135,6 @@ Disallow: /aer-api/v1/product/detail/not_found_recommend
 Disallow: /aer-api/v1/recommends/relative
 Disallow: /aer-api/v1/qa/more
 Disallow: /categories/*
-Disallow: /promotions/sl/*
 Disallow: /item-reviews/*
 Clean-param: spm&aff_platform&aff_trace_key&acnt&slnk&device&mtctp&msclkid&cn&cv&edm_click_module&tracelog&rowan_id1&rowan_msg_id&ck /
 Clean-param: path&tp1&_escaped_fragment_&route&spm&_escaped_fragment_&origin&SortType&categoryId&isFreeShip&tagResultChecked&g /store/*

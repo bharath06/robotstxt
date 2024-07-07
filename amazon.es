@@ -93,6 +93,9 @@ Disallow: /reviews/hall-of-fame
 Disallow: /hz/help/contact/*/message/$
 Disallow: /-/
 Disallow: /gp/aw/shoppingAids/
+Disallow: /drop
+Disallow: /shopthedrop
+Disallow: /thedrop
 
 User-agent: EtaoSpider
 Disallow: /

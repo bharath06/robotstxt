@@ -32,7 +32,7 @@ Disallow: /statistics/report-content/
 Disallow: /statistiques/report-content/
 Disallow: /estadisticas/report-content/
 
-# Products (08/22 Update)
+# Products (06/24 Update)
 Disallow: /companies/c/
 Allow: 	  /companies/o/
 Disallow: /unternehmen/c/
@@ -47,6 +47,7 @@ Disallow: /companydb/buscar
 Disallow: /companydb/recherche
 Disallow: /perspectiva/
 Disallow: /perspective/
+Disallow: /global-consumer-survey/tool/
 
 # Pagination (04/22)
 Disallow: /statistics/popular/p/

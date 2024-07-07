@@ -9,6 +9,7 @@ Allow:/faq/
 Allow:/feedback/
 Allow:/csr/
 Allow:/favicon.ico
+Allow:/topic/
 
 Disallow:*keyword=*xyz*
 Disallow:*keyword=*telegram*
@@ -25,7 +26,6 @@ Disallow:*keyword=*@*
 Disallow:*excludeCompanyByCustno=*
 Disallow:*excludeIndustryCat=*
 Disallow:*expansionType=*
-Disallow:*langStatus=*
 Disallow:*remoteWork=*
 Disallow:*recommendJob=*
 Disallow:*langStatus=*
@@ -37,16 +37,31 @@ Disallow:*page=*
 Disallow:*mode=*
 Disallow:*asc=*
 Disallow:*irsTag=*
-Disallow:*isnew=*
 Disallow:*ro=*
 Disallow:*utm_*
 Disallow:*&/students/=*null&*
+Disallow:/job/*apply=form*
+Disallow:/job/apply/done/
+
+Disallow:*keyword=*è°·æ­*
+Disallow:*keyword=*çµæ¥*
+Disallow:*keyword=*æ¶å½*
+Disallow:*keyword=*é¸å±*
+Disallow:*keyword=*æ¨å¹¿*
+Disallow:*keyword=*ä»£å*
+Disallow:*keyword=*å°½å¨*
+Disallow:*keyword=*åºç½*
+Disallow:*keyword=*å®ç½*
+Disallow:*keyword=*åè´¹*
+Disallow:*keyword=*è§é¢*
+
 Disallow:/
 
 User-agent: GPTBot
 Crawl-delay:10
 Allow:/$
 Allow:/jobs/
+Allow:/job/
 Allow:/faq/
 Allow:/expats/
 Allow:/feedback/

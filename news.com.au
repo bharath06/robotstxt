@@ -55,3 +55,10 @@ Disallow: /
 
 User-agent: Google-Extended
 Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-Agent: PerplexityBot 
+
+Disallow: /

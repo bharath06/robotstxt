@@ -23,6 +23,7 @@ Disallow: /recommendations*
 Disallow: /org-img/html/
 Disallow: /registration?confirmation_url*
 Disallow: /home/recommendations
+Disallow: /social/
 Disallow: /*/p/MLB*/s
 Disallow: /*/p/MLB*/seller-info
 Disallow: /*/p/MLB*/specifications

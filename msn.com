@@ -9,6 +9,7 @@ Disallow: /*?item=*:
 Disallow: /*&item=*:
 Disallow: /*/channel/source/
 Disallow: /codeCoverage
+Disallow: /*?loc=*&cvid=*
 
 User-agent: AdsBot-Google
 Allow: /

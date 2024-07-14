@@ -12,16 +12,16 @@ Disallow: /
 User-agent: OpenAI
 Disallow: /
 
-‍User-agent: ChatGPT-User
+User-agent: ChatGPT-User
 Disallow: /
 
-‍User-agent: CCBot
+User-agent: CCBot
 Disallow: /
 
-‍User-agent: anthropic-ai
+User-agent: anthropic-ai
 Disallow: /
 
-‍User-agent: Claude-Web
+User-agent: Claude-Web
 Disallow: /
 
 User-Agent: PerplexityBot

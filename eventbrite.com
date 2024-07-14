@@ -33,6 +33,7 @@ Disallow: *ak6759.com*
 Disallow: *okxbet.com*
 Disallow: *mh255com*
 Disallow: *wwwhkotc.cc*
+Disallow: /land-browse-bff
 
 Sitemap: https://www.eventbrite.com/sitemap_xml/sitemap_index.xml
 Sitemap: https://www.eventbrite.com/blog/sitemap_index.xml
@@ -99,6 +100,7 @@ Disallow: *ak6759.com*
 Disallow: *okxbet.com*
 Disallow: *mh255com*
 Disallow: *wwwhkotc.cc*
+Disallow: /land-browse-bff
 
 User-agent: Facebot
 Crawl-delay: 0.5

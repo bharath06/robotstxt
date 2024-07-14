@@ -15,7 +15,6 @@ Disallow: /support/search/
 
 #Community
 Disallow: /community/
-Disallow: https://community.qualtrics.com/iq-suite-52/text-iq-is-pretty-lame-but-other-than-that-qualtrics-is-great-part-1-16990
 
 
 #WP Rules
@@ -52,7 +51,7 @@ Sitemap: https://www.qualtrics.com/blog/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/ja/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/fr/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/de/sitemap_index.xml
-Sitemap: https://www.qualtrics.com/au/sitemap_index.xml
+Sitemap: https://www.qualtrics.com/en-au/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/es-es/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/it/sitemap_index.xml
 Sitemap: https://www.qualtrics.com/marketplace/sitemap_index.xml

@@ -26,7 +26,6 @@ Disallow: /*_modal.html
 Disallow: /todays_paper/
 Disallow: /rw/WashingtonPost/Content/Epaper/
 Disallow: /ac2/
-Disallow: /archive/lifestyle/wellness/1999/01/19/an-illness-no-one-understands-tourettes-syndrome/852df0cc-2164-4c83-be8d-0c770d028547/
 Disallow: /blogs/slow-ride/
 Disallow: /local/blogsandcolumns/slow-ride-story-tanked
 Disallow: /local/blogsandcolumns/slow-ride-story-achenblog

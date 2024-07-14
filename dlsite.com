@@ -51,6 +51,10 @@ Disallow: /eisys/blog/auth.php
 Disallow: /work/=/product_id/
 Disallow: /work/reviewlist/
 Disallow: /popup/
+Disallow: */cart*
+Disallow: */pay/member*
+Disallow: */user/product/summary*
+Disallow: */product/info/ajax*
 Allow: /
 
 # noindexãéç¥ããããã«ã¯ã­ã¼ã«ãè¨±å¯ãã

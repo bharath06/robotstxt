@@ -32,6 +32,10 @@ Disallow: /*?p=*
 Disallow: /*&p=*
 Disallow: /*?s=*
 Disallow: /*&s=*
+Disallow: /*?ical=1
+Disallow: /*&ical=1
+Disallow: /*?tribe-bar-date=*
+Disallow: /*&tribe-bar-date=*
 Disallow: /?author=*
 Disallow: /*wp-comments*
 Disallow: /*wp-trackback*
@@ -45,6 +49,7 @@ Disallow: /*cart/*
 Disallow: /*checkout/*
 Disallow: /*my-account/*
 Disallow: /*myaccount/*
+Disallow: /*?ajaxCalendar=1*
 Allow: /*/plugins/*
 
 User-agent: rogerbot

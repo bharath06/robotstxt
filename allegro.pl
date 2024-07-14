@@ -20,11 +20,11 @@ disallow: /produkt/warianty/
 disallow: /uzytkownik*&*
 disallow: /opinie-produktowe/
 disallow: /zglos-naruszenie/
-disallow: /uzytkownik/SHOP-TAG
+disallow: /uzytkownik/*SHOP-TAG*
 disallow: /magazyn-allegro/
 allow: /uzytkownik/notfound?string*
-allow: /uzytkownik/bi_s=archiwum_allegro
+allow: /uzytkownik/*bi_s=archiwum_allegro*
 
 user-agent: Mediapartners-Google
-disallow: origin_url=
+disallow: *origin_url=*
 disallow: /transakcja/

@@ -12,9 +12,11 @@ Disallow: /*/user/password/set$
 Disallow: /*/user/feedback/status?type=*
 Disallow: /*/user/register/confirm$
 Disallow: /*/user/email/change$
-Disallow: /*?maca=*
 
-User-agent: Twitterbot
-Allow: /*?maca=*
+User-agent: Googlebot
+User-agent: Bingbot
+Disallow: /*?*
+Disallow: /p/*
+
 
 Sitemap: https://www.dw.com/sitemap.xml

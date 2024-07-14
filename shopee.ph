@@ -44,6 +44,10 @@ Disallow: /search?keyword=ìì¸íì¹ì¤
 Disallow: /search?keyword=ì ì§ì¼ë
 Disallow: /search?keyword=íì´íì¹ì¤
 Disallow: /search?keyword=íëìì
+Disallow: /api/v4/shop/rcmd_items
+Disallow: /api/v4/recommend/*
+Disallow: /api/v4/homepage/get_daily_discover
+
 
 User-Agent:*
 Crawl-delay:1

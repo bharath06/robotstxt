@@ -5,6 +5,12 @@ Disallow: /register
 Disallow: /shutterstock/
 Disallow: /premium-videos
 Disallow: /premium-videos/
+Disallow: /premium-video/*/horizontal
+Disallow: /premium-video/*/vertical
+Disallow: /premium-video/*/square
+Disallow: /free-video/*/horizontal
+Disallow: /free-video/*/vertical
+Disallow: /free-video/*/square
 Disallow: /contacto/
 Disallow: /contact/
 Disallow: /trk-download/

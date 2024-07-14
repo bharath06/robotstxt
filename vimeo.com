@@ -67,10 +67,55 @@ Crawl-delay: 5
 User-agent: Yandex
 Crawl-delay: 2
 
+# Block Open AI
 User-agent: GPTBot
 Disallow: /
 User-agent: ChatGPT-User
 Disallow: /
+
+# Block Google (Gemini)
+User-agent: Google-Extended
+Disallow: /
+
+# Block Claude
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: Claudebot
+Disallow: /
+
+# Block CommonCrawl
 User-agent: CCBot
+Disallow: /
+
+# Block Diffbot
+User-agent: Diffbot
+Disallow: /
+
+# Block Meta (Facebook)
+User-agent: FacebookBot
+Disallow: /
+
+# Block ByteDance
+User-agent: Bytespider
+Disallow: /
+
+# Block Webz.io
+User-agent: Omgilibot
+Disallow: /
+User-agent: Omgili
+Disallow: /
+
+# Block ImagesiftBot
+User-agent: ImagesiftBot
+Disallow: /
+
+# Block Meltwater
+User-agent: Meltwater
+Disallow: /
+
+# Block Seekr
+User-agent: Seekr
 Disallow: /
 

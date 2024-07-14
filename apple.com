@@ -3,12 +3,8 @@
 User-agent: *
 Disallow: /*shop/bag*
 Disallow: /*shop/browse/overlay/*
-Disallow: /*shop/browse/ribbon/*
-Disallow: /*shop/browse/campaigns/mobile_overlay*
 Disallow: /*shop/iphone/payments/overlay/*
 Disallow: /cn/*/aow/*
-Disallow: /go/awards/*
-Disallow: /newsroom/notifications/*
 Disallow: /tmall*
 Allow: /ac/globalnav/2.0/*/images/ac-globalnav/globalnav/search/* 	
 

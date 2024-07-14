@@ -79,6 +79,7 @@ Disallow: /forums/picture.php
 Disallow: /forums/poll.php
 Disallow: /forums/private.php
 Disallow: /forums/profile.php
+Disallow: /forums/register.php
 Disallow: /forums/report.php
 Disallow: /forums/reputation.php
 Disallow: /forums/sdlists/
@@ -110,6 +111,7 @@ Disallow: /pco/*
 Disallow: /private.php
 Disallow: /profile.php
 Disallow: /profile/emailmanagement/
+Disallow: /register.php
 Disallow: /reputation.php
 Disallow: /sdapi/
 Disallow: /sdsearch.php

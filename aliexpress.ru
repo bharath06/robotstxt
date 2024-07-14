@@ -28,6 +28,10 @@ Disallow: /seo/*
 Disallow: /cross-domain/*
 Disallow: /categories/*
 Disallow: /item-reviews/*
+Disallow: /store/productGroupsAjax.htm
+Disallow: /chat*
+Disallow: /top/search*
+Disallow: /one-price/search*
 
 User-agent: AdsBot-Google
 Disallow: /bin/*
@@ -48,6 +52,10 @@ Disallow: /p4p*list.html
 Disallow: /orderList.html
 Disallow: /categories/*
 Disallow: /item-reviews/*
+Disallow: /store/productGroupsAjax.htm
+Disallow: /chat*
+Disallow: /top/search*
+Disallow: /one-price/search*
 Allow: /*aff_fcid*
 
 
@@ -88,6 +96,10 @@ Disallow: /store/feedback-score/
 Disallow: /popular/rank_
 Disallow: /categories/*
 Disallow: /item-reviews/*
+Disallow: /store/productGroupsAjax.htm
+Disallow: /chat*
+Disallow: /top/search*
+Disallow: /one-price/search*
 
 User-agent: Yandex
 Allow: /
@@ -136,6 +148,10 @@ Disallow: /aer-api/v1/recommends/relative
 Disallow: /aer-api/v1/qa/more
 Disallow: /categories/*
 Disallow: /item-reviews/*
+Disallow: /store/productGroupsAjax.htm
+Disallow: /chat*
+Disallow: /top/search*
+Disallow: /one-price/search*
 Clean-param: spm&aff_platform&aff_trace_key&acnt&slnk&device&mtctp&msclkid&cn&cv&edm_click_module&tracelog&rowan_id1&rowan_msg_id&ck /
 Clean-param: path&tp1&_escaped_fragment_&route&spm&_escaped_fragment_&origin&SortType&categoryId&isFreeShip&tagResultChecked&g /store/*
 Clean-param: s&ws_ab_test&spm&aff_platform&algo_pvid&algo_expid /i/*

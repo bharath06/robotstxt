@@ -2,28 +2,6 @@ User-agent: *
 
 Allow: /
 
-Disallow: /wp-admin/
-Disallow: /deals/
-Disallow: /sponsored/
-Disallow: /independence.php
-Disallow: /mcd-election-2017
-Disallow: /mcd-election-2017/*
-Disallow: */attachment/*
-Disallow: /topics/bgr_api/
-Disallow: /hindi-news/brand-solution-hindi/
-Disallow: /digital-newsletter/
-Disallow: /?page=*
-Disallow: /?
-Disallow: */teamstats_partnership.php?matchid=*
-Disallow: /icomtopnew/*
-Disallow: /*/wp-ajax-live-score.php?matchId=*
-Disallow: /*/loadmore
-Disallow: /*&*/feed/
-Disallow: /brand-solution/
-
-
-Allow: /wp-admin/admin-ajax.php
-
 User-agent: PetalBot
 Disallow: /
 
@@ -32,7 +10,6 @@ Disallow:
 
 User-agent: URX-API/*
 Disallow:
-
 
 #Baiduspider
 User-agent: Baiduspider
@@ -77,25 +54,17 @@ Disallow: /
 
 User-agent: GPTBot
 Disallow: /
- 
+
 User-agent: Google-Extended
 Disallow: /
- 
+
 User-agent: CCBot
 Disallow: /
- 
+
 User-agent: ChatGPT-User
 Disallow: /
 
-
-Sitemap: https://www.india.com/google-news-sitemap.xml
-Sitemap: https://www.india.com/hindi-news/sitemap.xml
-Sitemap: https://www.india.com/hindi-news-sitemap.xml 
-Sitemap: https://www.india.com/marathi/sitemap-marathi.xml
-Sitemap: https://www.india.com/complete-sitemap.xml
-Sitemap: https://www.india.com/complete-image-sitemap.xml
-Sitemap: https://www.india.com/complete-videos-sitemap.xml
-Sitemap: https://www.india.com/special-sitemap.xml
-Sitemap: https://www.india.com/ifsc-code-sitemap.xml
-Sitemap: https://www.india.com/sitemap-topic.xml
-Sitemap: https://www.india.com/travel/sitemap.xml
+https://travel.india.com/travel-googlenews.xml
+http://travel.india.com/web-stories/travel-googlenews.xml
+https://travel.india.com/sitemap-section.xml
+https://travel.india.com/travel-complete-sitemap.xml

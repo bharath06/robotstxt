@@ -17,6 +17,7 @@ Disallow: 		/moda-e-beauty/2024/04/13/news/cabana_di_marina_mondadori_compie_die
 Disallow: 		/java 
 Disallow: 		/ipad/ 
 Disallow: 		/interstitial/ 
+Disallow: 		/green-and-blue/2013/01/28/news/fotovoltaico-267166202 
 Disallow: 		/economia/miojob/rss 
 Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*?* 
 Disallow: 		/economia/miojob/offerte/lavoro/cerca/*-*/*-*/* 
@@ -27,6 +28,7 @@ Disallow: 		/economia/2013/01/31/news/mps_verso_sequestro_conservativo- 5161547
 Disallow: 		/dal-quotidiano/ 
 Disallow: 		/cronaca/2023/09/29/news/serenis_repubblica_promozione_abbonati-416179220/ 
 Disallow: 		/cronaca/2019/12/05/news/stretta_contro_i_pirati_dei_giornali_rubati_800mila_lettori_in_un_anno_-301013213/ 
+Disallow: 		/cronaca/2016/03/31/news/l_aquila_arrestato_per_concussione_sindaco_di_tagliacozzo-136599952/ 
 Disallow: 		/corporate/privacy/index_static.html? 
 Disallow: 		/cgi-bin/back.cgi 
 Disallow: 		/blaize/datalayer 
@@ -98,17 +100,17 @@ Sitemap: 		https://roma.repubblica.it/sitemap.xml
 Sitemap: 		https://torino.repubblica.it/sitemap.xml 
 User-agent: GPTBot 
 Disallow: 		/ 
+User-agent: CCBot 
+Disallow: 		/ 
 User-agent: Google-Extended 
 Disallow: 		/ 
 User-agent: anthropic-ai 
 Disallow: 		/ 
-User-agent: CCBot 
+User-agent: FacebookBot 
 Disallow: 		/ 
 User-agent: Omgilibot 
 Disallow: 		/ 
 User-agent: cohere-ai 
 Disallow: 		/ 
 User-agent: ChatGPT-User 
-Disallow: 		/ 
-User-agent: FacebookBot 
 Disallow: 		/ 

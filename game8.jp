@@ -2,6 +2,8 @@ User-agent: Googlebot
 Disallow: /archives/search
 Disallow: /*?page=
 Disallow: /*&page=
+Disallow: /*?page%3d
+Disallow: /*?page%3D
 Disallow: /*?c_page=
 Disallow: /*&c_page=
 Disallow: /*/forums/

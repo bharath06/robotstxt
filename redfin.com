@@ -345,6 +345,7 @@ Disallow: /tools/api/agents/agentMarket
 Disallow: /stingray/api/home/details/transit-stops
 Disallow: /stingray/ask-a-question/stage/get
 Disallow: /stingray/api/region/*/floodRisk-data
+Disallow: /mortgage-get-pre-approved?property_zip=*
 
 User-agent: google-amphtml
 disallow: */images/ghostTownMap2x

@@ -42,6 +42,12 @@
 User-agent: *
 Allow: /
 
+User-Agent: Bingbot
+Disallow:
+
+User-Agent: Googlebot
+Disallow:
+
 # Store "/shop/" Disallow Statements -------------------------------------------
 Disallow: */shop/ProductConfirmationView*
 Disallow: */epp/*
@@ -99,11 +105,6 @@ User-agent: AdsBot-Google
 Allow: /
 Disallow: */epp/*
 
-# User-Agent: Bingbot
-# Allow: /
-
-# User-Agent: Googlebot
-# Disallow:
 
 User-Agent: Googlebot-Image
 Disallow:

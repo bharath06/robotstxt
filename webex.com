@@ -73,4 +73,5 @@ Disallow: /us/en/webexone/2024/speaker-information-form/thank-you.html
 Disallow: /us/en/webexone/2024/faqs.html
 Disallow: /us/en/webexone/2024/venue.html
 Disallow: /whats-new/2023/summer-release.html
+Disallow: /us/en/dg/espresso-product-launch.html
 sitemap:  https://www.webex.com/sitemap.xml

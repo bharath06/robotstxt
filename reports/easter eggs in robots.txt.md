@@ -41,7 +41,7 @@
   - [bloomberg.com](https://bloomberg.com/robots.txt) (Laws of robotics)
   - [salesforce.com](https://salesforce.com/robots.txt) (Developer comments)
   - [spankbank.com](https://spankbank.com/robots.txt)
-  - [yelp.com](https://yelp/com/robots.txt) (Laws of robotics)
+  - [yelp.com](https://yelp.com/robots.txt) (Laws of robotics)
   - [youtube.com](https://youtube.com/robots.txt)
 
 
